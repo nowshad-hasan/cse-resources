@@ -3,4 +3,4 @@ Cheat sheet of different computer science concepts.
 
 ## Topics
 
-* [Android](#android)
+* [Android](/technology/android.md)
