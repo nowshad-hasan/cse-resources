@@ -25,6 +25,10 @@
   * [Dribble](https://dribbble.com/shots/popular/mobile)
 
 
+* Recycler View
+  * [Optimizing Nested RecyclerView](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
+
+
 ##### ViewPager
 
 * ViewPager Without Fragments [Blog](https://www.bignerdranch.com/blog/viewpager-without-fragments/)
@@ -71,6 +75,9 @@
 
 * [Building database with Room Persistence Library](https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9)
 
+##### Paging Library
+* [7 steps to implement Paging Library in Android](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
+
 ### Libraries
 
 * UI and Animation
@@ -110,6 +117,7 @@
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
 
+* [Exploring S.O.L.I.D Principle in Android](https://proandroiddev.com/exploring-s-o-l-i-d-principle-in-android-a90947f57cf0)
 ### Useful Tools
 
 * [Microsoft App Center](https://appcenter.ms/)
