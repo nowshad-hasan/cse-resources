@@ -8,6 +8,7 @@
 * [Background Processing](#background-processing)
 * [Architecture Component](#architecture-component)
 * [Architecture Pattern](#architecture-pattern)
+* [Testing](#testing)
 * [Libraries](#libraries)
 * [Collection](#collection)
 * [Blog](#blog)
@@ -18,6 +19,10 @@
 
 * Notification Listener [Github Example](https://github.com/kpbird/NotificationListenerService-Example), [Developer Android](https://developer.android.com/reference/android/service/notification/NotificationListenerService)
 
+* Realm
+  * [The things I’ve learned using Realm](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb)
+
+* [Everything you need to know about Memory Leaks in Android](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
 
 ### UI Component
 
@@ -27,6 +32,14 @@
 
 * Recycler View
   * [Optimizing Nested RecyclerView](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
+  * [Reduce the number of inflation of ViewHolders drastically by sharing a ViewPool across multiple RecyclerViews](https://medium.com/@thagikura/reduce-the-number-of-inflation-of-viewholders-drastically-by-sharing-a-viewpool-across-multiple-249d5fc6d28)
+  * [A RecyclerView with multiple item types](https://medium.com/@ruut_j/a-recyclerview-with-multiple-item-types-bce7fbd1d30e)
+  * [Epoxy: Airbnb’s View Architecture on Android](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.xv4ymrtmk)
+
+* [Using vector assets in Android apps](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
+* [UI tips for pre and post Lollipop](https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2)
+* [Some tips to a better experience working with Android’s BottomNavigationView](https://proandroiddev.com/some-tips-to-a-better-experience-working-with-androids-bottomnavigationview-2a224c687c1f)
+
 
 
 ##### ViewPager
@@ -63,6 +76,7 @@
 
 * How to handle background services in ANDROID O? [Medium](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 * [JobIntentService](https://developer.android.com/reference/android/support/v4/app/JobIntentService)
+* [Deep Dive into Android Services](https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09)
 
 * [How to Schedule a Task to Run in an Interval](https://dzone.com/articles/how-schedule-task-run-interval)
 * Background Services
@@ -74,6 +88,7 @@
 ##### Room
 
 * [Building database with Room Persistence Library](https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9)
+* [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
 
 ##### Paging Library
 * [7 steps to implement Paging Library in Android](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
@@ -101,6 +116,14 @@
 * Components
   * [EventBus](https://github.com/greenrobot/EventBus)
 
+* [Epoxy](https://github.com/airbnb/epoxy)
+
+### Testing
+
+##### Espresso
+* [The Basics of Android Espresso Testing: Activities & Fragments
+](https://android.jlelse.eu/the-basics-of-android-espresso-testing-activities-fragments-7a8bfbc16dc5)
+
 ### Collection
 
 * [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Progress.md)
@@ -116,8 +139,10 @@
 
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
-
 * [Exploring S.O.L.I.D Principle in Android](https://proandroiddev.com/exploring-s-o-l-i-d-principle-in-android-a90947f57cf0)
+* [5 Debugging Tips with Android Studio](https://blacklenspub.com/5-debugging-tips-with-android-studio-65751011262f)
+* Jenkins
+  * [Setting Up Jenkins For Android: How I dealt with the challenges I faced](https://android.jlelse.eu/setting-up-jenkins-for-android-how-i-dealt-with-the-challenges-i-faced-1bbdb6580b8d)
 ### Useful Tools
 
 * [Microsoft App Center](https://appcenter.ms/)
