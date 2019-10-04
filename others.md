@@ -8,7 +8,7 @@
 
 * [How to use Git efficiently](https://www.freecodecamp.org/news/how-to-use-git-efficiently-54320a236369/)
 * [Use Git More Efficiently: A Simple Git Workflow](https://medium.com/@negarjf/use-git-more-efficiently-a-simple-git-workflow-c4e650289ec8)
-
+* 10 Git Commands You Should Know [Medium](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
 
