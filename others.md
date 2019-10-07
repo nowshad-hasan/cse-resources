@@ -3,9 +3,7 @@
 * [Git](#git)
 * [Clean Code](#clean-code)
 * [Blockchain](#blockchain)
-* [Motivation](#motivation)
-* [Business](#business)
-* [Engineering Blog](#engineering-blog)
+* [Inspiration](#inspiration)
 
 ### Git
 
@@ -26,7 +24,7 @@
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
 
-### Motivation
+### Inspiration
 
 * [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 * [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
@@ -36,12 +34,5 @@
 * [The software engineer’s guide to asserting dominance in the workplace](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
 * [Software Engineering is different from Programming](https://medium.com/edge-coders/software-engineering-is-different-from-programming-b108c135af26)
 * [Code!=Life](https://medium.com/@hitherejoe/code-life-d25d9178e4da)
-
-### Business
+* Learn to Code: Wisdom and Tools for the Journey [Toptal](https://www.toptal.com/freelance/learn-to-code-wisdom-and-tools)
 * Why Trello Failed to Build a $1 Billion+ Business [Medium](https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc)
-
-### Engineering Blog
-
-* [Medium Engineering](https://medium.engineering/)
-* [Over Engineering](https://medium.com/over-engineering)
-* [Airbnb Engineering](https://medium.com/airbnb-engineering)

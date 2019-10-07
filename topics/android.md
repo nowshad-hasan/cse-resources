@@ -44,6 +44,7 @@
   * The Future of Dependency Injection with Dagger 2 [YouTube](https://www.youtube.com/watch?v=plK0zyRLIP8)
   * DAGGER 2 - A New Type of dependency injection [YouTube](https://www.youtube.com/watch?v=oK_XtfXPkqw)
   * Dagger 2 for Android Beginners — Introduction [Medium](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
+  * Dagger 2 [Twisted Equations - YouTube Playlist](https://www.youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
 
 * The Ultimate Guide To Social Login In Android Using CloudRail [Blog](https://coursetro.com/posts/code/13/The-Ultimate-Guide-To-Social-Login-In-Android-Using-CloudRail)
 
@@ -72,7 +73,7 @@
 * Overview of Android Project Structure and Naming Conventions [Medium](https://medium.com/@mikelimantara/overview-of-android-project-structure-and-naming-conventions-b08f6d0b7291)
 * Android resource naming convention [MindOrks](https://medium.com/mindorks/android-resource-naming-convention-42e4e8026614)
 * Parcelable vs Serializable [AndroidPub](https://android.jlelse.eu/parcelable-vs-serializable-6a2556d51538)
-
+* Android Serialization Test[Bitbucket Project](https://bitbucket.org/afrishman/androidserializationtest/src/default/)
 
 ### UI Component
 
@@ -110,6 +111,7 @@
 * Building a custom view — a practical example [ProAndroidDev](https://proandroiddev.com/building-a-custom-view-a-practical-example-2753cb9d0e80)
 * Android: draw a custom view [ProAndroidDev](https://proandroiddev.com/android-draw-a-custom-view-ef79fe2ff54b)
 * Layouts, Attributes, and you [Android Developers - Medium](https://medium.com/androiddevelopers/layouts-attributes-and-you-9e5a4b4fe32c)
+* How to Use FontAwesome in an Android App [Tutsplus](https://code.tutsplus.com/tutorials/how-to-use-fontawesome-in-an-android-app--cms-24167)
 
 * Navigation Drawer
   * [Codepath](https://guides.codepath.com/android/Fragment-Navigation-Drawer)
@@ -236,15 +238,21 @@
 
 ### Architecture Pattern
 
+##### Viper
+* Using the VIPER architecture on Android [Blog](https://cheesecakelabs.com/blog/using-viper-architecture-android/)
+* Android VIPER Architecture implementation [Speakerdeck](https://speakerdeck.com/helmisek/android-viper-architecture-implementation)
+
 ##### MVP
 * Restoring State in Android MVP Architecture [Blog](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
 * Android MVP Architecture: Sample App [MindOrks Open Source](https://github.com/MindorksOpenSource/android-mvp-architecture)
 * [Movie Guide](https://github.com/esoxjem/MovieGuide)
+* Android MVP for Beginners [AndroidPub](https://android.jlelse.eu/android-mvp-for-beginners-25889c500443)
 
 ##### MVVM
 * Movie Guide MVVM [Navdroid GitHub](https://github.com/navdroid/MovieGuideMvvm)
 * Android MVVM Architecture: Sample App [Mindorks Open Source](https://github.com/MindorksOpenSource/android-mvvm-architecture)
 * Android MVVM [Lajesh GitHub](https://github.com/Lajesh/Android-MVVM)
+* MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
 
 
 ### Gradle
@@ -269,7 +277,8 @@
   * [SDP](https://github.com/intuit/sdp), [SSP](https://github.com/intuit/ssp)
   * [Lottie for Android](https://github.com/airbnb/lottie-android)
   * [TextDrawable](https://github.com/amulyakhare/TextDrawable)
-
+  * [Iconify](https://github.com/JoanZapata/android-iconify)
+  * [SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout)
 
 * Runtime Permission
 
