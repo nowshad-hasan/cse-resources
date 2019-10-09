@@ -491,6 +491,8 @@
 * Project and Code Guidelines [GitHub Project](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 * AOSP Java Code Style for Contributors [Developer Android](https://source.android.com/setup/contribute/code-style#follow-field-naming-conventions)
 * IntelliJ IDEA. Code Generation and Completion [IntelliJ Idea](https://youtu.be/sx7_SS8y-_o)
+* Android app development for [Codecanyon](https://codecanyon.net/category/mobile/android), [Android Developers Group BD](https://www.facebook.com/groups/android.devs.bd/permalink/2488716277841289/)
+* Increase app download in play store [Android Developers Group BD](https://www.facebook.com/groups/android.devs.bd/permalink/2326267607419491/)
 
 ### Useful Tools
 

@@ -5,6 +5,7 @@
 * [Clean Code](#clean-code)
 * [Blockchain](#blockchain)
 * [Inspiration](#inspiration)
+* [Study in Abroad](#study-in-abroad)
 
 ### Article
 
@@ -43,3 +44,9 @@
 * [Code!=Life](https://medium.com/@hitherejoe/code-life-d25d9178e4da)
 * Learn to Code: Wisdom and Tools for the Journey [Toptal](https://www.toptal.com/freelance/learn-to-code-wisdom-and-tools)
 * Why Trello Failed to Build a $1 Billion+ Business [Medium](https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc)
+* Medium's Top 10 Posts on Productivity[Medium](https://medium.com/top-lists-for-entrepreneurs/medium-s-top-10-posts-of-all-time-about-productivity-f77a22cd25b2)
+* Guidelines for a good software negineer [Dev Skill](https://www.facebook.com/groups/devskillbd/permalink/747338905660811/)
+
+
+### Study in Abroad
+* Study in USA [Shantanu Shanto vai's FB Post](https://www.facebook.com/groups/483500628365392/permalink/1908875862494521/)
