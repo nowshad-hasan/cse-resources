@@ -1,9 +1,15 @@
 ## Contents
 
+* [Article](#article)
 * [Git](#git)
 * [Clean Code](#clean-code)
 * [Blockchain](#blockchain)
 * [Inspiration](#inspiration)
+
+### Article
+
+* How not to be afraid of Vim anymore [FreeCodeCamp](https://medium.com/free-code-camp/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
+* How to become a better Stack Overflow user in five simple steps [FreeCodeCamp](https://medium.com/free-code-camp/5-steps-to-become-a-better-stack-overflow-user-4ce85711c0f9)
 
 ### Git
 
@@ -20,6 +26,7 @@
 * Small Functions considered Harmful [Medium Engineering](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29)
 * How to Make Your Code Readable [Medium](https://medium.com/s/story/the-importance-of-readable-code-165895e939c7)
 * How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin [MindOrks](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
+* SOLID Principles every Developer Should Know [Medium](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)

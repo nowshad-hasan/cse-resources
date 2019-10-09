@@ -20,7 +20,9 @@
 
 ### Android Core
 
+* The Android Lifecycle cheat sheet — part I: Single Activities [Android Developers - Medium](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
 * Notification Listener [GitHub Example](https://github.com/kpbird/NotificationListenerService-Example), [Developer Android](https://developer.android.com/reference/android/service/notification/NotificationListenerService)
+* Mastering Android context [FreeCodeCamp](https://medium.com/free-code-camp/mastering-android-context-7055c8478a22)
 
 * Realm
   * [The things I’ve learned using Realm](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb)
@@ -45,11 +47,18 @@
   * DAGGER 2 - A New Type of dependency injection [YouTube](https://www.youtube.com/watch?v=oK_XtfXPkqw)
   * Dagger 2 for Android Beginners — Introduction [Medium](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
   * Dagger 2 [Twisted Equations - YouTube Playlist](https://www.youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
+  * That Missing Guide: How to use Dagger2 [Medium](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
+  * The Future of Dependency Injection with Dagger 2 [YouTube Video](https://www.youtube.com/watch?v=plK0zyRLIP8)
+  * Dagger 2 With Android - Introduction [YouTube Video](https://youtu.be/ky64UTUiNSs)
 
+* Dependency Injection [Jenkov](http://tutorials.jenkov.com/dependency-injection/index.html)
 * The Ultimate Guide To Social Login In Android Using CloudRail [Blog](https://coursetro.com/posts/code/13/The-Ultimate-Guide-To-Social-Login-In-Android-Using-CloudRail)
 
 * Example of use from Proguard, from Android Studio [GitHub Gist](https://gist.github.com/jackgris/c4a71328b1ae346cba04)
+* Practical ProGuard rules examples [Android Developers - Medium](https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9)
 * 4 Android Development Tools You’d Better Use [Blog](https://www.azoft.com/blog/android-development-tools/)
+* Enabling proguard for Android [Medium](https://medium.com/@maheshwar.ligade/enabling-proguard-for-android-98e2b19e90a4)
+* Troubleshooting ProGuard issues on Android [Android Developers - Medium](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 * Android Network Security Configuration Codelab [Google Codelab](https://codelabs.developers.google.com/codelabs/android-network-security-config/index.html?index=..%2F..io2018#0)
 * Changes to Trusted Certificate Authorities in Android Nougat [Google Blog](https://android-developers.googleblog.com/2016/07/changes-to-trusted-certificate.html)
 * Security Config [Developer Android](https://developer.android.com/training/articles/security-config)
@@ -58,6 +67,10 @@
 * How to `properly` handle audio interruptions [Joanna Smith](https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa)
 * Android Tools Attributes — Hidden Gems of Android Studio [AndroidPub](https://android.jlelse.eu/tools-attributes-hidden-gems-of-android-studio-d7451b194e0b)
 * Developing for Android V: The Rules: Language and Libraries [Google Developers](https://medium.com/google-developers/developing-for-android-v-f6b8038b42f5)
+* Static Code Analysis For Android using FindBugs, PMD and Checkstyle [MindOrks](https://medium.com/mindorks/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
+* Grox: The Art of the State [Groupon Engineering](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
+* Android Developer’s Guide to Fragment Navigation Pattern [Toptal](https://www.toptal.com/android/android-fragment-navigation-pattern)
+* Top 10 Most Common Mistakes That Android Developers Make: A Programming Tutorial [Toptal](https://www.toptal.com/android/top-10-most-common-android-development-mistakes)
 
 * Camera
   * The least you can do with Camera2 API [AndroidPub](https://android.jlelse.eu/the-least-you-can-do-with-camera2-api-2971c8c81b8b)
@@ -74,6 +87,11 @@
 * Android resource naming convention [MindOrks](https://medium.com/mindorks/android-resource-naming-convention-42e4e8026614)
 * Parcelable vs Serializable [AndroidPub](https://android.jlelse.eu/parcelable-vs-serializable-6a2556d51538)
 * Android Serialization Test[Bitbucket Project](https://bitbucket.org/afrishman/androidserializationtest/src/default/)
+* Creating Clean Architecture Multi-Project App [ProAndroidDev](https://proandroiddev.com/creating-clean-architecture-multi-project-mvp-app-34d753a187ad)
+* Android “launchMode” (Visualized) [Medium](https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe)
+* Design Patterns in Android — Builder [Medium](https://medium.com/@pszklarska/android-design-patterns-in-practice-builder-6b044f83e6e9)
+* Everything You Need To Know About Memory Leaks In Android Apps [Medium](https://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859)
+* How to use custom permissions in Android? [Stackoverflow](https://stackoverflow.com/questions/8816623/how-to-use-custom-permissions-in-android)
 
 ### UI Component
 
@@ -100,6 +118,11 @@
   * Drag and Swipe with RecyclerView [Medium](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)
   * Create Android Recyclerview adapters like a boss with MultiViewAdapter [FreeCodeCamp](https://medium.com/free-code-camp/introducing-multiviewadapter-7f77e5758d3f)
   * Writing Better Adapters [ProAndroidDev](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
+  * Fast Scrolling with RecyclerView [AndroidPub](https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688)
+  * ItemDecoration in Android [ProAndroidDev](https://proandroiddev.com/itemdecoration-in-android-e18a0692d848)
+  * JOE'S GREAT ADAPTER HELL ESCAPE [Blog](http://hannesdorfmann.com/android/adapter-delegates)
+  * RecyclerView ins and outs - Google I/O 2016 [YouTube Video](https://youtu.be/LqBlYJTfLP4)
+  * Android Custom ListView - Master-Detail View[Open Activity] (YouTube Video)(https://youtu.be/r8esfTlepEo)
 
 * [Using vector assets in Android apps](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
 * [UI tips for pre and post Lollipop](https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2)
@@ -110,8 +133,16 @@
 * Playing with Paths [Android Developers - Medium](https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77)
 * Building a custom view — a practical example [ProAndroidDev](https://proandroiddev.com/building-a-custom-view-a-practical-example-2753cb9d0e80)
 * Android: draw a custom view [ProAndroidDev](https://proandroiddev.com/android-draw-a-custom-view-ef79fe2ff54b)
+* Google I/O 2013 - Writing Custom Views for Android [Google Developers - YouTube Video](https://www.youtube.com/watch?v=NYtB6mlu7vA)
+* Creating a View Class [Developer Android](https://developer.android.com/training/custom-views/create-view)
+* Defining Custom Views [CodePath](https://guides.codepath.com/android/defining-custom-views#creating-fully-custom-components)
+* Creating custom and compound views in Android - Tutorial [Vogella](https://www.vogella.com/tutorials/AndroidCustomViews/article.html#canvas-api)
+* Android Custom View Tutorial [Raywenderlich](https://www.raywenderlich.com/142-android-custom-view-tutorial)
+* Custom ViewGroups [Blog](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
 * Layouts, Attributes, and you [Android Developers - Medium](https://medium.com/androiddevelopers/layouts-attributes-and-you-9e5a4b4fe32c)
 * How to Use FontAwesome in an Android App [Tutsplus](https://code.tutsplus.com/tutorials/how-to-use-fontawesome-in-an-android-app--cms-24167)
+* Using DialogFragment [CodePath](https://github.com/codepath/android_guides/wiki/Using-DialogFragment)
+* ANDROID 4 9. TABWIDGET, FLIPPER, AND SLIDINGDRAWER [Blog](https://www.bogotobogo.com/Android/android9TabWidgetFlipper.php)
 
 * Navigation Drawer
   * [Codepath](https://guides.codepath.com/android/Fragment-Navigation-Drawer)
@@ -119,7 +150,9 @@
   * [Learn2Crack](https://www.learn2crack.com/2016/03/android-material-design-sliding-navigation-drawer.html)
   * Material Design Navigation Drawer II: Styling [AndroidPub](https://android.jlelse.eu/navigation-drawer-styling-according-material-design-5306190da08f)
   * Material Design and the Mystery Meat Navigation Problem [FreeCodeCamp](https://medium.com/free-code-camp/material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e)
+  * Best Navigation Drawer Tutorial on Android (Part 1) [YouTube Video](https://youtu.be/H4R-hz56oBA)
 
+* Android Studio Tutorial - Advanced Search Bar [YouTube Video](https://youtu.be/FZfjWXYm80k)
 * Beautiful, Performant Android UI [Instagram Engineering](https://instagram-engineering.com/beautiful-performant-android-ui-62ce61ca748c)
 * Prefetch Text Layout in RecyclerView [Android Developers - Medium](https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438)
 * Experimenting with Nested Scrolling [Android Design Patterns](https://www.androiddesignpatterns.com/2018/01/experimenting-with-nested-scrolling.html)
@@ -129,6 +162,7 @@
 * Mobile UX Design: The Right Ways to Ask Users for Permissions [UX Planet](https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27)
 * Exploring the Android Design Support Library: Bottom Navigation View [Medium](https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0)
 * Android Design — Coordinator Layout #1: An Introduction [Medium](https://medium.com/martinomburajr/android-design-coordinator-layout-1-an-introduction-10a1b91ded28)
+* Mastering the Coordinator Layout [Blog](http://saulmm.github.io/mastering-coordinator)
 * Typography is impossible [Medium Engineering](https://medium.engineering/typography-is-impossible-5872b0c7f891)
 * What’s your text’s appearance? [Android Developers - Medium](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
 * Android Multi Theme, Night Mode and Material Design [Medium](https://medium.com/@pkjvit/https-medium-com-pkjvit-android-multi-theme-night-mode-and-material-design-c186bf9fd678)
@@ -140,6 +174,12 @@
 * An exploration in Material Design [Medium](https://medium.com/feedly-behind-the-curtain/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
 * Setting up a Material Components theme for Android [Over Engineering](https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739)
 * How to maximize Android’s UI reusability — 5 common mistakes [AndroidPub](https://android.jlelse.eu/how-to-maximize-androids-ui-reusability-5-common-mistakes-d40c43ae5e06)
+* Draw a Path: Rendering Android VectorDrawables [Android Developers - Medium](https://medium.com/androiddevelopers/draw-a-path-rendering-android-vectordrawables-89a33b5e5ebf)
+* Building interfaces with ConstraintLayout [Android Developers - Medium](https://medium.com/androiddevelopers/building-interfaces-with-constraintlayout-3958fa38a9f7)
+* Introducing Constraint Layout 1.1 [Android Developers - Medium](https://medium.com/androiddevelopers/introducing-constraint-layout-1-1-d07fc02406bc)
+* appcompat v21: material design for pre-Lollipop devices! [Chris Banes](https://chris.banes.dev/2014/10/17/appcompat-v21/)
+* Font Psychology [Blog](https://www.nickkolenda.com/font-psychology/#fonts-p2-t17)
+* Layout Inflation as Intended [Blog](https://wundermanthompsonmobile.com/2013/05/layout-inflation-as-intended/)
 
 
 ##### ViewPager
@@ -165,6 +205,14 @@
 * Animating on a Schedule [Android Developers - Medium](https://medium.com/androiddevelopers/animating-on-a-schedule-8a90d812ae4)
 * Implement Google Inbox Style Animation on Android [ProAndroidDev](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
 * Animate all the things. Transitions in Android [Medium](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)
+* Get Animated (Android Dev Summit '18) [Android Developers - YouTube Video](https://www.youtube.com/watch?v=N_x7SV3I3P0)
+* Android animation tutorial [YouTube Playlist](https://www.youtube.com/watch?v=BF4yvhpMPcg&list=RDQM0Zm5Q7txX7A&start_radio=1)
+* DevBytes: Graphics and Animations [Android Developers - YouTube Playlist](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc86y1CjAlexivfvOms6_0NC)
+* Material Design Animation [YouTube Playlist](https://www.youtube.com/playlist?list=PL8n7v8CHZtl4kS7GGMWhOxBxzIvpIjmKa)
+* Using View Animations in your apps: A tutorial [Blog](https://www.101apps.co.za/articles/using-view-animations-in-your-apps-a-tutorial.html)
+* Property Animation Overview [Developer Android](https://developer.android.com/guide/topics/graphics/prop-animation)
+* Images, Animations, Transitions - Android Programming [Coding in Flow- YouTube Playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuARS1W7qMt-zxBNqWYZpOg6)
+* Android Studio - Shared Animation between Activities - Android Tutorial [YouTube Video](https://youtu.be/BF4yvhpMPcg)
 
 
 ### Fragment
@@ -175,6 +223,10 @@
 * Windows Insets + Fragment Transitions [Android Developers - Medium](https://medium.com/androiddevelopers/windows-insets-fragment-transitions-9024b239a436)
 * Fragment Transitions [Android Developers](https://medium.com/androiddevelopers/fragment-transitions-ea2726c3f36f)
 * How to communicate between fragments and activity using ViewModel [MindOrks](https://medium.com/mindorks/how-to-communicate-between-fragments-and-activity-using-viewmodel-ca733233a51c)
+* Windows Insets + Fragment Transitions [Chris Banes](https://chris.banes.dev/2018/03/01/window-insets-fragment-transitions/)
+* Creating and Using Fragments [CodePath](https://guides.codepath.com/android/creating-and-using-fragments)
+* From Activity To Fragment [YouTube Video](https://youtu.be/T_tEWiFGrsI)
+
 
 ### Networking
 
@@ -198,6 +250,7 @@
 * How to handle background services in ANDROID O? [Medium](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 * [JobIntentService](https://developer.android.com/reference/android/support/v4/app/JobIntentService)
 * [Deep Dive into Android Services](https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09)
+* Mastering Android Service [Gaurav Khanna](https://gaurav-khanna.in/blogs/android/mastering-android-service/)
 
 * [How to Schedule a Task to Run in an Interval](https://dzone.com/articles/how-schedule-task-run-interval)
 * Background Services
@@ -218,12 +271,22 @@
 * Scheduling jobs like a pro with JobScheduler [Joanna Smith](https://medium.com/google-developers/scheduling-jobs-like-a-pro-with-jobscheduler-286ef8510129)
 * Services. The life with/without. And WorkManager [Google Developers](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)+
 * WorkManager Basics [Android Developers - Medium](https://medium.com/androiddevelopers/workmanager-basics-beba51e94048)
+* Who lives and who dies? Process priorities on Android [Android Developers - Medium](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f)
+* Roman Mazur - Android Loader, problems and solutions [GDG - YouTube Video](https://youtu.be/fqs-BIGHgIY)
+* Alarms and Syncing and Tasks, Oh My! (Big Android BBQ 2015) [Android Developers - YouTube Video](https://youtu.be/7maNuWjL3Wc)
 
 ### Architecture Component
 
 * Architecture Components: How to use LiveData with Data Binding? [AndroidPub](https://android.jlelse.eu/android-architecture-components-livedata-with-data-binding-7bf85871bbd8)
 * Android Architecture Components samples [GitHub Projects](https://github.com/android/architecture-components-samples)
 * MVVM on Android [Raywenderlich](https://www.raywenderlich.com/8984-mvvm-on-android)
+* ViewModels and LiveData: Patterns + AntiPatterns [Android Developers - Medium](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
+* ViewModels : A Simple Example [Android Developers - Medium](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e)
+* Making loading data lifecycle aware [Android Developers - Medium](https://medium.com/androiddevelopers/making-loading-data-on-android-lifecycle-aware-897e12760832)
+* Lifecycle Aware Data Loading with Architecture Components [Android Developers - Medium](https://medium.com/androiddevelopers/lifecycle-aware-data-loading-with-android-architecture-components-f95484159de4)
+* LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case) [Android Developers - Medium](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
+* Android Architecture Components Navigation Basic Sample [GitHub Project](https://github.com/android/architecture-components-samples/tree/master/NavigationBasicSample)
+* Room + ViewModel + LiveData + RecyclerView (MVVM) Part 1 - WHAT ARE ANDROID ARCHITECTURE COMPONENTS? [Coding in Flow](https://youtu.be/ARpn-1FPNE4)
 
 ##### Room
 
@@ -238,6 +301,9 @@
 
 ### Architecture Pattern
 
+* Android Application Architecture [Medium](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65)
+* Android Architecture Blueprints - MVP + Dagger2 + Dagger-Android [Android GitHub Project](https://github.com/android/architecture-samples/tree/todo-mvp-dagger)
+
 ##### Viper
 * Using the VIPER architecture on Android [Blog](https://cheesecakelabs.com/blog/using-viper-architecture-android/)
 * Android VIPER Architecture implementation [Speakerdeck](https://speakerdeck.com/helmisek/android-viper-architecture-implementation)
@@ -247,17 +313,24 @@
 * Android MVP Architecture: Sample App [MindOrks Open Source](https://github.com/MindorksOpenSource/android-mvp-architecture)
 * [Movie Guide](https://github.com/esoxjem/MovieGuide)
 * Android MVP for Beginners [AndroidPub](https://android.jlelse.eu/android-mvp-for-beginners-25889c500443)
+* Implementing MVP with the new Dagger Android Injection API 2.11+ [ProAndroidDev](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
+* Architectural Guidelines to follow for MVP pattern in Android [AndroidPub](https://android.jlelse.eu/architectural-guidelines-to-follow-for-mvp-pattern-in-android-2374848a0157)
 
 ##### MVVM
 * Movie Guide MVVM [Navdroid GitHub](https://github.com/navdroid/MovieGuideMvvm)
 * Android MVVM Architecture: Sample App [Mindorks Open Source](https://github.com/MindorksOpenSource/android-mvvm-architecture)
 * Android MVVM [Lajesh GitHub](https://github.com/Lajesh/Android-MVVM)
 * MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
+* MVVM architecture, ViewModel and LiveData (Part 1) [ProAndroidDev](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1)
+* Android by example : MVVM +Data Binding -> Introduction (Part 1) [Medium](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)
+* MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
 
 
 ### Gradle
 * DIY Gradle build optimization [ProAndroidDev](https://proandroiddev.com/gradle-perf-9c11b640f329)
 * Gradle Tutorial for Android: Getting Started [Raywenderlich](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)
+* Adding Password Protected Maven Repository URL in Gradle in Android Studio [AndroidPub](https://android.jlelse.eu/adding-password-protected-maven-repository-url-in-gradle-in-android-studio-e64a45b8faaf)
+* Implementation Vs Api in Android Gradle plugin 3.0 [MindOrks](https://medium.com/mindorks/implementation-vs-api-in-gradle-3-0-494c817a6fa)
 
 ### Security
 
@@ -266,6 +339,7 @@
 * Using the Android Keystore system to store and retrieve sensitive information
  [Medium](https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b)
 * Securing SharedPreferences in Android [Medium](https://medium.com/@ali.muzaffar/securing-sharedpreferences-in-android-a21883a9cbf8)
+* 15+ Tools for Bulletproof Android App Security [Aritra's Musings](https://blog.aritraroy.in/15-tools-for-bulletproof-android-app-security-516bb8b1a8d5)
 
 ### Libraries
 
@@ -279,6 +353,7 @@
   * [TextDrawable](https://github.com/amulyakhare/TextDrawable)
   * [Iconify](https://github.com/JoanZapata/android-iconify)
   * [SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout)
+  * [ShapeOfView](https://github.com/florent37/ShapeOfView)
 
 * Runtime Permission
 
@@ -300,6 +375,7 @@
 * [Spoon - Square's Testing Library](https://github.com/square/spoon)
 * [Avocado - Vector Drawable Optimization Tool](https://github.com/alexjlockwood/avocado)
 * [Android Proguard Snippets](https://github.com/krschultz/android-proguard-snippets)
+* Example of use from Proguard, from Android Studio [GitHub Gist](https://gist.github.com/maheshwarLigade/7143ae567fe8ac7c1e20)
 * [TrueTime for Android](https://github.com/instacart/truetime-android)
 
 ### Sample Projects
@@ -322,6 +398,10 @@
 * Testing made sweet with a Mockito by Jeroen Mols [Devoxx - YouTube Channel](https://www.youtube.com/watch?v=DJDBl0vURD4&list=PLpzJoiAHJIao8JYQuP6sJpOOBwbA1FokU)
 * Write awesome tests by Jeroen Mols [Devoxx YouTube Channel](https://www.youtube.com/watch?v=F8Gc8Nwf0yk&list=PLpzJoiAHJIao8JYQuP6sJpOOBwbA1FokU&index=9&t=0s)
 * Refactoring an Android App - \#3 - Introducing Mockito [Dry Code - YouTube Channel](https://www.youtube.com/watch?v=zUa58xoylEI)
+* Mastering the World of Android Testing (Part 1) [Medium](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
+* Android Testing Tutorial: Unit Testing like a True Green Droid [Toptal](https://www.toptal.com/android/testing-like-a-true-green-droid)
+* Mocks Aren't Stubs [Blog](https://www.martinfowler.com/articles/mocksArentStubs.html)
+
 
 ##### Espresso
 * [The Basics of Android Espresso Testing: Activities & Fragments
@@ -339,11 +419,18 @@
 
 * [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Progress.md)
 * [Some useful libraries, samples, tools & Open Source apps for Android](https://github.com/ar-android/ElemenAndroidAndExample)
+* Open Source Android Apps [GitHub Project](https://github.com/pcqpcq/open-source-android-apps)
+* 20+ Awesome Open-Source Android Apps To Boost Your Development Skills
+ [Aritra's Musings](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
 * [Top 10 Android Libraries Every Android Developer Should Know About](https://infinum.co/the-capsized-eight/top-10-android-libraries-every-android-developer-should-know-about)
 * [25 new Android libraries which you definitely want to try at the beginning of 2017](https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
 * Awesome Android Complete Reference [Amit Shekhar](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 * Learning Android Development in 2018 [Beginner’s Edition] [AndroidPub](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
+* Learning Android Development In 2019 - A Practical Guide [MindOrks](https://medium.com/mindorks/learning-android-development-in-2019-a-practical-guide-ddc71e008696)
+* App Ideas [GitHub Project](https://github.com/florinpop17/app-ideas)
+* Awesome App Ideas [GitHub Project](https://github.com/tastejs/awesome-app-ideas)
+* Awesome Android [GitHub Project](https://github.com/JStumpp/awesome-android)
 
 ### Blog
 
@@ -367,6 +454,8 @@
 * [Hannes Dorfmann](http://hannesdorfmann.com/tags/)
 * [Mastering Android Studio](https://masteringandroidstudio.com/)
 * [Void Main Dev](https://www.voidmain.dev/)
+* [Aritra Roy](https://blog.aritraroy.in/)
+* [Chris Banes](https://chris.banes.dev)
 
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
@@ -387,6 +476,21 @@
 * How I automated creating files for a new screen with my own Android Studio Plugin [Medium](https://proandroiddev.com/how-i-automated-creating-files-for-a-new-screen-with-my-own-android-studio-plugin-5d54b14ba6fa)
 * Patchwork Plaid — A modularization story [Android Developers - Medium](https://medium.com/androiddevelopers/a-patchwork-plaid-monolith-to-modularized-app-60235d9f212e)
 * What’s Next for Mobile at Airbnb [Airbnb Engineering](https://medium.com/airbnb-engineering/whats-next-for-mobile-at-airbnb-5e71618576ab)
+* Sunsetting React Native [Airbnb Engineering](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
+* How to prepare and pass the Google Certified Associate Android Developer exam? [Medium](https://medium.com/@multidots/how-to-clear-associate-android-developer-exam-ab3ae5d783b7)
+* Google Certified Associate Android Developer: Tips, FAQs & my journey [Medium](https://medium.com/free-code-camp/google-certified-associate-android-developer-my-journey-381a8e514f3a)
+* Google Certified Associate Android Developer: Exam Walkthrough [Medium](https://medium.com/free-code-camp/google-certified-associate-android-developer-exam-walkthrough-ce09a039b29a)
+* How to build an Augmented Reality Android App with ARCore and Android Studio [FreeCodeCamp](https://medium.com/free-code-camp/how-to-build-an-augmented-reality-android-app-with-arcore-and-android-studio-43e4676cb36f)
+* What 2 Years of Android Development Have Taught Me the Hard Way [Aritra's Musings](https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51)
+* The Ultimate Pre-Release Checklist for Android App Success On Play Store
+[Aritra's Musings](https://blog.aritraroy.in/the-ultimate-pre-release-checklist-for-android-app-success-on-play-store-cb0eb9f59ce9)
+* 30+ Kickass Tools to Develop Android Apps Like a Pro [Aritra's Musings](https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b)
+* 30+ Bite-Sized Pro Tips to Become a Better Android Developer [Aritra's Musings](https://blog.aritraroy.in/30-bite-sized-pro-tips-to-become-a-better-android-developer-b311fd641089)
+* If you want to become an Android developer, read these books [FreeCodeCamp](https://medium.com/free-code-camp/if-you-want-to-become-an-android-developer-read-these-books-914cdf4b5347)
+* Top 10 Books to Learn Android Programming in 2017 [Blog](http://androiddeveloper.galileo.edu/2017/02/08/the-top-10-books-android-programming-2017/)
+* Project and Code Guidelines [GitHub Project](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
+* AOSP Java Code Style for Contributors [Developer Android](https://source.android.com/setup/contribute/code-style#follow-field-naming-conventions)
+* IntelliJ IDEA. Code Generation and Completion [IntelliJ Idea](https://youtu.be/sx7_SS8y-_o)
 
 ### Useful Tools
 
