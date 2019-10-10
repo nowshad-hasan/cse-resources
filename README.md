@@ -18,3 +18,5 @@ Cheat sheet of different computer science concepts.
 * [Source Making](https://sourcemaking.com/)
 * [Refactoring Guru](https://refactoring.guru/)
 * [Nick Kolenda - Full Guides](https://www.nickkolenda.com/my-guides/)
+* [Codementor](https://www.codementor.io/community)
+* [Return Zoo](https://returnzerooo.wordpress.com/)

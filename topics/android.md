@@ -457,6 +457,7 @@
 * [Void Main Dev](https://www.voidmain.dev/)
 * [Aritra Roy](https://blog.aritraroy.in/)
 * [Chris Banes](https://chris.banes.dev)
+* [Learn Android Development Online](https://www.codementor.io/collections/learn-android-development-online-bwba0mlle)
 
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
@@ -494,6 +495,8 @@
 * IntelliJ IDEA. Code Generation and Completion [IntelliJ Idea](https://youtu.be/sx7_SS8y-_o)
 * Android app development for [Codecanyon](https://codecanyon.net/category/mobile/android), [Android Developers Group BD](https://www.facebook.com/groups/android.devs.bd/permalink/2488716277841289/)
 * Increase app download in play store [Android Developers Group BD](https://www.facebook.com/groups/android.devs.bd/permalink/2326267607419491/)
+* Android Online Market [Androidniceties](https://androidniceties.tumblr.com/)
+* Android Custom Rom What And Why [Roar Bangla](https://roar.media/bangla/main/tech/android-custom-rom-what-and-why/)
 
 ### Useful Tools
 

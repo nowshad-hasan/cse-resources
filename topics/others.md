@@ -5,12 +5,16 @@
 * [Clean Code](#clean-code)
 * [Blockchain](#blockchain)
 * [Inspiration](#inspiration)
+* [Project Ideas](#project-ideas)
 * [Study in Abroad](#study-in-abroad)
+* [Free Tutorial](#free-tutorial)
 
 ### Article
 
 * How not to be afraid of Vim anymore [FreeCodeCamp](https://medium.com/free-code-camp/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 * How to become a better Stack Overflow user in five simple steps [FreeCodeCamp](https://medium.com/free-code-camp/5-steps-to-become-a-better-stack-overflow-user-4ce85711c0f9)
+* How to Become a Programmer: 8 Steps to Building an App from Scratch [Codementor](https://www.codementor.io/codementorteam/how-to-build-app-from-scratch-beginner-programmer-7z0atq56w)
+* Atomic Design: The Book [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
 
 ### Git
 
@@ -47,7 +51,17 @@
 * Medium's Top 10 Posts on Productivity[Medium](https://medium.com/top-lists-for-entrepreneurs/medium-s-top-10-posts-of-all-time-about-productivity-f77a22cd25b2)
 * Guidelines for a good software negineer [Dev Skill](https://www.facebook.com/groups/devskillbd/permalink/747338905660811/)
 * Career Mistake Case 2 [Dev Skill](http://blog.devskill.com/career-mistake-case-2/?fbclid=IwAR1uEze4257zmZZx8PpPBG-Zq2qNCqNQZoSFnEVJ8AJUjCBaXUHJl0_o-Xw)
+* How A Failed Product Helped Us Turn Around [Codemarshal Blog](https://www.codemarshal.com/blog/how-a-failed-product-helped-us-turn-around/)
+* Pomodoro: একটি আলসেমি প্রডাকশন [Nourin Eka - FB  Note](https://tinyurl.com/y2xtlgan)
+
+### Project Ideas
+
+* University of OxFord - Student Projects [Website](http://www.cs.ox.ac.uk/teaching/courses/projects/)
 
 
 ### Study in Abroad
 * Study in USA [Shantanu Shanto vai's FB Post](https://www.facebook.com/groups/483500628365392/permalink/1908875862494521/)
+
+### Free Tutorial
+
+* [Free Tutorial](https://freetutorials.se/)
