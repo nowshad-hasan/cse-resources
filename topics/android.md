@@ -274,6 +274,7 @@
 * Who lives and who dies? Process priorities on Android [Android Developers - Medium](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f)
 * Roman Mazur - Android Loader, problems and solutions [GDG - YouTube Video](https://youtu.be/fqs-BIGHgIY)
 * Alarms and Syncing and Tasks, Oh My! (Big Android BBQ 2015) [Android Developers - YouTube Video](https://youtu.be/7maNuWjL3Wc)
+* App Standby vs Doze: Understanding System Sleep [Android Developers - YouTube Video](https://www.youtube.com/watch?v=Rwshwq_vI1s)
 
 ### Architecture Component
 

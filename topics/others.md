@@ -46,6 +46,7 @@
 * Why Trello Failed to Build a $1 Billion+ Business [Medium](https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc)
 * Medium's Top 10 Posts on Productivity[Medium](https://medium.com/top-lists-for-entrepreneurs/medium-s-top-10-posts-of-all-time-about-productivity-f77a22cd25b2)
 * Guidelines for a good software negineer [Dev Skill](https://www.facebook.com/groups/devskillbd/permalink/747338905660811/)
+* Career Mistake Case 2 [Dev Skill](http://blog.devskill.com/career-mistake-case-2/?fbclid=IwAR1uEze4257zmZZx8PpPBG-Zq2qNCqNQZoSFnEVJ8AJUjCBaXUHJl0_o-Xw)
 
 
 ### Study in Abroad
