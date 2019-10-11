@@ -57,6 +57,8 @@
 * [Colorlib - Best Free WordPress Themes](https://colorlib.com/wp/themes/)
 * [Toptal - Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/page/6/)
 * [12 Time-Saving Bootstrap Examples](https://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples)
+* [Charity](https://p.w3layouts.com/demos/charity/web/index.html)
+* [Salon](https://technext.github.io/Man-Hair-Salon/index.html)
 
 ##### Portfolio
 
