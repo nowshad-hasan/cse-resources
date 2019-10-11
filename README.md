@@ -20,3 +20,4 @@ Cheat sheet of different computer science concepts.
 * [Nick Kolenda - Full Guides](https://www.nickkolenda.com/my-guides/)
 * [Codementor](https://www.codementor.io/community)
 * [Return Zoo](https://returnzerooo.wordpress.com/)
+* [Kent C. Doods](https://kentcdodds.com/blog)

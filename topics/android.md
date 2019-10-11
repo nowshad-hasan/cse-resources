@@ -93,6 +93,13 @@
 * Everything You Need To Know About Memory Leaks In Android Apps [Medium](https://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859)
 * How to use custom permissions in Android? [Stackoverflow](https://stackoverflow.com/questions/8816623/how-to-use-custom-permissions-in-android)
 
+* Bulk SMS
+  * OPEN SOURCE BULK SMS SENDER ANDROID APP [Coding Infinite](https://codinginfinite.com/open-source-bulk-sms-sender-android-app/)
+  * Sending bulk sms using sms manager in android [Stackoverflow](https://stackoverflow.com/questions/20999876/sending-bulk-sms-using-sms-manager-in-android)
+  * Bulk SMS Website [Bulk SMS](https://bulksms.io/)
+  * Sending text messages programmatically in android [Stackoverflow](https://stackoverflow.com/questions/8578689/sending-text-messages-programmatically-in-android?rq=1)
+  * DELAY BY 1 minute BEFORE SENDING BULK SMS TO EACH NUMBER IN ANDROID [Stackoverflow](https://stackoverflow.com/questions/43849001/delay-by-1-minute-before-sending-bulk-sms-to-each-number-in-android)
+
 ### UI Component
 
 * Design
@@ -386,6 +393,7 @@
 * [Android Testing Samples](https://github.com/android/testing-samples)
 * [Android Camera Samples](https://github.com/android/camera-samples)
 * [Android Project Samples](https://github.com/android)
+* [Open Event Attendee App](https://github.com/fossasia/open-event-attendee-android)
 
 ### Testing
 
@@ -458,6 +466,7 @@
 * [Aritra Roy](https://blog.aritraroy.in/)
 * [Chris Banes](https://chris.banes.dev)
 * [Learn Android Development Online](https://www.codementor.io/collections/learn-android-development-online-bwba0mlle)
+* [Arnob Notes](https://farhanarnob.wordpress.com/2017/10/23/android-important-link/)
 
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
