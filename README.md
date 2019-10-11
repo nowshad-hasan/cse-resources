@@ -3,7 +3,7 @@ Cheat sheet of different computer science concepts.
 
 ## Topics
 
-* [Android](/technology/android.md)
+* [Android](/android.md)
 * [Others](/others.md)
 
 ## Blogs
