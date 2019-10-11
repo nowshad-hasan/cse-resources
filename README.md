@@ -3,8 +3,8 @@ Cheat sheet of different computer science concepts.
 
 ## Topics
 
-* [Android](/android.md)
-* [Others](/others.md)
+* [Android](/topics/android.md)
+* [Others](/topics/others.md)
 
 ## Blogs
 * [Medium Engineering](https://medium.engineering/)
