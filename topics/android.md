@@ -16,6 +16,7 @@
 * [Collection](#collection)
 * [Blog](#blog)
 * [Others](#others)
+* [Tools](#tools)
 
 
 ### Android Core
@@ -253,7 +254,7 @@
 * [How to Schedule Jobs in Android using FireBase Job Dispatcher?](http://blogs.quovantis.com/how-to-schedule-jobs-in-android-using-firebase-job-dispatcher/)
 
 * [Firebase JobDispatcher](https://github.com/firebase/firebase-jobdispatcher-android)
-
+* Android Bound Service: IPC with Messenger [Blog](https://www.survivingwithandroid.com/android-bound-service-ipc-with-messenger-2/)
 * How to handle background services in ANDROID O? [Medium](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 * [JobIntentService](https://developer.android.com/reference/android/support/v4/app/JobIntentService)
 * [Deep Dive into Android Services](https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09)
@@ -507,6 +508,8 @@
 * Android Online Market [Androidniceties](https://androidniceties.tumblr.com/)
 * Android Custom Rom What And Why [Roar Bangla](https://roar.media/bangla/main/tech/android-custom-rom-what-and-why/)
 
-### Useful Tools
+### Tools
 
 * [Microsoft App Center](https://appcenter.ms/)
+* [Figma](https://www.figma.com)
+* [Adobe XD](https://www.adobe.com/products/xd.html)

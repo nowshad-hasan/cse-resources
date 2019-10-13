@@ -53,6 +53,7 @@
 * Career Mistake Case 2 [Dev Skill](http://blog.devskill.com/career-mistake-case-2/?fbclid=IwAR1uEze4257zmZZx8PpPBG-Zq2qNCqNQZoSFnEVJ8AJUjCBaXUHJl0_o-Xw)
 * How A Failed Product Helped Us Turn Around [Codemarshal Blog](https://www.codemarshal.com/blog/how-a-failed-product-helped-us-turn-around/)
 * Pomodoro: একটি আলসেমি প্রডাকশন [Nourin Eka - FB  Note](https://tinyurl.com/y2xtlgan)
+* [996 ICU](https://github.com/996icu/996.ICU)
 
 ### Project Ideas
 

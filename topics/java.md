@@ -13,6 +13,7 @@
 * Managing volatility [IBM Developer](https://www.ibm.com/developerworks/java/library/j-jtp06197/)
 * Java Best Practices and Tips by Toptal Developers [Toptal](https://www.toptal.com/java/tips-and-practices)
 * Java Primitives versus Objects [Baeldung](https://www.baeldung.com/java-primitives-vs-objects)
+* Fluent Interface - [Martin Flower](https://martinfowler.com/bliki/FluentInterface.html), [DZone](https://dzone.com/articles/java-fluent-api-design), [Dev.to](https://dev.to/awwsmm/build-a-fluent-interface-in-java-in-less-than-5-minutes-m7e)
 
 ### OOP
 
