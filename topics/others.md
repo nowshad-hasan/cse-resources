@@ -18,8 +18,8 @@
 
 ### Git
 
-* [How to use Git efficiently](https://www.freecodecamp.org/news/how-to-use-git-efficiently-54320a236369/)
-* [Use Git More Efficiently: A Simple Git Workflow](https://medium.com/@negarjf/use-git-more-efficiently-a-simple-git-workflow-c4e650289ec8)
+* How to use Git efficiently [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-use-git-efficiently-54320a236369/)
+* Use Git More Efficiently: A Simple Git Workflow [Medium](https://medium.com/@negarjf/use-git-more-efficiently-a-simple-git-workflow-c4e650289ec8)
 * 10 Git Commands You Should Know [Medium](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
 * Avoiding the messy git history [Medium](https://medium.com/prototyped/avoiding-the-messy-git-history-508c9066e63b)
 * An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them [FreeCodeCamp](https://medium.com/free-code-camp/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
@@ -38,14 +38,14 @@
 
 ### Inspiration
 
-* [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
-* [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
-* [Don’t be a Junior Developer](https://medium.com/zerotomastery/dont-be-a-junior-developer-608c255b3056)
-* [A Software Engineering survival guide](https://medium.com/free-code-camp/a-software-engineering-survival-guide-fe3eafb47166)
-* [The Mistakes I Made As a Beginner Programmer](https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
-* [The software engineer’s guide to asserting dominance in the workplace](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
-* [Software Engineering is different from Programming](https://medium.com/edge-coders/software-engineering-is-different-from-programming-b108c135af26)
-* [Code!=Life](https://medium.com/@hitherejoe/code-life-d25d9178e4da)
+* How a Googler solves coding problems [Medium](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
+* ABC: Always Be Coding [Medium](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
+* Don’t be a Junior Developer [Medium](https://medium.com/zerotomastery/dont-be-a-junior-developer-608c255b3056)
+* A Software Engineering survival guide [FreeCodeCamp](https://medium.com/free-code-camp/a-software-engineering-survival-guide-fe3eafb47166)
+* The Mistakes I Made As a Beginner Programmer [Medium](https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+* The software engineer’s guide to asserting dominance in the workplace [Medium](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
+* Software Engineering is different from Programming [Medium](https://medium.com/edge-coders/software-engineering-is-different-from-programming-b108c135af26)
+* Code!=Life [Medium](https://medium.com/@hitherejoe/code-life-d25d9178e4da)
 * Learn to Code: Wisdom and Tools for the Journey [Toptal](https://www.toptal.com/freelance/learn-to-code-wisdom-and-tools)
 * Why Trello Failed to Build a $1 Billion+ Business [Medium](https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc)
 * Medium's Top 10 Posts on Productivity[Medium](https://medium.com/top-lists-for-entrepreneurs/medium-s-top-10-posts-of-all-time-about-productivity-f77a22cd25b2)
@@ -53,7 +53,7 @@
 * Career Mistake Case 2 [Dev Skill](http://blog.devskill.com/career-mistake-case-2/?fbclid=IwAR1uEze4257zmZZx8PpPBG-Zq2qNCqNQZoSFnEVJ8AJUjCBaXUHJl0_o-Xw)
 * How A Failed Product Helped Us Turn Around [Codemarshal Blog](https://www.codemarshal.com/blog/how-a-failed-product-helped-us-turn-around/)
 * Pomodoro: একটি আলসেমি প্রডাকশন [Nourin Eka - FB  Note](https://tinyurl.com/y2xtlgan)
-* [996 ICU](https://github.com/996icu/996.ICU)
+* 996 ICU [GitHub Project](https://github.com/996icu/996.ICU)
 
 ### Project Ideas
 
