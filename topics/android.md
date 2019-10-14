@@ -305,17 +305,17 @@
 * Android Application Architecture [Medium](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65)
 * Android Architecture Blueprints - MVP + Dagger2 + Dagger-Android [Android GitHub Project](https://github.com/android/architecture-samples/tree/todo-mvp-dagger)
 
-##### Viper
-* Using the VIPER architecture on Android [Blog](https://cheesecakelabs.com/blog/using-viper-architecture-android/)
-* Android VIPER Architecture implementation [Speakerdeck](https://speakerdeck.com/helmisek/android-viper-architecture-implementation)
+* Viper
+  * Using the VIPER architecture on Android [Blog](https://cheesecakelabs.com/blog/using-viper-architecture-android/)
+  * Android VIPER Architecture implementation [Speakerdeck](https://speakerdeck.com/helmisek/android-viper-architecture-implementation)
 
-##### MVP
-* Restoring State in Android MVP Architecture [Blog](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
-* Android MVP Architecture: Sample App [MindOrks Open Source](https://github.com/MindorksOpenSource/android-mvp-architecture)
-* [Movie Guide](https://github.com/esoxjem/MovieGuide)
-* Android MVP for Beginners [AndroidPub](https://android.jlelse.eu/android-mvp-for-beginners-25889c500443)
-* Implementing MVP with the new Dagger Android Injection API 2.11+ [ProAndroidDev](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
-* Architectural Guidelines to follow for MVP pattern in Android [AndroidPub](https://android.jlelse.eu/architectural-guidelines-to-follow-for-mvp-pattern-in-android-2374848a0157)
+* MVP
+  * Restoring State in Android MVP Architecture [Blog](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
+  * Android MVP Architecture: Sample App [MindOrks Open Source](https://github.com/MindorksOpenSource/android-mvp-architecture)
+  * [Movie Guide](https://github.com/esoxjem/MovieGuide)
+  * Android MVP for Beginners [AndroidPub](https://android.jlelse.eu/android-mvp-for-beginners-25889c500443)
+  * Implementing MVP with the new Dagger Android Injection API 2.11+ [ProAndroidDev](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
+  * Architectural Guidelines to follow for MVP pattern in Android [AndroidPub](https://android.jlelse.eu/architectural-guidelines-to-follow-for-mvp-pattern-in-android-2374848a0157)
 
 * MVVM
   * Movie Guide MVVM [Navdroid GitHub](https://github.com/navdroid/MovieGuideMvvm)
