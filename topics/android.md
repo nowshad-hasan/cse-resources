@@ -26,13 +26,13 @@
 * Mastering Android context [FreeCodeCamp](https://medium.com/free-code-camp/mastering-android-context-7055c8478a22)
 
 * Realm
-  * [The things I’ve learned using Realm](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb)
+  * The things I’ve learned using Realm [Medium](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb)
   * Android Realm Migration Schema [Medium](https://medium.com/@budioktaviyans/android-realm-migration-schema-4fcef6c61e82)
   * How to use Realm for Android like a champ, and how to tell if you’re doing it wrong [Medium](https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149)
 
-* [Everything you need to know about Memory Leaks in Android](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
-* [Bohemian Wrapsody](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
-* [Configuring Android Project — Little Things That Matter](https://proandroiddev.com/configuring-android-project-little-things-that-matter-d6a9d34c1ce0)
+* Everything you need to know about Memory Leaks in Androi [ProAndroidDev](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
+* Bohemian Wrapsody [ProAndroidDev](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
+* Configuring Android Project — Little Things That Matter [ProAndroidDev](https://proandroiddev.com/configuring-android-project-little-things-that-matter-d6a9d34c1ce0)
 * How modularization can speed up your Android app’s built time [FreeCodeCamp](https://medium.com/free-code-camp/how-modularisation-affects-build-time-of-an-android-application-43a984ce9968)
 * Large Database Queries on Android [Android Developers - Medium](https://medium.com/androiddevelopers/large-database-queries-on-android-cb043ae626e8)
 * All the things we’re doing wrong but take for granted: a retrospective glance at Android development [ProAndroidDev](https://proandroiddev.com/all-the-things-were-doing-wrong-but-take-for-granted-a-retrospective-glance-at-android-ad7e942d09cf)
@@ -43,14 +43,6 @@
 * Intents and Intent Filters [Developer Android](https://developer.android.com/guide/components/intents-filters)
 *  `initLoader()` Vs `restartLoader()` [Stackoverflow](https://stackoverflow.com/questions/14445070/difference-between-initloader-and-restartloader-in-loadermanager)
 * Difference between adjustResize and adjustPan in android [Stackoverflow](https://stackoverflow.com/questions/17410499/difference-between-adjustresize-and-adjustpan-in-android)
-* Dagger 2
-  * The Future of Dependency Injection with Dagger 2 [YouTube](https://www.youtube.com/watch?v=plK0zyRLIP8)
-  * DAGGER 2 - A New Type of dependency injection [YouTube](https://www.youtube.com/watch?v=oK_XtfXPkqw)
-  * Dagger 2 for Android Beginners — Introduction [Medium](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
-  * Dagger 2 [Twisted Equations - YouTube Playlist](https://www.youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
-  * That Missing Guide: How to use Dagger2 [Medium](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
-  * The Future of Dependency Injection with Dagger 2 [YouTube Video](https://www.youtube.com/watch?v=plK0zyRLIP8)
-  * Dagger 2 With Android - Introduction [YouTube Video](https://youtu.be/ky64UTUiNSs)
 
 * Dependency Injection [Jenkov](http://tutorials.jenkov.com/dependency-injection/index.html)
 * The Ultimate Guide To Social Login In Android Using CloudRail [Blog](https://coursetro.com/posts/code/13/The-Ultimate-Guide-To-Social-Login-In-Android-Using-CloudRail)
@@ -325,14 +317,23 @@
 * Implementing MVP with the new Dagger Android Injection API 2.11+ [ProAndroidDev](https://proandroiddev.com/implementing-mvp-with-new-dagger-android-injection-api-773b13e1ef0)
 * Architectural Guidelines to follow for MVP pattern in Android [AndroidPub](https://android.jlelse.eu/architectural-guidelines-to-follow-for-mvp-pattern-in-android-2374848a0157)
 
-##### MVVM
-* Movie Guide MVVM [Navdroid GitHub](https://github.com/navdroid/MovieGuideMvvm)
-* Android MVVM Architecture: Sample App [Mindorks Open Source](https://github.com/MindorksOpenSource/android-mvvm-architecture)
-* Android MVVM [Lajesh GitHub](https://github.com/Lajesh/Android-MVVM)
-* MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
-* MVVM architecture, ViewModel and LiveData (Part 1) [ProAndroidDev](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1)
-* Android by example : MVVM +Data Binding -> Introduction (Part 1) [Medium](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)
-* MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
+* MVVM
+  * Movie Guide MVVM [Navdroid GitHub](https://github.com/navdroid/MovieGuideMvvm)
+  * Android MVVM Architecture: Sample App [Mindorks Open Source](https://github.com/MindorksOpenSource/android-mvvm-architecture)
+  * Android MVVM [Lajesh GitHub](https://github.com/Lajesh/Android-MVVM)
+  * MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
+  * MVVM architecture, ViewModel and LiveData (Part 1) [ProAndroidDev](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1)
+  * Android by example : MVVM +Data Binding -> Introduction (Part 1) [Medium](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)
+  * MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
+
+* Dagger 2
+  * The Future of Dependency Injection with Dagger 2 [YouTube](https://www.youtube.com/watch?v=plK0zyRLIP8)
+  * DAGGER 2 - A New Type of dependency injection [YouTube](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+  * Dagger 2 for Android Beginners — Introduction [Medium](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
+  * Dagger 2 [Twisted Equations - YouTube Playlist](https://www.youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
+  * That Missing Guide: How to use Dagger2 [Medium](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
+  * The Future of Dependency Injection with Dagger 2 [YouTube Video](https://www.youtube.com/watch?v=plK0zyRLIP8)
+  * Dagger 2 With Android - Introduction [YouTube Video](https://youtu.be/ky64UTUiNSs)
 
 
 ### Gradle
@@ -367,7 +368,6 @@
 * Runtime Permission
 
   * [Dexter](https://github.com/Karumi/Dexter)
-
 
 * HTTP Logging
 
