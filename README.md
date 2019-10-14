@@ -3,7 +3,20 @@ Cheat sheet of different computer science concepts.
 
 ## Topics
 
+* [Problem Solving](/topics/problem%20solving.md)
+* [Java](/topics/java.md)
 * [Android](/topics/android.md)
+* [Design Pattern](/topics/design%20pattern.md)
+* [Generics](/topics/generics.md)
+* [Regex](/topics/regex.md)
+* [Open Source](/topics/open%20source.md)
+* [Networking](/topics/networking.md)
+* [Operating System](/topics/operating%20system.md)
+* [Hacking](/topics/hacking.md)
+* [Chrome Extension](/topics/chrome%20extension.md)
+* [Frontend](/topics/frontend.md)
+* [Machine Learning](/topics/machine%20learning.md)
+* [Javascript](/topics/javascript.md)
 * [Others](/topics/others.md)
 
 ## Blogs
