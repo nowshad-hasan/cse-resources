@@ -22,3 +22,5 @@
 ### Blog
 * [First Timers Only](https://www.firsttimersonly.com/)
 * [Open Source Guides](https://opensource.guide/)
+* [Open Source.com](https://opensource.com/)
+* [CodeTriage](https://www.codetriage.com/)
