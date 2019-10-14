@@ -86,12 +86,17 @@
 * Everything You Need To Know About Memory Leaks In Android Apps [Medium](https://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859)
 * How to use custom permissions in Android? [Stackoverflow](https://stackoverflow.com/questions/8816623/how-to-use-custom-permissions-in-android)
 
-* Bulk SMS
-  * OPEN SOURCE BULK SMS SENDER ANDROID APP [Coding Infinite](https://codinginfinite.com/open-source-bulk-sms-sender-android-app/)
-  * Sending bulk sms using sms manager in android [Stackoverflow](https://stackoverflow.com/questions/20999876/sending-bulk-sms-using-sms-manager-in-android)
-  * Bulk SMS Website [Bulk SMS](https://bulksms.io/)
-  * Sending text messages programmatically in android [Stackoverflow](https://stackoverflow.com/questions/8578689/sending-text-messages-programmatically-in-android?rq=1)
-  * DELAY BY 1 minute BEFORE SENDING BULK SMS TO EACH NUMBER IN ANDROID [Stackoverflow](https://stackoverflow.com/questions/43849001/delay-by-1-minute-before-sending-bulk-sms-to-each-number-in-android)
+* Fragment
+
+  * [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
+  * Using Android Fragments in 2018 [Inloopx](https://medium.com/inloopx/using-android-fragments-in-2018-b9cf0b05b718)
+  * Clean Android Code: Activities and Fragments [Medium](https://medium.com/@anton.averin.dev/keep-your-droid-clean-activities-and-fragments-da1799fe1e7a)
+  * Windows Insets + Fragment Transitions [Android Developers - Medium](https://medium.com/androiddevelopers/windows-insets-fragment-transitions-9024b239a436)
+  * Fragment Transitions [Android Developers](https://medium.com/androiddevelopers/fragment-transitions-ea2726c3f36f)
+  * How to communicate between fragments and activity using ViewModel [MindOrks](https://medium.com/mindorks/how-to-communicate-between-fragments-and-activity-using-viewmodel-ca733233a51c)
+  * Windows Insets + Fragment Transitions [Chris Banes](https://chris.banes.dev/2018/03/01/window-insets-fragment-transitions/)
+  * Creating and Using Fragments [CodePath](https://guides.codepath.com/android/creating-and-using-fragments)
+  * From Activity To Fragment [YouTube Video](https://youtu.be/T_tEWiFGrsI)
 
 ### UI Component
 
@@ -105,10 +110,10 @@
 
 
 * Recycler View
-  * [Optimizing Nested RecyclerView](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
-  * [Reduce the number of inflation of ViewHolders drastically by sharing a ViewPool across multiple RecyclerViews](https://medium.com/@thagikura/reduce-the-number-of-inflation-of-viewholders-drastically-by-sharing-a-viewpool-across-multiple-249d5fc6d28)
+  * Optimizing Nested RecyclerView [ProAndroidDev](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
+  * Reduce the number of inflation of ViewHolders drastically by sharing a ViewPool across multiple RecyclerViews [Medium](https://medium.com/@thagikura/reduce-the-number-of-inflation-of-viewholders-drastically-by-sharing-a-viewpool-across-multiple-249d5fc6d28)
   * A RecyclerView with multiple item types [Medium 1](https://medium.com/@ruut_j/a-recyclerview-with-multiple-item-types-bce7fbd1d30e), [Medium 2](https://android.jlelse.eu/a-recyclerview-with-multiple-item-types-dfba3979050)
-  * [Epoxy: Airbnb’s View Architecture on Android](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.xv4ymrtmk)
+  * Epoxy: Airbnb’s View Architecture on Android [Airbnb Engineering](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.xv4ymrtmk)
   * RecyclerView Prefetch [Google Developers - Medium](https://medium.com/google-developers/recyclerview-prefetch-c2f269075710)
   * A First Glance at Android’s RecyclerView [Blog](https://www.grokkingandroid.com/first-glance-androids-recyclerview/)
   * Generic RecyclerView adapter [Medium](https://medium.com/@leonidustenko/generic-recyclerview-adapter-a69a24ec25bc)
@@ -124,10 +129,10 @@
   * RecyclerView ins and outs - Google I/O 2016 [YouTube Video](https://youtu.be/LqBlYJTfLP4)
   * Android Custom ListView - Master-Detail View[Open Activity] (YouTube Video)(https://youtu.be/r8esfTlepEo)
 
-* [Using vector assets in Android apps](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
-* [UI tips for pre and post Lollipop](https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2)
-* [Some tips to a better experience working with Android’s BottomNavigationView](https://proandroiddev.com/some-tips-to-a-better-experience-working-with-androids-bottomnavigationview-2a224c687c1f)
-* [Exploring the v28 Android Design Support Library Additions](https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8)
+* Using vector assets in Android apps [Android Developers - Medium](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
+* UI tips for pre and post Lollipop [Medium](https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2)
+* Some tips to a better experience working with Android’s BottomNavigationView [ProAndroidDev](https://proandroiddev.com/some-tips-to-a-better-experience-working-with-androids-bottomnavigationview-2a224c687c1f)
+* Exploring the v28 Android Design Support Library Additions [Google Developers - Medium](https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8)
 * Introduction to MotionLayout (part I) [Google Developers - Medium](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
 * View [Developer android](https://developer.android.com/reference/android/view/View)
 * Playing with Paths [Android Developers - Medium](https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77)
@@ -145,9 +150,9 @@
 * ANDROID 4 9. TABWIDGET, FLIPPER, AND SLIDINGDRAWER [Blog](https://www.bogotobogo.com/Android/android9TabWidgetFlipper.php)
 
 * Navigation Drawer
-  * [Codepath](https://guides.codepath.com/android/Fragment-Navigation-Drawer)
-  * [Treehouse](https://blog.teamtreehouse.com/add-navigation-drawer-android)
-  * [Learn2Crack](https://www.learn2crack.com/2016/03/android-material-design-sliding-navigation-drawer.html)
+  * Fragment Navigation Drawer [Codepath](https://guides.codepath.com/android/Fragment-Navigation-Drawer)
+  * How to Add a Navigation Drawer in Android [Treehouse](https://blog.teamtreehouse.com/add-navigation-drawer-android)
+  * Android Material Design Sliding Navigation Drawer [Learn2Crack](https://www.learn2crack.com/2016/03/android-material-design-sliding-navigation-drawer.html)
   * Material Design Navigation Drawer II: Styling [AndroidPub](https://android.jlelse.eu/navigation-drawer-styling-according-material-design-5306190da08f)
   * Material Design and the Mystery Meat Navigation Problem [FreeCodeCamp](https://medium.com/free-code-camp/material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e)
   * Best Navigation Drawer Tutorial on Android (Part 1) [YouTube Video](https://youtu.be/H4R-hz56oBA)
@@ -182,51 +187,37 @@
 * Layout Inflation as Intended [Blog](https://wundermanthompsonmobile.com/2013/05/layout-inflation-as-intended/)
 
 
-##### ViewPager
+* ViewPager
 
-* ViewPager Without Fragments [Blog](https://www.bignerdranch.com/blog/viewpager-without-fragments/)
-* Slide between fragments using ViewPager [Developer android](https://developer.android.com/training/animation/screen-slide.html#views)
-* Exploring the View Pager 2 [Google Developers - Medium](https://medium.com/google-developer-experts/exploring-the-view-pager-2-86dbce06ff71)
-* ViewPager with FragmentPagerAdapter [CodePath](https://guides.codepath.com/android/viewpager-with-fragmentpageradapter)
+  * ViewPager Without Fragments [Blog](https://www.bignerdranch.com/blog/viewpager-without-fragments/)
+  * Slide between fragments using ViewPager [Developer android](https://developer.android.com/training/animation/screen-slide.html#views)
+  * Exploring the View Pager 2 [Google Developers - Medium](https://medium.com/google-developer-experts/exploring-the-view-pager-2-86dbce06ff71)
+  * ViewPager with FragmentPagerAdapter [CodePath](https://guides.codepath.com/android/viewpager-with-fragmentpageradapter)
 
-##### Animation
-* Geometric Android Animations using the Canvas [S23NYC Nike Engineering](https://medium.com/s23nyc-tech/geometric-android-animations-using-the-canvas-dd687c43f3f4)
-* Transitions in the Android Support Library [Google Developers - Medium](https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e)
-* A beginners guide to implement Android Animations — Part 1 [Medium](https://medium.com/@shubham.bestfriendforu/a-beginners-guide-to-implement-android-animations-part-1-2-part-series-b5fce1fc85)
-* Animations and Transitions [Developer android](https://developer.android.com/training/animation)
-* Android Animation Example [JournalDev](https://www.journaldev.com/9481/android-animation-example)
-* Working with Android FAB Animations [Learn2Crack](https://www.learn2crack.com/2015/10/android-floating-action-button-animations.html)
-* Creating Animations With MotionLayout for Android [Tutsplus](https://code.tutsplus.com/tutorials/creating-animations-with-motionlayout-for-android--cms-31497)
-* Animation resources [Developer Android](https://developer.android.com/guide/topics/resources/animation-resource.html)
-* Animation Tutorial With Example In Android Studio [Abhi Android](https://abhiandroid.com/materialdesign/animation)
-* Using animations in Android application - Tutorial [Vogella](https://www.vogella.com/tutorials/AndroidAnimation/article.html)
-* View Animation [Developer Android](https://developer.android.com/guide/topics/graphics/view-animation.html)
-* How to animate on Android [ProAndroidDev](https://proandroiddev.com/how-to-animate-on-android-f8d227135613)
-* Animating on a Schedule [Android Developers - Medium](https://medium.com/androiddevelopers/animating-on-a-schedule-8a90d812ae4)
-* Implement Google Inbox Style Animation on Android [ProAndroidDev](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
-* Animate all the things. Transitions in Android [Medium](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)
-* Get Animated (Android Dev Summit '18) [Android Developers - YouTube Video](https://www.youtube.com/watch?v=N_x7SV3I3P0)
-* Android animation tutorial [YouTube Playlist](https://www.youtube.com/watch?v=BF4yvhpMPcg&list=RDQM0Zm5Q7txX7A&start_radio=1)
-* DevBytes: Graphics and Animations [Android Developers - YouTube Playlist](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc86y1CjAlexivfvOms6_0NC)
-* Material Design Animation [YouTube Playlist](https://www.youtube.com/playlist?list=PL8n7v8CHZtl4kS7GGMWhOxBxzIvpIjmKa)
-* Using View Animations in your apps: A tutorial [Blog](https://www.101apps.co.za/articles/using-view-animations-in-your-apps-a-tutorial.html)
-* Property Animation Overview [Developer Android](https://developer.android.com/guide/topics/graphics/prop-animation)
-* Images, Animations, Transitions - Android Programming [Coding in Flow- YouTube Playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuARS1W7qMt-zxBNqWYZpOg6)
-* Android Studio - Shared Animation between Activities - Android Tutorial [YouTube Video](https://youtu.be/BF4yvhpMPcg)
-
-
-### Fragment
-
-* [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
-* Using Android Fragments in 2018 [Inloopx](https://medium.com/inloopx/using-android-fragments-in-2018-b9cf0b05b718)
-* Clean Android Code: Activities and Fragments [Medium](https://medium.com/@anton.averin.dev/keep-your-droid-clean-activities-and-fragments-da1799fe1e7a)
-* Windows Insets + Fragment Transitions [Android Developers - Medium](https://medium.com/androiddevelopers/windows-insets-fragment-transitions-9024b239a436)
-* Fragment Transitions [Android Developers](https://medium.com/androiddevelopers/fragment-transitions-ea2726c3f36f)
-* How to communicate between fragments and activity using ViewModel [MindOrks](https://medium.com/mindorks/how-to-communicate-between-fragments-and-activity-using-viewmodel-ca733233a51c)
-* Windows Insets + Fragment Transitions [Chris Banes](https://chris.banes.dev/2018/03/01/window-insets-fragment-transitions/)
-* Creating and Using Fragments [CodePath](https://guides.codepath.com/android/creating-and-using-fragments)
-* From Activity To Fragment [YouTube Video](https://youtu.be/T_tEWiFGrsI)
-
+* Animation
+  * Geometric Android Animations using the Canvas [S23NYC Nike Engineering](https://medium.com/s23nyc-tech/geometric-android-animations-using-the-canvas-dd687c43f3f4)
+  * Transitions in the Android Support Library [Google Developers - Medium](https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e)
+  * A beginners guide to implement Android Animations — Part 1 [Medium](https://medium.com/@shubham.bestfriendforu/a-beginners-guide-to-implement-android-animations-part-1-2-part-series-b5fce1fc85)
+  * Animations and Transitions [Developer android](https://developer.android.com/training/animation)
+  * Android Animation Example [JournalDev](https://www.journaldev.com/9481/android-animation-example)
+  * Working with Android FAB Animations [Learn2Crack](https://www.learn2crack.com/2015/10/android-floating-action-button-animations.html)
+  * Creating Animations With MotionLayout for Android [Tutsplus](https://code.tutsplus.com/tutorials/creating-animations-with-motionlayout-for-android--cms-31497)
+  * Animation resources [Developer Android](https://developer.android.com/guide/topics/resources/animation-resource.html)
+  * Animation Tutorial With Example In Android Studio [Abhi Android](https://abhiandroid.com/materialdesign/animation)
+  * Using animations in Android application - Tutorial [Vogella](https://www.vogella.com/tutorials/AndroidAnimation/article.html)
+  * View Animation [Developer Android](https://developer.android.com/guide/topics/graphics/view-animation.html)
+  * How to animate on Android [ProAndroidDev](https://proandroiddev.com/how-to-animate-on-android-f8d227135613)
+  * Animating on a Schedule [Android Developers - Medium](https://medium.com/androiddevelopers/animating-on-a-schedule-8a90d812ae4)
+  * Implement Google Inbox Style Animation on Android [ProAndroidDev](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
+  * Animate all the things. Transitions in Android [Medium](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)
+  * Get Animated (Android Dev Summit '18) [Android Developers - YouTube Video](https://www.youtube.com/watch?v=N_x7SV3I3P0)
+  * Android animation tutorial [YouTube Playlist](https://www.youtube.com/watch?v=BF4yvhpMPcg&list=RDQM0Zm5Q7txX7A&start_radio=1)
+  * DevBytes: Graphics and Animations [Android Developers - YouTube Playlist](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc86y1CjAlexivfvOms6_0NC)
+  * Material Design Animation [YouTube Playlist](https://www.youtube.com/playlist?list=PL8n7v8CHZtl4kS7GGMWhOxBxzIvpIjmKa)
+  * Using View Animations in your apps: A tutorial [Blog](https://www.101apps.co.za/articles/using-view-animations-in-your-apps-a-tutorial.html)
+  * Property Animation Overview [Developer Android](https://developer.android.com/guide/topics/graphics/prop-animation)
+  * Images, Animations, Transitions - Android Programming [Coding in Flow- YouTube Playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuARS1W7qMt-zxBNqWYZpOg6)
+  * Android Studio - Shared Animation between Activities - Android Tutorial [YouTube Video](https://youtu.be/BF4yvhpMPcg)
 
 ### Networking
 
@@ -398,8 +389,8 @@
 
 ### Testing
 
-* [Android Testing with JUnit & mockito](https://medium.com/@Shahawi/android-testing-with-junit-mockito-d40b5f6c68a7)
-* [Android Testing part 1: Unit testing 0 to 1](https://android.jlelse.eu/the-real-beginner-guide-to-android-unit-testing-3859d2f25186)
+* Android Testing with JUnit & mockito [Medium](https://medium.com/@Shahawi/android-testing-with-junit-mockito-d40b5f6c68a7)
+* Android Testing part 1: Unit testing 0 to 1 [AndroidPub](https://android.jlelse.eu/the-real-beginner-guide-to-android-unit-testing-3859d2f25186)
 * A view on testing Android apps [ProAndroidDev](https://proandroiddev.com/writing-integration-tests-in-android-b0436978ed7b)
 * Testing Android MVP [Medium](https://medium.com/@MiBLT/testing-android-mvp-aa0de6e165e4)
 * Android Testing: The Basics [AndroidPub](https://android.jlelse.eu/android-testing-the-basics-3c2b784e8bf6)
@@ -413,28 +404,26 @@
 * Mocks Aren't Stubs [Blog](https://www.martinfowler.com/articles/mocksArentStubs.html)
 
 
-##### Espresso
-* [The Basics of Android Espresso Testing: Activities & Fragments
-](https://android.jlelse.eu/the-basics-of-android-espresso-testing-activities-fragments-7a8bfbc16dc5)
-* [AdapterViews and Espresso](https://medium.com/androiddevelopers/adapterviews-and-espresso-f4172aa853cf)
-* [Wait for it… IdlingResource and ConditionWatcher](https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356)
-* [Integrate Espresso Idling Resources in your app to build flexible UI tests
-](https://android.jlelse.eu/integrate-espresso-idling-resources-in-your-app-to-build-flexible-ui-tests-c779e24f5057)
-* Testing Android UI with Pleasure [ProAndroidDev](https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821)
-* Android Espresso Tutorial [QA Automated YouTube Playlist](https://www.youtube.com/playlist?list=PLx5ipGeoOO2hCbqjX784_I4Y4mDsVbVEf)
-* Writing and using Hamcrest Matchers [Slideshare](https://www.slideshare.net/shaiyallin/hamcrest-matchers)
-* Espresso: Custom Idling Resource [Blog](http://blog.sqisland.com/2015/04/espresso-custom-idling-resource.html)
+* Espresso
+  * The Basics of Android Espresso Testing: Activities & Fragments [AndroidPub](https://android.jlelse.eu/the-basics-of-android-espresso-testing-activities-fragments-7a8bfbc16dc5)
+  * AdapterViews and Espresso [Android Developers - Medium](https://medium.com/androiddevelopers/adapterviews-and-espresso-f4172aa853cf)
+  * Wait for it… IdlingResource and ConditionWatcher [Medium](https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356)
+  * Integrate Espresso Idling Resources in your app to build flexible UI tests [AndroidPub](https://android.jlelse.eu/integrate-espresso-idling-resources-in-your-app-to-build-flexible-ui-tests-c779e24f5057)
+  * Testing Android UI with Pleasure [ProAndroidDev](https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821)
+  * Android Espresso Tutorial [QA Automated YouTube Playlist](https://www.youtube.com/playlist?list=PLx5ipGeoOO2hCbqjX784_I4Y4mDsVbVEf)
+  * Writing and using Hamcrest Matchers [Slideshare](https://www.slideshare.net/shaiyallin/hamcrest-matchers)
+  * Espresso: Custom Idling Resource [Blog](http://blog.sqisland.com/2015/04/espresso-custom-idling-resource.html)
 
 ### Collection
 
-* [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Progress.md)
-* [Some useful libraries, samples, tools & Open Source apps for Android](https://github.com/ar-android/ElemenAndroidAndExample)
+* Awesome Android UI [GitHub Project](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Progress.md)
+* Some useful libraries, samples, tools & Open Source apps for Android [GitHub Project](https://github.com/ar-android/ElemenAndroidAndExample)
 * Open Source Android Apps [GitHub Project](https://github.com/pcqpcq/open-source-android-apps)
 * 20+ Awesome Open-Source Android Apps To Boost Your Development Skills
  [Aritra's Musings](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
-* [Top 10 Android Libraries Every Android Developer Should Know About](https://infinum.co/the-capsized-eight/top-10-android-libraries-every-android-developer-should-know-about)
-* [25 new Android libraries which you definitely want to try at the beginning of 2017](https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/)
-* [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
+* Top 10 Android Libraries Every Android Developer Should Know About [Blog](https://infinum.co/the-capsized-eight/top-10-android-libraries-every-android-developer-should-know-about)
+* 25 new Android libraries which you definitely want to try at the beginning of 2017 [FreeCodeCamp](https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/)
+* CodePath Android Cliffnotes [Codepath](https://github.com/codepath/android_guides/wiki)
 * Awesome Android Complete Reference [Amit Shekhar](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 * Learning Android Development in 2018 [Beginner’s Edition] [AndroidPub](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
 * Learning Android Development In 2019 - A Practical Guide [MindOrks](https://medium.com/mindorks/learning-android-development-in-2019-a-practical-guide-ddc71e008696)
@@ -471,19 +460,17 @@
 
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
-* [Exploring S.O.L.I.D Principle in Android](https://proandroiddev.com/exploring-s-o-l-i-d-principle-in-android-a90947f57cf0)
-* [5 Debugging Tips with Android Studio](https://blacklenspub.com/5-debugging-tips-with-android-studio-65751011262f)
-* Jenkins
-  * [Setting Up Jenkins For Android: How I dealt with the challenges I faced](https://android.jlelse.eu/setting-up-jenkins-for-android-how-i-dealt-with-the-challenges-i-faced-1bbdb6580b8d)
-
-* [Google just terminated our start-up Google Play Publisher Account on Christmas day](https://android.jlelse.eu/google-just-terminated-our-start-up-google-play-publisher-account-on-christmas-day-5cb69a454da0)
-* [Top (unknown) keyboard shortcuts in Android Studio](https://codeburst.io/top-unknown-keyboard-shortcuts-in-android-studio-7b1bf833c9f1)
+* Exploring S.O.L.I.D Principle in Android [ProAndroidDev](https://proandroiddev.com/exploring-s-o-l-i-d-principle-in-android-a90947f57cf0)
+* 5 Debugging Tips with Android Studio [Blog](https://blacklenspub.com/5-debugging-tips-with-android-studio-65751011262f)
+* Setting Up Jenkins For Android: How I dealt with the challenges I faced [AndroidPub](https://android.jlelse.eu/setting-up-jenkins-for-android-how-i-dealt-with-the-challenges-i-faced-1bbdb6580b8d)
+* Google just terminated our start-up Google Play Publisher Account on Christmas day [AndroidPub](https://android.jlelse.eu/google-just-terminated-our-start-up-google-play-publisher-account-on-christmas-day-5cb69a454da0)
+* Top (unknown) keyboard shortcuts in Android Studio [Codebrust](https://codeburst.io/top-unknown-keyboard-shortcuts-in-android-studio-7b1bf833c9f1)
 * How to become more productive in android with android studio plugins [MindOrks](https://medium.com/mindorks/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7)
 * Open Source Your Android Code — The Complete Guide [AndroidPub](https://android.jlelse.eu/open-source-your-android-code-a-complete-guide-bf0032e50f0e)
 * Android developer — bored at work? [Medium](https://medium.com/@josiassena/android-developer-bored-at-work-efa0530415c4)
 * [Index for Android Open Source Projects](http://www.java2s.com/Open-Source/Android_Free_Code/index.htm)
-* [Speed up your app](http://blog.udinic.com/2015/09/15/speed-up-your-app/)
-* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* Speed up your app [Blog](http://blog.udinic.com/2015/09/15/speed-up-your-app/)
+* Google Java Style Guide [Google GitHub](https://google.github.io/styleguide/javaguide.html)
 * Write an Android Studio Plugin Part 1: Creating a basic plugin [ProAndroidDev](https://proandroiddev.com/write-an-android-studio-plugin-part-1-creating-a-basic-plugin-af956c4f8b50)
 * How I automated creating files for a new screen with my own Android Studio Plugin [Medium](https://proandroiddev.com/how-i-automated-creating-files-for-a-new-screen-with-my-own-android-studio-plugin-5d54b14ba6fa)
 * Patchwork Plaid — A modularization story [Android Developers - Medium](https://medium.com/androiddevelopers/a-patchwork-plaid-monolith-to-modularized-app-60235d9f212e)
@@ -507,6 +494,12 @@
 * Increase app download in play store [Android Developers Group BD](https://www.facebook.com/groups/android.devs.bd/permalink/2326267607419491/)
 * Android Online Market [Androidniceties](https://androidniceties.tumblr.com/)
 * Android Custom Rom What And Why [Roar Bangla](https://roar.media/bangla/main/tech/android-custom-rom-what-and-why/)
+* Bulk SMS
+  * Open Source Bulk SMS Sender Android App [Coding Infinite](https://codinginfinite.com/open-source-bulk-sms-sender-android-app/)
+  * Sending bulk sms using sms manager in android [Stackoverflow](https://stackoverflow.com/questions/20999876/sending-bulk-sms-using-sms-manager-in-android)
+  * Bulk SMS Website [Bulk SMS](https://bulksms.io/)
+  * Sending text messages programmatically in android [Stackoverflow](https://stackoverflow.com/questions/8578689/sending-text-messages-programmatically-in-android?rq=1)
+  * DELAY BY 1 minute BEFORE SENDING BULK SMS TO EACH NUMBER IN ANDROID [Stackoverflow](https://stackoverflow.com/questions/43849001/delay-by-1-minute-before-sending-bulk-sms-to-each-number-in-android)
 
 ### Tools
 
