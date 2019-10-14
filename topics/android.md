@@ -3,7 +3,6 @@
 
 * [Android Core](#android-core)
 * [UI Component](#ui-component)
-* [Fragment](#fragment)
 * [Networking](#networking)
 * [Background Processing](#background-processing)
 * [Architecture Component](#architecture-component)
@@ -88,7 +87,7 @@
 
 * Fragment
 
-  * [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
+  * Advocating Against Android Fragments [Medium](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
   * Using Android Fragments in 2018 [Inloopx](https://medium.com/inloopx/using-android-fragments-in-2018-b9cf0b05b718)
   * Clean Android Code: Activities and Fragments [Medium](https://medium.com/@anton.averin.dev/keep-your-droid-clean-activities-and-fragments-da1799fe1e7a)
   * Windows Insets + Fragment Transitions [Android Developers - Medium](https://medium.com/androiddevelopers/windows-insets-fragment-transitions-9024b239a436)
@@ -280,16 +279,16 @@
 * Android Architecture Components Navigation Basic Sample [GitHub Project](https://github.com/android/architecture-components-samples/tree/master/NavigationBasicSample)
 * Room + ViewModel + LiveData + RecyclerView (MVVM) Part 1 - WHAT ARE ANDROID ARCHITECTURE COMPONENTS? [Coding in Flow](https://youtu.be/ARpn-1FPNE4)
 
-##### Room
+* Room
 
-* [Building database with Room Persistence Library](https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9)
-* [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
-* Understanding migrations with Room [Android  Developers - Medium](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
-* Room Coroutines [Android Developers - Medium](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5)
-* Room + Time [Android Developers - Medium](https://medium.com/androiddevelopers/room-time-2b4cf9672b98)
+  * [Building database with Room Persistence Library](https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9)
+  * [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
+  * Understanding migrations with Room [Android  Developers - Medium](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
+  * Room Coroutines [Android Developers - Medium](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5)
+  * Room + Time [Android Developers - Medium](https://medium.com/androiddevelopers/room-time-2b4cf9672b98)
 
-##### Paging Library
-* [7 steps to implement Paging Library in Android](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
+* Paging Library
+  * [7 steps to implement Paging Library in Android](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
 
 ### Architecture Pattern
 
