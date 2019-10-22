@@ -106,6 +106,9 @@
   * Preparing and Exporting SVG Icons in Sketch [Medium](https://medium.com/sketch-app-sources/preparing-and-exporting-svg-icons-in-sketch-1a3d65b239bb)
   * [Flaticon](https://www.flaticon.com/)
   * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio)
+  * [Color Space](https://mycolor.space/)
+  * [Pexels](https://www.pexels.com/)
+  * [Adobe XD](https://www.adobe.com/products/xd.html)
 
 
 * Recycler View
