@@ -24,6 +24,7 @@ Cheat sheet of different computer science concepts.
 * [Over Engineering](https://medium.com/over-engineering)
 * [Airbnb Engineering](https://medium.com/airbnb-engineering)
 * [Groupon Engineering](https://medium.com/groupon-eng)
+* [Soundcloud Engineering](https://developers.soundcloud.com/blog)
 * [IBM Developer](https://developer.ibm.com/)
 * [Bazlur's Stream of Thoughts](https://bazlur.com/)
 * [প্রোগ্রামিং-পাতা](https://medium.com/প্রোগ্রামিং-পাতা)

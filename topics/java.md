@@ -4,6 +4,7 @@
 * [OOP](#oop)
 * [Threading](#threading)
 * [Exception Handling](#exception-handling)
+* [RxJava](#rxjava)
 ### Core Java
 
 * What is Upcasting and Downcasting in Java [Blog](https://www.codejava.net/java-core/the-java-language/what-is-upcasting-and-downcasting-in-java)
@@ -22,8 +23,10 @@
 
 ### Threading
 
-* Understanding Android Core: Looper, Handler, and HandlerThread [MindOrks YouTube Playlist](https://www.youtube.com/playlist?list=PL6nth5sRD25hCXGGnG3LXMTgWAwnS31r8)
-
 ### Exception Handling
 
 * Why you should ignore exceptions in Java and how to do it correctly [FreeCodeCamp](https://medium.com/free-code-camp/why-you-should-ignore-exceptions-in-java-and-how-to-do-it-correctly-8e95e5775e58)
+
+### RxJava
+* Functional Reactive Programming with RxJava by Ben Christensen [GOTO 2013](https://youtu.be/_t06LRX0DV0)
+* Applying Reactive Programming with Rx by Ben Christensen [GOTO 2015](https://youtu.be/8OcCSQS0tug)
