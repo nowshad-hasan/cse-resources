@@ -55,7 +55,17 @@
 * Changes to Trusted Certificate Authorities in Android Nougat [Google Blog](https://android-developers.googleblog.com/2016/07/changes-to-trusted-certificate.html)
 * Security Config [Developer Android](https://developer.android.com/training/articles/security-config)
 * Bluetooth Overview[Developer Android](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/topics/connectivity/bluetooth.html)
-* Tasks and the Back Stack [Android Developers - Medium](https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4)
+* Android LaunchMode:
+
+  * Tasks and the Back Stack [Android Developers - Medium](https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4)
+  * Android “launchMode” (Visualized) [Medium](https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe)
+  * Activities, Tasks & Stacks [YouTube Playlist](https://www.youtube.com/playlist?list=PLfuE3hOAeWhY8fkzCluHakmK9A3bJsGR0)
+  * Activity element [Developer Andorid](https://developer.android.com/guide/topics/manifest/activity-element)
+  * The Android Launch Mode Animated CheatSheet [Medium](https://itnext.io/the-android-launchmode-animated-cheatsheet-6657e5dd9b0f)
+  * Android Activity Launch Modes and Tasks [Slideshare](https://www.slideshare.net/JAX_London/android-android-activity-launch-modes-and-tasks-gonalo-silva)
+  * Understand Android Activity's launchMode: standard, singleTop, singleTask and singleInstance [Blog](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
+
+
 * How to `properly` handle audio interruptions [Joanna Smith](https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa)
 * Android Tools Attributes — Hidden Gems of Android Studio [AndroidPub](https://android.jlelse.eu/tools-attributes-hidden-gems-of-android-studio-d7451b194e0b)
 * Developing for Android V: The Rules: Language and Libraries [Google Developers](https://medium.com/google-developers/developing-for-android-v-f6b8038b42f5)
