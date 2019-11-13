@@ -29,7 +29,7 @@
   * Android Realm Migration Schema [Medium](https://medium.com/@budioktaviyans/android-realm-migration-schema-4fcef6c61e82)
   * How to use Realm for Android like a champ, and how to tell if you’re doing it wrong [Medium](https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149)
 
-* Everything you need to know about Memory Leaks in Androi [ProAndroidDev](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
+* Everything you need to know about Memory Leaks in Android [ProAndroidDev](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
 * Bohemian Wrapsody [ProAndroidDev](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
 * Configuring Android Project — Little Things That Matter [ProAndroidDev](https://proandroiddev.com/configuring-android-project-little-things-that-matter-d6a9d34c1ce0)
 * How modularization can speed up your Android app’s built time [FreeCodeCamp](https://medium.com/free-code-camp/how-modularisation-affects-build-time-of-an-android-application-43a984ce9968)
@@ -239,6 +239,12 @@
   * [Futurestudio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
   * [Tutsplus](https://code.tutsplus.com/tutorials/sending-data-with-retrofit-2-http-client-for-android--cms-27845)
 
+* Retrofit internal mechanism
+  * How does Retrofit work [ProAndroidDev](https://proandroiddev.com/how-does-retrofit-work-6ecad1bb683b)
+  * Understanding Android Networking Library — Retrofit 2 [MindOrks](https://medium.com/mindorks/understanding-android-networking-library-retrofit-2-510d07dc5b1f)
+  * How retrofit creates API instance [Medium](https://medium.com/@subhash2046/how-retrofit-creates-api-instance-e026cbfd63dd)
+  * Android Networking - Retrofit, OkHttp, Interceptors and JWT Token - MindOrks BootCamp Lecture [MindOrks YouTube Video](https://www.youtube.com/watch?v=tPIdWALEVLc)
+
 
 ### Background Processing
 
@@ -269,7 +275,7 @@
 * LoaderManager [Developer Android](https://developer.android.com/reference/android/app/LoaderManager)
 * Android Background Processing [Raywenderlich](https://www.raywenderlich.com/5306-android-background-processing)
 * Android Threading: All You Need to Know [Toptal](https://www.toptal.com/android/android-threading-all-you-need-to-know)
-* Server Synchronization (SyncAdapter) [Codepath](https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter)
+* Server Synchronization (SyncAdapter)  [Codepath](https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter)
 * Understanding Android Core: Looper, Handler, and HandlerThread [MindOrks](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a), [MindOrks YouTube Playlist](https://www.youtube.com/watch?v=rfLMwbOKLRk&list=PL6nth5sRD25hVezlyqlBO9dafKMc5fAU2)
 * Scheduling jobs like a pro with JobScheduler [Joanna Smith](https://medium.com/google-developers/scheduling-jobs-like-a-pro-with-jobscheduler-286ef8510129)
 * Services. The life with/without. And WorkManager [Google Developers](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)+
@@ -451,6 +457,7 @@
 * [Tutsplus](https://code.tutsplus.com/categories/android)
 * [Futurestudio](https://futurestud.io/tutorials)
 * [Codepath - Android Guides](https://github.com/codepath/android_guides)
+* [Coding in Flow](https://codinginflow.com/tutorials/android)
 * [JOE BIRCH](https://joebirch.co/)
 * [Instagram Engineering](https://instagram-engineering.com/tagged/android)
 * [Inloopx](https://medium.com/inloopx/tagged/android)
