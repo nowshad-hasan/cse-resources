@@ -2,6 +2,7 @@
 
 * [Core Java](#core-java)
 * [OOP](#oop)
+* [Lambda](#lambda)
 * [Threading](#threading)
 * [Socket Programming](#socket-programming)
 * [Exception Handling](#exception-handling)
@@ -20,6 +21,10 @@
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
+
+### Lambda
+
+* Lambdas in Java: A Peek under the Hood • Brian Goetz • GOTO 2013 [YouTube](https://www.youtube.com/watch?v=MLksirK9nnE)
 
 
 ### Threading
