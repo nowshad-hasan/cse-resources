@@ -7,6 +7,7 @@
 * [Socket Programming](#socket-programming)
 * [Exception Handling](#exception-handling)
 * [RxJava](#rxjava)
+
 ### Core Java
 
 * What is Upcasting and Downcasting in Java [Blog](https://www.codejava.net/java-core/the-java-language/what-is-upcasting-and-downcasting-in-java)
