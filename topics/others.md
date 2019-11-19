@@ -54,6 +54,7 @@
 * How A Failed Product Helped Us Turn Around [Codemarshal Blog](https://www.codemarshal.com/blog/how-a-failed-product-helped-us-turn-around/)
 * Pomodoro: একটি আলসেমি প্রডাকশন [Nourin Eka - FB  Note](https://tinyurl.com/y2xtlgan)
 * 996 ICU [GitHub Project](https://github.com/996icu/996.ICU)
+* Developer Economy by Mozammel Haque [YouTube](https://www.youtube.com/watch?v=0v2Z_ZT6Ues)
 
 ### Project Ideas
 
