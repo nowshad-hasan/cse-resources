@@ -520,6 +520,7 @@
   * Bulk SMS Website [Bulk SMS](https://bulksms.io/)
   * Sending text messages programmatically in android [Stackoverflow](https://stackoverflow.com/questions/8578689/sending-text-messages-programmatically-in-android?rq=1)
   * DELAY BY 1 minute BEFORE SENDING BULK SMS TO EACH NUMBER IN ANDROID [Stackoverflow](https://stackoverflow.com/questions/43849001/delay-by-1-minute-before-sending-bulk-sms-to-each-number-in-android)
+  * বাংলাদেশি অ্যান্ড্রয়েড ডেভেলপারদের হাল [Sunnat629](https://sunnat629.dev/bd-devs-condition/)
 
 ### Tools
 

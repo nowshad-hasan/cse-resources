@@ -36,6 +36,8 @@ Cheat sheet of different computer science concepts.
 * [Codementor](https://www.codementor.io/community)
 * [Return Zoo](https://returnzerooo.wordpress.com/)
 * [Kent C. Doods](https://kentcdodds.com/blog)
+* [Neil Kakkar](https://neilkakkar.com/)
+* [Sunnat 629](https://sunnat629.dev/blog/)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)

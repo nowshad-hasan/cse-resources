@@ -2,6 +2,10 @@
 
 * [Core Spring](#core-spring)
 * [Resources](#resources)
+* [Interview Question](#interview-question)
+
+### Core Spring
+* JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
 
 
 ### Resources
@@ -21,3 +25,8 @@
   * Learn Spring Boot - Rapid Spring Application Development [Udemy](https://www.udemy.com/course/spring-boot-intro/)
   * Learn Spring Boot in 100 Steps - Beginner to Expert [Udemy](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
   * Master Microservices with Spring Boot and Spring Cloud [Udemy](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+
+### Interview Question
+* Spring Interview Guide - 200+ Questions and Answers [GitHub](https://github.com/in28minutes/spring-interview-guide)
+* Spring-Boot-Interview-Questions [GitHub](https://github.com/rahulmoundekar/Spring-Boot-Interview-Questions)
+* Carrer Guru99[Top 70 Spring Boot Interview Questions & Answers](https://career.guru99.com/spring-boot-interview-questions/)

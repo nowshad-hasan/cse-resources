@@ -5,9 +5,11 @@
 * [Clean Code](#clean-code)
 * [Blockchain](#blockchain)
 * [Inspiration](#inspiration)
+* [Productivity](#productivity)
 * [Project Ideas](#project-ideas)
 * [Study in Abroad](#study-in-abroad)
 * [Free Tutorial](#free-tutorial)
+* [Personal Website](#personal-website)
 
 ### Article
 
@@ -23,6 +25,8 @@
 * 10 Git Commands You Should Know [Medium](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
 * Avoiding the messy git history [Medium](https://medium.com/prototyped/avoiding-the-messy-git-history-508c9066e63b)
 * An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them [FreeCodeCamp](https://medium.com/free-code-camp/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
+* How not to be afraid of git anymore [Neil Kakkar](https://neilkakkar.com/How-not-to-be-afraid-of-GIT-anymore.html)
+* Quick Tip: How to Work with GitHub and Multiple Accounts [Tuts Plus](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
 
 ### Clean Code
 
@@ -48,13 +52,22 @@
 * Code!=Life [Medium](https://medium.com/@hitherejoe/code-life-d25d9178e4da)
 * Learn to Code: Wisdom and Tools for the Journey [Toptal](https://www.toptal.com/freelance/learn-to-code-wisdom-and-tools)
 * Why Trello Failed to Build a $1 Billion+ Business [Medium](https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc)
-* Medium's Top 10 Posts on Productivity[Medium](https://medium.com/top-lists-for-entrepreneurs/medium-s-top-10-posts-of-all-time-about-productivity-f77a22cd25b2)
 * Guidelines for a good software negineer [Dev Skill](https://www.facebook.com/groups/devskillbd/permalink/747338905660811/)
 * Career Mistake Case 2 [Dev Skill](http://blog.devskill.com/career-mistake-case-2/?fbclid=IwAR1uEze4257zmZZx8PpPBG-Zq2qNCqNQZoSFnEVJ8AJUjCBaXUHJl0_o-Xw)
 * How A Failed Product Helped Us Turn Around [Codemarshal Blog](https://www.codemarshal.com/blog/how-a-failed-product-helped-us-turn-around/)
 * Pomodoro: একটি আলসেমি প্রডাকশন [Nourin Eka - FB  Note](https://tinyurl.com/y2xtlgan)
 * 996 ICU [GitHub Project](https://github.com/996icu/996.ICU)
 * Developer Economy by Mozammel Haque [YouTube](https://www.youtube.com/watch?v=0v2Z_ZT6Ues)
+* Things I Learnt from a Senior Software Engineer [](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
+* প্রোগ্রামিং আপনার জন্য নয় [Subeen.com](http://subeen.com/no-programming/)
+* How Not to Ruin Your Programming Career in 2019 [Medium](https://blog.usejournal.com/how-not-to-ruin-your-programming-career-707ab5db01d0)
+* কেন সিএসই পড়বা না [Subeen.com](http://subeen.com/dont-study-cse/)
+
+### Productivity
+
+* Medium's Top 10 Posts on Productivity [Medium](https://medium.com/top-lists-for-entrepreneurs/medium-s-top-10-posts-of-all-time-about-productivity-f77a22cd25b2)
+* [Kanban Tool](https://kanbantool.com/personal-kanban-board)
+* [Pomodoro](https://francescocirillo.com/pages/pomodoro-technique)
 
 ### Project Ideas
 
@@ -63,7 +76,26 @@
 
 ### Study in Abroad
 * Study in USA [Shantanu Shanto vai's FB Post](https://www.facebook.com/groups/483500628365392/permalink/1908875862494521/)
+* IELTS Materials [NexTop-USA](https://www.facebook.com/groups/nextop.usa/permalink/2516519158447247/)
+* Emailing professors [Higher Study Abroad](https://www.facebook.com/groups/HigherStudyAbroad/permalink/2749824401745890/)
+* Study in Norway [Khola Bakso](https://www.kholabakso.com/haatekhori/norway)
+* Scenery and strategy of GRE Exam [NexTop-USA](https://www.facebook.com/groups/nextop.usa/permalink/2454272444671919/)
+* GRE Suggestion[NexTop-USA](https://www.facebook.com/groups/nextop.usa/permalink/2457011744397989/)
+* Sudipto-kar's experience in GRE [FB Note](https://www.facebook.com/notes/sudipta-kar/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%86%E0%A6%B0%E0%A6%87-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE/10152488357353393/)
+
+* Some blogs about GRE and higher study
+  * [GAAB](https://gaabbd.com/)
+  * [HIGHER STUDY PREP](https://higherstudyprep.com/)
+  * [Grad bunker](https://www.gradbunker.com/)
+  * [GREC BD](http://hsa.grecbd.com/)
+* [Nafi Sami's FB Post](https://www.facebook.com/notes/nafi-sami/dream-higher-studygre/896681200415658/)
+* বিনামূল্যে উচ্চশিক্ষার জন্য বিশ্বের সেরা ৮ টি শিক্ষাবৃত্তি [Youth Carnival](http://youthcarnival.co/%e0%a6%ac%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a7%82%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a7%87-%e0%a6%89%e0%a6%9a%e0%a7%8d%e0%a6%9a%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0-%e0%a6%9c/)
+* What the GRE Test Is and How to Prepare [U.S.News](https://www.usnews.com/education/best-graduate-schools/articles/what-the-gre-test-is-and-how-to-prepare)
+* GRE Study Schedules and Plans [Magoosh](https://gre.magoosh.com/study-plans?fbclid=IwAR2TEU6Q4OnyccCyOiSjtiqTltEvBb3KWQz63LJO76mVsiOIC5IPRfFMizo)
 
 ### Free Tutorial
 
 * [Free Tutorial](https://freetutorials.se/)
+
+### Personal Website
+* [Asif Mohaimen](https://asifmohai.men/)
