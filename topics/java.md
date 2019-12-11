@@ -2,6 +2,7 @@
 
 * [Core Java](#core-java)
 * [OOP](#oop)
+* [Collection](#collection)
 * [Lambda](#lambda)
 * [Threading](#threading)
 * [Socket Programming](#socket-programming)
@@ -27,10 +28,14 @@
   * Inversion of Control Containers and the Dependency Injection pattern [Martin Flower](https://martinfowler.com/articles/injection.html)
   * Inversion Of Control [Martin Flower](https://martinfowler.com/bliki/InversionOfControl.html)
 * Java – Try with Resources [Baeldung](https://www.baeldung.com/java-try-with-resources)
+* Java Project Lombok [JournalDev](https://www.journaldev.com/18124/java-project-lombok)
 
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
+
+### Collection
+* Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
 
 ### Lambda
 
@@ -40,7 +45,7 @@
 
 
 ### Threading
-
+* Java Multithreading [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
 ### Socket Programming
 
 ### Exception Handling
@@ -53,3 +58,4 @@
 
 ### Resources
 * The 2019 Java Developer Roadmap [DZone](https://dzone.com/articles/the-2019-java-developer-roadmap)
+* Best Books For Learning Java : Must Read [Java Hungry](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html)

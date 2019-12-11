@@ -4,7 +4,7 @@
 * [Blog](#blog)
 
 
-### Blog
+### Website
 
 * [Freelancer.com](https://www.freelancer.com/)
 * [Rent-a-coder](https://www.rent-acoder.com/)

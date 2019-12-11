@@ -45,7 +45,7 @@
 
 * Dependency Injection [Jenkov](http://tutorials.jenkov.com/dependency-injection/index.html)
 * The Ultimate Guide To Social Login In Android Using CloudRail [Blog](https://coursetro.com/posts/code/13/The-Ultimate-Guide-To-Social-Login-In-Android-Using-CloudRail)
-
+* Automatic and one-tap SMS verification without SMS permission [Developer Android](https://developers.google.com/identity/sms-retriever)
 * Example of use from Proguard, from Android Studio [GitHub Gist](https://gist.github.com/jackgris/c4a71328b1ae346cba04)
 * Practical ProGuard rules examples [Android Developers - Medium](https://medium.com/androiddevelopers/practical-proguard-rules-examples-5640a3907dc9)
 * 4 Android Development Tools You’d Better Use [Blog](https://www.azoft.com/blog/android-development-tools/)
@@ -285,6 +285,7 @@
 * Alarms and Syncing and Tasks, Oh My! (Big Android BBQ 2015) [Android Developers - YouTube Video](https://youtu.be/7maNuWjL3Wc)
 * App Standby vs Doze: Understanding System Sleep [Android Developers - YouTube Video](https://www.youtube.com/watch?v=Rwshwq_vI1s)
 * Understanding Android Core: Looper, Handler, and HandlerThread [MindOrks YouTube Playlist](https://www.youtube.com/playlist?list=PL6nth5sRD25hCXGGnG3LXMTgWAwnS31r8)
+* AIDL (Android Interface Definition Language) [Developer Android](https://developer.android.com/guide/components/aidl), [AIDL Example GitHub](https://github.com/chintandesai49/AIDLDemo), [AndroidPub](https://android.jlelse.eu/android-aidl-937daf89e685), [MIT Edu](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html), [DZOne](https://dzone.com/articles/android-interface-definition)
 
 ### Architecture Component
 

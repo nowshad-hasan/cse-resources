@@ -6,7 +6,9 @@
 
 ### Core Spring
 * JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
-
+* Scheduler
+  * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
+  * The \@Scheduled Annotation [Baeldung](https://www.baeldung.com/spring-scheduled-tasks)
 
 ### Resources
 
