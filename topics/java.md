@@ -9,6 +9,7 @@
 * [Exception Handling](#exception-handling)
 * [RxJava](#rxjava)
 * [Resources](#resources)
+* [Others](#others)
 
 ### Core Java
 
@@ -59,3 +60,9 @@
 ### Resources
 * The 2019 Java Developer Roadmap [DZone](https://dzone.com/articles/the-2019-java-developer-roadmap)
 * Best Books For Learning Java : Must Read [Java Hungry](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html)
+
+### Others
+* Intellij Idea Shortcut
+  * Mastering IntelliJ IDEA keyboard shortcuts [JetBrains](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
+  * IDE Features Trainer: a New Way to Learn Your IDE [JetBrains Blog](https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/)
+  * IntelliJ IDEA Pro Tips [Medium](https://medium.com/@andrey_cheptsov/intellij-idea-pro-tips-6da48acafdb7)

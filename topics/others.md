@@ -36,6 +36,7 @@
 * How to Make Your Code Readable [Medium](https://medium.com/s/story/the-importance-of-readable-code-165895e939c7)
 * How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin [MindOrks](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
 * SOLID Principles every Developer Should Know [Medium](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+* If the code works, don't fix it... Or maybe do? When to refactor your code and when to leave it alone. [FreeCodeCamp](https://www.freecodecamp.org/news/advice-to-programmers-if-it-works-dont-fix-it-or/)
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
