@@ -26,7 +26,17 @@
 * Avoiding the messy git history [Medium](https://medium.com/prototyped/avoiding-the-messy-git-history-508c9066e63b)
 * An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them [FreeCodeCamp](https://medium.com/free-code-camp/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
 * How not to be afraid of git anymore [Neil Kakkar](https://neilkakkar.com/How-not-to-be-afraid-of-GIT-anymore.html)
-* Quick Tip: How to Work with GitHub and Multiple Accounts [Tuts Plus](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
+* Quick Tip: How to Work with GitHub and Multiple Accounts [Envato Tuts+](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
+* Git Vs Merge
+  * Git Tutorial: Rebasing & Merging [GitKraken](https://www.youtube.com/watch?v=a_msiOrYLgM)
+  * Git Basics: Merge and Rebase [Envato Tuts+](https://www.youtube.com/watch?v=dO9BtPDIHJ8)
+  * Git MERGE vs REBASE [Acedemind](https://www.youtube.com/watch?v=CRlGDDprdOQ)
+  * A Better Git Workflow with Rebase [Modern Coder](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+  * Merging vs. Rebasing [BitBucket](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+  * Git — Rebase vs Merge [Medium](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
+  * Git Merge vs. Rebase: What’s the Diff? [Hackernoon](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
+  * An introduction to Git merge and rebase: what they are, and how to use them [FreeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
+  * The Ultimate Guide to Git Merge and Git Rebase [FreeCodeCamp](https://www.freecodecamp.org/news/the-ultimate-guide-to-git-merge-and-git-rebase/)
 
 ### Clean Code
 
