@@ -63,6 +63,7 @@
 * প্রোগ্রামিং আপনার জন্য নয় [Subeen.com](http://subeen.com/no-programming/)
 * How Not to Ruin Your Programming Career in 2019 [Medium](https://blog.usejournal.com/how-not-to-ruin-your-programming-career-707ab5db01d0)
 * কেন সিএসই পড়বা না [Subeen.com](http://subeen.com/dont-study-cse/)
+* 30 Tips for Software Engineering Careers, After 30 Years of Life [Dev.to](https://dev.to/perigk/30-tips-for-software-engineering-careers-after-30-years-of-life-5ddf)
 * How to Set Objectives as a Software Engineer [Medium](https://blog.bitsrc.io/how-to-set-objectives-as-a-software-engineer-95c58cfbaad2)
 * 10 Signs You Will Suck at Programming [Medium](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
 * How to Develop Better Habits in 2019 [Medium](https://medium.com/s/notes-on-changing-your-life/how-to-develop-better-habits-in-2019-143e1e21ecbc)
