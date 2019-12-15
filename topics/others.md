@@ -63,6 +63,13 @@
 * প্রোগ্রামিং আপনার জন্য নয় [Subeen.com](http://subeen.com/no-programming/)
 * How Not to Ruin Your Programming Career in 2019 [Medium](https://blog.usejournal.com/how-not-to-ruin-your-programming-career-707ab5db01d0)
 * কেন সিএসই পড়বা না [Subeen.com](http://subeen.com/dont-study-cse/)
+* How to Set Objectives as a Software Engineer [Medium](https://blog.bitsrc.io/how-to-set-objectives-as-a-software-engineer-95c58cfbaad2)
+* 10 Signs You Will Suck at Programming [Medium](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
+* How to Develop Better Habits in 2019 [Medium](https://medium.com/s/notes-on-changing-your-life/how-to-develop-better-habits-in-2019-143e1e21ecbc)
+* Six Years With a Distraction-Free iPhone [Medium](https://medium.com/make-time/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3)
+* Why most redesigns fail [Medium](https://medium.com/free-code-camp/why-most-redesigns-fail-6ecaaf1b584e)
+* Who will steal Android from Google? [Medium](https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e)
+* How to think like a programmer — lessons in problem solving [Medium](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 
 ### Productivity
 

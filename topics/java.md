@@ -47,6 +47,7 @@
 
 ### Threading
 * Java Multithreading [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+
 ### Socket Programming
 
 ### Exception Handling
@@ -66,3 +67,4 @@
   * Mastering IntelliJ IDEA keyboard shortcuts [JetBrains](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
   * IDE Features Trainer: a New Way to Learn Your IDE [JetBrains Blog](https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/)
   * IntelliJ IDEA Pro Tips [Medium](https://medium.com/@andrey_cheptsov/intellij-idea-pro-tips-6da48acafdb7)
+  * Don’t use Lombok [Medium](https://medium.com/@vgonzalo/dont-use-lombok-672418daa819)

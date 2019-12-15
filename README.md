@@ -18,6 +18,7 @@ Cheat sheet of different computer science concepts.
 * [Frontend](/topics/frontend.md)
 * [Machine Learning](/topics/machine%20learning.md)
 * [Javascript](/topics/javascript.md)
+* [Testing](/topics/testing.md)
 * [Others](/topics/others.md)
 
 ## Blogs
@@ -39,6 +40,7 @@ Cheat sheet of different computer science concepts.
 * [Neil Kakkar](https://neilkakkar.com/)
 * [Sunnat 629](https://sunnat629.dev/blog/)
 * [Cave of Programming](https://courses.caveofprogramming.com/courses)
+* [Alison Wyllie](https://alisonwyllie.com/index.html)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)

@@ -522,6 +522,7 @@
   * Sending text messages programmatically in android [Stackoverflow](https://stackoverflow.com/questions/8578689/sending-text-messages-programmatically-in-android?rq=1)
   * DELAY BY 1 minute BEFORE SENDING BULK SMS TO EACH NUMBER IN ANDROID [Stackoverflow](https://stackoverflow.com/questions/43849001/delay-by-1-minute-before-sending-bulk-sms-to-each-number-in-android)
   * বাংলাদেশি অ্যান্ড্রয়েড ডেভেলপারদের হাল [Sunnat629](https://sunnat629.dev/bd-devs-condition/)
+  * 20 library I use in my every android project [Medium](https://medium.com/@mdmasudparvez/20-library-i-use-in-my-every-android-project-2aea460db2e4)
 
 ### Tools
 
