@@ -9,6 +9,11 @@
 * Scheduler
   * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
   * The \@Scheduled Annotation [Baeldung](https://www.baeldung.com/spring-scheduled-tasks)
+* Autowiring in Spring
+  * Autowiring in Spring [DZone](https://dzone.com/articles/autowiring-in-spring)
+  * Guide to Spring \@Autowired [Baeldung](https://www.baeldung.com/spring-autowire)
+  * Spring \@Autowired Annotation [JournalDev](https://www.journaldev.com/2623/spring-autowired-annotation)
+
 
 ### Resources
 
@@ -27,6 +32,7 @@
   * Learn Spring Boot - Rapid Spring Application Development [Udemy](https://www.udemy.com/course/spring-boot-intro/)
   * Learn Spring Boot in 100 Steps - Beginner to Expert [Udemy](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
   * Master Microservices with Spring Boot and Spring Cloud [Udemy](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+  * Spring Framework 5: Beginner to Guru [Udemy](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
 
 ### Interview Question
 * Spring Interview Guide - 200+ Questions and Answers [GitHub](https://github.com/in28minutes/spring-interview-guide)

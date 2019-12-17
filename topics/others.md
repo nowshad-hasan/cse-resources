@@ -81,6 +81,7 @@
 * Why most redesigns fail [Medium](https://medium.com/free-code-camp/why-most-redesigns-fail-6ecaaf1b584e)
 * Who will steal Android from Google? [Medium](https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e)
 * How to think like a programmer — lessons in problem solving [Medium](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+* Software Anger Management [Kaz Software Blog](https://mailchi.mp/a562933c20d8/anger-management-in-software-projects)
 
 ### Productivity
 
@@ -91,7 +92,7 @@
 ### Project Ideas
 
 * University of OxFord - Student Projects [Website](http://www.cs.ox.ac.uk/teaching/courses/projects/)
-
+* Here are some app ideas you can build to level up your coding skills [FreeCodeCamp](https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/)
 
 ### Study in Abroad
 * Study in USA [Shantanu Shanto vai's FB Post](https://www.facebook.com/groups/483500628365392/permalink/1908875862494521/)

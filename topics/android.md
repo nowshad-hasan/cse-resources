@@ -336,6 +336,7 @@
   * MVVM architecture, ViewModel and LiveData (Part 1) [ProAndroidDev](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1)
   * Android by example : MVVM +Data Binding -> Introduction (Part 1) [Medium](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)
   * MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
+  * Android Architecture: Communication between ViewModel and View [AndroidPub](https://android.jlelse.eu/android-architecture-communication-between-viewmodel-and-view-ce14805d72bf)
 
 * Dagger 2
   * The Future of Dependency Injection with Dagger 2 [YouTube](https://www.youtube.com/watch?v=plK0zyRLIP8)
@@ -345,6 +346,18 @@
   * That Missing Guide: How to use Dagger2 [Medium](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
   * The Future of Dependency Injection with Dagger 2 [YouTube Video](https://www.youtube.com/watch?v=plK0zyRLIP8)
   * Dagger 2 With Android - Introduction [YouTube Video](https://youtu.be/ky64UTUiNSs)
+  * Dagger & Android [Dagger Doc](https://dagger.dev/android)
+  * A Complete Guide To Learn Dagger 2 [MindOrks](https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c)
+  * Android testing using Dagger 2, Mockito and a custom JUnit rule [Medium](https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56)
+  * Dagger Tutorial [Dagger Doc](https://dagger.dev/tutorial/)
+  * Testing with Dagger [Dagger Doc](https://dagger.dev/testing.html)
+  * Using Dagger 2 for dependency injection in Android - Tutorial [Vogella](https://www.vogella.com/tutorials/Dagger/article.html)
+  * Dagger 2 on Android: The Simple Way [ProAndroidDev](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
+  * Practical guide to Dagger 2 [AndroidPub](https://android.jlelse.eu/practical-guide-to-dagger-76398948a2ea)
+  * Android Dependency Injection – Dagger 2 [JournalDev](https://www.journaldev.com/16758/android-dependeny-injection-dagger)
+  * Dependency injection in Android [Developer Android](https://developer.android.com/training/dependency-injection)
+  * Dagger2 Android Example [Android Wave](https://androidwave.com/dagger2-android-example/)
+  * Dagger 2 Beginner Tutorial - Android Programming [Coding in Flow - YouTube Playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65)
 
 
 ### Gradle
