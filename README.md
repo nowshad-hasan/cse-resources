@@ -7,6 +7,7 @@ Cheat sheet of different computer science concepts.
 * [Java](/topics/java.md)
 * [Spring](/topics/spring.md)
 * [Android](/topics/android.md)
+* [Kotlin](/topics/kotlin.md)
 * [Database](/topics/database.md)
 * [Design Pattern](/topics/design%20pattern.md)
 * [Generics](/topics/generics.md)
@@ -42,6 +43,7 @@ Cheat sheet of different computer science concepts.
 * [Sunnat 629](https://sunnat629.dev/blog/)
 * [Cave of Programming](https://courses.caveofprogramming.com/courses)
 * [Alison Wyllie](https://alisonwyllie.com/index.html)
+* [Mosh Hamedani](https://programmingwithmosh.com/)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)

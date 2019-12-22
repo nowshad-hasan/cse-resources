@@ -5,6 +5,7 @@
 * [UI Component](#ui-component)
 * [Networking](#networking)
 * [Background Processing](#background-processing)
+* [Location](#location)
 * [Architecture Component](#architecture-component)
 * [Architecture Pattern](#architecture-pattern)
 * [Testing](#testing)
@@ -286,6 +287,16 @@
 * App Standby vs Doze: Understanding System Sleep [Android Developers - YouTube Video](https://www.youtube.com/watch?v=Rwshwq_vI1s)
 * Understanding Android Core: Looper, Handler, and HandlerThread [MindOrks YouTube Playlist](https://www.youtube.com/playlist?list=PL6nth5sRD25hCXGGnG3LXMTgWAwnS31r8)
 * AIDL (Android Interface Definition Language) [Developer Android](https://developer.android.com/guide/components/aidl), [AIDL Example GitHub](https://github.com/chintandesai49/AIDLDemo), [AndroidPub](https://android.jlelse.eu/android-aidl-937daf89e685), [MIT Edu](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html), [DZOne](https://dzone.com/articles/android-interface-definition)
+
+### Location
+
+* Location and context overview [Developer Android](https://developer.android.com/training/location)
+* Android GPS, Location Manager Tutorial [Android Hive](https://www.androidhive.info/2012/07/android-gps-location-manager-tutorial/)
+* Using GPS, Location Manager in Android: Android Tutorial [MindOrks](https://blog.mindorks.com/using-gps-location-manager-in-android-android-tutorial)
+* The Beginner’s Guide to Location in Android [Treehouse](https://blog.teamtreehouse.com/beginners-guide-location-android)
+* Android LocatiLocation and context overview on API with the fused location provider [Vogella](https://www.vogella.com/tutorials/AndroidLocationAPI/article.html)
+* Android - Location Based Services [Tutorialspoint](https://www.tutorialspoint.com/android/android_location_based_services.htm)
+* Google Maps & Google Places Android Course , [CodingWithMitch - YouTube Playlist 2018](https://youtu.be/RQxY7rrZATU), [CodingWithMitch - YouTube Playlist 2017](https://youtu.be/OknMZUnTyds)
 
 ### Architecture Component
 

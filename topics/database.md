@@ -15,3 +15,4 @@
   * SQL Tutorial: Learn SQL with MySQL Database -Beginner2Expert [Udemy](https://www.udemy.com/course/sql-tutorial-learn-sql-with-mysql-database-beginner2expert/)
   * Learn API Technical Writing: JSON and XML for Writers [Udemy](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
   * MySQL, SQL and Stored Procedures from Beginner to advanced [Udemy](https://www.udemy.com/course/mysql-and-sql-from-beginner-to-advanced/)
+  * Complete SQL Mastery [Coding With Mosh](https://codewithmosh.com/p/complete-sql-mastery)

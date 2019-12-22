@@ -82,6 +82,9 @@
 * Who will steal Android from Google? [Medium](https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e)
 * How to think like a programmer — lessons in problem solving [Medium](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 * Software Anger Management [Kaz Software Blog](https://mailchi.mp/a562933c20d8/anger-management-in-software-projects)
+* Why I use Java and Why You Should Learn It Too [Mosh Hamedani](https://programmingwithmosh.com/java/why-i-use-java-and-why-you-should-learn-it-too/)
+* You Can’t be a Developer! [Mosh Hamedani](https://programmingwithmosh.com/general/you-cant-be-a-developer/)
+* Why I Quit My Job [Mosh Hamedani](https://programmingwithmosh.com/general/why-i-quit-my-job/)
 
 ### Productivity
 

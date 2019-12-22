@@ -69,3 +69,8 @@
   * IDE Features Trainer: a New Way to Learn Your IDE [JetBrains Blog](https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/)
   * IntelliJ IDEA Pro Tips [Medium](https://medium.com/@andrey_cheptsov/intellij-idea-pro-tips-6da48acafdb7)
   * Don’t use Lombok [Medium](https://medium.com/@vgonzalo/dont-use-lombok-672418daa819)
+* KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton [YouTube](https://youtu.be/te3OU9fxC8U)
+
+### Tutorials
+* Java Developer [Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
+* Java Lambdas and the Stream API: Bringing Functional Programming to Java [Oreilly](https://www.oreilly.com/library/view/java-lambdas-and/9781484255940/)
