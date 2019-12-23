@@ -296,7 +296,7 @@
 * The Beginner’s Guide to Location in Android [Treehouse](https://blog.teamtreehouse.com/beginners-guide-location-android)
 * Android LocatiLocation and context overview on API with the fused location provider [Vogella](https://www.vogella.com/tutorials/AndroidLocationAPI/article.html)
 * Android - Location Based Services [Tutorialspoint](https://www.tutorialspoint.com/android/android_location_based_services.htm)
-* Google Maps & Google Places Android Course , [CodingWithMitch - YouTube Playlist 2018](https://youtu.be/RQxY7rrZATU), [CodingWithMitch - YouTube Playlist 2017](https://youtu.be/OknMZUnTyds)
+* Google Maps & Google Places Android Course , [CodingWithMitch - YouTube Playlist 2018](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-SZUrVOsbYMzH7tPigT3gi), [CodingWithMitch - YouTube Playlist 2017](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-vInwQhGSdnbyJ62nixHCt)
 
 ### Architecture Component
 

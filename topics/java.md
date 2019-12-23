@@ -14,7 +14,7 @@
 ### Core Java
 
 * What is Upcasting and Downcasting in Java [Blog](https://www.codejava.net/java-core/the-java-language/what-is-upcasting-and-downcasting-in-java)
-* Volatile keyword in Java [GeeksForGeeks](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
+* Volatile keyword in Java [GeeksforGeeks](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 * Are Marker Interfaces Dead? [DZone](https://dzone.com/articles/are-marker-interfaces-dead)
 * Is there a better approach to Marker? [Blog](https://www.javacodegeeks.com/2012/10/is-there-a-better-approach-to-marker.html)
 * Managing volatility [IBM Developer](https://www.ibm.com/developerworks/java/library/j-jtp06197/)
@@ -30,6 +30,7 @@
   * Inversion Of Control [Martin Flower](https://martinfowler.com/bliki/InversionOfControl.html)
 * Java – Try with Resources [Baeldung](https://www.baeldung.com/java-try-with-resources)
 * Java Project Lombok [JournalDev](https://www.journaldev.com/18124/java-project-lombok)
+* Sorted Sets and Sorted Maps [Blog](http://etutorials.org/cert/java+certification/Chapter+11.+Collections+and+Maps/11.6+Sorted+Sets+and+Sorted+Maps/), [Stackoverflow](https://stackoverflow.com/questions/14743986/why-do-we-need-a-treemap-treeset-when-we-have-sortedmap-sortedset), [GeeksforGeeks-SortedMap](https://www.geeksforgeeks.org/sortedmap-java-examples/), [GeeksforGeeks-SortedSet](https://www.geeksforgeeks.org/sortedset-java-examples/), [Java Doc](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-map.html), [Jenkov-sortedset](http://tutorials.jenkov.com/java-collections/sortedset.html), [Jenkov-sortedmap](http://tutorials.jenkov.com/java-collections/sortedmap.html)
 
 ### OOP
 
