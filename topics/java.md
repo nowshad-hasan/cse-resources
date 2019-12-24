@@ -37,6 +37,7 @@
 
 ### Collection
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
+* Collection and Generics in Java [Telusko - YouTube Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR)
 
 ### Lambda
 

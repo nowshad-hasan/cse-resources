@@ -64,6 +64,7 @@
 * How Not to Ruin Your Programming Career in 2019 [Medium](https://blog.usejournal.com/how-not-to-ruin-your-programming-career-707ab5db01d0)
 * কেন সিএসই পড়বা না [Subeen.com](http://subeen.com/dont-study-cse/)
 * 30 Tips for Software Engineering Careers, After 30 Years of Life [Dev.to](https://dev.to/perigk/30-tips-for-software-engineering-careers-after-30-years-of-life-5ddf)
+* Speech of Mr. Shah Ali Newaj Topu, CTO of SELISE | IIT, DU Industry Academia Collaboration 2017 [YouTube](https://youtu.be/CUcBGbmTvsM)
 
 ### Productivity
 
