@@ -26,7 +26,17 @@
 * Avoiding the messy git history [Medium](https://medium.com/prototyped/avoiding-the-messy-git-history-508c9066e63b)
 * An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them [FreeCodeCamp](https://medium.com/free-code-camp/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
 * How not to be afraid of git anymore [Neil Kakkar](https://neilkakkar.com/How-not-to-be-afraid-of-GIT-anymore.html)
-* Quick Tip: How to Work with GitHub and Multiple Accounts [Tuts Plus](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
+* Quick Tip: How to Work with GitHub and Multiple Accounts [Envato Tuts+](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
+* Git Vs Merge
+  * Git Tutorial: Rebasing & Merging [GitKraken](https://www.youtube.com/watch?v=a_msiOrYLgM)
+  * Git Basics: Merge and Rebase [Envato Tuts+](https://www.youtube.com/watch?v=dO9BtPDIHJ8)
+  * Git MERGE vs REBASE [Acedemind](https://www.youtube.com/watch?v=CRlGDDprdOQ)
+  * A Better Git Workflow with Rebase [Modern Coder](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+  * Merging vs. Rebasing [BitBucket](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+  * Git — Rebase vs Merge [Medium](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
+  * Git Merge vs. Rebase: What’s the Diff? [Hackernoon](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
+  * An introduction to Git merge and rebase: what they are, and how to use them [FreeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
+  * The Ultimate Guide to Git Merge and Git Rebase [FreeCodeCamp](https://www.freecodecamp.org/news/the-ultimate-guide-to-git-merge-and-git-rebase/)
 
 ### Clean Code
 
@@ -65,6 +75,17 @@
 * কেন সিএসই পড়বা না [Subeen.com](http://subeen.com/dont-study-cse/)
 * 30 Tips for Software Engineering Careers, After 30 Years of Life [Dev.to](https://dev.to/perigk/30-tips-for-software-engineering-careers-after-30-years-of-life-5ddf)
 * Speech of Mr. Shah Ali Newaj Topu, CTO of SELISE | IIT, DU Industry Academia Collaboration 2017 [YouTube](https://youtu.be/CUcBGbmTvsM)
+* How to Set Objectives as a Software Engineer [Medium](https://blog.bitsrc.io/how-to-set-objectives-as-a-software-engineer-95c58cfbaad2)
+* 10 Signs You Will Suck at Programming [Medium](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
+* How to Develop Better Habits in 2019 [Medium](https://medium.com/s/notes-on-changing-your-life/how-to-develop-better-habits-in-2019-143e1e21ecbc)
+* Six Years With a Distraction-Free iPhone [Medium](https://medium.com/make-time/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3)
+* Why most redesigns fail [Medium](https://medium.com/free-code-camp/why-most-redesigns-fail-6ecaaf1b584e)
+* Who will steal Android from Google? [Medium](https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e)
+* How to think like a programmer — lessons in problem solving [Medium](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+* Software Anger Management [Kaz Software Blog](https://mailchi.mp/a562933c20d8/anger-management-in-software-projects)
+* Why I use Java and Why You Should Learn It Too [Mosh Hamedani](https://programmingwithmosh.com/java/why-i-use-java-and-why-you-should-learn-it-too/)
+* You Can’t be a Developer! [Mosh Hamedani](https://programmingwithmosh.com/general/you-cant-be-a-developer/)
+* Why I Quit My Job [Mosh Hamedani](https://programmingwithmosh.com/general/why-i-quit-my-job/)
 
 ### Productivity
 
@@ -75,7 +96,7 @@
 ### Project Ideas
 
 * University of OxFord - Student Projects [Website](http://www.cs.ox.ac.uk/teaching/courses/projects/)
-
+* Here are some app ideas you can build to level up your coding skills [FreeCodeCamp](https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/)
 
 ### Study in Abroad
 * Study in USA [Shantanu Shanto vai's FB Post](https://www.facebook.com/groups/483500628365392/permalink/1908875862494521/)

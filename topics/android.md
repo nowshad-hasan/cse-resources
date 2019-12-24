@@ -5,6 +5,7 @@
 * [UI Component](#ui-component)
 * [Networking](#networking)
 * [Background Processing](#background-processing)
+* [Location](#location)
 * [Architecture Component](#architecture-component)
 * [Architecture Pattern](#architecture-pattern)
 * [Testing](#testing)
@@ -287,6 +288,16 @@
 * Understanding Android Core: Looper, Handler, and HandlerThread [MindOrks YouTube Playlist](https://www.youtube.com/playlist?list=PL6nth5sRD25hCXGGnG3LXMTgWAwnS31r8)
 * AIDL (Android Interface Definition Language) [Developer Android](https://developer.android.com/guide/components/aidl), [AIDL Example GitHub](https://github.com/chintandesai49/AIDLDemo), [AndroidPub](https://android.jlelse.eu/android-aidl-937daf89e685), [MIT Edu](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html), [DZOne](https://dzone.com/articles/android-interface-definition)
 
+### Location
+
+* Location and context overview [Developer Android](https://developer.android.com/training/location)
+* Android GPS, Location Manager Tutorial [Android Hive](https://www.androidhive.info/2012/07/android-gps-location-manager-tutorial/)
+* Using GPS, Location Manager in Android: Android Tutorial [MindOrks](https://blog.mindorks.com/using-gps-location-manager-in-android-android-tutorial)
+* The Beginner’s Guide to Location in Android [Treehouse](https://blog.teamtreehouse.com/beginners-guide-location-android)
+* Android LocatiLocation and context overview on API with the fused location provider [Vogella](https://www.vogella.com/tutorials/AndroidLocationAPI/article.html)
+* Android - Location Based Services [Tutorialspoint](https://www.tutorialspoint.com/android/android_location_based_services.htm)
+* Google Maps & Google Places Android Course , [CodingWithMitch - YouTube Playlist 2018](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-SZUrVOsbYMzH7tPigT3gi), [CodingWithMitch - YouTube Playlist 2017](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-vInwQhGSdnbyJ62nixHCt)
+
 ### Architecture Component
 
 * Architecture Components: How to use LiveData with Data Binding? [AndroidPub](https://android.jlelse.eu/android-architecture-components-livedata-with-data-binding-7bf85871bbd8)
@@ -336,6 +347,7 @@
   * MVVM architecture, ViewModel and LiveData (Part 1) [ProAndroidDev](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1)
   * Android by example : MVVM +Data Binding -> Introduction (Part 1) [Medium](https://medium.com/@husayn.hakeem/android-by-example-mvvm-data-binding-introduction-part-1-6a7a5f388bf7)
   * MVVM Architecture on Android [Speakerdeck](https://speakerdeck.com/petrnohejl/mvvm-architecture-on-android)
+  * Android Architecture: Communication between ViewModel and View [AndroidPub](https://android.jlelse.eu/android-architecture-communication-between-viewmodel-and-view-ce14805d72bf)
 
 * Dagger 2
   * The Future of Dependency Injection with Dagger 2 [YouTube](https://www.youtube.com/watch?v=plK0zyRLIP8)
@@ -345,6 +357,18 @@
   * That Missing Guide: How to use Dagger2 [Medium](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
   * The Future of Dependency Injection with Dagger 2 [YouTube Video](https://www.youtube.com/watch?v=plK0zyRLIP8)
   * Dagger 2 With Android - Introduction [YouTube Video](https://youtu.be/ky64UTUiNSs)
+  * Dagger & Android [Dagger Doc](https://dagger.dev/android)
+  * A Complete Guide To Learn Dagger 2 [MindOrks](https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c)
+  * Android testing using Dagger 2, Mockito and a custom JUnit rule [Medium](https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56)
+  * Dagger Tutorial [Dagger Doc](https://dagger.dev/tutorial/)
+  * Testing with Dagger [Dagger Doc](https://dagger.dev/testing.html)
+  * Using Dagger 2 for dependency injection in Android - Tutorial [Vogella](https://www.vogella.com/tutorials/Dagger/article.html)
+  * Dagger 2 on Android: The Simple Way [ProAndroidDev](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
+  * Practical guide to Dagger 2 [AndroidPub](https://android.jlelse.eu/practical-guide-to-dagger-76398948a2ea)
+  * Android Dependency Injection – Dagger 2 [JournalDev](https://www.journaldev.com/16758/android-dependeny-injection-dagger)
+  * Dependency injection in Android [Developer Android](https://developer.android.com/training/dependency-injection)
+  * Dagger2 Android Example [Android Wave](https://androidwave.com/dagger2-android-example/)
+  * Dagger 2 Beginner Tutorial - Android Programming [Coding in Flow - YouTube Playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65)
 
 
 ### Gradle
@@ -522,6 +546,7 @@
   * Sending text messages programmatically in android [Stackoverflow](https://stackoverflow.com/questions/8578689/sending-text-messages-programmatically-in-android?rq=1)
   * DELAY BY 1 minute BEFORE SENDING BULK SMS TO EACH NUMBER IN ANDROID [Stackoverflow](https://stackoverflow.com/questions/43849001/delay-by-1-minute-before-sending-bulk-sms-to-each-number-in-android)
   * বাংলাদেশি অ্যান্ড্রয়েড ডেভেলপারদের হাল [Sunnat629](https://sunnat629.dev/bd-devs-condition/)
+  * 20 library I use in my every android project [Medium](https://medium.com/@mdmasudparvez/20-library-i-use-in-my-every-android-project-2aea460db2e4)
 
 ### Tools
 

@@ -14,7 +14,7 @@
 ### Core Java
 
 * What is Upcasting and Downcasting in Java [Blog](https://www.codejava.net/java-core/the-java-language/what-is-upcasting-and-downcasting-in-java)
-* Volatile keyword in Java [GeeksForGeeks](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
+* Volatile keyword in Java [GeeksforGeeks](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 * Are Marker Interfaces Dead? [DZone](https://dzone.com/articles/are-marker-interfaces-dead)
 * Is there a better approach to Marker? [Blog](https://www.javacodegeeks.com/2012/10/is-there-a-better-approach-to-marker.html)
 * Managing volatility [IBM Developer](https://www.ibm.com/developerworks/java/library/j-jtp06197/)
@@ -30,6 +30,7 @@
   * Inversion Of Control [Martin Flower](https://martinfowler.com/bliki/InversionOfControl.html)
 * Java – Try with Resources [Baeldung](https://www.baeldung.com/java-try-with-resources)
 * Java Project Lombok [JournalDev](https://www.journaldev.com/18124/java-project-lombok)
+* Sorted Sets and Sorted Maps [Blog](http://etutorials.org/cert/java+certification/Chapter+11.+Collections+and+Maps/11.6+Sorted+Sets+and+Sorted+Maps/), [Stackoverflow](https://stackoverflow.com/questions/14743986/why-do-we-need-a-treemap-treeset-when-we-have-sortedmap-sortedset), [GeeksforGeeks-SortedMap](https://www.geeksforgeeks.org/sortedmap-java-examples/), [GeeksforGeeks-SortedSet](https://www.geeksforgeeks.org/sortedset-java-examples/), [Java Doc](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-map.html), [Jenkov-sortedset](http://tutorials.jenkov.com/java-collections/sortedset.html), [Jenkov-sortedmap](http://tutorials.jenkov.com/java-collections/sortedmap.html)
 
 ### OOP
 
@@ -48,6 +49,7 @@
 
 ### Threading
 * Java Multithreading [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+
 ### Socket Programming
 
 ### Exception Handling
@@ -67,3 +69,9 @@
   * Mastering IntelliJ IDEA keyboard shortcuts [JetBrains](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
   * IDE Features Trainer: a New Way to Learn Your IDE [JetBrains Blog](https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/)
   * IntelliJ IDEA Pro Tips [Medium](https://medium.com/@andrey_cheptsov/intellij-idea-pro-tips-6da48acafdb7)
+  * Don’t use Lombok [Medium](https://medium.com/@vgonzalo/dont-use-lombok-672418daa819)
+* KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton [YouTube](https://youtu.be/te3OU9fxC8U)
+
+### Tutorials
+* Java Developer [Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
+* Java Lambdas and the Stream API: Bringing Functional Programming to Java [Oreilly](https://www.oreilly.com/library/view/java-lambdas-and/9781484255940/)
