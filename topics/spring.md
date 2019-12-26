@@ -16,7 +16,7 @@
   * Spring \@Autowired Annotation [JournalDev](https://www.journaldev.com/2623/spring-autowired-annotation)
 * JPA Specifications
   * Spring JPA dynamic query example [Java Developer Zone](https://javadeveloperzone.com/spring/spring-jpa-dynamic-query-example/)
-  * JPA Specifications[Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.7.0.RELEASE/reference/html/#specifications)
+  * JPA Specifications [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.7.0.RELEASE/reference/html/#specifications)
   * Building a REST Query Language [Baeldung](https://www.baeldung.com/spring-rest-api-query-search-language-tutorial)
   * Spring Data - Multi-column searches [Stackoverflow](https://stackoverflow.com/questions/25872637/spring-data-multi-column-searches)
   * Using Spring Data JPA Specification [DZone](https://dzone.com/articles/using-spring-data-jpa-specification)
