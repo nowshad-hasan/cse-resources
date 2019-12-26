@@ -44,6 +44,7 @@ Cheat sheet of different computer science concepts.
 * [Cave of Programming](https://courses.caveofprogramming.com/courses)
 * [Alison Wyllie](https://alisonwyllie.com/index.html)
 * [Mosh Hamedani](https://programmingwithmosh.com/)
+* [](https://www.academind.com/learn/our-courses/)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)

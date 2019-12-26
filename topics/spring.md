@@ -6,6 +6,7 @@
 
 ### Core Spring
 * JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
+* Getting started with Spring Data JPA [Spring Blog](https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa)
 * Scheduler
   * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
   * The \@Scheduled Annotation [Baeldung](https://www.baeldung.com/spring-scheduled-tasks)
@@ -13,6 +14,17 @@
   * Autowiring in Spring [DZone](https://dzone.com/articles/autowiring-in-spring)
   * Guide to Spring \@Autowired [Baeldung](https://www.baeldung.com/spring-autowire)
   * Spring \@Autowired Annotation [JournalDev](https://www.journaldev.com/2623/spring-autowired-annotation)
+* JPA Specifications
+  * Spring JPA dynamic query example [Java Developer Zone](https://javadeveloperzone.com/spring/spring-jpa-dynamic-query-example/)
+  * JPA Specifications[Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.7.0.RELEASE/reference/html/#specifications)
+  * Building a REST Query Language [Baeldung](https://www.baeldung.com/spring-rest-api-query-search-language-tutorial)
+  * Spring Data - Multi-column searches [Stackoverflow](https://stackoverflow.com/questions/25872637/spring-data-multi-column-searches)
+  * Using Spring Data JPA Specification [DZone](https://dzone.com/articles/using-spring-data-jpa-specification)
+  * Use Criteria Queries in a Spring Data Application [Baeldung](https://www.baeldung.com/spring-data-criteria-queries)
+  * Spring Data JPA - Using Specifications to execute JPA Criteria Queries [LogicBig.com](https://www.logicbig.com/tutorials/spring-framework/spring-data/specifications.html)
+  * Advanced Spring Data JPA - Specifications and Querydsl [Spring Blog](https://spring.io/blog/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl/)
+  * Dynamic Queries with Spring Data JPA Specifications [Blog 1](https://attacomsian.com/blog/spring-data-jpa-specifications)
+  * Spring Data JPA Tutorial: Creating Database Queries With the JPA Criteria API [Blog 2](https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-part-four-jpa-criteria-queries/)
 
 
 ### Resources
