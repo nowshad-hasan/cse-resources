@@ -3,6 +3,7 @@
 * [Core Java](#core-java)
 * [OOP](#oop)
 * [Collection](#collection)
+* [Generics](#generics)
 * [Lambda](#lambda)
 * [Threading](#threading)
 * [Socket Programming](#socket-programming)
@@ -39,6 +40,12 @@
 ### Collection
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
 * Collection and Generics in Java [Telusko - YouTube Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR)
+
+### Generics
+* Type Erasure
+  * Type Erasure in Java Explained [Baeldung](https://www.baeldung.com/java-type-erasure)
+  * Type Erasure in Java [GeeksforGeeks](https://www.geeksforgeeks.org/type-erasure-java/)
+  * Type Erasure [Java Doc](https://docs.oracle.com/javase/tutorial/java/generics/erasure.html)
 
 ### Lambda
 
