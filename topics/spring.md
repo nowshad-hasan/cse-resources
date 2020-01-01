@@ -10,6 +10,9 @@
 * Scheduler
   * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
   * The \@Scheduled Annotation [Baeldung](https://www.baeldung.com/spring-scheduled-tasks)
+  * How to Schedule Tasks with Spring Boot [Callicoder](https://www.callicoder.com/spring-boot-task-scheduling-with-scheduled-annotation/)
+  * Scheduling Spring Boot Tasks [Stack Abuse](https://stackabuse.com/scheduling-spring-boot-tasks/)
+  * Spring Boot - Scheduling [Tutorials Point](https://www.tutorialspoint.com/spring_boot/spring_boot_scheduling.htm)
 * Autowiring in Spring
   * Autowiring in Spring [DZone](https://dzone.com/articles/autowiring-in-spring)
   * Guide to Spring \@Autowired [Baeldung](https://www.baeldung.com/spring-autowire)
