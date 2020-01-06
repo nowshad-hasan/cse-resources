@@ -502,6 +502,7 @@
 * [Chris Banes](https://chris.banes.dev)
 * [Learn Android Development Online](https://www.codementor.io/collections/learn-android-development-online-bwba0mlle)
 * [Arnob Notes](https://farhanarnob.wordpress.com/2017/10/23/android-important-link/)
+* [CodingWithMitch](https://codingwithmitch.com/)
 
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
