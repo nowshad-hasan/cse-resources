@@ -15,6 +15,7 @@ Cheat sheet of different computer science concepts.
 * [Open Source](/topics/open%20source.md)
 * [Networking](/topics/networking.md)
 * [Operating System](/topics/operating%20system.md)
+* [Computer Architecture](/topics/computer%20architecture.md)
 * [Hacking](/topics/hacking.md)
 * [Chrome Extension](/topics/chrome%20extension.md)
 * [Frontend](/topics/frontend.md)
@@ -44,7 +45,9 @@ Cheat sheet of different computer science concepts.
 * [Cave of Programming](https://courses.caveofprogramming.com/courses)
 * [Alison Wyllie](https://alisonwyllie.com/index.html)
 * [Mosh Hamedani](https://programmingwithmosh.com/)
-* [](https://www.academind.com/learn/our-courses/)
+* [Academind](https://www.academind.com/learn/our-courses/)
+* [Marcobehler](https://www.marcobehler.com/guides)
+* [JAKE WHARTON](https://jakewharton.com/blog/)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)

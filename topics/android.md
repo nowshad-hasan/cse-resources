@@ -24,7 +24,7 @@
 * The Android Lifecycle cheat sheet — part I: Single Activities [Android Developers - Medium](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
 * Notification Listener [GitHub Example](https://github.com/kpbird/NotificationListenerService-Example), [Developer Android](https://developer.android.com/reference/android/service/notification/NotificationListenerService)
 * Mastering Android context [FreeCodeCamp](https://medium.com/free-code-camp/mastering-android-context-7055c8478a22)
-
+* Use Java 8 language features [Developer Android](https://developer.android.com/studio/write/java8-support), [Stackoverflow](https://stackoverflow.com/questions/23318109/is-it-possible-to-use-java-8-for-android-development), [JAKE WHARTON](https://jakewharton.com/androids-java-8-support/)
 * Realm
   * The things I’ve learned using Realm [Medium](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb)
   * Android Realm Migration Schema [Medium](https://medium.com/@budioktaviyans/android-realm-migration-schema-4fcef6c61e82)
@@ -283,6 +283,7 @@
 * WorkManager Basics [Android Developers - Medium](https://medium.com/androiddevelopers/workmanager-basics-beba51e94048)
 * Who lives and who dies? Process priorities on Android [Android Developers - Medium](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f)
 * Roman Mazur - Android Loader, problems and solutions [GDG - YouTube Video](https://youtu.be/fqs-BIGHgIY)
+* It’s time to ditch Loaders in Android [Medium](https://medium.com/inloopx/its-time-to-ditch-loaders-in-android-6492616775f7)
 * Alarms and Syncing and Tasks, Oh My! (Big Android BBQ 2015) [Android Developers - YouTube Video](https://youtu.be/7maNuWjL3Wc)
 * App Standby vs Doze: Understanding System Sleep [Android Developers - YouTube Video](https://www.youtube.com/watch?v=Rwshwq_vI1s)
 * Understanding Android Core: Looper, Handler, and HandlerThread [MindOrks YouTube Playlist](https://www.youtube.com/playlist?list=PL6nth5sRD25hCXGGnG3LXMTgWAwnS31r8)

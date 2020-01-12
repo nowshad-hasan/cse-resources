@@ -32,6 +32,7 @@
 * Java – Try with Resources [Baeldung](https://www.baeldung.com/java-try-with-resources)
 * Java Project Lombok [JournalDev](https://www.journaldev.com/18124/java-project-lombok)
 * Sorted Sets and Sorted Maps [Blog](http://etutorials.org/cert/java+certification/Chapter+11.+Collections+and+Maps/11.6+Sorted+Sets+and+Sorted+Maps/), [Stackoverflow](https://stackoverflow.com/questions/14743986/why-do-we-need-a-treemap-treeset-when-we-have-sortedmap-sortedset), [GeeksforGeeks-SortedMap](https://www.geeksforgeeks.org/sortedmap-java-examples/), [GeeksforGeeks-SortedSet](https://www.geeksforgeeks.org/sortedset-java-examples/), [Java Doc](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-map.html), [Jenkov-sortedset](http://tutorials.jenkov.com/java-collections/sortedset.html), [Jenkov-sortedmap](http://tutorials.jenkov.com/java-collections/sortedmap.html)
+* A guide to Java versions and features [Blog](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
 
 ### OOP
 
@@ -70,6 +71,7 @@
 ### Resources
 * The 2019 Java Developer Roadmap [DZone](https://dzone.com/articles/the-2019-java-developer-roadmap)
 * Best Books For Learning Java : Must Read [Java Hungry](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html)
+* 10 Skills Java Programmer can Learn to Accelerate their Career [Dev.to](https://dev.to/javinpaul/10-skills-java-programmer-can-learn-to-accelerate-their-career-3nlh)
 
 ### Others
 * Intellij Idea Shortcut
