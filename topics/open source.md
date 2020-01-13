@@ -9,8 +9,6 @@
 * First Timers Only [Blog](https://kentcdodds.com/blog/first-timers-only)
 * How to Contribute to Open Source [Open Source Guide](https://opensource.guide/how-to-contribute/)
 * FreeCodeCamp - How To Contribute to Open Source [GitHub](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-* Your First GitHub Pull Request (in 10 Mins) [YouTube](https://www.youtube.com/watch?v=dSl_qnWO104)
-
 
 ### Collection
 * The Open Source Computer Science Degree [GitHub Repo](https://github.com/ForrestKnight/open-source-cs)
