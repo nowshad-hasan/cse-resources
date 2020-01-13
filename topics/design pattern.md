@@ -21,3 +21,4 @@
 * Design Patterns Video Tutorial [Darek Banas YouTube Playlist](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
 * Design Patterns tutorial for beginners [YouTube Playlist](https://www.youtube.com/playlist?list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
 * Java Design Patterns and Architecture [Cave of Programming](https://courses.caveofprogramming.com/p/java-design-patterns-and-architecture)
+* Java Design Patterns [GitHub Project](https://github.com/iluwatar/java-design-patterns)
