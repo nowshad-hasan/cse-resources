@@ -175,8 +175,10 @@
 * Prefetch Text Layout in RecyclerView [Android Developers - Medium](https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438)
 * Experimenting with Nested Scrolling [Android Design Patterns](https://www.androiddesignpatterns.com/2018/01/experimenting-with-nested-scrolling.html)
 * A successful XML naming convention [Jeroen Mols](https://jeroenmols.com/blog/2016/03/07/resourcenaming/)
-* Android Jetpack: Android Slices (Part-1) Introduction [ProAndroidDev](https://proandroiddev.com/android-jetpack-android-slices-introduction-cf0ce0f3e885)
-* Introducing Slice Builders KTX [Google Developers](https://medium.com/google-developers/introducing-slice-builders-ktx-2218ebde356)
+* Android Slices
+  * Android Jetpack: Android Slices (Part-1) Introduction [ProAndroidDev](https://proandroiddev.com/android-jetpack-android-slices-introduction-cf0ce0f3e885)
+  * Introducing Slice Builders KTX [Google Developers](https://medium.com/google-developers/introducing-slice-builders-ktx-2218ebde356)
+  * Android Slices [Developer Android](https://developer.android.com/guide/slices)
 * Mobile UX Design: The Right Ways to Ask Users for Permissions [UX Planet](https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27)
 * Exploring the Android Design Support Library: Bottom Navigation View [Medium](https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0)
 * Android Design — Coordinator Layout #1: An Introduction [Medium](https://medium.com/martinomburajr/android-design-coordinator-layout-1-an-introduction-10a1b91ded28)
