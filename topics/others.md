@@ -27,7 +27,7 @@
 * An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them [FreeCodeCamp](https://medium.com/free-code-camp/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
 * How not to be afraid of git anymore [Neil Kakkar](https://neilkakkar.com/How-not-to-be-afraid-of-GIT-anymore.html)
 * Quick Tip: How to Work with GitHub and Multiple Accounts [Envato Tuts+](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
-* Git Vs Merge
+* Rebase Vs Merge
   * Git Tutorial: Rebasing & Merging [GitKraken](https://www.youtube.com/watch?v=a_msiOrYLgM)
   * Git Basics: Merge and Rebase [Envato Tuts+](https://www.youtube.com/watch?v=dO9BtPDIHJ8)
   * Git MERGE vs REBASE [Acedemind](https://www.youtube.com/watch?v=CRlGDDprdOQ)
@@ -37,6 +37,11 @@
   * Git Merge vs. Rebase: What’s the Diff? [Hackernoon](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
   * An introduction to Git merge and rebase: what they are, and how to use them [FreeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
   * The Ultimate Guide to Git Merge and Git Rebase [FreeCodeCamp](https://www.freecodecamp.org/news/the-ultimate-guide-to-git-merge-and-git-rebase/)
+* Git School [YouTube Channel](https://www.youtube.com/channel/UCshmCws1MijkZLMkPmOmzbQ)
+* Git Rebase
+  * Git Branching - Rebasing [Git Doc](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+  * Git push rejected after feature branch rebase [Stackoverflow](https://stackoverflow.com/questions/8939977/git-push-rejected-after-feature-branch-rebase)
+  * The Git Rebase Introduction I Wish I'd Had [Dev.to](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
 
 ### Clean Code
 
