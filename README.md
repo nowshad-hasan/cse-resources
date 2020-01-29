@@ -48,6 +48,7 @@ Cheat sheet of different computer science concepts.
 * [Academind](https://www.academind.com/learn/our-courses/)
 * [Marcobehler](https://www.marcobehler.com/guides)
 * [JAKE WHARTON](https://jakewharton.com/blog/)
+* [Developer Roadmap](https://roadmap.sh/guides)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)

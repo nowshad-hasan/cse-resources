@@ -33,6 +33,7 @@
 * Java Project Lombok [JournalDev](https://www.journaldev.com/18124/java-project-lombok)
 * Sorted Sets and Sorted Maps [Blog](http://etutorials.org/cert/java+certification/Chapter+11.+Collections+and+Maps/11.6+Sorted+Sets+and+Sorted+Maps/), [Stackoverflow](https://stackoverflow.com/questions/14743986/why-do-we-need-a-treemap-treeset-when-we-have-sortedmap-sortedset), [GeeksforGeeks-SortedMap](https://www.geeksforgeeks.org/sortedmap-java-examples/), [GeeksforGeeks-SortedSet](https://www.geeksforgeeks.org/sortedset-java-examples/), [Java Doc](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-map.html), [Jenkov-sortedset](http://tutorials.jenkov.com/java-collections/sortedset.html), [Jenkov-sortedmap](http://tutorials.jenkov.com/java-collections/sortedmap.html)
 * A guide to Java versions and features [Blog](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
+* 26 Reasons Why Using Optional Correctly Is Not Optional [DZone](https://dzone.com/articles/using-optional-correctly-is-not-optional)
 
 ### OOP
 

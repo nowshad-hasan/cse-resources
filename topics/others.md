@@ -92,6 +92,7 @@
 * Why I use Java and Why You Should Learn It Too [Mosh Hamedani](https://programmingwithmosh.com/java/why-i-use-java-and-why-you-should-learn-it-too/)
 * You Can’t be a Developer! [Mosh Hamedani](https://programmingwithmosh.com/general/you-cant-be-a-developer/)
 * Why I Quit My Job [Mosh Hamedani](https://programmingwithmosh.com/general/why-i-quit-my-job/)
+* Levels of Seniority [Developer Roadmap](https://roadmap.sh/guides/levels-of-seniority)
 
 ### Productivity
 
