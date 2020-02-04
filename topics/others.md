@@ -42,6 +42,10 @@
   * Git Branching - Rebasing [Git Doc](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
   * Git push rejected after feature branch rebase [Stackoverflow](https://stackoverflow.com/questions/8939977/git-push-rejected-after-feature-branch-rebase)
   * The Git Rebase Introduction I Wish I'd Had [Dev.to](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
+* Git revert
+  * Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits [YouTube](https://www.youtube.com/watch?v=FdZecVxzJbk)
+  * How to undo (almost) anything with Git [GitHub Blog](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
+  * How to undo changes in Git [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-undo-changes-in-git-e1da7930afdb/)
 
 ### Clean Code
 
