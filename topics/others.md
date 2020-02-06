@@ -46,6 +46,8 @@
   * Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits [YouTube](https://www.youtube.com/watch?v=FdZecVxzJbk)
   * How to undo (almost) anything with Git [GitHub Blog](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
   * How to undo changes in Git [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-undo-changes-in-git-e1da7930afdb/)
+* 5 GitHub tips for new coders [FreeCodeCamp](https://www.freecodecamp.org/news/5-github-tips-for-new-coders-2f312689ffd5/)
+* Git Basics: Adding more changes to your last commit [Medium](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
 
 ### Clean Code
 
@@ -97,6 +99,10 @@
 * You Can’t be a Developer! [Mosh Hamedani](https://programmingwithmosh.com/general/you-cant-be-a-developer/)
 * Why I Quit My Job [Mosh Hamedani](https://programmingwithmosh.com/general/why-i-quit-my-job/)
 * Levels of Seniority [Developer Roadmap](https://roadmap.sh/guides/levels-of-seniority)
+* My path to Google [Nada Elawad, Software Engineer](https://students.googleblog.com/2020/01/my-path-to-google-nada-elawad-software.html), [Callen Therrien, Cloud Technical Resident](https://students.googleblog.com/2019/11/welcome-to-40th-installment-of-our-blog.html)
+* Large-scale Exploratory Testing: Let's Take a Tour | James Whittaker | STARWEST [YouTube](https://youtu.be/fNkYz1hB7r0)
+* Difference between Junior and Senior Developers [Mosh Hamedani](https://youtu.be/bevlMOzaFTc)
+* How to Get a Job as a Computer Programmer [Cave of Programming](https://youtu.be/Ma0MMIM1kVw)
 
 ### Productivity
 
@@ -134,3 +140,4 @@
 
 ### Personal Website
 * [Asif Mohaimen](https://asifmohai.men/)
+* [Software Developer Folio](https://github.com/saadpasta/developerFolio/)

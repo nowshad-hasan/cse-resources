@@ -1,7 +1,15 @@
 ## Contents
 
+* [Basics](#basics)
 * [NoSQL](#nosql)
 * [Resources](#resources)
+
+
+### Basics
+
+* Database schema management tools
+  * [Flyway](https://flywaydb.org/)
+  * [Liquibase](https://www.liquibase.org/)
 
 ### NoSQL
 

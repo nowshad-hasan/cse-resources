@@ -6,6 +6,7 @@ Cheat sheet of different computer science concepts.
 * [Problem Solving](/topics/problem%20solving.md)
 * [Java](/topics/java.md)
 * [Spring](/topics/spring.md)
+* [Rest API](/topics/rest%20api.md)
 * [Android](/topics/android.md)
 * [Kotlin](/topics/kotlin.md)
 * [Database](/topics/database.md)
@@ -44,11 +45,13 @@ Cheat sheet of different computer science concepts.
 * [Sunnat 629](https://sunnat629.dev/blog/)
 * [Cave of Programming](https://courses.caveofprogramming.com/courses)
 * [Alison Wyllie](https://alisonwyllie.com/index.html)
-* [Mosh Hamedani](https://programmingwithmosh.com/)
+* [Mosh Hamedani](https://codewithmosh.com/)
 * [Academind](https://www.academind.com/learn/our-courses/)
 * [Marcobehler](https://www.marcobehler.com/guides)
 * [JAKE WHARTON](https://jakewharton.com/blog/)
 * [Developer Roadmap](https://roadmap.sh/guides)
+* [Dimitri's Blog](https://dimitr.im/category/t)
+* [Okta Developer](https://developer.okta.com/blog/)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)

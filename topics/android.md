@@ -24,6 +24,7 @@
 * The Android Lifecycle cheat sheet — part I: Single Activities [Android Developers - Medium](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
 * Notification Listener [GitHub Example](https://github.com/kpbird/NotificationListenerService-Example), [Developer Android](https://developer.android.com/reference/android/service/notification/NotificationListenerService)
 * Mastering Android context [FreeCodeCamp](https://medium.com/free-code-camp/mastering-android-context-7055c8478a22)
+* Diving deep into Android Dex bytecode [ProAndroidDev](https://proandroiddev.com/diving-deep-into-android-dex-bytecode-48db82b170c8)
 * Use Java 8 language features [Developer Android](https://developer.android.com/studio/write/java8-support), [Stackoverflow](https://stackoverflow.com/questions/23318109/is-it-possible-to-use-java-8-for-android-development), [JAKE WHARTON](https://jakewharton.com/androids-java-8-support/)
 * Realm
   * The things I’ve learned using Realm [Medium](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb)
@@ -74,6 +75,7 @@
 * Grox: The Art of the State [Groupon Engineering](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
 * Android Developer’s Guide to Fragment Navigation Pattern [Toptal](https://www.toptal.com/android/android-fragment-navigation-pattern)
 * Top 10 Most Common Mistakes That Android Developers Make: A Programming Tutorial [Toptal](https://www.toptal.com/android/top-10-most-common-android-development-mistakes)
+* Diving deep into Android Dex bytecode [ProAndroidDev](https://proandroiddev.com/diving-deep-into-android-dex-bytecode-48db82b170c8)
 
 * Camera
   * The least you can do with Camera2 API [AndroidPub](https://android.jlelse.eu/the-least-you-can-do-with-camera2-api-2971c8c81b8b)
@@ -141,7 +143,7 @@
   * JOE'S GREAT ADAPTER HELL ESCAPE [Blog](http://hannesdorfmann.com/android/adapter-delegates)
   * RecyclerView ins and outs - Google I/O 2016 [YouTube Video](https://youtu.be/LqBlYJTfLP4)
   * Android Custom ListView - Master-Detail View[Open Activity] (YouTube Video)(https://youtu.be/r8esfTlepEo)
-
+* Chips: Material Components for Android [Material Design in Action](https://medium.com/material-design-in-action/chips-material-components-for-android-46001664a40f)
 * Using vector assets in Android apps [Android Developers - Medium](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
 * UI tips for pre and post Lollipop [Medium](https://medium.com/@etiennelawlor/layout-tips-for-pre-and-post-lollipop-bcb2e4cdd6b2)
 * Some tips to a better experience working with Android’s BottomNavigationView [ProAndroidDev](https://proandroiddev.com/some-tips-to-a-better-experience-working-with-androids-bottomnavigationview-2a224c687c1f)
@@ -233,6 +235,12 @@
   * Property Animation Overview [Developer Android](https://developer.android.com/guide/topics/graphics/prop-animation)
   * Images, Animations, Transitions - Android Programming [Coding in Flow- YouTube Playlist](https://www.youtube.com/playlist?list=PLrnPJCHvNZuARS1W7qMt-zxBNqWYZpOg6)
   * Android Studio - Shared Animation between Activities - Android Tutorial [YouTube Video](https://youtu.be/BF4yvhpMPcg)
+
+* OTP in android
+  * Automatic and one-tap SMS verification [Developer Android](https://developers.google.com/identity/sms-retriever)
+  * Easy SMS Verification in Android: SMS User Consent API [MindOrks](https://blog.mindorks.com/easy-sms-verification-in-android-sms-user-consent-api)
+  * Secure Android OTP & Account Verification using the SMS Retriever API [Medium](https://medium.com/@wilderpereira/secure-android-otp-account-verification-with-the-sms-retriever-api-c395c1985fbf)
+  * Google’s SMS retriever API (making OTP verification pain free) [AndroidPub](https://android.jlelse.eu/googles-sms-retriever-api-6540eb3c8e9c)
 
 ### Networking
 
@@ -514,6 +522,7 @@
 * Setting Up Jenkins For Android: How I dealt with the challenges I faced [AndroidPub](https://android.jlelse.eu/setting-up-jenkins-for-android-how-i-dealt-with-the-challenges-i-faced-1bbdb6580b8d)
 * Google just terminated our start-up Google Play Publisher Account on Christmas day [AndroidPub](https://android.jlelse.eu/google-just-terminated-our-start-up-google-play-publisher-account-on-christmas-day-5cb69a454da0)
 * Top (unknown) keyboard shortcuts in Android Studio [Codebrust](https://codeburst.io/top-unknown-keyboard-shortcuts-in-android-studio-7b1bf833c9f1)
+* Top Android Studio Shortcuts [Medium](https://medium.com/better-programming/top-android-studio-shortcuts-d0d04cbd41ae)
 * How to become more productive in android with android studio plugins [MindOrks](https://medium.com/mindorks/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7)
 * Open Source Your Android Code — The Complete Guide [AndroidPub](https://android.jlelse.eu/open-source-your-android-code-a-complete-guide-bf0032e50f0e)
 * Android developer — bored at work? [Medium](https://medium.com/@josiassena/android-developer-bored-at-work-efa0530415c4)
@@ -551,6 +560,7 @@
   * DELAY BY 1 minute BEFORE SENDING BULK SMS TO EACH NUMBER IN ANDROID [Stackoverflow](https://stackoverflow.com/questions/43849001/delay-by-1-minute-before-sending-bulk-sms-to-each-number-in-android)
   * বাংলাদেশি অ্যান্ড্রয়েড ডেভেলপারদের হাল [Sunnat629](https://sunnat629.dev/bd-devs-condition/)
   * 20 library I use in my every android project [Medium](https://medium.com/@mdmasudparvez/20-library-i-use-in-my-every-android-project-2aea460db2e4)
+  * 5 Essential Android Development Techniques [Candyspace](https://blog.candyspace.com/5-essential-android-techniques-for-2020)
 
 ### Tools
 

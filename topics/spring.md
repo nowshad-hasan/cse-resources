@@ -1,22 +1,28 @@
 ## Contents
 
 * [Core Spring](#core-spring)
+* [Spring Security](#spring-security)
 * [Resources](#resources)
-* [Interview Question](#interview-question)
 
 ### Core Spring
 * JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
 * Getting started with Spring Data JPA [Spring Blog](https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa)
+* Spring ResponseEntity
+  * Using Spring ResponseEntity to Manipulate the HTTP Response [Baeldung](https://www.baeldung.com/spring-response-entity)
+* A Guide To Cron Expressions [Baeldung](https://www.baeldung.com/cron-expressions)
+
 * Scheduler
   * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
   * The \@Scheduled Annotation [Baeldung](https://www.baeldung.com/spring-scheduled-tasks)
   * How to Schedule Tasks with Spring Boot [Callicoder](https://www.callicoder.com/spring-boot-task-scheduling-with-scheduled-annotation/)
   * Scheduling Spring Boot Tasks [Stack Abuse](https://stackabuse.com/scheduling-spring-boot-tasks/)
   * Spring Boot - Scheduling [Tutorials Point](https://www.tutorialspoint.com/spring_boot/spring_boot_scheduling.htm)
+
 * Autowiring in Spring
   * Autowiring in Spring [DZone](https://dzone.com/articles/autowiring-in-spring)
   * Guide to Spring \@Autowired [Baeldung](https://www.baeldung.com/spring-autowire)
   * Spring \@Autowired Annotation [JournalDev](https://www.journaldev.com/2623/spring-autowired-annotation)
+
 * JPA Specifications
   * Spring JPA dynamic query example [Java Developer Zone](https://javadeveloperzone.com/spring/spring-jpa-dynamic-query-example/)
   * JPA Specifications [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.7.0.RELEASE/reference/html/#specifications)
@@ -28,7 +34,18 @@
   * Advanced Spring Data JPA - Specifications and Querydsl [Spring Blog](https://spring.io/blog/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl/)
   * Dynamic Queries with Spring Data JPA Specifications [Blog 1](https://attacomsian.com/blog/spring-data-jpa-specifications)
   * Spring Data JPA Tutorial: Creating Database Queries With the JPA Criteria API [Blog 2](https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-part-four-jpa-criteria-queries/)
+  * Native Queries – How to call native SQL queries with JPA & Hibernate [Thoughts on JAVA](https://thoughts-on-java.org/jpa-native-queries/)
 
+* FCM integration with Spring
+  * Send push notifications from Spring Boot server-side application using FCM [Blog 1](https://blog.mestwin.net/send-push-notifications-from-spring-boot-server-side-application-using-fcm/)
+  * How To Send Firebase Push Notification From App Server Tutorial [Blog 2](http://developine.com/how-to-send-firebase-push-notifications-from-app-server-tutorial/)
+
+### Spring Security
+
+* Spring Boot and OAuth2 [Spring Doc](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+* OAuth2 Boot [Spring Doc](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsingle/)
+* A Quick Guide to OAuth 2.0 with Spring Security [Blog](https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide)
+* Securing REST Services With OAuth2 in Spring Boot [DZone](https://dzone.com/articles/securing-rest-services-with-oauth2-in-springboot-1)
 
 ### Resources
 
@@ -48,8 +65,3 @@
   * Learn Spring Boot in 100 Steps - Beginner to Expert [Udemy](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
   * Master Microservices with Spring Boot and Spring Cloud [Udemy](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
   * Spring Framework 5: Beginner to Guru [Udemy](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
-
-### Interview Question
-* Spring Interview Guide - 200+ Questions and Answers [GitHub](https://github.com/in28minutes/spring-interview-guide)
-* Spring-Boot-Interview-Questions [GitHub](https://github.com/rahulmoundekar/Spring-Boot-Interview-Questions)
-* Carrer Guru99 [Top 70 Spring Boot Interview Questions & Answers](https://career.guru99.com/spring-boot-interview-questions/)
