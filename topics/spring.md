@@ -11,6 +11,19 @@
   * Using Spring ResponseEntity to Manipulate the HTTP Response [Baeldung](https://www.baeldung.com/spring-response-entity)
 * A Guide To Cron Expressions [Baeldung](https://www.baeldung.com/cron-expressions)
 
+* Batch Insert
+  * Spring Data JPA Batch Insertion [Blog](https://www.roytuts.com/spring-data-jpa-batch-insertion/)
+  * Batch Insert/Update with Hibernate/JPA [Baeldung](https://www.baeldung.com/jpa-hibernate-batch-insert-update)
+  * Spring Data JPA Batch Inserts [Baeldung](https://www.baeldung.com/spring-data-jpa-batch-inserts)
+
+* Transaction Management
+  * Spring Boot Transaction Management Tutorial [JavaInUse](https://www.javainuse.com/spring/springtrans)
+  * Spring transaction management example using spring boot [Blog](https://netsurfingzone.com/spring/spring-transaction-management-example-using-spring-boot/)
+  * Understanding Transactional annotation in Spring [Java Code Geeks](https://www.javacodegeeks.com/2016/05/understanding-transactional-annotation-spring.html)
+  * Managing Transactions [Spring Guide](https://spring.io/guides/gs/managing-transactions/)
+  * How Does Spring \@Transactional Really Work? [DZone](https://dzone.com/articles/how-does-spring-transactional)
+  * Transactions with Spring and JPA [Baeldung](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
+
 * Scheduler
   * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
   * The \@Scheduled Annotation [Baeldung](https://www.baeldung.com/spring-scheduled-tasks)
