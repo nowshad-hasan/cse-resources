@@ -3,15 +3,13 @@ Cheat sheet of different computer science concepts.
 
 ## Topics
 
-* [Problem Solving](/topics/problem%20solving.md)
+* [Data Structure and Algorithm](/topics/data%20structure%20and%20algorithm.md)
 * [Java](/topics/java.md)
 * [Spring](/topics/spring.md)
-* [Rest API](/topics/rest%20api.md)
 * [Android](/topics/android.md)
 * [Kotlin](/topics/kotlin.md)
 * [Database](/topics/database.md)
 * [Design Pattern](/topics/design%20pattern.md)
-* [Generics](/topics/generics.md)
 * [Regex](/topics/regex.md)
 * [Open Source](/topics/open%20source.md)
 * [Networking](/topics/networking.md)
@@ -19,10 +17,12 @@ Cheat sheet of different computer science concepts.
 * [Computer Architecture](/topics/computer%20architecture.md)
 * [Hacking](/topics/hacking.md)
 * [Chrome Extension](/topics/chrome%20extension.md)
-* [Frontend](/topics/frontend.md)
-* [Machine Learning](/topics/machine%20learning.md)
+* [HTML and CSS](/topics/frontend.md)
 * [Javascript](/topics/javascript.md)
+* [Typescript](/topics/typescript.md)
+* [Angular](/topics/angular.md)
 * [Testing](/topics/testing.md)
+* [Machine Learning](/topics/machine%20learning.md)
 * [Others](/topics/others.md)
 
 ## Blogs
@@ -38,21 +38,27 @@ Cheat sheet of different computer science concepts.
 * [Source Making](https://sourcemaking.com/)
 * [Refactoring Guru](https://refactoring.guru/)
 * [Nick Kolenda - Full Guides](https://www.nickkolenda.com/my-guides/)
-* [Codementor](https://www.codementor.io/community)
-* [Return Zoo](https://returnzerooo.wordpress.com/)
+* [Return Zeroo](https://returnzerooo.wordpress.com/)
 * [Kent C. Doods](https://kentcdodds.com/blog)
-* [Neil Kakkar](https://neilkakkar.com/)
+* [Neil Kakkar](https://neilkakkar.com/blog/)
 * [Sunnat 629](https://sunnat629.dev/blog/)
-* [Cave of Programming](https://courses.caveofprogramming.com/courses)
 * [Alison Wyllie](https://alisonwyllie.com/index.html)
-* [Mosh Hamedani](https://codewithmosh.com/)
-* [Academind](https://www.academind.com/learn/our-courses/)
-* [Marcobehler](https://www.marcobehler.com/guides)
-* [JAKE WHARTON](https://jakewharton.com/blog/)
+* [Jake Wharton](https://jakewharton.com/blog/)
 * [Developer Roadmap](https://roadmap.sh/guides)
 * [Dimitri's Blog](https://dimitr.im/category/t)
 * [Okta Developer](https://developer.okta.com/blog/)
+* [Francistao - Learning Notes](https://github.com/francistao/LearningNotes)
+* [Coder Book](https://coderbook.com)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)
 * [List of Free Learning Resources Awesome](https://github.com/EbookFoundation/free-programming-books)
+
+## Tools
+* [Codementor](https://www.codementor.io/community)
+
+## Online Learning
+* [Cave of Programming](https://courses.caveofprogramming.com/courses)
+* [Mosh Hamedani](https://codewithmosh.com/)
+* [Academind](https://www.academind.com/learn/our-courses/)
+* [FreeCodeCamp](https://www.freecodecamp.org/)

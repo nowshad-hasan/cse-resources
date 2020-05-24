@@ -1,5 +1,7 @@
 ### Contents
 
+* [Data Structure](#data-structure)
+* [Algorithm](#algorithm)
 * [Online Judge Account](#online-judge-account)
 * [Article](#article)
 * [Problem Collection](#problem-collection)

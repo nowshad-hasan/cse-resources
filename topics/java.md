@@ -11,6 +11,7 @@
 * [RxJava](#rxjava)
 * [Resources](#resources)
 * [Others](#others)
+* [Blogs](#blogs)
 
 ### Core Java
 
@@ -85,3 +86,6 @@
 ### Tutorials
 * Java Developer [Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
 * Java Lambdas and the Stream API: Bringing Functional Programming to Java [Oreilly](https://www.oreilly.com/library/view/java-lambdas-and/9781484255940/)
+
+### Blogs
+* [Marcobehler](https://www.marcobehler.com/guides)
