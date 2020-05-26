@@ -17,7 +17,7 @@ Cheat sheet of different computer science concepts.
 * [Computer Architecture](/topics/computer%20architecture.md)
 * [Hacking](/topics/hacking.md)
 * [Chrome Extension](/topics/chrome%20extension.md)
-* [HTML and CSS](/topics/frontend.md)
+* [HTML and CSS](/topics/html%20and%20css.md)
 * [Javascript](/topics/javascript.md)
 * [Typescript](/topics/typescript.md)
 * [Angular](/topics/angular.md)

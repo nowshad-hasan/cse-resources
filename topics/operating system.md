@@ -9,4 +9,4 @@
 * The mind behind Linux | Linus Torvalds [Ted YouTube Video](https://www.youtube.com/watch?v=o8NPllzkFhE&fbclid=IwAR1-S15CR5xWSDpJ98iwrTfU-smwUBCZcJ06O2YEPuFm60CfNRGzlzP3URA)
 
 ### Blog
-* [Sysdevbd](sysdevbd.github.io), [Schedule](https://sysdevbd.com/schedule/batch-1/)
+* [Sysdevbd](https://sysdevbd.com/)
