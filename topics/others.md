@@ -137,7 +137,3 @@
 ### Free Tutorial
 
 * [Free Tutorial](https://freetutorials.se/)
-
-### Personal Website
-* [Asif Mohaimen](https://asifmohai.men/)
-* [Software Developer Folio](https://github.com/saadpasta/developerFolio/)

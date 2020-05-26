@@ -566,4 +566,3 @@
 
 * [Microsoft App Center](https://appcenter.ms/)
 * [Figma](https://www.figma.com)
-* [Adobe XD](https://www.adobe.com/products/xd.html)

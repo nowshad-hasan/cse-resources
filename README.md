@@ -8,6 +8,7 @@ Cheat sheet of different computer science concepts.
 * [Spring](/topics/spring.md)
 * [Android](/topics/android.md)
 * [Kotlin](/topics/kotlin.md)
+* [System Design](/topics/system%20design.md)
 * [Database](/topics/database.md)
 * [Design Pattern](/topics/design%20pattern.md)
 * [Regex](/topics/regex.md)
@@ -23,6 +24,7 @@ Cheat sheet of different computer science concepts.
 * [Angular](/topics/angular.md)
 * [Testing](/topics/testing.md)
 * [Machine Learning](/topics/machine%20learning.md)
+* [Freelancing](/topics/freelancing.md)
 * [Others](/topics/others.md)
 
 ## Blogs

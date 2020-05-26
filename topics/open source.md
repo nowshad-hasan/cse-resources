@@ -6,7 +6,7 @@
 
 ### Article
 
-* First Timers Only [Blog](https://kentcdodds.com/blog/first-timers-only)
+* First Timers Only by Kent C. Dodds [Blog](https://kentcdodds.com/blog/first-timers-only)
 * How to Contribute to Open Source [Open Source Guide](https://opensource.guide/how-to-contribute/)
 * FreeCodeCamp - How To Contribute to Open Source [GitHub](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 

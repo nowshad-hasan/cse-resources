@@ -6,11 +6,13 @@
 * [Resources](#resources)
 
 ### Core Spring
-* JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
-* Getting started with Spring Data JPA [Spring Blog](https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa)
 * Spring ResponseEntity
   * Using Spring ResponseEntity to Manipulate the HTTP Response [Baeldung](https://www.baeldung.com/spring-response-entity)
 * A Guide To Cron Expressions [Baeldung](https://www.baeldung.com/cron-expressions)
+
+* JPA
+  * JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
+  * Getting started with Spring Data JPA [Spring Blog](https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa)
 
 * Batch Insert
   * Spring Data JPA Batch Insertion [Blog](https://www.roytuts.com/spring-data-jpa-batch-insertion/)
@@ -63,8 +65,6 @@
 
 ### Rest API
 
-## Core
-
 * Representational State Transfer (REST) [Publication](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 * Naming Convention
   * REST Resource Naming Guide [REST API Tutorial](https://restfulapi.net/resource-naming/)
@@ -72,14 +72,8 @@
   * Naming Conventions [Google Cloud](https://cloud.google.com/apis/design/naming_convention)
   * Best Practices for Designing a Pragmatic RESTful API [Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
   * Resource Naming [REST: A RESTful Tutorial](https://www.restapitutorial.com/lessons/restfulresourcenaming.html)
-
-## Resources
-
 * [REST API Tutorial](https://restfulapi.net/)
 * [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)
-
-## Others
-
 * Some famous API reference:
   * [Slack](https://api.slack.com/methods)
   * [Flickr](https://www.flickr.com/services/api/)
@@ -89,7 +83,7 @@
 
 ### Resources
 
-* [Learn Spring Boot](https://www.baeldung.com/spring-boot)
+* [Learn Spring Boot by Baeldung](https://www.baeldung.com/spring-boot)
 * [Spring Boot Tutorials For Beginners - Articles and Videos](http://www.springboottutorial.com/tags/)
 * [Spring Boot by FreeCodeCamp](https://www.freecodecamp.org/news/tag/spring-boot/)
 * [Spring Boot Tutorials by Mkyong.com](https://www.mkyong.com/tutorials/spring-boot-tutorials/)
