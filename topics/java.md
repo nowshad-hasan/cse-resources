@@ -8,6 +8,7 @@
 * [Threading](#threading)
 * [Socket Programming](#socket-programming)
 * [Exception Handling](#exception-handling)
+* [Testing](#testing)
 * [RxJava](#rxjava)
 * [Resources](#resources)
 * [Others](#others)
@@ -34,11 +35,15 @@
 * Java Project Lombok [JournalDev](https://www.journaldev.com/18124/java-project-lombok)
 * Sorted Sets and Sorted Maps [Blog](http://etutorials.org/cert/java+certification/Chapter+11.+Collections+and+Maps/11.6+Sorted+Sets+and+Sorted+Maps/), [Stackoverflow](https://stackoverflow.com/questions/14743986/why-do-we-need-a-treemap-treeset-when-we-have-sortedmap-sortedset), [GeeksforGeeks-SortedMap](https://www.geeksforgeeks.org/sortedmap-java-examples/), [GeeksforGeeks-SortedSet](https://www.geeksforgeeks.org/sortedset-java-examples/), [Java Doc](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-map.html), [Jenkov-sortedset](http://tutorials.jenkov.com/java-collections/sortedset.html), [Jenkov-sortedmap](http://tutorials.jenkov.com/java-collections/sortedmap.html)
 * A guide to Java versions and features [Blog](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features)
-* 26 Reasons Why Using Optional Correctly Is Not Optional [DZone](https://dzone.com/articles/using-optional-correctly-is-not-optional)
+* Optional
+  * 26 Reasons Why Using Optional Correctly Is Not Optional [DZone](https://dzone.com/articles/using-optional-correctly-is-not-optional)
+  * Java Optionals by Amigoscode [YouTube](https://youtu.be/1xCxoOuDZuU)
+* Java Functional Programming by Amigoscode [YouTube](https://youtu.be/VRpHdSFWGPs)
 
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
+* Object Oriented Programming By Bazlur Rahman [YouTube](https://youtu.be/DJO1k6LLSR8)
 
 ### Collection
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
@@ -55,7 +60,7 @@
 * Lambdas in Java: A Peek under the Hood • Brian Goetz • GOTO 2013 [YouTube](https://www.youtube.com/watch?v=MLksirK9nnE)
 * Java Lambda Expressions [Jenkov](http://tutorials.jenkov.com/java/lambda-expressions.html#lambda-body)
 * Java 8 Lambda Basics [Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
-
+* Introducing Lambda Expression by Bazlur Rahman [YouTube](https://youtu.be/wpT8gKQTkk0)
 
 ### Threading
 * Java Multithreading [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
@@ -66,6 +71,10 @@
 
 * Why you should ignore exceptions in Java and how to do it correctly [FreeCodeCamp](https://medium.com/free-code-camp/why-you-should-ignore-exceptions-in-java-and-how-to-do-it-correctly-8e95e5775e58)
 
+### Testing
+* JUnit 5 Basics by Java Brains [YouTube Playlist](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
+* JUnit 5 — The New Testing Framework for Java and Platform for the JVM by Marc Philipp, Sam Brannen [YouTube](https://youtu.be/oGaatK5ShUs)
+
 ### RxJava
 * Functional Reactive Programming with RxJava by Ben Christensen [GOTO 2013](https://youtu.be/_t06LRX0DV0)
 * Applying Reactive Programming with Rx by Ben Christensen [GOTO 2015](https://youtu.be/8OcCSQS0tug)
@@ -74,18 +83,17 @@
 * The 2019 Java Developer Roadmap [DZone](https://dzone.com/articles/the-2019-java-developer-roadmap)
 * Best Books For Learning Java : Must Read [Java Hungry](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html)
 * 10 Skills Java Programmer can Learn to Accelerate their Career [Dev.to](https://dev.to/javinpaul/10-skills-java-programmer-can-learn-to-accelerate-their-career-3nlh)
-
-### Others
-* Intellij Idea Shortcut
-  * Mastering IntelliJ IDEA keyboard shortcuts [JetBrains](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
-  * IDE Features Trainer: a New Way to Learn Your IDE [JetBrains Blog](https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/)
-  * IntelliJ IDEA Pro Tips [Medium](https://medium.com/@andrey_cheptsov/intellij-idea-pro-tips-6da48acafdb7)
-* KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton [YouTube](https://youtu.be/te3OU9fxC8U)
-* Don’t use Lombok [Medium](https://medium.com/@vgonzalo/dont-use-lombok-672418daa819)
-
-### Tutorials
 * Java Developer [Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
 * Java Lambdas and the Stream API: Bringing Functional Programming to Java [Oreilly](https://www.oreilly.com/library/view/java-lambdas-and/9781484255940/)
+
+### Others
+* KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton [YouTube](https://youtu.be/te3OU9fxC8U)
+* Don’t use Lombok [Medium](https://medium.com/@vgonzalo/dont-use-lombok-672418daa819)
+* What's New in Java by JetBrains [YouTube Playlist](https://www.youtube.com/playlist?list=PLPZy-hmwOdEW3DHwLI4LmeHcqejUcW_Id)
+* JetBrains Conferences [YouTube Playlist](https://www.youtube.com/playlist?list=PLPZy-hmwOdEU3BXXyyj7IVskMKUfvWZeB)
+* How to plan your Java learning path - Brain Bytes - Java Brains [YouTube](https://youtu.be/DC5wtYGQ7XE)
+* 13 Java type system caveats and tricks you may want to know | Cause Cheng at Java Z-Day [YouTube](https://youtu.be/NgomJQwujiY)
+
 
 ### Blogs
 * [Marcobehler](https://www.marcobehler.com/guides)

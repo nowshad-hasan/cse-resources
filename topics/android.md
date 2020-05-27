@@ -123,7 +123,6 @@
   * [Pexels](https://www.pexels.com/)
   * [Adobe XD](https://www.adobe.com/products/xd.html)
 
-
 * Recycler View
   * Optimizing Nested RecyclerView [ProAndroidDev](https://proandroiddev.com/optimizing-nested-recyclerview-a9b7830a4ba7)
   * Reduce the number of inflation of ViewHolders drastically by sharing a ViewPool across multiple RecyclerViews [Medium](https://medium.com/@thagikura/reduce-the-number-of-inflation-of-viewholders-drastically-by-sharing-a-viewpool-across-multiple-249d5fc6d28)
@@ -163,6 +162,7 @@
 * How to Use FontAwesome in an Android App [Tutsplus](https://code.tutsplus.com/tutorials/how-to-use-fontawesome-in-an-android-app--cms-24167)
 * Using DialogFragment [CodePath](https://github.com/codepath/android_guides/wiki/Using-DialogFragment)
 * ANDROID 4 9. TABWIDGET, FLIPPER, AND SLIDINGDRAWER [Blog](https://www.bogotobogo.com/Android/android9TabWidgetFlipper.php)
+* Android Order Tracking Screen UI Design | Constraint Layout [YouTube](https://youtu.be/4ArxBP5DSZc)
 
 * Navigation Drawer
   * Fragment Navigation Drawer [Codepath](https://guides.codepath.com/android/Fragment-Navigation-Drawer)

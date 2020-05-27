@@ -2,14 +2,16 @@
 
 * [Article](#article)
 * [Git](#git)
+* [VIM](#vim)
 * [Clean Code](#clean-code)
+* [IDE Tips](#ide-tips)
 * [Blockchain](#blockchain)
 * [Inspiration](#inspiration)
+* [Articles and Videos](#articles-and-videos)
 * [Productivity](#productivity)
 * [Project Ideas](#project-ideas)
 * [Study in Abroad](#study-in-abroad)
 * [Free Tutorial](#free-tutorial)
-* [Personal Website](#personal-website)
 
 ### Article
 
@@ -48,6 +50,11 @@
   * How to undo changes in Git [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-undo-changes-in-git-e1da7930afdb/)
 * 5 GitHub tips for new coders [FreeCodeCamp](https://www.freecodecamp.org/news/5-github-tips-for-new-coders-2f312689ffd5/)
 * Git Basics: Adding more changes to your last commit [Medium](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
+* Version Control (git) (2020) by Missing Semester [YouTube](https://youtu.be/2sjqTHE0zok)
+
+### VIM
+
+* Editors (vim) (2020) by Missing Semester [YouTube](https://youtu.be/a6Q8Na575qc)
 
 ### Clean Code
 
@@ -59,6 +66,16 @@
 * SOLID Principles every Developer Should Know [Medium](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 * If the code works, don't fix it... Or maybe do? When to refactor your code and when to leave it alone. [FreeCodeCamp](https://www.freecodecamp.org/news/advice-to-programmers-if-it-works-dont-fix-it-or/)
 * Smelly Code? It’s Time To Refactor Your Code! [Mosh Hamedani](https://programmingwithmosh.com/general/smelly-code-its-time-to-refactor-your-code/)
+
+### IDE Tips
+* Intellij Idea
+  * Mastering IntelliJ IDEA keyboard shortcuts [JetBrains](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
+  * IDE Features Trainer: a New Way to Learn Your IDE [JetBrains Blog](https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/)
+  * IntelliJ IDEA Pro Tips [Medium](https://medium.com/@andrey_cheptsov/intellij-idea-pro-tips-6da48acafdb7)
+  * Getting To Know Your IDE By JetBrains [YouTube Playlist](https://www.youtube.com/playlist?list=PLPZy-hmwOdEXdOtXdFzyx_XCnrF_oD2Ft)
+  * Tips & Tricks by JetBrains [YouTube](https://www.youtube.com/playlist?list=PLPZy-hmwOdEU9mhOD2q4mLdwFtvlbMbcZ)
+  * Be More Productive With IntelliJ IDEA by Trisha Gee [YouTube](https://youtu.be/CmPJzEqFS4s)
+  * IntelliJ IDEA by Amigoscode [YouTube](https://youtu.be/yefmcX57Eyg)
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -103,6 +120,11 @@
 * Large-scale Exploratory Testing: Let's Take a Tour | James Whittaker | STARWEST [YouTube](https://youtu.be/fNkYz1hB7r0)
 * Difference between Junior and Senior Developers [Mosh Hamedani](https://youtu.be/bevlMOzaFTc)
 * How to Get a Job as a Computer Programmer [Cave of Programming](https://youtu.be/Ma0MMIM1kVw)
+
+
+### Articles and Videos
+
+* Spotify Engineering Culture (by Henrik Kniberg) [YouTube](https://youtu.be/4GK1NDTWbkY)
 
 ### Productivity
 

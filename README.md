@@ -24,6 +24,7 @@ Cheat sheet of different computer science concepts.
 * [Angular](/topics/angular.md)
 * [Testing](/topics/testing.md)
 * [Machine Learning](/topics/machine%20learning.md)
+* [Security](/topics/security.md)
 * [Freelancing](/topics/freelancing.md)
 * [Others](/topics/others.md)
 

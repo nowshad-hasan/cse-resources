@@ -2,7 +2,9 @@
 
 * [Core Spring](#core-spring)
 * [Spring Security](#spring-security)
+* [Testing](#testing)
 * [Rest API](#rest-api)
+* [Microservices](#microservices)
 * [Resources](#resources)
 
 ### Core Spring
@@ -56,12 +58,29 @@
   * Send push notifications from Spring Boot server-side application using FCM [Blog 1](https://blog.mestwin.net/send-push-notifications-from-spring-boot-server-side-application-using-fcm/)
   * How To Send Firebase Push Notification From App Server Tutorial [Blog 2](http://developine.com/how-to-send-firebase-push-notifications-from-app-server-tutorial/)
 
+* Spring Boot: Finally Understandable by JUGBD with Marcobehler [YouTube](https://youtu.be/pIJ1_xDSRGg)
+
 ### Spring Security
 
 * Spring Boot and OAuth2 [Spring Doc](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * OAuth2 Boot [Spring Doc](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsingle/)
 * A Quick Guide to OAuth 2.0 with Spring Security [Blog](https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide)
 * Securing REST Services With OAuth2 in Spring Boot [DZone](https://dzone.com/articles/securing-rest-services-with-oauth2-in-springboot-1)
+* Spring Boot Security By Romanian Coder [YouTube Playlist](https://www.youtube.com/playlist?list=PLVApX3evDwJ1d0lKKHssPQvzv2Ao3e__Q)
+* Spring Security using JWT in Spring Boot App | Tech Primers [YouTube](https://youtu.be/-HYrUs1ZCLI)
+* Spring Security by Amigoscode [YouTube](https://youtu.be/her_7pa0vrg)
+
+### Testing
+
+* Testing Spring Boot Applications by Andy Wilkinson @ Spring I/O 2019 [YouTube](https://youtu.be/5sjFn9BsAds)
+* Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave [YouTube](https://youtu.be/s9vt6UJiHg4)
+* TDD with Spring Boot - Testing the Harder Stuff - Sannidhi Jalukar @ Spring I/O 2017 [YouTube](https://youtu.be/a6TXg_WIcIQ)
+* Unit and Integration Tests in Spring Boot JPA Example | Tech Primers [YouTube](https://youtu.be/ackhP0ubtd4)
+* Spring Boot Testing | Writing JUnit Tests using JUnit and Mockito | Java Techie [YouTube](https://youtu.be/kXhYu939_5s)
+* Spring Boot - Testing basics [YouTube](https://youtu.be/Ekr4jxOIf4c)
+* Spring Security for Spring Boot Integration Tests - Mockito | Java techie [YouTube](https://youtu.be/IZFqxy5PS0k)
+* Spring Mvc unit test using Mockito + MockMVC | Java Techie [YouTube](https://youtu.be/fN8VAdYfJB8)
+* Writing JUnit Tests for RestController using MockMvc and Mockito | Tech Primers [YouTube](https://youtu.be/8S8o46avgAw)
 
 ### Rest API
 
@@ -80,6 +99,11 @@
   * [Telegram](https://core.telegram.org/methods)
   * [Twitter](https://developer.twitter.com/en/docs/api-reference-index)
   * [Facebook Graph API](https://developers.facebook.com/docs/graph-api/)
+* OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0 [YouTube](https://youtu.be/6kwmW_p_Tig)
+* How to add Swagger to Spring Boot - Brain Bytes - Java Brains [YouTube](https://youtu.be/gduKpLW_vdY)
+
+### Microservices
+* Mastering the art of Microservices Architecture by Alpha Code [YouTube Playlist](https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
 
 ### Resources
 
