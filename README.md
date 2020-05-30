@@ -6,6 +6,7 @@ Cheat sheet of different computer science concepts.
 * [Data Structure and Algorithm](/topics/data%20structure%20and%20algorithm.md)
 * [Java](/topics/java.md)
 * [Spring](/topics/spring.md)
+* [Web](/topics/web.md)
 * [Android](/topics/android.md)
 * [Kotlin](/topics/kotlin.md)
 * [System Design](/topics/system%20design.md)
@@ -25,6 +26,7 @@ Cheat sheet of different computer science concepts.
 * [Testing](/topics/testing.md)
 * [Machine Learning](/topics/machine%20learning.md)
 * [Security](/topics/security.md)
+* [DevOps](/topics/devops.md)
 * [Freelancing](/topics/freelancing.md)
 * [Others](/topics/others.md)
 
@@ -52,6 +54,12 @@ Cheat sheet of different computer science concepts.
 * [Okta Developer](https://developer.okta.com/blog/)
 * [Francistao - Learning Notes](https://github.com/francistao/LearningNotes)
 * [Coder Book](https://coderbook.com)
+* [OverOps](https://blog.overops.com/?category=all)
+* [Brilliant](https://brilliant.org/)
+* [Project Euler](https://projecteuler.net/)
+* [The Missing Semester of Your CS Education - MIT](https://missing.csail.mit.edu/)
+* [Reflectoring](https://reflectoring.io/)
+* [The Clean Code Blog](https://blog.cleancoder.com/)
 
 ## Collection
 * [Notes to (NUS) Computer Science Freshmen, From The Future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future/blob/master/README.md)
@@ -59,9 +67,18 @@ Cheat sheet of different computer science concepts.
 
 ## Tools
 * [Codementor](https://www.codementor.io/community)
+* [SonarQube](https://www.sonarqube.org/)
+* [Gatling](https://gatling.io/)
+* [PMD-An extensible cross-language static code analyzer.](https://pmd.github.io/)
+* [FindBugs](https://github.com/findbugsproject/findbugs)
+* [Checkstyle](https://github.com/checkstyle/checkstyle)
+* [Veracode](https://www.veracode.com/)
 
 ## Online Learning
 * [Cave of Programming](https://courses.caveofprogramming.com/courses)
 * [Mosh Hamedani](https://codewithmosh.com/)
 * [Academind](https://www.academind.com/learn/our-courses/)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Books
+* Refactoring to Patterns [Martin Flower](https://martinfowler.com/books/r2p.html)

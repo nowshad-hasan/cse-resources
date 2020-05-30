@@ -2,11 +2,17 @@
 
 * [Data Structure](#data-structure)
 * [Algorithm](#algorithm)
+* [Discrete Mathematics](#discrete-mathematics)
 * [Online Judge Account](#online-judge-account)
 * [Article](#article)
 * [Problem Collection](#problem-collection)
 * [Blog](#blog)
 * [Tools](#tools)
+* [Resources](#resources)
+
+## Discrete Mathematics
+
+* বিচ্ছিন্ন গণিত [Dimik Computing](https://dimikcomputing.com/course/discrete-mathematics-online-course/)
 
 ## Online Judge Account
 
@@ -22,11 +28,15 @@
 * স্ট্যান্ডার্ড টেম্প্লেট লাইব্রেরী [ফাহিমের ব্লগ](https://sites.google.com/site/smilitude/stl)
 * LightOj Dp – পর্ব ১ [Return Zoo](https://tinyurl.com/y4mgnjnq)
 * ৫০০-৬০০ ঘন্টা কোডিং করার উপায় কী? কীভাবে নিজের ব্রেনকে কাজে লাগাবো? [Programabad](https://programabad.com/questions/1447/-)
+* Random Numbers: Are they? [Roadmap](https://roadmap.sh/guides/random-numbers)
+* Asymptotic Notation [Roadmap](https://roadmap.sh/guides/asymptotic-notation)
+* Big-O Notation [Roadmap](https://roadmap.sh/guides/big-o-notation)
 
 ## Problem Collection
 
 * [Codemarshal](https://algo.codemarshal.org/problems)
 * Categorized Problems for Shafaet Ashraf [Light OJ](http://lightoj.com/volume_problemcategory.php?user_id=1058)
+* Subeen's 52 Problems [DimikOJ](https://dimikoj.com/problems)
 
 ## Blog
 
@@ -38,3 +48,6 @@
 
 ## Tools
 * Online Debugging [uDebug](https://www.udebug.com/input)
+
+## Resources
+* বাংলায় প্রোগ্রামিং রিসোর্সসমূহ [GitHub Project](https://github.com/me-shaon/bangla-programming-resources)

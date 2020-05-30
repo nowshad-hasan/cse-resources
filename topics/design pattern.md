@@ -6,12 +6,30 @@
 ### Article
 
 * [ডিজাইন প্যাটার্ন — সফটওয়্যার ডেভলপমেন্টের সমস্যা সমাধানের ভাষা](https://medium.com/প্রোগ্রামিং-পাতা/ডিজাইন-প্যাটার্ন-সফটওয়্যার-ডেভলপমেন্টের-সমস্যা-সমাধানের-ভাষা-8daeca237acd)
+* Design Patterns for Humans [Roadmap](https://roadmap.sh/guides/design-patterns-for-humans)
+* SOLID
+  * SOLID Principles Of Object Oriented Programming [Spring Guru](https://springframework.guru/solid-principles-object-oriented-programming/)
+  * The SOLID Principles in Real Life [DZone](https://dzone.com/articles/the-solid-principles-in-real-life)
+  * SOLID Principles in Action: From Slack to Twilio [Twillo Blog](https://www.twilio.com/blog/2017/11/solid-principles-slack-twilio.html)
+  * Perfecting Your SOLID Meal With DIP [DZone](https://dzone.com/articles/perfecting-your-solid-meal-with-dip?fromrel=true)
+  * Introduction to SOLID Design Principles for Java Developers [DZone](https://dzone.com/articles/a-gentle-and-easy-to-grasp-introduction-to-solid-p)
+  * An introduction to the SOLID principles [FreeCodeCamp](https://www.freecodecamp.org/news/kriptofolio-app-series-part-1/amp/)
+  * A Solid Guide to SOLID Principles [Baeldung](https://www.baeldung.com/solid-principles)
+  * Object Oriented Software Design - Solid Principles - with example [In 28 Minutes](https://www.springboottutorial.com/software-design-solid-principles)
+* The Clean Architecture [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 * Step Builder Pattern
 
   * Remove duplications and fix bad names [Blog](http://rdafbn.blogspot.com/2012/07/step-builder-pattern_28.html)
   * Building smart Builders [Blog](https://www.javacodegeeks.com/2013/05/building-smart-builders.html)
   * Think functional: Advanced builder pattern using lambda [Medium](https://medium.com/beingprofessional/think-functional-advanced-builder-pattern-using-lambda-284714b85ed5)
+
+* Singleton
+  * How to Use Singleton Design Pattern in Java [DZone](https://dzone.com/articles/singleton-in-java)
+  * The Developers' Career Insight [YouTube](https://youtu.be/qlm5VnOL_Q8)
+  * Java Singleton Design Pattern Best Practices with Examples [JournalDev](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
+  * Java Singleton Design Pattern Practices with Examples [GeeksforGeeks](https://www.geeksforgeeks.org/java-singleton-design-pattern-practices-examples/)
+  * How to prevent Singleton Pattern from Reflection, Serialization and Cloning? [GeeksforGeeks](https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/)
 
 
 ### Collection
@@ -22,3 +40,4 @@
 * Design Patterns tutorial for beginners [YouTube Playlist](https://www.youtube.com/playlist?list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
 * Java Design Patterns and Architecture [Cave of Programming](https://courses.caveofprogramming.com/p/java-design-patterns-and-architecture)
 * Java Design Patterns [GitHub Project](https://github.com/iluwatar/java-design-patterns)
+* Design Patterns Saga Archives [Java Challengers](https://javachallengers.com/category/design-patterns-saga/)

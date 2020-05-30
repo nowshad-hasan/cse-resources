@@ -1,6 +1,5 @@
 ## Contents
 
-* [Article](#article)
 * [Git](#git)
 * [VIM](#vim)
 * [Clean Code](#clean-code)
@@ -12,13 +11,8 @@
 * [Project Ideas](#project-ideas)
 * [Study in Abroad](#study-in-abroad)
 * [Free Tutorial](#free-tutorial)
-
-### Article
-
-* How not to be afraid of Vim anymore [FreeCodeCamp](https://medium.com/free-code-camp/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
-* How to become a better Stack Overflow user in five simple steps [FreeCodeCamp](https://medium.com/free-code-camp/5-steps-to-become-a-better-stack-overflow-user-4ce85711c0f9)
-* How to Become a Programmer: 8 Steps to Building an App from Scratch [Codementor](https://www.codementor.io/codementorteam/how-to-build-app-from-scratch-beginner-programmer-7z0atq56w)
-* Atomic Design: The Book [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+* [Book Reviews](#book-reviews)
+* [Awesome Projects](#awesome-projects)
 
 ### Git
 
@@ -51,6 +45,8 @@
 * 5 GitHub tips for new coders [FreeCodeCamp](https://www.freecodecamp.org/news/5-github-tips-for-new-coders-2f312689ffd5/)
 * Git Basics: Adding more changes to your last commit [Medium](https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8)
 * Version Control (git) (2020) by Missing Semester [YouTube](https://youtu.be/2sjqTHE0zok)
+* Multiple SSH Keys settings for different github account [GitHub Gist](https://gist.github.com/jexchan/2351996)
+* GitFlow Documentation [Docs](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 
 ### VIM
 
@@ -66,6 +62,7 @@
 * SOLID Principles every Developer Should Know [Medium](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 * If the code works, don't fix it... Or maybe do? When to refactor your code and when to leave it alone. [FreeCodeCamp](https://www.freecodecamp.org/news/advice-to-programmers-if-it-works-dont-fix-it-or/)
 * Smelly Code? It’s Time To Refactor Your Code! [Mosh Hamedani](https://programmingwithmosh.com/general/smelly-code-its-time-to-refactor-your-code/)
+* ক্লিন কোড [Dimik Computing](https://dimikcomputing.com/course/clean-code-online-course/)
 
 ### IDE Tips
 * Intellij Idea
@@ -76,6 +73,8 @@
   * Tips & Tricks by JetBrains [YouTube](https://www.youtube.com/playlist?list=PLPZy-hmwOdEU9mhOD2q4mLdwFtvlbMbcZ)
   * Be More Productive With IntelliJ IDEA by Trisha Gee [YouTube](https://youtu.be/CmPJzEqFS4s)
   * IntelliJ IDEA by Amigoscode [YouTube](https://youtu.be/yefmcX57Eyg)
+  * New IntelliJ Tricks I Learnt Part 2 [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij_2/)
+  * New IntelliJ Tricks I Learnt Today [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij/   )
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -120,17 +119,43 @@
 * Large-scale Exploratory Testing: Let's Take a Tour | James Whittaker | STARWEST [YouTube](https://youtu.be/fNkYz1hB7r0)
 * Difference between Junior and Senior Developers [Mosh Hamedani](https://youtu.be/bevlMOzaFTc)
 * How to Get a Job as a Computer Programmer [Cave of Programming](https://youtu.be/Ma0MMIM1kVw)
-
+* How To Effectively Learn As A Developer [Mosh Hamedani](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer/)
+* How to Stay Motivated to Keep Learning to Code [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-stay-motivated-to-keep-learning-to-code/)
+* Future-Proof Your Career: 4 Ways To Enhance Your People Skills [IBM Career Blog](https://www.ibm.com/blogs/jobs/2020/01/06/future-proof-your-career-4-ways-to-enhance-your-people-skills/)
+* ট্রাভেলোকা এবং আমার সফটওয়্যার ইঞ্জিনিয়ারিং এ হাতেখড়ি [Shafaets Planet](http://www.shafaetsplanet.com/?p=3303)
+* Levels of Seniority [Roadmap](https://roadmap.sh/guides/levels-of-seniority)
+* The Approach To Becoming A Better Developer – 5 Essential Techniques [Mosh Hamedani](https://programmingwithmosh.com/general/the-approach-to-becoming-a-better-developer-5-essential-techniques/)
+* My System for Organizing Work in a Distracted World [Reflectoring](https://reflectoring.io/organizing-work/)
 
 ### Articles and Videos
 
+* How not to be afraid of Vim anymore [FreeCodeCamp](https://medium.com/free-code-camp/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
+* How to become a better Stack Overflow user in five simple steps [FreeCodeCamp](https://medium.com/free-code-camp/5-steps-to-become-a-better-stack-overflow-user-4ce85711c0f9)
+* How to Become a Programmer: 8 Steps to Building an App from Scratch [Codementor](https://www.codementor.io/codementorteam/how-to-build-app-from-scratch-beginner-programmer-7z0atq56w)
+* Atomic Design: The Book [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
 * Spotify Engineering Culture (by Henrik Kniberg) [YouTube](https://youtu.be/4GK1NDTWbkY)
+* Why software startups fail? [KAZ Software](http://kaz.com.bd/blog/2020/2/6/why-software-startups-fail)
+* The Cookbook: Finding and Hiring People (part 1) [KAZ Software](http://kaz.com.bd/blog/2020/4/7/the-cookbook-finding-and-hiring-people)
+* Make “work from home” work for you [Google Blog](https://www.blog.google/inside-google/googlers/make-work-from-home-work-for-you/)
+* Traits That Make You an Unproductive Developer [Medium](https://levelup.gitconnected.com/traits-that-make-you-an-unproductive-developer-769593de34ba)
+* The cookbook for a hearty company [KAZ Software](http://kaz.com.bd/blog/2020/3/31/the-cookbook-for-a-hearty-company)
+* Guide to Character Encoding [Baeldung](https://www.baeldung.com/java-char-encoding)
+* Z2I Talks- A Programmer's Journey Through Entrepreneurship [YouTube](https://youtu.be/iufSVkkJ92s)
+* TECH RETRO: PULL REQUEST ETHICS [Shafaets Planet](http://en.shafaetsplanet.com/tech-retro-pull-request-ethics/)
+* The Best Developer Communities to Join in 2020 [FreeCodeCamp](https://www.freecodecamp.org/news/best-developer-communities-to-be-part-of-in-2020/)
+* What Is a Senior Developer and How Can I Become One? [FreeCodeCamp](https://www.freecodecamp.org/news/what-does-it-mean-to-be-a-senior-developer-and-how-can-we-become-one/)
+* The Cookbook: Persuasion [KAZ Software](http://kaz.com.bd/blog/2020/5/8/the-cookbook-persuading-and-convincing)
+* WhatsApp Buffer Overflow Vulnerability Reportedly Exploited In The Wild [Blog](https://blog.zimperium.com/whatsapp-buffer-overflow-vulnerability-reportedly-exploited-wild/)
+* Pareto principle [Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
+* The Five Orders of Ignorance [Research Gate](https://www.researchgate.net/publication/27293624_The_Five_Orders_of_Ignorance)
+* Code Review Best Practices [Trisha Gee](https://trishagee.github.io/post/code_review_best_practices/)
 
 ### Productivity
 
 * Medium's Top 10 Posts on Productivity [Medium](https://medium.com/top-lists-for-entrepreneurs/medium-s-top-10-posts-of-all-time-about-productivity-f77a22cd25b2)
 * [Kanban Tool](https://kanbantool.com/personal-kanban-board)
 * [Pomodoro](https://francescocirillo.com/pages/pomodoro-technique)
+* WHAT IS JUST-IN-TIME LEARNING? [Blog](https://www.growthengineering.co.uk/what-is-just-in-time-learning/)
 
 ### Project Ideas
 
@@ -156,6 +181,14 @@
 * What the GRE Test Is and How to Prepare [U.S.News](https://www.usnews.com/education/best-graduate-schools/articles/what-the-gre-test-is-and-how-to-prepare)
 * GRE Study Schedules and Plans [Magoosh](https://gre.magoosh.com/study-plans?fbclid=IwAR2TEU6Q4OnyccCyOiSjtiqTltEvBb3KWQz63LJO76mVsiOIC5IPRfFMizo)
 
+### Book Reviews
+
+* Book Notes: The Nature of Software Development [Reflectoring](https://reflectoring.io/book-review-nature-of-software-development/)
+* Book Review: Clean Code [Reflectoring](https://reflectoring.io/book-review-clean-code/)
 ### Free Tutorial
 
 * [Free Tutorial](https://freetutorials.se/)
+
+### Awesome Projects
+
+* [Neal.fun](https://neal.fun/)

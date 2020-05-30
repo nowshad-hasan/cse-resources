@@ -10,6 +10,12 @@
 * Database schema management tools
   * [Flyway](https://flywaydb.org/)
   * [Liquibase](https://www.liquibase.org/)
+* Subquery
+  * Using SQL to Manage Data [InforIT](https://www.informit.com/articles/article.aspx?p=2036581&seqNum=9)
+  * Using Subqueries in the Select Statement (with examples) [Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-server-20-using-subqueries-in-the-select-statement/)
+  * SQL Correlated Subqueries [GeeksforGeeks](https://www.geeksforgeeks.org/sql-correlated-subqueries/)
+* What are ACID properties in a database? [Educative](https://www.educative.io/edpresso/what-are-acid-properties-in-a-database)
+* ডাটাবেজ ট্রানজেকশন ও এসিড [Subeen](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
 
 ### NoSQL
 

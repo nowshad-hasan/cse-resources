@@ -4,6 +4,10 @@
 * [Collection](#collection)
 * [Others](#others)
 
+## Core
+* HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
+* Scaling Databases [Roadmap](https://roadmap.sh/guides/scaling-databases)
+
 ### Collection
 
 * System Design by Gaurav Sen [YouTube Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)

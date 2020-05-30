@@ -12,10 +12,14 @@
 * [RxJava](#rxjava)
 * [Resources](#resources)
 * [Others](#others)
+* [Updates](#updates)
 * [Blogs](#blogs)
 
 ### Core Java
 
+* Duke, the Java Mascot [Oracle](https://www.oracle.com/java/duke.html)
+* Class Loaders in Java [Baeldung](https://www.baeldung.com/java-classloaders)
+* 10 Reasons Why You Should Consider Learning Java [Oracle Blog](https://blogs.oracle.com/oracleuniversity/10-reasons-why-you-should-consider-learning-java)
 * What is Upcasting and Downcasting in Java [Blog](https://www.codejava.net/java-core/the-java-language/what-is-upcasting-and-downcasting-in-java)
 * Volatile keyword in Java [GeeksforGeeks](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 * Are Marker Interfaces Dead? [DZone](https://dzone.com/articles/are-marker-interfaces-dead)
@@ -28,6 +32,8 @@
   * A Visual Introduction to Inner-Workings of the JVM - Douglas Hawkins [YouTube](https://youtu.be/JLFjY6Ixct8)
   * Learn about JVM internals - what does the JVM do? [YouTube](https://youtu.be/UwB0OSmkOtQ)
   * Understanding Java Garbage Collection [YouTube](https://youtu.be/Uj1_4shgXpk)
+  * Java Memory Model [Jenkov](http://tutorials.jenkov.com/java-concurrency/java-memory-model.html)
+  * Multithreading and the Java Memory Model [DZone](https://dzone.com/articles/multithreading-and-java-memory)
 * Inversion of Control
   * Inversion of Control Containers and the Dependency Injection pattern [Martin Flower](https://martinfowler.com/articles/injection.html)
   * Inversion Of Control [Martin Flower](https://martinfowler.com/bliki/InversionOfControl.html)
@@ -39,21 +45,48 @@
   * 26 Reasons Why Using Optional Correctly Is Not Optional [DZone](https://dzone.com/articles/using-optional-correctly-is-not-optional)
   * Java Optionals by Amigoscode [YouTube](https://youtu.be/1xCxoOuDZuU)
 * Java Functional Programming by Amigoscode [YouTube](https://youtu.be/VRpHdSFWGPs)
-
+* How well do you actually understand annotations in Java? [Jaxenter](https://jaxenter.com/understand-annotations-java-148001.html)
+* Cloneable Interface Java [Medium](https://medium.com/@devDeeJay/cloneable-interface-java-8098f054a2af)
+* FCM Push Notification
+  * Send push notifications from Spring Boot server-side application using FCM [Blog 1](https://blog.mestwin.net/send-push-notifications-from-spring-boot-server-side-application-using-fcm/)
+  * How To Send Firebase Push Notification From App Server Tutorial [Blog 2](http://developine.com/how-to-send-firebase-push-notifications-from-app-server-tutorial/)
+* Pattern Matching for Java [Open JDK](https://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html)
+* Don't like loops? Try Java Streams [Opensource.com](https://opensource.com/article/20/2/java-streams)
+* String concatenation with Java 8 [Blog](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
+* Functional Java: Understanding Pure Functions with JAVA [Blog](https://blog.knoldus.com/functional-java-understanding-pure-functions-with-java/)
+* `Java.util.Vector` Class in Java [GeeksforGeeks](https://www.geeksforgeeks.org/java-util-vector-class-java/)
+* Vector class [Java Docs](https://docs.oracle.com/javase/8/docs/api/java/util/Vector.html)
+* জাভায় যত জটিলতা [JUGBD](https://jugbd.org/2018/03/01/the-complexities-of-the-java/)
+* Stream flatMap() in Java with examples [GeeksforGeeks](https://www.geeksforgeeks.org/stream-flatmap-java-examples/)
+* Java Performance - Memory and Runtime Analysis - Tutorial [Vogella](https://www.vogella.com/tutorials/JavaPerformance/article.html)
+* Java is Pass by value or reference
+  * Does Java pass by reference or pass by value? [Java World](https://www.javaworld.com/article/3512039/does-java-pass-by-reference-or-pass-by-value.html)
+  * Java is Pass by Value and Not Pass by Reference [JournalDev](https://www.journaldev.com/3884/java-is-pass-by-value-and-not-pass-by-reference)
+* Static classes and inner classes in Java [Java World](https://www.javaworld.com/article/2074000/core-java-classes-within-classes.html)
+* How to Make a Deep Copy of an Object in Java [Baeldung](https://www.baeldung.com/java-deep-copy)
+* The Difference Between map() and flatMap() [Baeldung](https://www.baeldung.com/java-difference-map-and-flatmap)
+* An Introduction to Atomic Variables in Java [Baeldung](https://www.baeldung.com/java-atomic-variables)
+* Atomic Variables [Java Docs](https://docs.oracle.com/javase/tutorial/essential/concurrency/atomicvars.html)
+* A Random Pitfall [Reflectoring](https://reflectoring.io/how-to-random/)
+* Understanding Classic Java Garbage Collection [InfoQ](https://www.infoq.com/articles/understand-classic-java-garbage-collection/)
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
 * Object Oriented Programming By Bazlur Rahman [YouTube](https://youtu.be/DJO1k6LLSR8)
+* অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং: ইন্টারফেস এবং পলিমর্ফিজম [Shafaets Planet](http://www.shafaetsplanet.com/?p=3375)
 
 ### Collection
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
 * Collection and Generics in Java [Telusko - YouTube Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR)
+* Java Functional Programming [Jenkov](http://tutorials.jenkov.com/java-functional-programming/index.html)
+* Java Stream API [Jenkov](http://tutorials.jenkov.com/java-functional-programming/streams.html)
 
 ### Generics
 * Type Erasure
   * Type Erasure in Java Explained [Baeldung](https://www.baeldung.com/java-type-erasure)
   * Type Erasure in Java [GeeksforGeeks](https://www.geeksforgeeks.org/type-erasure-java/)
   * Type Erasure [Java Doc](https://docs.oracle.com/javase/tutorial/java/generics/erasure.html)
+* Generics Archives [Java Challengers](https://javachallengers.com/category/java-challenges-explanations-videos/generics/)
 
 ### Lambda
 
@@ -61,19 +94,33 @@
 * Java Lambda Expressions [Jenkov](http://tutorials.jenkov.com/java/lambda-expressions.html#lambda-body)
 * Java 8 Lambda Basics [Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
 * Introducing Lambda Expression by Bazlur Rahman [YouTube](https://youtu.be/wpT8gKQTkk0)
+* Java 8 Lambda Limitations: Closures [DZone](https://dzone.com/articles/java-8-lambas-limitations-closures)
 
 ### Threading
 * Java Multithreading [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
+* How to create a ThreadPool from scratch [Bazlur - YouTube](https://youtu.be/iH-sCG_zrHw)
+* Java concurrency (multi-threading) - Tutorial [Vogella](https://www.vogella.com/tutorials/JavaConcurrency/article.html)
 
 ### Socket Programming
 
 ### Exception Handling
 
 * Why you should ignore exceptions in Java and how to do it correctly [FreeCodeCamp](https://medium.com/free-code-camp/why-you-should-ignore-exceptions-in-java-and-how-to-do-it-correctly-8e95e5775e58)
+* Chained Exceptions
+  * [Oracle](https://docs.oracle.com/javase/tutorial/essential/exceptions/chained.html)
+  * [GeeksforGeeks](https://www.geeksforgeeks.org/chained-exceptions-java/)
+  * [Baeldung](https://www.baeldung.com/java-chained-exceptions)
+
 
 ### Testing
 * JUnit 5 Basics by Java Brains [YouTube Playlist](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
 * JUnit 5 — The New Testing Framework for Java and Platform for the JVM by Marc Philipp, Sam Brannen [YouTube](https://youtu.be/oGaatK5ShUs)
+* One Assertion Per Test [Artima](https://www.artima.com/weblogs/viewpost.jsp?thread=35578)
+* How to TDD a List Implementation in Java [Baeldung](https://www.baeldung.com/java-test-driven-list)
+* JUnit 5 User Guide [Junit 5](https://junit.org/junit5/docs/current/user-guide/)
+* AssertJ Assertions Generator [AssertJ](http://joel-costigliola.github.io/assertj/assertj-assertions-generator.html)
+* Unit Testing with JUnit - Tutorial [Vogella](https://www.vogella.com/tutorials/JUnit/article.html)
+* JUnit 5 Basics - Java Brains [YouTube Playlist](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
 
 ### RxJava
 * Functional Reactive Programming with RxJava by Ben Christensen [GOTO 2013](https://youtu.be/_t06LRX0DV0)
@@ -85,6 +132,15 @@
 * 10 Skills Java Programmer can Learn to Accelerate their Career [Dev.to](https://dev.to/javinpaul/10-skills-java-programmer-can-learn-to-accelerate-their-career-3nlh)
 * Java Developer [Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
 * Java Lambdas and the Stream API: Bringing Functional Programming to Java [Oreilly](https://www.oreilly.com/library/view/java-lambdas-and/9781484255940/)
+* [JUGBD Resources](https://www.facebook.com/groups/jugbd/files/)
+* Java Collections Tutorial [Jenkov](http://tutorials.jenkov.com/java-collections/index.html)
+* Learning resources for Java & JVM based technology [JUGBD GitHub](https://github.com/jugbd/resources/blob/master/learning-resources.md)
+* Java World - Resources
+  * [Java Challengers](https://www.javaworld.com/blog/java-challengers/)
+  * [WHAT IS: JAVA](https://www.javaworld.com/blog/what-is-java/)
+  * [JAVA TIPS](https://www.javaworld.com/blog/java-tips/)
+  * [JAVA 101: LEARN JAVA](https://www.javaworld.com/blog/java-101/)
+* Java Guide [GitHub Project](https://github.com/forax/java-guide)
 
 ### Others
 * KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton [YouTube](https://youtu.be/te3OU9fxC8U)
@@ -94,6 +150,24 @@
 * How to plan your Java learning path - Brain Bytes - Java Brains [YouTube](https://youtu.be/DC5wtYGQ7XE)
 * 13 Java type system caveats and tricks you may want to know | Cause Cheng at Java Z-Day [YouTube](https://youtu.be/NgomJQwujiY)
 
+### Updates
+* Java 14 Makes Code Super Expressive, Say Top Developers [Forbes](https://www.forbes.com/sites/oracle/2020/04/02/java-14-makes-code-super-expressive-say-top-developers/amp/)
 
 ### Blogs
 * [Marcobehler](https://www.marcobehler.com/guides)
+* [Java Specialists](https://www.javaspecialists.eu/)
+* [JGuru](http://www.jguru.com/)
+* [JCP](https://www.jcp.org/en/home/index)
+* [The Java Source - Oracle](https://blogs.oracle.com/java/)
+* [How to do in Java](https://howtodoinjava.com/)
+* [Reza Rahman](https://reza-rahman.me/blog/)
+* [Jenkov](http://tutorials.jenkov.com/)
+* [Plumbr](https://plumbr.io/blog)
+* [Programcreek](https://www.programcreek.com/)
+* [Java - IBM](https://www.ibm.com/developerworks/views/java/libraryview.jsp)
+* [The Server Side](https://www.theserverside.com/)
+* [Jaxenter](https://jaxenter.com/news/java)
+* [Inside the Java Platform Group](https://inside.java/)
+* [Bazlur Rahman - DZone](https://dzone.com/users/1298119/bazlur_rahman.html)
+* [Java Challengers](https://javachallengers.com/)
+* [Java World](https://www.javaworld.com/)

@@ -97,6 +97,8 @@
 * Design Patterns in Android — Builder [Medium](https://medium.com/@pszklarska/android-design-patterns-in-practice-builder-6b044f83e6e9)
 * Everything You Need To Know About Memory Leaks In Android Apps [Medium](https://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859)
 * How to use custom permissions in Android? [Stackoverflow](https://stackoverflow.com/questions/8816623/how-to-use-custom-permissions-in-android)
+* Android's Java 9, 10, 11, and 12 Support [Jake Wharton](https://jakewharton.com/androids-java-9-10-11-and-12-support/)
+* প্রোগ্রামিং আড্ডা: জাভা প্রোগ্রামিং ও অ্যান্ড্রয়েড [Subeen - YouTube](https://youtu.be/vTdy34mhx60)
 
 * Fragment
 
@@ -109,6 +111,8 @@
   * Windows Insets + Fragment Transitions [Chris Banes](https://chris.banes.dev/2018/03/01/window-insets-fragment-transitions/)
   * Creating and Using Fragments [CodePath](https://guides.codepath.com/android/creating-and-using-fragments)
   * From Activity To Fragment [YouTube Video](https://youtu.be/T_tEWiFGrsI)
+* Dynamic Delivery [Developer Android](https://developer.android.com/guide/app-bundle/dynamic-delivery)
+* Learn Jetpack Compose By Example [GitHub Project](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)
 
 ### UI Component
 
@@ -387,6 +391,7 @@
 * Gradle Tutorial for Android: Getting Started [Raywenderlich](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)
 * Adding Password Protected Maven Repository URL in Gradle in Android Studio [AndroidPub](https://android.jlelse.eu/adding-password-protected-maven-repository-url-in-gradle-in-android-studio-e64a45b8faaf)
 * Implementation Vs Api in Android Gradle plugin 3.0 [MindOrks](https://medium.com/mindorks/implementation-vs-api-in-gradle-3-0-494c817a6fa)
+* Android Studio এর Gradle plugin কী কাজ করে? [Hello Hasan](https://hellohasan.com/2019/06/10/android-gradle-plugin-tutorial-bengali/)
 
 ### Security
 
@@ -485,6 +490,7 @@
 * App Ideas [GitHub Project](https://github.com/florinpop17/app-ideas)
 * Awesome App Ideas [GitHub Project](https://github.com/tastejs/awesome-app-ideas)
 * Awesome Android [GitHub Project](https://github.com/JStumpp/awesome-android)
+* Foodium [GitHub Project](https://github.com/PatilShreyas/Foodium)
 
 ### Blog
 
@@ -518,6 +524,7 @@
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
 * Exploring S.O.L.I.D Principle in Android [ProAndroidDev](https://proandroiddev.com/exploring-s-o-l-i-d-principle-in-android-a90947f57cf0)
+* Learning Path: SOLID Principles for Android [Realm Academy](https://academy.realm.io/posts/learning-path-solid-principles-for-android/)
 * 5 Debugging Tips with Android Studio [Blog](https://blacklenspub.com/5-debugging-tips-with-android-studio-65751011262f)
 * Setting Up Jenkins For Android: How I dealt with the challenges I faced [AndroidPub](https://android.jlelse.eu/setting-up-jenkins-for-android-how-i-dealt-with-the-challenges-i-faced-1bbdb6580b8d)
 * Google just terminated our start-up Google Play Publisher Account on Christmas day [AndroidPub](https://android.jlelse.eu/google-just-terminated-our-start-up-google-play-publisher-account-on-christmas-day-5cb69a454da0)
@@ -561,7 +568,7 @@
   * বাংলাদেশি অ্যান্ড্রয়েড ডেভেলপারদের হাল [Sunnat629](https://sunnat629.dev/bd-devs-condition/)
   * 20 library I use in my every android project [Medium](https://medium.com/@mdmasudparvez/20-library-i-use-in-my-every-android-project-2aea460db2e4)
   * 5 Essential Android Development Techniques [Candyspace](https://blog.candyspace.com/5-essential-android-techniques-for-2020)
-
+* Muslims Day Android App [Technical Review] [Hello Hasan](https://hellohasan.com/2020/04/23/muslims-day-android-app-technical-review/)
 ### Tools
 
 * [Microsoft App Center](https://appcenter.ms/)
