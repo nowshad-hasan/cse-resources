@@ -355,5 +355,3 @@ http://localhost:5050/login/oauth2/code/github?code=e3f4981f9d9c321a39e7&state=-
 
 Now, we will see our application's hello page. And other information in application's console like nowshad-hasan.json file.
 
-### Chapter 13: Implementing the authorization server
-
