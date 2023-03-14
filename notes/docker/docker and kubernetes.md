@@ -68,3 +68,26 @@ Here is nice explanation video - https://www.udemy.com/course/docker-and-kuberne
 
 But let's say we are done and want to remove all the stopped containers and images from `docker local cache`. 
 So, we type `docker system prune`.
+
+#### Collect logs from container
+
+We can get the logs emitted from a container after it is stopped and exited. We saw the output with `docker run`, or `docker start -a {id}`. But there is another way - 
+`docker logs {id}`. 
+
+```bash
+docker create busybox echo hello there
+docker start {id}
+docker logs {id}
+```
+
+#### Stoping containers
+
+We can stop/kill a container by `docker stop {id}` or `docker kill {id}` command. But what is the difference? 
+`docker stop` sends `SIGTERM` signal to the container where `docker kill` sends `SIGKILL` signal. As we already know *SIGTERM* command does not always kill a process but *SIGKILL* always kills a process. But in terms of docker, when we type `docker stop {id}`, it tries to stop and kill the process, if not killed within 10 seconds, it will kill it, that means it will send the SIGKILL signal to the process. Let's see an example. If we type 
+```bash
+docker create busybox ping google.com
+docker start {id} 
+docker ps
+```
+We will see that a docker process is running. `ping` is basically a infinite running process and it does not understand SIGTERM command. So, if we try `docker stop {id}`, it will try to stop for 10 seconds, then it will send SIGKILL signal to kill the process. But if we try `docker kill {id}`, it will immediately stop the process.
+
