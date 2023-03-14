@@ -89,5 +89,31 @@ docker create busybox ping google.com
 docker start {id} 
 docker ps
 ```
-We will see that a docker process is running. `ping` is basically a infinite running process and it does not understand SIGTERM command. So, if we try `docker stop {id}`, it will try to stop for 10 seconds, then it will send SIGKILL signal to kill the process. But if we try `docker kill {id}`, it will immediately stop the process.
+We will see that a docker process is running. `ping` is basically a infinite running process and it does not understand SIGTERM command. So, if we try `docker stop {id}`, it will try to stop within 10 seconds, then it will send SIGKILL signal to kill the process. But if we try `docker kill {id}`, it will immediately kill the process.
 
+#### Execute additional command inside a docker
+
+Let's say, we installed redis inside an image. Now, as usual we want to execute `redis-cli` to store and get value. But how to do this? 
+So, let's type - `docker run redis`, now it will create and start the container in that terminal window. But, let's open another window, and type `redis-cli`, no - it won't work. Because, typing redis-cli is trying to find the command in our computer not in that container. So, to execute that command we need to type 
+`docker exec -it {id} {command}` -> command = redis-cli or else
+exec = execute, it = allow us to provide input into container.
+We need to find the container id typing `docker ps`. If we type that above command without `-it` flag, it will start and immediately stop as it is not allowing us to provide input into container.
+
+But the power of `-it` flag is more. Every process has three sections - 
+
+- STDIN - standard input
+- STDOUT - standard output
+- STDERR - standard error
+  
+Here is a nice diagram to explain these things.
+![stdin stdout](../../images/stdin.png)
+We can type that `-it` flag separately - `-i -t`. Here i = STDIN, t = nicely formatted input to take. To test, we can type without `-t` command like - `docker exec -i {id} redis-cli`.
+
+#### How to open a shell terminal inside a container
+
+Let's say we want to open a terminal inside a running container. We type - `docker exec -it {id} sh`. `sh` for *shell*. So, then we are inside a shell from inside a container which is running from a shell. Make sure, the container is running on the other terminal, otherwise entering into the container's shell is impossible. It will also work for `docker run busybox ping google.com`, though if we run custom command in there like, `docker run busybox cd bin/` - it will not recognize cd. But if we start it with ping, then call it from other terminal `docker exec -it {id} sh` and entering into shell, we can type `cd` without error. That's the true beauty.
+
+**Note:** How to exit that double shell? `CTRL+D` or `exit` is on the rescue.
+There is an alternative for this. We need not to open a extra process for running and start shell in other terminal. We can directly open a shell at container startup with - `docker run -it busybox sh`. The only downside of this approach, we cannot open another process for this like before where we keep running a separate process with `ping` and use terminal from another window. So, both approaches are available, we just follow what we need. 
+
+**Note**: Creating two containers from a single image are two separate VM, so those will not share any memory or RAM or anything. Creating a file inside one container can not be accessible from other container. We can check this with `docker run -it busybox sh` twice, then creating a file inside one, and trying to see from other container. It is easy to understand btw.
