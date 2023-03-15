@@ -116,4 +116,26 @@ Let's say we want to open a terminal inside a running container. We type - `dock
 **Note:** How to exit that double shell? `CTRL+D` or `exit` is on the rescue.
 There is an alternative for this. We need not to open a extra process for running and start shell in other terminal. We can directly open a shell at container startup with - `docker run -it busybox sh`. The only downside of this approach, we cannot open another process for this like before where we keep running a separate process with `ping` and use terminal from another window. So, both approaches are available, we just follow what we need. 
 
-**Note**: Creating two containers from a single image are two separate VM, so those will not share any memory or RAM or anything. Creating a file inside one container can not be accessible from other container. We can check this with `docker run -it busybox sh` twice, then creating a file inside one, and trying to see from other container. It is easy to understand btw.
+**Note**: Creating two containers from a single image are two separate VM, so those will not share any memory or RAM or anything. Creating a file inside one container can not be accessible from other container. We can check this with `docker run -it busybox sh` twice, then creating a file inside one, and trying to see from other container. It is easy to understand.
+
+#### Creating a docker file
+
+Here is basic flow of creating a *Dockerfile* (not Dockerfile.js or something)- 
+
+- Specify a base image - use an existing docker image as a base
+- Run some commands to install additional programs - download and install a dependency
+- Specify a command to run on container startup - tell the image what to do when it starts as a container
+
+Let's create a file named `Dockerfile` with below lines to create an image with redis-server - 
+
+```bash
+FROM alpine
+Run apk add --update redis
+CMD ["redis-server"]
+```
+Now, give the command `docker build .` in that file's folder. In the output of this command we will see that output `sha:{image-id}`. As usual, just run `docker run {id}`.
+
+Here is a visual of the command.
+![Instruction](../../images/instruction.png)
+
+Let's tear down all these.
