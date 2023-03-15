@@ -136,6 +136,17 @@ CMD ["redis-server"]
 Now, give the command `docker build .` in that file's folder. In the output of this command we will see that output `sha:{image-id}`. As usual, just run `docker run {id}`.
 
 Here is a visual of the command.
+
 ![Instruction](../../images/instruction.png)
 
-Let's tear down all these.
+Let's tear down all these. There is a nice analogy - 
+Writing a docker file == Run google chrome on a brand new computer with no OS installed yet. What are we going to do? We install OS at first, that's like `Alpine`, then donwload and install Google Chrome, like - `Run apk add --update redis` and at last, open chrome with chrome.exe is like `CMD ["redis-server"]`. Here is the diagram below - 
+
+![D file](/images/dfile.png)
+
+But now I may ask why choose `alpine`? Because it comes with some nice pre-installed tools that we need.
+
+![why-alpine](/images/why%20alpine.png)
+
+`apk` is the package manager which is built into `alpine`.
+Here is the nice explanation video what is happening under the hood - https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11436706#overview
