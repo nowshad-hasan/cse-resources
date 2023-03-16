@@ -95,7 +95,7 @@ We will see that a docker process is running. `ping` is basically a infinite run
 
 Let's say, we installed redis inside an image. Now, as usual we want to execute `redis-cli` to store and get value. But how to do this? 
 So, let's type - `docker run redis`, now it will create and start the container in that terminal window. But, let's open another window, and type `redis-cli`, no - it won't work. Because, typing redis-cli is trying to find the command in our computer not in that container. So, to execute that command we need to type 
-`docker exec -it {id} {command}` -> command = redis-cli or else
+`docker exec -it {id} {command}` -> command = redis-cli or sh or else
 exec = execute, it = allow us to provide input into container.
 We need to find the container id typing `docker ps`. If we type that above command without `-it` flag, it will start and immediately stop as it is not allowing us to provide input into container.
 
@@ -150,3 +150,156 @@ But now I may ask why choose `alpine`? Because it comes with some nice pre-insta
 
 `apk` is the package manager which is built into `alpine`.
 Here is the nice explanation video what is happening under the hood - https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11436706#overview
+
+And the recap of the video - 
+
+![recap process](/images/recap-process.png)
+
+#### Building from a cache
+
+Docker uses cache when to re-build a Dockerfile. Let's say, we add another line `Run apk add --update gcc` into the previous Dockerfile. And run the build command. We will see that it uses `redis` from cache. But it will download and install `gcc` like new thing. Now, let's give the Build command again. We will see that both `redis` and `gcc` are built from cache.
+Now, here is the interesting thing. Let's change the order as gcc first and redis second like below - 
+
+```bash
+FROM alpine
+Run apk add --update gcc
+Run apk add --update redis
+CMD ["redis-server"]
+```
+Now, cache is not gonna work and everything will be built from start (may not download but won't use cache).
+
+#### Tagging an image
+
+What we built by `Docker build .` command, as output, it gives an ID. And we run the image by typing - `Docker run {id}`. But as we see in the first place, that we run an image by name, like `docker run hello-world`. So, how can we make our docker so that we can run like that with name. Here is the flow - 
+
+![tag anatomy](/images/tag%20anatomy.png)
+
+Actually, in there `version` is the `actual tag`. `docker id` and `project name` is like naming convention. So, built command will be 
+`docker build -t nowshad/redis:latest .` and run command will be `docker run nowshad/redis` - it will take `latest` tagged image by default. Or we can specify the version in the command like `docker run nowshad/redis:latest`. We can also build Dockerfile without `latest` or just blank, it will be automatically appended at last if we don't add it manually.
+
+**Note**: docker-id is long enough. We need not copy the entire thing. Just copy the first 8/10 characters so that Docker can distinguish  it from other containers.
+
+#### Generate image from a container
+
+Let's reverse the whole docker from build image -> container to container -> image. Let's open alpine shell at first - `docker run -it alpine sh`. Now, install redis in there `apk add --update redis`. Now, the container has redis installed in there. Let's create an image from this container. Open another terminal while this is running. 
+
+```bash
+docker ps -> alpine is running
+docker commit -c 'CMD ["redis-server"]' {id}
+docker run {new-container-id}
+```
+
+### Node JS Project Example
+
+Let's create a new folder for a new nodejs project. Here is the files should be - 
+`index.js`
+```js
+const express = require('express');
+
+const app = express();
+
+app.get('/', (req, res) => {
+	res.send('Hi there');
+});
+
+app.listen(8080, () => {
+	console.log('Listening on port 8080');
+});
+```
+
+`package.json`
+
+```json
+{
+	"dependencies": {
+		"express": "*"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
+```
+To run this project basically we need to commands `npm install` to install the dependencies, and `npm start` to start it. So, we are gonna do this via Dockerfile.
+
+*We are gonna make some mistakes intentionally.*
+
+`Dockerfile`
+
+```DOCKER
+FROM alpine
+RUN npm install
+CMD ["npm","start"]
+```
+
+If we type `docker build .`, we will see an error `ERROR [2/2] RUN npm install`.  Why??
+Because, npm is not installed on the Alpine image. To solve this, we have 2 options - 
+
+- Install npm on our Alpine image, like we installed redis earlier.
+- Take another image rather than Alpine, which has pre-installed the npm command.
+
+We will go to second option. Let's go to hub.docker.com and find node image. There are different types of versions available. Here `alpine` versions are most minimal. So, we will take this and update our Dockerfile.
+`FROM node:14-alpine`
+
+**Note**: Every popular image has an alpine version which contains minimal pre-installed things.
+
+So, now let's build the Dockerfile again. It is working on my mac :P. But in the tutorial, it seems `RUN npm install` is broken when building, as npm is not finding any package.json inside the container. Because our package.json and index.js is on the outside of the container and there is no connection between our outside's files to container's inside npm command. So, we need to link between those. 
+
+But in my mac when I open a terminal into that container I found that a `package-lock.json` is already there in the `/` folder. So, I think npm finds its package-lock.json file and runs it without error. But, if we run the image by `docker run {id}`, we will see that error. 
+
+So, let's copy our local files to container's directory with this command in the Dockerfile above `RUN npm install` - `COPY ./ ./`. So, the Dockerfile will be - 
+
+```Docker
+FROM node:14-alpine
+COPY ./ ./
+RUN npm install
+CMD ["npm","start"]
+```
+
+Here is the flow - 
+![copy](../../images/copy.png)
+
+Let's try again - 
+```docker
+Docker build -t nowshad/node .
+docker run nowshad/node
+```
+
+It will start listening on port 8080. But if we type localhost:8080 from our machine's browser, nothing would happen. Because that server is on a container that has no connection outside of that. 
+
+![container port](../../images/container%20port.png)
+
+So, we need to configure the port like below 
+`docker run -p 8080:8080 {image}`
+
+![Port mapping](../../images/port%20mapping.png)
+
+Now, if we hit from our browser, it will work fine. 
+We can change the port as our need, it is not strictly binded to anything.
+
+But what if we don't want to copy our miachine's files to the root directory of container? We want to change it with `WORKDIR` command, like below - 
+
+```docker
+FROM node:14-alpine
+WORKDIR /usr/app
+COPY ./ ./
+RUN npm install
+CMD ["npm","start"]
+```
+Interestingly, now from the `WORKDIR /usr/app` command, everything will need to re-install again, can not use the cached version.
+
+if we now use `docker run -it {image} sh`, we will go to directly to that `usr/app` folder.
+
+#### Minimise image re-builds and uses cache more
+
+So far we understand that, writing command maintaining order in docker file is important. And sometimes, it uses cache or build from scratch. Let's say we just changed our `index.js` file, but if we re-build it, it will run the command again for `RUN npm install`, as it saw the changes in earlier line.  And `npm install` is a time consuming command. For large projects, it may take several minutes to run. So, if we dont't change the package.json file, why would bothering re-run `npm install`? So, how to minimise it or just configure it so that npm install will only run if package.json is changed? We can change our Docker file like this. 
+
+```docker
+FROM node:14-alpine
+WORKDIR /usr/app
+COPY ./package.json ./
+RUN npm install
+COPY ./ ./
+CMD ["npm","start"]
+```
+So, if we build first time, it's gonna run `npm install`. But if then change something in `index.js` file and re-build again, we will see that `npm install` is now cached. 
+So, we need to write Dockerfile with care.
