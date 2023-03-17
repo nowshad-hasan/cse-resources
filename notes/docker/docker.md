@@ -69,6 +69,8 @@ Here is nice explanation video - https://www.udemy.com/course/docker-and-kuberne
 But let's say we are done and want to remove all the stopped containers and images from `docker local cache`. 
 So, we type `docker system prune`.
 
+We can run a container background, like this - `docker run -d {image}`. To stop it, we run `docker ps`, grab the id and stop it like normal flow.
+
 #### Collect logs from container
 
 We can get the logs emitted from a container after it is stopped and exited. We saw the output with `docker run`, or `docker start -a {id}`. But there is another way - 
@@ -177,7 +179,7 @@ What we built by `Docker build .` command, as output, it gives an ID. And we run
 Actually, in there `version` is the `actual tag`. `docker id` and `project name` is like naming convention. So, built command will be 
 `docker build -t nowshad/redis:latest .` and run command will be `docker run nowshad/redis` - it will take `latest` tagged image by default. Or we can specify the version in the command like `docker run nowshad/redis:latest`. We can also build Dockerfile without `latest` or just blank, it will be automatically appended at last if we don't add it manually.
 
-**Note**: docker-id is long enough. We need not copy the entire thing. Just copy the first 8/10 characters so that Docker can distinguish  it from other containers.
+**Note**: We may wonder then why `busybox` has no namespace before it? Actually these are popular community images, not belonged to anyone specific. That's why those are written like this. docker-id is long enough. We need not copy the entire thing. Just copy the first 8/10 characters so that Docker can distinguish it from other containers.
 
 #### Generate image from a container
 
@@ -287,7 +289,7 @@ CMD ["npm","start"]
 ```
 Interestingly, now from the `WORKDIR /usr/app` command, everything will need to re-install again, can not use the cached version.
 
-if we now use `docker run -it {image} sh`, we will go to directly to that `usr/app` folder.
+if we now use `docker run -it {image} sh`, we will go to directly to that `usr/app` folder. If the folder does not exist, it will automatically run.
 
 #### Minimise image re-builds and uses cache more
 
@@ -303,3 +305,185 @@ CMD ["npm","start"]
 ```
 So, if we build first time, it's gonna run `npm install`. But if then change something in `index.js` file and re-build again, we will see that `npm install` is now cached. 
 So, we need to write Dockerfile with care.
+
+### Example 1
+
+We are building an web application which is installed in a container and use redis cache installed in separate container.
+`package.json` file - 
+
+```json
+{
+	"dependencies": {
+		"express": "*",
+		"redis": "2.8.0"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
+```
+
+`index.js`
+
+```js
+const express = require('express');
+const redis = require('redis');
+
+const app = express();
+const client = redis.createClient();
+client.set('visits', 0);
+
+app.get('/', (req, res) => {
+	client.get('visits', (err, visits) => {
+		res.send("number of visits is " + visits);
+		client.set('visits', parseInt(visits) + 1);
+	})
+});
+
+app.listen(8081, () => {
+	console.log('Listening on port 8080');
+});
+```
+
+`Dockerfile`
+
+```docker
+FROM node:14-alpine
+WORKDIR /app
+COPY ./package.json ./
+RUN npm install
+COPY . .
+CMD ["npm","start"]
+```
+
+Let's build the image by running - 
+
+```docker
+docker build -t nowshad/visits .
+docker run {image name}
+```
+
+But we will see an error message like that -
+
+```error
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:6379
+```
+
+This error means, we don't have any connection to redis yet. So, let's have one from DockerHub, running it another window `docker run redis`. And let's try again to run the previous image. 
+No! same error like before. Because, those two things are running in two containers. So, we need some networking staff to connect between two containers. Two things we can do - 
+
+- Docker CLI - We can use our basic docker CLI commands to configure the networking.
+- Docker compose - In industry, docker compose is widely used. We will use it here. Docker compose is a kind of pre-defined commands already built in there. Still now, we used many Docker CLI commands for different use cases. But if we use docker-compose for those cases, commands would be little easier. 
+
+Here are some basic things about docker-compose.
+
+- `version` - the version we are gonna use of docker-compose.
+- `-` - array, can use defining ports.
+- `services` - where we write the docker images 
+
+So, let's create a docker compose file, like below - 
+`docker-compose.yml`. 
+
+```yml
+version: '3'
+services:
+  redis-server:
+    image: 'redis'
+  node-app:
+    build: .
+    ports:
+      - "4001:8081"
+```
+`ports` section is like before - {our machine port}:{container port}.
+**Note**: `yml` files maintain indent like python. So, we have to be careful enough to write anything there.
+
+We have to connect a redis app to out node app via networking, right? So, how to do this? As we are using docker-compose, it gonna start the two containers in single network. So, we don't need any configuration to configure in the yml file. But we have to specify in our index.js file where to connect for redis-client. 
+
+```js
+const client = redis.createClient({
+	host: 'http://my-redis-server.com',
+	port: '6379'
+});
+```
+But as are using docker-compose and those are maintained bu this, so we can write like below - 
+
+```js
+const client = redis.createClient({
+	host: 'redis-server', -- name of the service used in docker-compose
+	port: '6379'
+});
+```
+
+As we said earlier, docker-compose is a kind of easier version of docker cli. So, here are some - 
+
+`docker run {image}` = `docker-compose up`
+`docker build .` + `docker run {image}` = `docker-compose up --build`
+
+Let's run `docker-compose up`.
+We will see some nice outputs like 
+
+```info
+Creating network "visits_default" with the default driver
+```
+
+And, it's working fine now.
+Interestingly, if we type `docker ps`, we will see two containers up and running. So, it must be tempting to stop multiple containers individually (yes, we can type CTRL+C and it will work but not healthy - see the ouput when do this). So, there is another command to stop - `docker-compose down`. To run background a docker-compose, type `docker-compose up -d`. Up-down are opposite, to remember it easily.
+
+Let's say our node app is crashed. And totally get down or exited. Then what to do. Let's create the scenario at first. Let me add some code in index.js file - 
+
+```js
+const process = require('process');
+
+app.get('/', (req, res) => {
+	process.exit(0);
+	client.get('visits', (err, visits) => {
+		res.send("number of visits => " + visits);
+		client.set('visits', parseInt(visits) + 1);
+	})
+});
+```
+Now if we hit the base url, app will be crashed and exited. Let's run the command `docker-compose up --build` as we changed the index.js file a bit. Now, hit the url - http://localhost:4001/. We will see something like this - `visits_node-app_1 exited with code 0`. If we run `docker ps`, we will see just one redis server is now running.
+
+But amy we start the server automatically? Here are some restart policies - 
+
+- no - never attempt to restart this, it crashes or stops
+- always - if the container stops for no reason, always attempt to restart it.
+- on-failure - Only restart this if container stops with an error code
+- unless-stopped - always restarts unless we (developers) forcibly stop it
+
+So, let's try one. Add line like below - 
+
+```docker
+node-app:
+    restart: always
+    build: .
+    ports:
+      - "4001:8081"
+```
+
+we can also write restart policy to redis-server. So, re-run the command `docker-compose up`. Now, if we hit the url, we will see in the command line, 
+
+```info
+visits_node-app_1 exited with code 0
+node-app_1      | 
+node-app_1      | > @ start /app
+node-app_1      | > node index.js
+node-app_1      | 
+node-app_1      | Listening on port 8080
+```
+
+That means it was stopped, but again restarted by the docker-compose.
+
+We can also try `on-failure`. But for that we need to change the exit code rather than 0. Because, 0 means - nothing bad happened, we just normally exited the process. But on-failure only works if any failure happens. So, giving a code like  1/2 or anything would give the behavior.
+
+`unless-stopped` only works, if we don't stop process with `docker-compose down` or something else.
+
+For `no`, we must use quote beside this, like - `'no'` or `"no"`. Because, in yml file, `no` means false. So, we need to specify that value as string.
+
+**always vs on-failure**: If we have an web server that should always be running and up, we should use `always` policy. But let's say we are using kind of background service that gets the job done and exit with 0, then we can use `on-failure` policy.
+
+**Note**: `docker-compose ps` gives the *almost* same thing like `docker ps`. But, remember that docker-compose commands only works if that folder contains a docker-compose.yml file.  And with the containers the file contains but `docker ps` is for all. So here is the limitation of docker-compose. If we run docker-compose in a folder that does not contain that yml file, we will get an error.
