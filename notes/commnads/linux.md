@@ -35,63 +35,63 @@ Commands:
 
 - whoami - my username
 - man {command} - display the manual page of any command (Try writing man man). Interestingly, we can install tldr and get the curated information from man page. Actually, man gives us a lots of information which we don't need very often. Honestly, tldr is very useful and powerful. 
-clear - clear the terminal. CTRL+L is a nice shortcut for this.
-pwd (print working directory) - echo my current location
-list down the files of the folder. We can also pass -h for human readability for size of the files.
-ls 
-ls {directory-path} {options, like - lah}- shows the contents of the directory path without any further navigation. We can see the contents of folders a long way without changing directory. Directory can be absolute, means - from root (/) directory.
-ls -a (-all: don't ignore files or folders starting with . - . hidden files/folders starts with .)
-ls -l (long format of files)
-ls -la (combined above those)
+- `clear` - clear the terminal. CTRL+L is a nice shortcut for this.
+- `pwd` (print working directory) - echo my current location
+- list down the files of the folder. We can also pass -h for human readability for size of the files.
+	- `ls` 
+	- `ls {directory-path} {options, like - lah}` - shows the contents of the directory path without any further navigation. We can see the contents of folders a long way without changing directory. Directory can be absolute, means - from root (/) directory.
+	- `ls -a` (-all: don't ignore files or folders starting with . - . hidden files/folders starts with .)
+	- `ls -l` (long format of files)
+	- `ls -la` (combined above those)
 	ls -la shows the contents like below from left side:
-file permission
-number of links on that file
-owner of the file
-group of that file
-file size in bytes
-file's last modified datetime
-filename
-cd - (change directory) - dive into a folder. Interestingly, we can't get anything with 'man cd' - (in mac we can have it though), but we have to type 'help cd'. 
-cd ~ (/home/{username})
-cd / - root folder of pc
-we can combine above command to go to a absolute path, like to go Documents, we can type /home
-. - means current folder
-../../../ - 3 folders back
-We can also give absolute path to cd, like cd /home/ 
-mkdir - creates a folder. But let's say we want to create a new folder at the root: /vlc/data/logs. folder But vlc, the parent folder is not created yet. So, data folder also not present. So, 'mkdir /vlc/data/logs' will give an error if we run the command. So, to create the sob folder with the parent folders, we need to run 'mkdir -p /vlc/data/logs'. option p for parents. We also can make the use of '~' to create something from home directory (/users/nowshadapu).
-touch - Yes, we all know that it creates a file. But interestingly its main purpose is to change the updated timestamps of file. That means if we write the same command 'hello.txt' for the second time, it will just update the creation timestamp, no changes. If no previous file present, then it will create a file with empty data. For the two interesting characteristics, it is called touch. We can create multiple files with single command 'touch file1.txt file2.txt'.
-rmdir - it simply deletes a folder which is non-empty. No, '-p' will not remove non-empty directories. We can delete any empty folder only with this command.
-rm - It removes the files (Or folder). And with this command we can delete non-empty directories and sub-directories with -r (recursive) command. -i provides interactive mode, -v for verbose mode. This -v works for cp/mv and other commands. That means It will ask user which one to keep or delete before deleting every files/folders. By the way, rm/ rmdir will remove things which can not be revert back. It will just go away, so we've to careful about that. And, we can only use rm to delete files, folders or anything without using rmdir ever. But still if we want, we can use rmdir. 
-open - it's a mac specific command. 'open .' will open the current directory. open something will open anything in a GUI, which can be opened by double click. In ubuntu, we need to type xdg-open to do the same thing. 
-mv - it basically renames and moves files and folders. One interesting part is -> mv {file1} {file2} {folder}, if the last argument is a folder, then the previous files will be cut-paste to that folder. We can use the same v,i command with this, for extra info. As usual, v = verbose, i = interactive. 
-cp - it will create a copy of file (or folder) in target directory. To copy folder we need to pass -r to copy all the contents under the folder. We can rename files while copying, if we pass the file name after directory, like - cp hello.txt dir/HELLO.txt
-head - print the first 10 lines (by default) of a file. -n, n=number of lines, is specified for defined number lines. It won't work if head (another software command) is installed in the computer. 
-tail - print the last 10 lines of a file. same as tail, -n could be supplied. But -f (Or, -F)can be supplied also to track the file if it has appended more lines. It is useful when we see the log files live.
-date - print the current date + time stamps
->, >>. It actually redirects the standard output to a file. > replaces all the contents with the output of any command, where >> appends at the last. Additionally, it creates the file if no file found with the file name. 
-cat - it prints out the full contents of a file. The name comes from concatenate  We can supply multiple file names as argument. It will print all the files' contents sequentially. -n is supplied to show the line numbers. Passing -b to number the only non-empty lines. -s to merge multiple new lines into single line. We can also take the benefit of >/>> as we can use cat with multiple files, then redirect all the contents to a new file. cat file1 file2 >> file3.txt.
-less - same as cat but more ui friendly, scroll like manaul page. It is a program unlike cat command. q for quiting this mode. When scrolling, we can open the content in vim editor, with v command. We can open multiple files with less command, like - less file1 file2. To navigate these multiple files, need to type :n - next file, :p-previous file. F to watch mode, same as -> 'tail -F'. To exit this watch mode, press CTRL+C.
-space bar - next page
-b - previous page
-G - last line of the file
-g - first line of the file
-q - to exit
-/{something} - to search for something 
-echo - it prints in terminal what we try to print. like- printf(""), nothing serious. But it has a great use when we write shell script, or redirect the output (>/>>) in a file. We can also echo our $PATH, $JAVA_HOME etc.
-wc - word count. We need to pass the filename for which we want word count, character count, byte count. We can supply different types of files, not just only filename.
-first - number of lines
-second - number of characters
-third - number of bytes
-fourth - name of the file
-| - piping (It's a pipe character). We can use the output of one command to pass to another command. like - cat hello.txt hi.txt | wc -l. It will give the line numbers of two files hello.txt, hi.txt. It's kind of streaming in java. It is more useful with other commands, like -> cat hello.txt | wc >> hello-number.txt: It will append the word count of hello.txt to hello-number.txt file.
-sort - sort the lines of a file. Basically it organises as per string. So, for numerical numbers we must use -n (n for number). For unique elements, we can use -u also. -h for human readable sort, like sizewised sort of folder, files. We can also use pipe here, like - sort -n numbers.txt | wc -l >> numbers-line.txt : it will sort the numbers of numbers.txt file, get the line number and append in numbers-line.txt file.
-uniq - get the unique items of a file, when the items are adjacent. That's why it generally uses with sort command. But it has great great use, like with -c (c = count), we can get the repeated numbers alongside with the content. Then, -d (d=duplicate)for repeated items, -u for uniq items. We can use piping here, like - sort uniq.txt | uniq -c | sort -n. It will sort the all items based on the repetition. We may say that,  sort -u {filename} does the same job as sort {filename} | uniq does. But uniq gives us more control over that.
-diff - it's like diff of Git. with -y, we can see the the difference side by side. -u gives the view like git. To compare the directories, pass -r for recursive file finding, and with the content -q. That means for directories comparing, -rq is great. 
-find - it finds the files, directories etc matches with pattern. Like find . (location) -name '*.txt' - will find everything of current directory that has a match with .txt. If we want to find files with '7' character anywhere in the name, we need to type - find . -name '*7*'. It's kind of regex. We can also pass -type here with d (for directory, i.e. find . -type d ), f (for files). We can use -iname for case insensitivity. 'find . -type d -name 'C*' ' -> Will search for directories Start with C in current location. We can combine multiple filters with -or command , like - 'find . -type d -name 'C*' -or -name 'F*' ' -> Will search for previous criteria and the folders starting with F. And, we can also filter by other criteria, like size -> find . -type f -size +100k. We can also filter by mtime (modified time). Again we can execute command after filtering with -> find . -type f -exec ls -l {} \; - > here, \; - is ending of the command, {} - the placeholder where the output will be replaced, ls -l => is the command to run on each output. 
-grep - global regular expression point. find - searches for files, but grep searches inside a file. grep {string-to-search/regex} filename. This command searches for the string in any position of the file by default. To show the line number with the match, -n need to pass. And, grep -nC 2 green file.txt will give 2 lines before and after the match of green in file.txt file. But if we want to find the match in every files in a directories and sub-directories, we have to write - grep -r (recursive) "hello" . The searching word is case sensitive by default. To make it case insensitive, need to pass -i (like -ri). grep is very powerful for its regex support. We can use regular expression in there, like - email address.
-du - disk usage. I think for mac du = du * (show file info individually). Show the size of files, folders. -k for kilobyte, -m for megabyte show. -h for human readable output. We can use pipe in everywhere. Like - du -mh | sort -h | tail -5. give me the 5 largest files. -a will show file info from sub-directories too.
-df - disk free. It shows the allocated, used, free etc. We can also pass -h for human readable format. 
-history - shows the command history with a number. -n for how many commands to show from history. For quick access, we can take the number of history and execute like that - !{number}. We can search of the history like that - history | grep 'command'.
+    	- file permission
+		- number of links on that file
+		- owner of the file
+		- group of that file
+		- file size in bytes
+		- file's last modified datetime
+		- filename
+- `cd` - (change directory) - dive into a folder. Interestingly, we can't get anything with 'man cd' - (in mac we can have it though), but we have to type 'help cd'. 
+  - `cd ~` (/home/{username})
+  - `cd /` - root folder of pc
+  - `.` - means current folder
+  - `../../../` - 3 folders back
+  - We can also give absolute path to cd, like `cd /home/` 
+- `mkdir` - creates a folder. But let's say we want to create a new folder at the root: `/vlc/data/logs`. folder But vlc, the parent folder is not created yet. So, data folder also not present. So, `mkdir /vlc/data/logs` will give an error if we run the command. So, to create the sub folder with the parent folders, we need to run `mkdir -p /vlc/data/logs`. option p for parents. We also can make the use of '~' to create something from home directory (/users/nowshadapu).
+- `touch` - Yes, we all know that it creates a file. But interestingly its main purpose is to change the updated timestamps of file. That means if we write the same command 'hello.txt' for the second time, it will just update the creation timestamp, no changes. If no previous file present, then it will create a file with empty data. For the two interesting characteristics, it is called touch. We can create multiple files with single command 'touch file1.txt file2.txt'.
+- `rmdir` - it simply deletes a folder which is non-empty. No, '-p' will not remove non-empty directories. We can delete any empty folder only with this command. It is kind of very less powerful.
+- `rm` - It removes the files (Or folder). And with this command we can delete non-empty directories and sub-directories with `-r` (recursive) command. `-i` provides interactive mode, `-v` for verbose mode. This -v works for `cp/mv` and other commands. That means It will ask user which one to keep or delete before deleting every files/folders. By the way, rm/ rmdir will remove things which can not be revert back. It will just go away, so we've to careful about that. And, we can only use rm to delete files, folders or anything without using `rmdir` ever. But still if we want, we can use `rmdir`. 
+- `open` - it's a mac specific command. `open .` will open the current directory. open something will open anything in a GUI, which can be opened by double click. In ubuntu, we need to type `xdg-open` to do the same thing. 
+- `mv` - it basically renames and moves files and folders. One interesting part is -> `mv {file1} {file2} {folder}`, if the last argument is a folder, then the previous files will be cut-paste to that folder. We can use the same v,i command with this, for extra info. As usual, v = verbose, i = interactive. 
+- `cp` - it will create a copy of file (or folder) in target directory. To copy folder we need to pass `-r` to copy all the contents under the folder. We can rename files while copying, if we pass the file name after directory, like - `cp hello.txt dir/HELLO.txt`
+- `head` - print the first 10 lines (by default) of a file. `-n`, n=number of lines, is specified for defined number lines. It won't work if head (another software command) is installed in the computer. 
+- `tail` - print the last 10 lines of a file. same as tail, `-n` could be supplied. But `-f` (Or, -F)can be supplied also to track the file if it has appended more lines. It is useful when we see the log files live.
+- `date` - print the current date + time stamps
+- `>, >>` - It actually redirects the standard output to a file. > replaces all the contents with the output of any command, where >> appends at the last. Additionally, it creates the file if no file found with the file name. 
+- `cat` - it prints out the full contents of a file. The name comes from concatenate  We can supply multiple file names as argument. It will print all the files' contents sequentially. -n is supplied to show the line numbers. Passing -b to number the only non-empty lines. -s to merge multiple new lines into single line. We can also take the benefit of >/>> as we can use cat with multiple files, then redirect all the contents to a new file. cat file1 file2 >> file3.txt.
+- `less` - same as `cat` but more ui friendly, scroll like manual page. It is a program unlike `cat` command. `q` for quiting this mode. When scrolling, we can open the content in vim editor, with `v` command. We can open multiple files with less command, like - `less file1 file2`. To navigate these multiple files, need to type `:n - next file`, `:p-previous file`. `F` to watch mode, same as -> 'tail -F'. To exit this watch mode, press `CTRL+C`.
+	- space bar - next page
+	- b - previous page
+	- G - last line of the file
+	- g - first line of the file
+	- q - to exit
+	- /{something} - to search for something 
+- `echo` - it prints in terminal what we try to print. like- printf(""), nothing serious. But it has a great use when we write shell script, or redirect the output (>/>>) in a file. We can also echo our $PATH, $JAVA_HOME etc.
+- `wc` - word count. We need to pass the filename for which we want word count, character count, byte count. We can supply different types of files, not just only filename.
+	- first - number of lines (`-l`)
+	- second - number of characters (`-c`)
+	- third - number of bytes
+	- fourth - name of the file
+- `|` - piping (It's a pipe character). We can use the output of one command to pass to another command. like - cat hello.txt hi.txt | wc -l. It will give the line numbers of two files hello.txt, hi.txt. It's kind of streaming in java. It is more useful with other commands, like -> cat hello.txt | wc >> hello-number.txt: It will append the word count of hello.txt to hello-number.txt file.
+- `sort` - sort the lines of a file. Basically it organises as per string. So, for numerical numbers we must use `-n` (n for number). For unique elements, we can use `-u` also. `-h` for human readable sort, like sizewised sort of folder, files. We can also use pipe here, like  `sort -n numbers.txt | wc -l >> numbers-line.txt` : it will sort the numbers of numbers.txt file, get the line number and append in numbers-line.txt file.
+- `uniq` - get the unique items of a file, when the items are adjacent. That's why it generally uses with sort command. But it has great great use, like with -c (c = count), we can get the repeated numbers alongside with the content. Then, -d (d=duplicate)for repeated items, -u for uniq items. We can use piping here, like - sort uniq.txt | uniq -c | sort -n. It will sort the all items based on the repetition. We may say that,  sort -u {filename} does the same job as sort {filename} | uniq does. But uniq gives us more control over that.
+
+- `diff` - it's like diff of Git. with `-y`, we can see the the difference side by side. `-u` gives the view like git. To compare the directories, pass `-r` for recursive file finding, and with the content -q. That means for directories comparing, -rq is great. 
+- `find` - it finds the files, directories etc matches with pattern. Like `find . (location) -name '*.txt'` - will find everything of current directory that has a match with `.txt`. If we want to find files with '7' character anywhere in the name, we need to type - `find . -name '*7*'`. It's kind of regex. We can also pass `-type` here with d (for directory, i.e. `find . -type d` ), f (for files). We can use `-iname` for case insensitivity. `find . -type d -name 'C*'`- -> Will search for directories Start with C in current location. We can combine multiple filters with -or command , like - 'find . -type d -name 'C*' -or -name 'F*' ' -> Will search for previous criteria and the folders starting with F. And, we can also filter by other criteria, like size -> find . -type f -size +100k. We can also filter by mtime (modified time). Again we can execute command after filtering with -> find . -type f -exec ls -l {} \; - > here, \; - is ending of the command, {} - the placeholder where the output will be replaced, ls -l => is the command to run on each output. 
+- `grep` - global regular expression point. find - searches for files, but grep searches inside a file. grep {string-to-search/regex} filename. This command searches for the string in any position of the file by default. To show the line number with the match, -n need to pass. And, `grep -nC 2 green file.txt` will give 2 lines before and after the match of green in file.txt file. But if we want to find the match in every files in a directories and sub-directories, we have to write - grep -r (recursive) "hello" . The searching word is case sensitive by default. To make it case insensitive, need to pass -i (like -ri). grep is very powerful for its regex support. We can use regular expression in there, like - email address.
+- `du` - disk usage. I think for mac du = du * (show file info individually). Show the size of files, folders. -k for kilobyte, -m for megabyte show. -h for human readable output. We can use pipe in everywhere. Like - `du -mh | sort -h | tail -5`. give me the 5 largest files. -a will show file info from sub-directories too.
+- `df` - disk free. It shows the allocated, used, free etc. We can also pass -h for human readable format. 
+- `history` - shows the command history with a number. -n for how many commands to show from history. For quick access, we can take the number of history and execute like that - !{number}. We can search of the history like that - history | grep 'command'.
 ps - process status. It's a very powerful command. u (like - ps aux/ ps auxww) for processes belonging to specified username.
 ps - normal processes initiated by user
 ps ax - all the process (but it gets cut off)

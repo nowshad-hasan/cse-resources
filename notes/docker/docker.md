@@ -486,4 +486,12 @@ For `no`, we must use quote beside this, like - `'no'` or `"no"`. Because, in ym
 
 **always vs on-failure**: If we have an web server that should always be running and up, we should use `always` policy. But let's say we are using kind of background service that gets the job done and exit with 0, then we can use `on-failure` policy.
 
-**Note**: `docker-compose ps` gives the *almost* same thing like `docker ps`. But, remember that docker-compose commands only works if that folder contains a docker-compose.yml file.  And with the containers the file contains but `docker ps` is for all. So here is the limitation of docker-compose. If we run docker-compose in a folder that does not contain that yml file, we will get an error.
+**Note**: `docker-compose ps` gives the *almost* same thing like `docker ps`. But, remember that docker-compose commands only works if that folder contains a docker-compose.yml file.  And with the containers the file contains but `docker ps` is for all. So here is the limitation of docker-compose. If we run docker-compose in a folder that does not contain that yml file, we will get an error like below - 
+
+```info
+ERROR: 
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml
+```
