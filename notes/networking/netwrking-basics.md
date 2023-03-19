@@ -7,6 +7,7 @@
 7. TCP vs UDP [Hussein Nusser](https://youtu.be/qqRYkcta6IE), [Freeecodecamp](https://www.freecodecamp.org/news/tcp-vs-udp/)
 8. Get Vs Post [Hussein Nusser](https://youtu.be/K8HJ6DN23zI)
 9. JWT vs Session [Ben Awad](https://youtu.be/o9hT7v0OLJc)
+10. Cookie crash course [Hussein Nasser](https://youtu.be/sovAIX4doOE)
 
 
 #### TCP vs UDP
