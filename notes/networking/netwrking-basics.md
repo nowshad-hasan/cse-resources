@@ -8,6 +8,8 @@
 8. Get Vs Post [Hussein Nusser](https://youtu.be/K8HJ6DN23zI)
 9. JWT vs Session [Ben Awad](https://youtu.be/o9hT7v0OLJc)
 10. Cookie crash course [Hussein Nasser](https://youtu.be/sovAIX4doOE), [Computerpfile](https://youtu.be/T1QEs3mdJoc)
+11. HTTP/1 to HTTP/2 to HTTP/3 [ByteByteGo](https://youtu.be/a-sBfyiXysI)
+12. What is idempotent? And what HTTP request should have retry mechanism? 
 
 
 #### TCP vs UDP
