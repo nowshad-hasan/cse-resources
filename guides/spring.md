@@ -1,14 +1,16 @@
 ## Contents
 
-* [Core Spring](#core-spring)
-* [Spring Security](#spring-security)
-* [Testing](#testing)
-* [Microservices](#microservices)
-* [Database](#database)
-* [Resources](#resources)
-* [Updates](#updates)
+- [Contents](#contents)
+  - [Core Spring](#core-spring)
+  - [Spring Security](#spring-security)
+  - [Testing](#testing)
+  - [Microservices](#microservices)
+  - [Database](#database)
+  - [Resources](#resources)
+  - [Updates](#updates)
 
 ### Core Spring
+* [Core Technologies](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html)
 * Spring ResponseEntity
   * Using Spring ResponseEntity to Manipulate the HTTP Response [Baeldung](https://www.baeldung.com/spring-response-entity)
 * A Guide To Cron Expressions [Baeldung](https://www.baeldung.com/cron-expressions)
