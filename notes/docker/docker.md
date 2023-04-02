@@ -495,3 +495,35 @@ ERROR:
 
         Supported filenames: docker-compose.yml, docker-compose.yaml
 ```
+
+### Building a Production Grade Workflow
+ As per the course I am following, we will have a github project, where we have a `feature` and `master` branch. We will write some code in `feature` branch, then push it to that. Then, we will create a merge request to master branch. After accepting the merge request, a CI/CD tool named Travis CI will be started for running the tests and deployed in AWS application.
+
+ Note: What we talked above, we will do in next, there is no connection with Docker. We can do the same thing without that. But docker will make our life easier a lot. 
+
+ So, let's start a project - `npx create-react-app-frontend`. It will create a pre-built react project named `frontend`. We can go into there and start some commands
+ `npm run start` - to run in a development server
+ `npm run test` - runs tests associated with it
+ `npm run build` - to build the project for production
+
+ We will have two Dockerfiles for dev and production. File will be named,
+ `Dockerfile.dev` -> development
+ `Dockerfile` -> production
+Here is the code for `Dockerfile.dev`
+
+```docker
+FROM node:16-alpine
+
+WORKDIR '/app'
+
+COPY package.json .
+RUN npm install
+
+COPY . . 
+CMD ["npm","run","start"]
+```
+SO let's try to build this file. But wait! Docker searches for exact file named `Dockerfile` not Dockerfile.dev. So, to run this file we need to write command like that - 
+`docker build -f Dockerfile.dev .` - `-f` for file name. But make sure we deleted the two auto-generated folders `build`, `node_modules` before running the build command. Otherwise, these will be copied into our image uselessly. So, after building the image, we can start our development server with below command - 
+`docker run -p 3000:3000 {image-id}`. Now, we can start from our browser.
+
+But let's change something in src/App.js file. But we need to re-build the image every-time to have the change. So, let's find out an easy solution for this process.
