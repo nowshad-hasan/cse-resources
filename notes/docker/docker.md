@@ -527,3 +527,45 @@ SO let's try to build this file. But wait! Docker searches for exact file named 
 `docker run -p 3000:3000 {image-id}`. Now, we can start from our browser.
 
 But let's change something in src/App.js file. But we need to re-build the image every-time to have the change. So, let's find out an easy solution for this process.
+
+#### Docker Volume
+We used port mapping before, where image's port is connected to host port. Now, we will connect our host folders, files to images's files, folders. That is called Docker Volume. But why not used before? Because, it is kind of hard syntax. 
+`docker run -p 3000:3000 -v "$(pwd):/app" {image-id}`
+
+pwd -> gets our current directory files and others to images `/app` folder. `-v` for volume.
+But we will get something like - 
+```
+> frontend@0.1.0 start
+> react-scripts start
+
+sh: react-scripts: not found
+```
+The volume command actually referenced everything from our current directory to the `/app` directory. But earlier we deleted the node_modules folder. So, inside the /app folder of our image there is no `node_modules` folder. So, now we modify the command to exclude the node_modules folder from our `pwd` directory.
+`docker run -p 3000:3000 -v /app/node_modules -v "$(pwd):/app" {image-id}`.
+
+Now our docker image will be started and we can change our src/App.js file and see the reflection immediately.
+
+But the command is really long. So, let's make our life easier with docker compose.
+Let's create a yml file.
+
+```docker
+version: '3'
+services:
+  web:
+    build: .
+    ports: 
+      -"3000:3000"
+    volumes:
+      - /app/node_modules
+      - .:/app
+
+```
+
+Now type `docker-compose up`. But it won't work because our path does not have Dockerfile, it has Dockerfile.dev. So, we need to specify the docker-file in our yml file ,like below - 
+
+```docker
+ build: 
+      context: .
+      dockerfile: Dockerfile.dev
+
+```
