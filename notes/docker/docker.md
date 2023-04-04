@@ -561,7 +561,7 @@ services:
 
 ```
 
-Now type `docker-compose up`. But it won't work because our path does not have Dockerfile, it has Dockerfile.dev. So, we need to specify the docker-file in our yml file ,like below - 
+Now type `docker-compose up`. But it won't work because our path does not have Dockerfile, it has Dockerfile.dev. So, we need to specify the docker-file in our yml file, like below - 
 
 ```docker
  build: 
@@ -569,3 +569,32 @@ Now type `docker-compose up`. But it won't work because our path does not have D
       dockerfile: Dockerfile.dev
 
 ```
+
+Other parts will remain as before.
+**Note:** Now, if we go to our docker file, we will see that `COPY . .` command. But is it still necessary? Because we use volumes which is connected to our source code to the image's code. But for future reference or something else, it is better to have that COPY command.
+
+Now, we want to run some tests inside our container. So, let's build the image first.
+`docker build -f Dockerfile.dev .`
+`docker run {image} npm run test` - overriding the default startup command.
+Or to have some interactive experience, type `docker run -it {image} npm run test`.
+But let's go to src/App.test.js file and make some changes to reflect the output. But no, those tests are not connected to our container. That was just a snapshot.
+To solve this issue, run the docker image first, then type below command - 
+`docker exec -it {image} npm run test`. Now, if add more tests, our image is gonna re-run all the tests again.
+That was one approach to run tests. But another option is with `docker-compose`. For that let's add another section in yml file in same indentation with `web`. It is called adding another service.
+
+```docker
+tests: 
+    build: 
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - /app/node_modules
+      - .:/app
+    command: ["npm","run","test"]
+```
+command section is to override the default command.
+Now, we need to give `docker-compose up --build`. --build is to build again. Sometimes if we add new service, need to re-built again. But this approach has a downside - we can't enter into input-output (-it) login shell like before and all the options, like - re-run tests, quitting or others.
+
+Here is a nice [explanation](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/29412500#learning-tools)
+
+Now, we are gonna run our react application on a production server. So we need Ngnix or any other web server to setup. Basically we need two steps for production. One for app building (Build phase), another for start nginx and run our app on it (run phase). And, we basically need the build folder from build phase to copy into our run phase.
