@@ -597,4 +597,19 @@ Now, we need to give `docker-compose up --build`. --build is to build again. Som
 
 Here is a nice [explanation](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/29412500#learning-tools)
 
-Now, we are gonna run our react application on a production server. So we need Ngnix or any other web server to setup. Basically we need two steps for production. One for app building (Build phase), another for start nginx and run our app on it (run phase). And, we basically need the build folder from build phase to copy into our run phase.
+Now, we are gonna run our react application on a production server. So we need Ngnix or any other web server to setup. Basically we need two steps for production. One for app building (Build phase), another for start nginx and run our app on it (run phase). And, we basically need the build folder from **build phase** to copy into our **run phase**.
+
+So, let's write `Dockerfile`
+
+```docker
+FROM node:16-alpine as builder
+WORKDIR '/app'
+COPY package.json .
+RUN npm install 
+COPY . .
+RUN npm run build
+
+FROM nginx 
+COPY --from=builder /app/build /usr/share/ngnix/html
+```
+COPY means to copy from that image to our nginx image. `/usr/share/ngnix/html` is the deault location of nginx.
