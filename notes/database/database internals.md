@@ -153,3 +153,15 @@ Database implementation of Isolation
 - Optimistic - No locks, just track if things changed and fail the transaction if so.
 - Repeatable read 'locks' the rows it reads and it could be expensive if we read a lots of rows. Postgres implements this Repeatable read as snapshot and that's why Phantom read does not occur in Repeatable Read Isolation for Postgres.
 - Serializable are usually implemented with optimistic concurrency control otherwise serialisable would be much more slow.
+
+
+### Consistency
+How could we maintain consistency?
+
+- Atomicity
+- Referrel integrity (foreign keys)
+- Isolation
+
+Interestingly when we update a row and getting the latest data is the most challenged thing in DB. Because there are master-slave replica thing. So, that is a hard part and NoSQL like MongoDB suffer from this situation. To solve this problem, another term `eventual consistency` came, which is almost consistent. It means that maybe right now we are not consistent, but will be eventual consistent somehow.
+
+Synchronus replication gives us strong consistency where asynchronus replication gives us weak consisetncy.
