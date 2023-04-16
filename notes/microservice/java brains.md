@@ -308,3 +308,73 @@ We can get HystrixDashboard with `..hystrix-dashboard` dependency. It is a userf
 Its like ship building. Here is the details - https://youtu.be/Kh3HxWk8YF4
 
 
+### Part 3: Configuration
+
+Example configuration - 
+
+- database credentials
+- credentials
+- feature flags - flags we use to use different config in our project
+- buisiness logic configuration parameters
+- scenario testing (A/B testing)
+- spring boot configuration
+
+Different types of config files -
+
+- XML files
+- properties
+- yaml
+- json
+
+Goals of configuration
+- externalised
+- environment specific
+- consistent - let's say we have 10 instances of a single project, all should have same configurations
+- version hisory - we want to track all the configuration changes
+- real-time management 
+
+How can we read property from properties file
+
+- @Value("${property-key}") 
+
+We can also reference from one property to another
+
+```properties
+my.greeting=hello
+my.description=Welcome home ${{my.greeting}
+```
+
+To override the internal properties file, we can set another external application.properties in the same folder the jar is, the jar is gonna load with the external properties file when we start jar using `java -jar {}.jar`. 
+
+Another way is to directly pass the key-value pair in command line arguments, like
+
+`java -jar {}.jar --my.greeting=greeting from command line argument`
+
+That means, my.greeting is now overrides internal my.greeting.
+
+Let's say somehow, our properties file misses a key which is used in application. Then our application won't start. We can provide a default value for that key in our code, so that application gets a default value.
+`@Value("${my.greeting: default value}")`
+
+We can also get list of values from properties file
+```properties
+my.list.values=One, Two, Three
+```
+
+```java
+@Value("${my.list.value}")
+private List<String> values;
+```
+
+We can also get Key-value pair
+```properties
+dbValue={connectionString: 'http://...', username:'foo', password:'bar'}
+```
+
+```java
+@Value("#{${dbValues}}")
+private Map<String, String> values;
+```
+
+
+
+
