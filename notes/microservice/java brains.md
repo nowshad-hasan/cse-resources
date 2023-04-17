@@ -375,6 +375,72 @@ dbValue={connectionString: 'http://...', username:'foo', password:'bar'}
 private Map<String, String> values;
 ```
 
+#### Using @ConfigurationProperties
+
+It is useful when we have group of configurations. Let's say we have below config.
+
+```properties
+db.connection={connectionString: 'http://...', username:'foo', password:'bar'}
+db.host=127.0.0.1
+db.port=8080
+
+```
+
+Now, we will create a bean to get all the informations like below - 
+
+```java
+@Configuration // making a bean
+@ConfigurationProperties("db") // db is the prefix to pull from properties
+class DBSettings {
+
+	private String connection;
+	private String host;
+	private int port;
+
+	// public getter, setter
+}
+
+// using from other class.
+
+@Autowired
+public DbSettings dbSettings;
+```
+That is how we can use bulk properties.
+
+So, till now we have seen two ways to get values. When to use what?
+
+1. @Value is to be used when we need to use a configuration in a single place
+2. @ConfigurationProperties is to be used when we need bulk config in different places. Then we connect the bean with a single line. A perfect example is db-connection. 
+
+#### Actuator
+
+We can add the actuator dependency, then add below line in properties file - 
+
+`management.endpoints.web.exposure.include=*` makes all the endpoints created by actuator, exposed.
+Now, if we type `localhost:8080/actuator/configprops` we will see all the configurations created by spring and by us.
+
+But the problem with properties file is long configurations name. So, there is another approach - using `yaml` files.
+yaml was used to stand for - Yet another markup language, then the meaning is changed - YAML Ain't Markup Language.
+
+In yaml format, we can nested our configs and use in single key like properties - both. Below is the example - 
+
+```yaml
+app:
+	name: My app
+	description: welcome to ${app.name}
+
+my:
+	greeting: Hello world
+	list:
+		 values: One, Two, Three
+
+db:
+	connection: "{connectionString: 'http://...', username:'foo', password:'bar'}"
+	host: 127.0.0.1
+	port: 1200
+management.endpoints.web.exposure.include="*"
+```
+See, we don't need to indent the last config. We keep it as usual. And by default yaml sets it with string or int. So, if we need to setup another format, we need to cover in "" where we used in `*` or connection - `{}`.
 
 
 
