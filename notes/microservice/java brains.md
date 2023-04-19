@@ -443,4 +443,100 @@ management.endpoints.web.exposure.include="*"
 See, we don't need to indent the last config. We keep it as usual. And by default yaml sets it with string or int. So, if we need to setup another format, we need to cover in "" where we used in `*` or connection - `{}`.
 
 
+### Spring Profiles
 
+Normally if no profile is set, then `default profile` is set. But we can add multiple profiles in the project with the convention `application-${profile-name}.extn`.
+
+And we can set a specific profile in our base (default profile) application.properties file like below-
+`spring.profiles.active=test`
+Now, our application will load `application-test.properties` file at runtime.
+
+But isn't that odd that we specify a certain profile to look at, in our default profile?
+
+Actually the fact is our default profile (application.properties/yml) is always active. Whatever the other profile we set, always sits on top of the default profile. That means, if we set a specific config in our specific profile and default profile both, then specific profile is gonna win, otherwise all the default profile's configurations will be applied. Actually configs are merged from default profile to other profiles. And, there could be multiple profiles active. 
+
+But still we need to set the default profile to look at in our source code aka our jar file. So, how can we dynamically apply the profile without modifying the jar? 
+
+`java -jar ${...jar} --spring.profiles.active=test` 
+
+- just using the basic overriding strategy of config from properties.
+
+We can also instantiate our beans based on profiles, like - 
+
+```java
+@Repository
+@Profile("dev")/ @Profile("production")
+public class LocalStudentRepository {
+
+}
+```
+This feature is super powerful but we need to be careful using it. Because creating beans dependent on profile can make huge mess and clutter our business logic.
+When we don't specify @Profile annotation, actually it is set to default profile, like - `@Profile("default")`, as default profile is always active.
+
+We can also use Environment object in Spring Boot like below - 
+
+```java
+@Autowired
+Environment environment;
+
+// now we can get profiles, properties from the environment object.
+
+```
+So, with `environment` object we can 
+
+1. can look up profiles - should never do it, as affects testability
+2. can look up properties - also should never do it, always fetch value with @Value and ${}.
+
+#### Config as a microservice
+
+Some open source projects for these.
+
+- Apache Zookeeper
+- ETCD - distributed key-value store
+- Hashicorp Consul
+- Spring Cloud Configuration Server
+  
+The magic of spring cloud server is, the other services will push their properties aka configurations into their own Git repo and our config server will read this and expose to that service at runtime without any re-deployment.
+
+But, what is the url pattern?
+{base-url}/{file-name}/{profile}
+
+http://localhost:8888/application/default
+
+Here we write the config repository like below - 
+`spring.cloud.config.server.git.uri=/Volumes/Macintosh HD - Data/Study/Projects/My Projects/configrepo`
+configrepo is just a basic folder containing application.properties file. But it is git initialized and committed. If we don't commit, our config server can not read the values.
+
+That is the beauty of config server.
+
+But now we will connect our other services with this config server. That means, our microservices will read their configurations from the config-server, not on their own.
+
+For that, we need to add the below dependency in our client service - 
+`implementation 'org.springframework.cloud:spring-cloud-starter-config`.
+
+Then in the properties file of this service, we need to add a configuration of the config server url like below - 
+`spring.config.import=optional:configserver:http://localhost:8888
+`. Now, if we reload the client server and try to fetch a key, it will fetch it from the config server.
+
+Note: If you change anything on the configrepo folder, make sure you `commit` it, otherwise changes won't be reflected.
+
+Let's say we want to make a service specific properties file (like setting a port) in our configrepo folder and we want our service reads that properties file at runtime. For that, we need to create a file of that service name like below 
+`{service-name}.properties`, here service-name is defined in service's application.properties file like below 
+`spring.application.name = `. 
+
+After creating the specific properties file, we can access it with `{host}/{service-name}`, like `http://localhost:8888/rating-data-service/default`. Now, our service can access the configs from this specific file.
+
+When we commit in our configrepo folder, our config server automatically gets the updated value from the files. But the problem is, our client application still holds the previous value got at startup, not refreshed automatically at runtime.
+
+To make that, we need to add actuator dependency 
+`	implementation 'org.springframework.boot:spring-boot-starter-actuator'`, then add @RefreshScope at the controller. The RefreshScope gets the updated dependency injected value every-time url is hit.
+
+To get the updated value now we need to call the api `localhost:8083/actuator/refresh` POST method with no body. (not sure) our values should be updated from the client application without restarting this application server.
+*Above dynamic refreshing strategy did not work in mine*
+
+Note: We can use ${HOME} or, ${JAVA_HOME} thigns in properties file and they will be finalised at runtime.
+#### Configuration Best Practices
+
+Here is the nice video with best practices - https://youtu.be/AiGCx0raQfs
+
+Here is a nice blog for applying best practices on microservices - https://12factor.net/
