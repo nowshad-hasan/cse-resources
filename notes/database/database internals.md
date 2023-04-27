@@ -350,5 +350,34 @@ vacuum (analyze, verbose, full);
 create index g_idx on grades(g);
 ```
 
+** explain**: What query plan postgres will use for a given query. It's not exact query execution but an estimation checking.
+
 Now a select query - `explain select * from grades;`
-We will see something like that -  `Seq Scan on grades` - again a frl
+We will see something like that -  `Seq Scan on grades` - again a full table scan - it's a query plan. Sometimes postgres uses parallel scan with multiple threads.
+Result of the query is - ` Seq Scan on grades  (cost=0.00..9.01 rows=501 width=22`. Explanation is given below - 
+
+- cost - 0.00 -> milliseconds needed to fetch the first page. 9.01 -> time needed to finish query (nothing but an estimation)
+- rows - It's an interesting value. It shows us an estimation row count of the table. It's not exact count. But it can be helpful when we count likes of instagram, we don't need exact count but an estimation. And select count(id) or something like that will kill us. So, we can execute `explain` and get the estimation very fast.
+- width - sum of column data types.
+
+`explain select * from grades order by g;` gives us 
+`Index Scan using g_idx on grades  (cost=0.15..31.65 rows=501 width=22) (1 row)` - here we are seeing that cost is little bit high as now postgres needs to do some work as we `order by` data but still fast as it is using `index scan using g_idx`. Rest of the data is same.
+
+`explain select * from grades order by name;` gives us 
+
+```sql
+Sort  (cost=31.48..32.73 rows=501 width=22)
+   Sort Key: name
+   ->  Seq Scan on grades  (cost=0.00..9.01 rows=501 width=22)
+(3 rows)
+```
+
+Cost is very high now as we are sorting by name where it has no index. So postgres needs to go to heap to fetch data and sort.
+
+**Note:** When we explain something, we need to start from the bottom. In above query, planning for `Seq Scan on grades  (cost=0.00..9.01 rows=501 width=22) (3 rows)` - means very fast, but when we are doing the sort, it takes the time.
+
+`explain select id from grades;` gives us `Seq Scan on grades  (cost=0.00..9.01 rows=501 width=4) (1 row)` - here interesting part is width - 4, as id is integer and 4 byte length.
+
+`explain select name from grades;` gives us `Seq Scan on grades  (cost=0.00..9.01 rows=501 width=14)` - width is now 14, as the name is text which is a variable length. So, we must be careful about blob or large text value - because large data means large data communication in network, tcp connection will take time.
+
+`explain select * from grades where id = 10;` gives `Index Scan using grades_pkey on grades  (cost=0.27..8.29 rows=1 width=22)  Index Cond: (id = 10)` - it takes little time as it is now index scanned.
