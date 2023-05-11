@@ -38,7 +38,7 @@
 - What the GRE Test Is and How to Prepare [U.S.News](https://www.usnews.com/education/best-graduate-schools/articles/what-the-gre-test-is-and-how-to-prepare)
 - GRE Study Schedules and Plans [Magoosh](https://gre.magoosh.com/study-plans?fbclid=IwAR2TEU6Q4OnyccCyOiSjtiqTltEvBb3KWQz63LJO76mVsiOIC5IPRfFMizo)
 - বিনামূল্যে উচ্চশিক্ষার জন্য বিশ্বের সেরা ৮ টি শিক্ষাবৃত্তি [Youth Carnival](http://youthcarnival.co/%e0%a6%ac%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a7%82%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a7%87-%e0%a6%89%e0%a6%9a%e0%a7%8d%e0%a6%9a%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0-%e0%a6%9c/)
-
+- PhD technique [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7032249427276816384/)
 
 ### Inspiration
 

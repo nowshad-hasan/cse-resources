@@ -1,0 +1,26 @@
+
+### Environment
+- Internal Politics [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7046297618280312832/)
+
+
+### Tools
+- 64 Tools for Developers [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7055050021141909504/)
+- Some frontend and backend hosting websites [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7037376062774743040/)
+- Collection of tools [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7035489134748024832/)
+### Productivity
+- Close mind tabs [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7052162427798388736/)
+- To be better developer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7050351864407543808/)
+- Develop a routine [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049192544819179520/)
+- First do it, then do it better [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049625987721957377/)
+- How to instantly feel better [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7036991024572862464/)
+- 8 Japanese Concepts [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7036538041548632064/)
+- Gmail concepts [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7032570189825097728/)
+- Pomodoror technique [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7028357880273657856/)
+
+### Git Repo
+- Essential Repos [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049434548949958657/)
+
+
+### Mini projects
+- Some mini projects [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030788972628905985/)
+
