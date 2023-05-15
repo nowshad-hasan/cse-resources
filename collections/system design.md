@@ -1,6 +1,7 @@
 ### Post
 
 - System design survival guide [Arslan Ahmad](https://www.linkedin.com/feed/update/urn:li:activity:7046804930434650112/)
+- System design goldmine [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7028144495997194240/)
 
 - Some paper list [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7004135389888176128/)
 

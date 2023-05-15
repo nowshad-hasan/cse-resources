@@ -13,5 +13,12 @@
 ### Devops projects
 - Free DevOps Projects to build Your portfolio [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030643834585788416/)
 
+<<<<<<< Updated upstream
 ### Some posts
 - [YouTube Channel to learn devops](https://www.linkedin.com/feed/update/urn:li:activity:7000793165192413185/)
+=======
+### Jenkins
+
+- Learn Jenkins by Solving [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030106365050130432/)
+- 
+>>>>>>> Stashed changes
