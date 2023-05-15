@@ -7,11 +7,8 @@
 - 64 Tools for Developers [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7055050021141909504/)
 - Some frontend and backend hosting websites [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7037376062774743040/)
 - Collection of tools [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7035489134748024832/)
-<<<<<<< Updated upstream
 - Content ideas [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7000676158862159872/)
-=======
 - Some interesting tools [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7024635099669286912/)
->>>>>>> Stashed changes
 ### Productivity
 - Close mind tabs [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7052162427798388736/)
 - To be better developer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7050351864407543808/)

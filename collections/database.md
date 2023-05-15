@@ -16,7 +16,6 @@
 ### Optimization
 - Query Optimization Technique - [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7041664329175212032/)
 
-<<<<<<< Updated upstream
 ### Practice website
 
 - [SQL Bolt](https://sqlbolt.com/)
@@ -25,8 +24,6 @@
 - [8weeksqlchallenge](https://8weeksqlchallenge.com/case-study-1/)
 - [Data Lemur](https://datalemur.com/)
 - [SQL Masterclass](https://github.com/DataWithDanny/sql-masterclass)
-=======
 ### Linux commands
 
 - LINUX COMMANDS EXPLAINED PT2 [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7028357608952479745/)
->>>>>>> Stashed changes
