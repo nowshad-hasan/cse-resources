@@ -11,6 +11,7 @@
 ### Posts
 
 - Collection of posts [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7034156285809868802/)
+- How to prepare oneself for FAANG [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6993771921951649792/)
 
 ### Interview Experience 
 

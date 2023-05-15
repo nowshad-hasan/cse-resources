@@ -19,6 +19,7 @@
 - Gmail concepts [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7032570189825097728/)
 - Pomodoror technique [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7028357880273657856/)
 - Toxic workplace [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7023681512373948417/)
+- How to be a great software engineer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6997110648656547840/)
 
 ### Git Repo
 - Essential Repos [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049434548949958657/)
@@ -29,3 +30,11 @@
 
 ### Websites
 - Some poplular YouTube channels [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6986548865030078464/)
+
+### CV writing
+
+- CV writing tools [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7063453349240541184/)
+
+### Negotiation
+
+- 9 tips to master negotiation (in life and business) [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6995375564412895232/)
