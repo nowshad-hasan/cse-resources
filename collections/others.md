@@ -9,6 +9,7 @@
 - Collection of tools [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7035489134748024832/)
 - Content ideas [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7000676158862159872/)
 - Some interesting tools [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7024635099669286912/)
+- Inside look at modern web browser (part 1) [Google](https://developer.chrome.com/blog/inside-browser-part1/)
 ### Productivity
 - Close mind tabs [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7052162427798388736/)
 - To be better developer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7050351864407543808/)
