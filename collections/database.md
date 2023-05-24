@@ -31,3 +31,7 @@
 ### Blogs
 
 - LATERAL is Your Friend to Create Local Column Variables in SQL [Jooq](https://blog.jooq.org/lateral-is-your-friend-to-create-local-column-variables-in-sql/)
+
+### Posts
+
+- 5 papers on storage systems every software engineer should read [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6991647229329518592/)
