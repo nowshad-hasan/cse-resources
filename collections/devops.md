@@ -1,3 +1,5 @@
+--------TODO-------List down all the actual github repo/book/youtube videos here instead of some website links for best of `something`.
+
 ### Bash 
 
 - Common bash commands[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7037649350872768512/)
@@ -12,9 +14,13 @@
 
 ### Devops projects
 - Free DevOps Projects to build Your portfolio [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030643834585788416/)
+- [Devops Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 
 ### Some posts
 - [YouTube Channel to learn devops](https://www.linkedin.com/feed/update/urn:li:activity:7000793165192413185/)
+- [Best DevOps Blogs and Resources for Learning](https://devopscube.com/list-of-devops-blogs-and-resources/)
+- [Devops Reading List](https://octopus.com/blog/devops-reading-list)
+  
 ### Jenkins
 
 - Learn Jenkins by Solving [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030106365050130432/)
