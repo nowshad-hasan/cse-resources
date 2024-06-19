@@ -31,6 +31,7 @@
 ### Blogs
 
 - LATERAL is Your Friend to Create Local Column Variables in SQL [Jooq](https://blog.jooq.org/lateral-is-your-friend-to-create-local-column-variables-in-sql/)
+- Migrating Facebook to MySQL 8.0 [Engineering at Meta](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
 
 ### Posts
 

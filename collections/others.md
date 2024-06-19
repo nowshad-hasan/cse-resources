@@ -21,6 +21,7 @@
 - Pomodoror technique [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7028357880273657856/)
 - Toxic workplace [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7023681512373948417/)
 - How to be a great software engineer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6997110648656547840/)
+- [5 Tools all non-technical software founders should use](https://kaz.com.bd/blog/2017/2/13/5-software-dev-tools-all-non-technical-founder-should-use)
 
 ### Git Repo
 - Essential Repos [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049434548949958657/)
@@ -39,3 +40,19 @@
 ### Negotiation
 
 - 9 tips to master negotiation (in life and business) [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6995375564412895232/)
+
+### Learning Git
+
+- [Think Like (a) Git](https://think-like-a-git.net/)
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+
+### Stories
+
+- [Nightmare in code street - a software project horror story with a happy ending](https://kaz.com.bd/blog/2015/9/10/nightmare-in-code-street-a-software-project-horror-story-with-a-happy-ending)
+
+### UI/UX
+
+- [A software UX design story](https://kaz.com.bd/blog/2020/10/20/a-software-ux-design-story)
+
+### Nostalgia 
+- [The Meanings of Googliness](https://meiert.com/en/blog/googliness/)

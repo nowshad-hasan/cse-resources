@@ -19,3 +19,12 @@
 - Collection of git repos [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7027861618067681280/)
 - Software Engineering Interviews post-layoff [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7023717300163760128/)
 - 8 Week plans for interview [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7024791644939972608/)
+
+### Softskills
+
+- How to interview at Amazon - Leadership - Now including the 2 new Principles [Linkedin](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/)
+
+### Websites
+
+- [InterviewBit](https://www.interviewbit.com/)
+- [Hired In Tech](https://www.hiredintech.com/)

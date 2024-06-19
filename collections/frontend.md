@@ -4,3 +4,7 @@
 
 ### Websites
 - [Scrimba](https://v2.scrimba.com/home)
+
+### CSS Articles
+
+- CSS Cheat Sheet – 10 Tricks to Improve Your Next Coding Project [Freecodecamp](https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project)
