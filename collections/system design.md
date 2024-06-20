@@ -6,6 +6,7 @@
 - Some paper list [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7004135389888176128/)
 
 - [System Design](https://www.linkedin.com/feed/update/urn:li:activity:7001879432713879552/)
+- How we built a backend for our £20 million crowdfunding round [Link](https://monzo.com/blog/2019/01/14/crowdfunding-technology-backend-architecture)
 
 ### Blogs
 
