@@ -25,4 +25,13 @@
 ### Jenkins
 
 - Learn Jenkins by Solving [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030106365050130432/)
-- 
+
+
+### Kubernetes
+- sysdevbd.github.io [GitHub](https://github.com/sysdevbd/sysdevbd.github.io?tab=readme-ov-file)
+- Creating a Custom Cluster from Scratch [Link](https://pwittrock.github.io/docs/getting-started-guides/scratch/)
+- Kubernetes Learning Roadmap [GitHub](https://github.com/techiescamp/kubernetes-learning-path)
+
+
+### Blog Posts
+- Scaling Kubernetes to 7,500 nodes [OpenAI](https://openai.com/index/scaling-kubernetes-to-7500-nodes/)

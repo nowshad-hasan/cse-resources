@@ -31,7 +31,17 @@
 ### Courses
 - Algorithms Specialization [Course era](https://www.coursera.org/specializations/algorithms)
 
+### YouTube
+- [My Code School](https://www.youtube.com/user/mycodeschool/playlists)
+
 ### GitHub Repo
 
 - Github repositories for Algorithms and Data Structures: [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6999704310276091904/)
+- dsa-notes [GitHub](https://github.com/karunkarthik-git/dsa-notes)
+
+### Collection  Posts
+- New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time [Link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- Cracking The Coding Interview 6th Edition In LeetCode
+ [Leetcode](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
+ Best practice questions [Tech Interview Handbook](https://www.techinterviewhandbook.org/best-practice-questions/)
 

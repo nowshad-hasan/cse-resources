@@ -56,3 +56,9 @@
 
 ### Nostalgia 
 - [The Meanings of Googliness](https://meiert.com/en/blog/googliness/)
+
+### Collection
+- linkedin-skill-assessments-quizzes [Link](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
+
+### Project Idea
+- Cool web projects for beginners [KAZ Software](https://kaz.com.bd/blog/2020/8/12/cool-web-projects-for-beginners)

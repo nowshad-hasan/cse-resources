@@ -12,3 +12,6 @@
 
 - How UPI works [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6993232061268443136/)
 - Different types of clocks [https://www.linkedin.com/feed/update/urn:li:activity:6990337428737712128/]
+
+### Collection
+- System Design Resources [GitHub](https://github.com/InterviewReady/system-design-resources)

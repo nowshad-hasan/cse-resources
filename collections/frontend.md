@@ -4,6 +4,7 @@
 
 ### Websites
 - [Scrimba](https://v2.scrimba.com/home)
+- [Frontend Masters](https://frontendmasters.com/courses/)
 
 ### CSS Articles
 
