@@ -16,6 +16,7 @@
 - Free DevOps Projects to build Your portfolio [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030643834585788416/)
 - [Devops Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- How to Build a Bot and Automate your Everyday Work [Freecodecamp](https://www.freecodecamp.org/news/building-bots/)
 
 ### Some posts
 - [YouTube Channel to learn devops](https://www.linkedin.com/feed/update/urn:li:activity:7000793165192413185/)

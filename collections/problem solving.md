@@ -33,6 +33,7 @@
 
 ### YouTube
 - [My Code School](https://www.youtube.com/user/mycodeschool/playlists)
+- [Logicmojo](https://www.youtube.com/@logicmojo)
 
 ### GitHub Repo
 

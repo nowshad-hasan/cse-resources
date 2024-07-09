@@ -43,6 +43,7 @@
 - [Resumake](https://latexresu.me/)
 - How to Pick Resume Keywords That'll Get Your Job Application Past the ATS [Link](https://www.themuse.com/advice/a-job-hunters-guide-to-getting-your-resume-past-the-ats-and-into-human-hands)
 - কিভাবে একটা সুস্বাদু সিভি লেখা যায়? [Link](https://writing.joynal.dev/how-to-write-a-delicious-cv)
+- A killer tech CV that no company can refuse [KAZ Software](https://kaz.com.bd/blog/2020/8/14/cool-resume-which-is-an-example-of-your-skills-cv-recursion)
 
 
 ### Cover Letter

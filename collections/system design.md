@@ -15,3 +15,4 @@
 
 ### Collection
 - System Design Resources [GitHub](https://github.com/InterviewReady/system-design-resources)
+- The Amazon Builders' Library [Amazon](https://aws.amazon.com/builders-library/)
