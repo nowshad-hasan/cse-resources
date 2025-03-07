@@ -27,6 +27,18 @@
 
 ### DP
 - Common DP problems - [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7061933638564659200/)
+- DP for Beginners [Problems | Patterns | Sample Solutions] [Leetcode](https://leetcode.com/discuss/post/662866/dp-for-beginners-problems-patterns-sampl-atdb/)
+
+### Sliding Window 
+- Sliding Window algorithm template to solve all the Leetcode substring search problem. [Leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem/)
+
+### Binary Search 
+
+- [Python] Powerful Ultimate Binary Search Template. Solved many problems [Leetcode](https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-t-rwv8/)
+
+### Backtrack 
+
+- Backtrack Summary: General Solution for 10 Questions!!!!!!!! Python (Combination Sum, Subsets, Permu... [Leetcode](https://leetcode.com/problems/permutations/solutions/18284/Backtrack-Summary:-General-Solution-for-10-Questionsh/)
 
 ### Courses
 - Algorithms Specialization [Course era](https://www.coursera.org/specializations/algorithms)

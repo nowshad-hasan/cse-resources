@@ -1,8 +1,11 @@
 ## Contents
 
-* [Core Spring](#core-spring)
-* [Spring Security](#spring-security)
-* [Resources](#resources)
+- [Contents](#contents)
+  - [Core Spring](#core-spring)
+  - [Spring Security](#spring-security)
+  - [Message Queue](#message-queue)
+  - [Chat Application](#chat-application)
+  - [Resources](#resources)
 
 ### Core Spring
 * JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
@@ -46,6 +49,23 @@
 * OAuth2 Boot [Spring Doc](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsingle/)
 * A Quick Guide to OAuth 2.0 with Spring Security [Blog](https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide)
 * Securing REST Services With OAuth2 in Spring Boot [DZone](https://dzone.com/articles/securing-rest-services-with-oauth2-in-springboot-1)
+* HTTPS using Self-Signed Certificate in Spring Boot [Baeldung](https://www.baeldung.com/spring-boot-https-self-signed-certificate)
+
+### Message Queue
+
+* Messaging in Spring Boot [Messaging](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/boot-features-messaging.html)
+* Messaging with RabbitMQ [Spring Doc](https://spring.io/guides/gs/messaging-rabbitmq)
+* Messaging with JMS [Spring Doc](https://spring.io/guides/gs/messaging-jms)
+* Getting Started with Spring JMS [Baeldung](https://www.baeldung.com/spring-jms)
+* Messaging with Spring AMQP [Baeldung](https://www.baeldung.com/spring-amqp)
+
+### Chat Application
+
+* Spring Boot Websocket Chat Application Example [Youtube](https://youtu.be/4Hyv4M1kFeM?si=u28ohgvTVdrFNwW0)
+* Build a Chat Application Using Spring Boot + WebSocket + RabbitMQ [DZone](https://dzone.com/articles/build-a-chat-application-using-spring-boot-websock)
+* Building a chat application with Spring Boot and WebSocket [Callicoder](https://www.callicoder.com/spring-boot-websocket-chat-example/)
+* Build a Real-Time Chat Application With Modulus and Spring Boot [Envato tuts+](https://code.tutsplus.com/build-a-real-time-chat-application-with-modulus-and-spring-boot--cms-22513t)
+
 
 ### Resources
 
