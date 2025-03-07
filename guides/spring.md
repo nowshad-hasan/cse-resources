@@ -23,6 +23,7 @@
   * JPA Query Structure (JPQL / Criteria) [ObjectDB](https://www.objectdb.com/java/jpa/query/jpql/structure)
   * When use getOne and findOne methods Spring Data JPA [Stackoverflow](https://stackoverflow.com/questions/24482117/when-use-getone-and-findone-methods-spring-data-jpa)
   * GetOne, findOne and findById in Spring Data JPA [Blog](https://developpaper.com/getone-findone-and-findbyid-in-spring-data-jpa/)
+  * ‘Code First’ API Documentation with Springdoc and Spring Boot [Refactoring.io](https://reflectoring.io/spring-boot-springdoc/)
 
 * Working With Filters in Spring [DZone](https://dzone.com/articles/working-with-filters-in-spring)
 
@@ -115,6 +116,9 @@
 * Spring Basics - What Is A Dependency? [In 28 Minutes](http://www.springboottutorial.com/spring-framework-what-is-a-dependency)
 * 10 Essential Spring Core Annotations Every Java Developer Should Learn [Java67](https://www.java67.com/2018/11/top-10-spring-framework-annotations-for-java-developers.html)
 * Custom Web Controller Arguments with Spring MVC and Spring Boot [Reflectoring](https://reflectoring.io/spring-boot-argumentresolver/)
+* Cross-Origin Resource Sharing (CORS) [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+* CORS support in Spring Framework [Spring.io](https://spring.io/blog/2015/06/08/cors-support-in-spring-framework)
+* Spring Boot CORS Configuration Examples [HowToDoInJava](https://howtodoinjava.com/spring-boot2/spring-cors-configuration/)
 
 ### Spring Security
 

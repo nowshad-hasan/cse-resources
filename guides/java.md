@@ -1,19 +1,20 @@
 ## Contents
 
-* [Core Java](#core-java)
-* [OOP](#oop)
-* [Collection](#collection)
-* [Generics](#generics)
-* [Lambda](#lambda)
-* [Threading](#threading)
-* [Socket Programming](#socket-programming)
-* [Exception Handling](#exception-handling)
-* [Testing](#testing)
-* [RxJava](#rxjava)
-* [Resources](#resources)
-* [Others](#others)
-* [Updates](#updates)
-* [Blogs](#blogs)
+- [Contents](#contents)
+  - [Core Java](#core-java)
+  - [OOP](#oop)
+  - [Collection](#collection)
+  - [Generics](#generics)
+  - [Lambda](#lambda)
+  - [Threading](#threading)
+  - [Socket Programming](#socket-programming)
+  - [Exception Handling](#exception-handling)
+  - [Testing](#testing)
+  - [RxJava](#rxjava)
+  - [Resources](#resources)
+  - [Others](#others)
+  - [Updates](#updates)
+  - [Blogs](#blogs)
 
 ### Core Java
 
@@ -69,6 +70,8 @@
 * Atomic Variables [Java Docs](https://docs.oracle.com/javase/tutorial/essential/concurrency/atomicvars.html)
 * A Random Pitfall [Reflectoring](https://reflectoring.io/how-to-random/)
 * Understanding Classic Java Garbage Collection [InfoQ](https://www.infoq.com/articles/understand-classic-java-garbage-collection/)
+* 9 Rules about Constructors in Java [CodeJava](https://www.codejava.net/java-core/the-java-language/9-rules-about-constructors-in-java)
+* Java Access Modifiers Examples: public, protected, private and default [CodeJava](https://www.codejava.net/java-core/the-java-language/java-access-modifiers-examples-public-protected-private-and-default)
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
