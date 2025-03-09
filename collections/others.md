@@ -64,3 +64,6 @@
 
 ### Project Idea
 - Cool web projects for beginners [KAZ Software](https://kaz.com.bd/blog/2020/8/12/cool-web-projects-for-beginners)
+  
+### Podcast 
+- [Hope This Helps](https://creators.spotify.com/pod/show/saad-bin-amjad/episodes/HTH-02-Angular-vs-React-egk19g)

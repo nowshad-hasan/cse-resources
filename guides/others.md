@@ -1,18 +1,19 @@
 ## Contents
 
-* [Git](#git)
-* [VIM](#vim)
-* [Clean Code](#clean-code)
-* [IDE Tips](#ide-tips)
-* [Blockchain](#blockchain)
-* [Inspiration](#inspiration)
-* [Articles and Videos](#articles-and-videos)
-* [Productivity](#productivity)
-* [Project Ideas](#project-ideas)
-* [Study in Abroad](#study-in-abroad)
-* [Free Tutorial](#free-tutorial)
-* [Book Reviews](#book-reviews)
-* [Awesome Projects](#awesome-projects)
+- [Contents](#contents)
+  - [Git](#git)
+  - [VIM](#vim)
+  - [Clean Code](#clean-code)
+  - [IDE Tips](#ide-tips)
+  - [Blockchain](#blockchain)
+  - [Inspiration](#inspiration)
+  - [Articles and Videos](#articles-and-videos)
+  - [Productivity](#productivity)
+  - [Project Ideas](#project-ideas)
+  - [Study in Abroad](#study-in-abroad)
+  - [Book Reviews](#book-reviews)
+  - [Free Tutorial](#free-tutorial)
+  - [Awesome Projects](#awesome-projects)
 
 ### Git
 
@@ -126,6 +127,12 @@
 * Levels of Seniority [Roadmap](https://roadmap.sh/guides/levels-of-seniority)
 * The Approach To Becoming A Better Developer – 5 Essential Techniques [Mosh Hamedani](https://programmingwithmosh.com/general/the-approach-to-becoming-a-better-developer-5-essential-techniques/)
 * My System for Organizing Work in a Distracted World [Reflectoring](https://reflectoring.io/organizing-work/)
+* Data Structures & Algorithms I Used Working at Tech Companies [Pragmatic Engineer](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+* 5 tips to stay sane with automation testing [KAZ Software](https://kaz.com.bd/blog/2020/8/27/5-tips-to-stay-sane-with-automation-testing)
+* The no 1 skill for software founders [KAZ Software](https://kaz.com.bd/blog/2020/8/28/the-no-1-skill-for-a-software-founder)
+* Talent is everything in software [KAZ Software](https://kaz.com.bd/blog/2020/1/30/talent-is-everything-in-software)
+* Do not disturb a software developer in "flow" [KAZ Software](https://kaz.com.bd/blog/2020/1/28/do-not-disturb-a-software-developer-in-flow)
+* 5 UX rule every software founder should know about [KAZ Software](https://kaz.com.bd/blog/2020/1/26/5-ux-wisdom-to-impress-anyone)
 
 ### Articles and Videos
 
@@ -149,6 +156,10 @@
 * Pareto principle [Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
 * The Five Orders of Ignorance [Research Gate](https://www.researchgate.net/publication/27293624_The_Five_Orders_of_Ignorance)
 * Code Review Best Practices [Trisha Gee](https://trishagee.github.io/post/code_review_best_practices/)
+* Failing Better - the secret of great software careers [KAZ Software](https://kaz.com.bd/blog/2013/10/29/failing-better-the-secret-of-great-software-careers)
+* The Quality of Software [KAZ Software](https://kaz.com.bd/blog/2020/8/18/the-quality-of-software)
+* Making your software: Step 2 - Find software developers [KAZ Software](https://kaz.com.bd/blog/2020/7/29/making-your-software-step-2-find-software-developers)
+* 
 
 ### Productivity
 

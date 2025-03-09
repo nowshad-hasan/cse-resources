@@ -46,11 +46,20 @@
 ### YouTube
 - [My Code School](https://www.youtube.com/user/mycodeschool/playlists)
 - [Logicmojo](https://www.youtube.com/@logicmojo)
+- [Errichto Algorithms](https://www.youtube.com/@Errichto/playlists)
+- [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 
 ### GitHub Repo
 
 - Github repositories for Algorithms and Data Structures: [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6999704310276091904/)
 - dsa-notes [GitHub](https://github.com/karunkarthik-git/dsa-notes)
+- Interviewpen [Github](https://github.com/bephrem1/interviewpen)
+- Mission Peace [Github](https://github.com/mission-peace/interview/wiki)
+- Leetcode-Company-Wise-Problems [Github](https://github.com/amanjainn/Leetcode-Company-Wise-Problems)
+
+### Websites
+
+- [Interviewpen](https://interviewpen.com/)
 
 ### Collection  Posts
 - New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time [Link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
