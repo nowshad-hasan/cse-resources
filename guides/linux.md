@@ -1,0 +1,13 @@
+## Contents
+
+* [Command line](#command-line)
+
+### Command Line
+- The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [Freecodecamp-Youtube](https://youtu.be/ZtqBQ68cfJc?si=0CcP0uudrIJHzeJF)
+- Linux Crash Course for Beginners with Labs [Freecodecamp-Youtube](https://youtu.be/6WatcfENsOU?si=g_-zHg7GD1er2Hay)
+
+### Command line and Bash Scripting
+
+
+Awesome Cheatsheets - https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
+Rico's cheatsheets - https://devhints.io/bash

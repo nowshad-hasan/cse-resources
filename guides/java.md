@@ -72,6 +72,7 @@
 * Understanding Classic Java Garbage Collection [InfoQ](https://www.infoq.com/articles/understand-classic-java-garbage-collection/)
 * 9 Rules about Constructors in Java [CodeJava](https://www.codejava.net/java-core/the-java-language/9-rules-about-constructors-in-java)
 * Java Access Modifiers Examples: public, protected, private and default [CodeJava](https://www.codejava.net/java-core/the-java-language/java-access-modifiers-examples-public-protected-private-and-default)
+* The Java Memory Model - The Basics [Jakob Jenkov](https://youtu.be/LCSqZyjBwWA?si=uovAJdCjdzeSy72X)
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
@@ -152,6 +153,9 @@
 * JetBrains Conferences [YouTube Playlist](https://www.youtube.com/playlist?list=PLPZy-hmwOdEU3BXXyyj7IVskMKUfvWZeB)
 * How to plan your Java learning path - Brain Bytes - Java Brains [YouTube](https://youtu.be/DC5wtYGQ7XE)
 * 13 Java type system caveats and tricks you may want to know | Cause Cheng at Java Z-Day [YouTube](https://youtu.be/NgomJQwujiY)
+
+### Conference
+* How Netflix Uses Java - 2025 Edition [Java-Youtube](https://youtu.be/XpunFFS-n8I?si=17ucrL1Anul85-CF)
 
 ### Updates
 * Java 14 Makes Code Super Expressive, Say Top Developers [Forbes](https://www.forbes.com/sites/oracle/2020/04/02/java-14-makes-code-super-expressive-say-top-developers/amp/)

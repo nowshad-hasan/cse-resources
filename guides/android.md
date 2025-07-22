@@ -1,22 +1,24 @@
 
 ## Contents
 
-* [Android Core](#android-core)
-* [UI Component](#ui-component)
-* [Networking](#networking)
-* [Background Processing](#background-processing)
-* [Location](#location)
-* [Architecture Component](#architecture-component)
-* [Architecture Pattern](#architecture-pattern)
-* [Testing](#testing)
-* [Gradle](#gradle)
-* [Security](#security)
-* [Libraries](#libraries)
-* [Sample Projects](#sample-projects)
-* [Collection](#collection)
-* [Blog](#blog)
-* [Others](#others)
-* [Tools](#tools)
+- [Contents](#contents)
+  - [Android Core](#android-core)
+  - [UI Component](#ui-component)
+  - [Networking](#networking)
+  - [Background Processing](#background-processing)
+  - [React native](#react-native)
+  - [Location](#location)
+  - [Architecture Component](#architecture-component)
+  - [Architecture Pattern](#architecture-pattern)
+  - [Gradle](#gradle)
+  - [Security](#security)
+  - [Libraries](#libraries)
+  - [Sample Projects](#sample-projects)
+  - [Testing](#testing)
+  - [Collection](#collection)
+  - [Blog](#blog)
+  - [Others](#others)
+  - [Tools](#tools)
 
 
 ### Android Core
@@ -302,6 +304,10 @@
 * App Standby vs Doze: Understanding System Sleep [Android Developers - YouTube Video](https://www.youtube.com/watch?v=Rwshwq_vI1s)
 * Understanding Android Core: Looper, Handler, and HandlerThread [MindOrks YouTube Playlist](https://www.youtube.com/playlist?list=PL6nth5sRD25hCXGGnG3LXMTgWAwnS31r8)
 * AIDL (Android Interface Definition Language) [Developer Android](https://developer.android.com/guide/components/aidl), [AIDL Example GitHub](https://github.com/chintandesai49/AIDLDemo), [AndroidPub](https://android.jlelse.eu/android-aidl-937daf89e685), [MIT Edu](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/components/aidl.html), [DZOne](https://dzone.com/articles/android-interface-definition)
+
+### React native
+
+- React Native Full Course for Beginners [Freecodecamp-Youtube](https://youtu.be/sm5Y7Vtuihg?si=uvRv_Su0Vlkk5Q2m)
 
 ### Location
 

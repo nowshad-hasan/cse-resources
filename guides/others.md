@@ -159,7 +159,7 @@
 * Failing Better - the secret of great software careers [KAZ Software](https://kaz.com.bd/blog/2013/10/29/failing-better-the-secret-of-great-software-careers)
 * The Quality of Software [KAZ Software](https://kaz.com.bd/blog/2020/8/18/the-quality-of-software)
 * Making your software: Step 2 - Find software developers [KAZ Software](https://kaz.com.bd/blog/2020/7/29/making-your-software-step-2-find-software-developers)
-* 
+* Bangladeshi Developers: The Good, The Bad and The Ugly - Topu Newaj x Astha IT | The Sprint S2E2 [Youtube](https://youtu.be/Wk1_fNlXo0g?si=9TgyXegbcollWHhN)
 
 ### Productivity
 
@@ -167,6 +167,7 @@
 * [Kanban Tool](https://kanbantool.com/personal-kanban-board)
 * [Pomodoro](https://francescocirillo.com/pages/pomodoro-technique)
 * WHAT IS JUST-IN-TIME LEARNING? [Blog](https://www.growthengineering.co.uk/what-is-just-in-time-learning/)
+* Productivity as a Developer – Full Course [Freecodecamp-Youtube](https://youtu.be/C_jQahOnGUU?si=chugbxqzOZ_LvK4a)
 
 ### Project Ideas
 
