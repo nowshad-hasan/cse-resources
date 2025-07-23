@@ -14,6 +14,8 @@
   - [Book Reviews](#book-reviews)
   - [Free Tutorial](#free-tutorial)
   - [Awesome Projects](#awesome-projects)
+  - [Stories](#stories)
+  - [Youtube Channel](#youtube-channel)
 
 ### Git
 
@@ -160,6 +162,7 @@
 * The Quality of Software [KAZ Software](https://kaz.com.bd/blog/2020/8/18/the-quality-of-software)
 * Making your software: Step 2 - Find software developers [KAZ Software](https://kaz.com.bd/blog/2020/7/29/making-your-software-step-2-find-software-developers)
 * Bangladeshi Developers: The Good, The Bad and The Ugly - Topu Newaj x Astha IT | The Sprint S2E2 [Youtube](https://youtu.be/Wk1_fNlXo0g?si=9TgyXegbcollWHhN)
+* 40 Life Lessons from a 40-Year-Old Developer [Travis Media-Youtube](https://youtu.be/AzczASDeXvU?si=nGaRm0HuwylfK4fC)
 
 ### Productivity
 
@@ -168,6 +171,7 @@
 * [Pomodoro](https://francescocirillo.com/pages/pomodoro-technique)
 * WHAT IS JUST-IN-TIME LEARNING? [Blog](https://www.growthengineering.co.uk/what-is-just-in-time-learning/)
 * Productivity as a Developer – Full Course [Freecodecamp-Youtube](https://youtu.be/C_jQahOnGUU?si=chugbxqzOZ_LvK4a)
+* The Missing Link in Tech Success - Soft Skill for Career Growth :: Megaminds Learning & Game Changer [Megaminds Learning](https://youtu.be/_FxFhNXBKmk?si=3CJwsCf7H2180Kgf)
 
 ### Project Ideas
 
@@ -204,3 +208,9 @@
 ### Awesome Projects
 
 * [Neal.fun](https://neal.fun/)
+
+### Stories
+- Angular: The Documentary | An origin story [Youtube](https://youtu.be/cRC9DlH45lA?si=DCqiTIdKXd1Iiu6Q)
+
+### Youtube Channel
+- [Life at Google](https://youtu.be/olScOTFtVW8?si=gbJedTCstH-ERJs4)

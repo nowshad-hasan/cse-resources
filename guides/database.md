@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
   - [Basics](#basics)
+  - [Migration](#migration)
   - [NoSQL](#nosql)
   - [Indexes](#indexes)
   - [Resources](#resources)
@@ -22,6 +23,7 @@
   * SQL Correlated Subqueries [GeeksforGeeks](https://www.geeksforgeeks.org/sql-correlated-subqueries/)
 * What are ACID properties in a database? [Educative](https://www.educative.io/edpresso/what-are-acid-properties-in-a-database)
 * ডাটাবেজ ট্রানজেকশন ও এসিড [Subeen](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
+* I replaced my entire tech stack with Postgres... [Fireship-Youtube](https://youtu.be/3JW732GrMdg?si=L6ucPZEbMInQ9281)
 
 ### Migration
 

@@ -5,6 +5,7 @@
   - [CI/CD](#cicd)
   - [Learning materials](#learning-materials)
   - [Blogs](#blogs)
+  - [ELK Stack](#elk-stack)
 
 ### Basics
 
@@ -19,3 +20,6 @@
 ### Blogs
 
 - [Devopscube](https://devopscube.com/)
+
+### ELK Stack
+- Elasticsearch Course for Beginners [Freecodecamp-Youtube](https://youtu.be/a4HBKEda_F8?si=XvNCMFCbYRq7tI_J)
