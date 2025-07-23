@@ -6,6 +6,7 @@
   - [Learning materials](#learning-materials)
   - [Blogs](#blogs)
   - [Videos](#videos)
+  - [ELK Stack](#elk-stack)
 
 ### Basics
 
@@ -25,3 +26,6 @@
 
 - Mastering curl with Daniel Stenberg (lead developer) [Youtube](https://youtu.be/V5vZWHP-RqU?si=_K2_WebZYUwoAdtR)
 - Introduction to Linux – Full Course for Beginners [Freecodecamp](https://youtu.be/sWbUDq4S6Y8?si=V75IwMieS_tc9VNr)
+
+### ELK Stack
+- Elasticsearch Course for Beginners [Freecodecamp-Youtube](https://youtu.be/a4HBKEda_F8?si=XvNCMFCbYRq7tI_J)

@@ -1,8 +1,10 @@
 ## Contents
 
-* [Article](#article)
-* [Collection](#collection)
-* [Blog](#blog)
+- [Contents](#contents)
+  - [Article](#article)
+  - [Collection](#collection)
+  - [Videos](#videos)
+  - [Blog](#blog)
 
 ### Article
 
@@ -18,6 +20,9 @@
   * [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
   * [Syncthing Android](https://github.com/syncthing/syncthing-android/blob/master/CONTRIBUTING.md)
 
+
+### Videos
+- Contributing To Open Source – Beginner's Guide [Freecodecamp-Youtube](https://youtu.be/mklEhT_RLos?si=LYm9tebk0J7MQyNI)
 
 ### Blog
 * [First Timers Only](https://www.firsttimersonly.com/)
