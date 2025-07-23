@@ -176,6 +176,9 @@
 * Productivity as a Developer – Full Course [Freecodecamp-Youtube](https://youtu.be/C_jQahOnGUU?si=chugbxqzOZ_LvK4a)
 * The Missing Link in Tech Success - Soft Skill for Career Growth :: Megaminds Learning & Game Changer [Megaminds Learning](https://youtu.be/_FxFhNXBKmk?si=3CJwsCf7H2180Kgf)
 * How to Become a Great Software Developer — Best Advice from Top-Notch Engineers [EngX Space-Youtube](https://youtu.be/suATPK45sjk?si=KPDxhuBN_pdabs7c)
+* 10 Chrome Extensions That Will DOUBLE Your Productivity [Youtube](https://youtu.be/-qLuCfKddtE?si=marogtFwd6bJFQeu)
+* Advice for beginner backend engineers who just started their new jobs in software companies [Hussein Nasser](https://youtu.be/V3C0VvNrFZ8?si=MnT35fxThnrTwiqB)
+* How to Become a Good Backend Engineer (Fundamentals) [Hussein Nasser-Youtube](https://youtu.be/V3ZPPPKEipA?si=fs_RENKRCraZuwEf)
 
 ### Project Ideas
 
@@ -216,6 +219,7 @@
 ### Stories
 - Angular: The Documentary | An origin story [Youtube](https://youtu.be/cRC9DlH45lA?si=DCqiTIdKXd1Iiu6Q)
 - - How A Small Team of Developers Created React at Facebook | React.js: The Documentary [Youtube](https://youtu.be/8pDqJVdNa44?si=kLKAsPm4v5V2iR0B)
+- The INSANE Truth About TikTok [Youtube](https://youtu.be/djk159kLBwA?si=jbWKwE4so0VzFa9m)
 
 ### Youtube Channel
 - [Life at Google](https://youtu.be/olScOTFtVW8?si=gbJedTCstH-ERJs4)

@@ -15,3 +15,4 @@
 ### Videos
 
 - Difference between cookies, session and tokens [Youtube](https://youtu.be/GhrvZ5nUWNg?si=RauCnYwWmEOp2G1S)
+- Cross-Site Request Forgery (CSRF) Explained [PwnFunction](https://youtu.be/eWEgUcHPle0?si=CrTu3RNSJcRPDQSJ)

@@ -98,3 +98,5 @@
 - Databases In-Depth – Complete Course [Freecodecamp-Youtube](https://youtu.be/pPqazMTzNOM?si=OA_i_KmrbXXOzFEb)
 - SQL - Complete Course in 9 Hours | SQL One Shot | SQL Full Course by Sumit Sir [Sumit Mittal-Youtube](https://youtu.be/qlkS-e5ym1w?si=SCscF9EJBAXdswGE)
 - Pgpool-II Tutorial [Youtube](https://youtu.be/qpxKlH7DBjU?si=z3M4kZVidsSFeD6d)
+- How to learn SQL for free | Roadmap to learning SQL [Youtube](https://youtu.be/a-hFbr-4VQQ?si=2SYn3JyX_3vanMDn)
+- MongoDB Internal Architecture [Hussein Nasser](https://youtu.be/ONzdr4SmOng?si=klikjbcJTTD0YYRb)

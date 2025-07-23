@@ -15,3 +15,4 @@ Rico's cheatsheets - https://devhints.io/bash
 
 ### Videos
 - Watch Linux kernel developer write a USB driver from scratch in just 3h for Apple Xserve front-panel [Youtube](https://youtu.be/IXBC85SGC0Q?si=ACB-XsY_u8DJargo)
+- The Complete Linux Course: Beginner to Power User! [Youtube](https://youtu.be/wBp0Rb-ZJak?si=GH5-j9EyxiOOMI3Q)
