@@ -14,6 +14,7 @@
   - [Book Reviews](#book-reviews)
   - [Free Tutorial](#free-tutorial)
   - [Awesome Projects](#awesome-projects)
+  - [Hello](#hello)
 
 ### Git
 
@@ -48,6 +49,8 @@
 * Version Control (git) (2020) by Missing Semester [YouTube](https://youtu.be/2sjqTHE0zok)
 * Multiple SSH Keys settings for different github account [GitHub Gist](https://gist.github.com/jexchan/2351996)
 * GitFlow Documentation [Docs](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+* How to Undo Mistakes With Git Using the Command Line [Freecodecamp-Youtube](https://youtu.be/lX9hsdsAeTk?si=cpb2Nv6m94siOGob)
+* Git Internals by John Britton of GitHub - CS50 Tech Talk [CS50-Youtube](https://youtu.be/lG90LZotrpo?si=MOWSDAMhlyfReWNt)
 
 ### VIM
 
@@ -160,6 +163,7 @@
 * The Quality of Software [KAZ Software](https://kaz.com.bd/blog/2020/8/18/the-quality-of-software)
 * Making your software: Step 2 - Find software developers [KAZ Software](https://kaz.com.bd/blog/2020/7/29/making-your-software-step-2-find-software-developers)
 * Bangladeshi Developers: The Good, The Bad and The Ugly - Topu Newaj x Astha IT | The Sprint S2E2 [Youtube](https://youtu.be/Wk1_fNlXo0g?si=9TgyXegbcollWHhN)
+* The software engineering industry in 2024: what changed, why, and what is next (Craft Conference) [Youtube](https://youtu.be/VpPPHDxR9aM?si=ZLB8jq84q50sfhm0)
 
 ### Productivity
 
@@ -168,6 +172,7 @@
 * [Pomodoro](https://francescocirillo.com/pages/pomodoro-technique)
 * WHAT IS JUST-IN-TIME LEARNING? [Blog](https://www.growthengineering.co.uk/what-is-just-in-time-learning/)
 * Productivity as a Developer – Full Course [Freecodecamp-Youtube](https://youtu.be/C_jQahOnGUU?si=chugbxqzOZ_LvK4a)
+* How to Become a Great Software Developer — Best Advice from Top-Notch Engineers [EngX Space-Youtube](https://youtu.be/suATPK45sjk?si=KPDxhuBN_pdabs7c)
 
 ### Project Ideas
 
@@ -204,3 +209,6 @@
 ### Awesome Projects
 
 * [Neal.fun](https://neal.fun/)
+
+### Hello
+- How A Small Team of Developers Created React at Facebook | React.js: The Documentary [Youtube](https://youtu.be/8pDqJVdNa44?si=kLKAsPm4v5V2iR0B)

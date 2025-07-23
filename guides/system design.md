@@ -1,8 +1,10 @@
 ## Contents
 
-* [Core](#core)
-* [Collection](#collection)
-* [Others](#others)
+- [Contents](#contents)
+- [Core](#core)
+  - [Collection](#collection)
+  - [Others](#others)
+  - [Videos](#videos)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
@@ -21,3 +23,7 @@
 ### Others
 
 * How To Become a DevOps Engineer In Six Months or Less [Medium](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+
+### Videos
+
+- Bloom Filters Explained by Example [Hussein Nusser](https://youtu.be/gBygn3cVP80?si=3KnNyMvjsvKss0PI) 

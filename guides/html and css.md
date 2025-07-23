@@ -1,13 +1,14 @@
 ## Contents
 
-* [Article](#article)
-* [HTML](#html)
-* [CSS](#css)
-* [Blog](#blog)
-* [Collection](#collection)
-* [Tools](#tools)
-* [Template](#template)
-* [Personal Website](#personal-website)
+- [Contents](#contents)
+  - [Article](#article)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Collection](#collection)
+  - [Tools](#tools)
+  - [Template](#template)
+  - [Personal Website](#personal-website)
+  - [Videos](#videos)
 
 ### Article
 
@@ -89,3 +90,8 @@
   ### Personal Website
   * [Asif Mohaimen](https://asifmohai.men/)
   * [Software Developer Folio](https://github.com/saadpasta/developerFolio/)
+
+### Videos
+- My favorite resources and tools for coding [Coder coder-Youtube](https://youtu.be/dfczbF47Vqg?si=iCs9lllk7zy8ZUOd)
+- My process building websites from a design | HTML & CSS | ASMR coding [Coder coder-Youtube](https://youtu.be/Pj7wPjFRWC4?si=T0zdMsmWGtnMmMTM)
+- Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) [Freecodecamp-Youtube](https://youtu.be/MsnQ5uepIaE?si=zYyAHt_RcDCW0neD)

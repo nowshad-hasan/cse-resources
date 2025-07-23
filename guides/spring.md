@@ -8,6 +8,8 @@
   - [Database](#database)
   - [Resources](#resources)
   - [Updates](#updates)
+  - [Testing](#testing-1)
+  - [Videos](#videos)
 
 ### Core Spring
 * [Core Technologies](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html)
@@ -226,3 +228,16 @@
 ### Updates
 
 * Spring Boot 2.3 Features [Technicalsand](https://technicalsand.com/spring-boot-2-3-features/)
+
+
+### Testing
+- Bootiful Testing [Spring Developer-Youtube](https://youtu.be/1W5_tOiwEAc?si=if9tEYWVU8u7ETzK)
+- Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave [Spring  Developer](https://youtu.be/s9vt6UJiHg4?si=sEgjAYzIAd6rHFaU)
+- Test Driven Development (TDD) | Crash Course | 2020 [Amigoscode-Youtube](https://youtu.be/z6gOPonp2t0?si=JRF0pyigR6mDf7ka)
+
+### Videos
+
+- API Documentation Best Practices – Full Course [Youtube](https://youtu.be/0CSyIBHQy9g?si=wkpXqv50S2ahI4X7)
+- 10 Spring and Spring Boot Common Mistakes You Need To STOP [Amigoscode-Youtube](https://youtu.be/CT8dbbe783s?si=yLLYaYihQGXUZM5X)
+- Explain it to Me Like I’m 5: Oauth2 and OpenID [Spring Developer](https://youtu.be/5th6CSQTdpM?si=psEVa0rMjjiH_9mt)
+- Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course [Freecodecamp-Youtube](https://youtu.be/5PdEmeopJVQ?si=B6XUZqTPOhwqFSyz)

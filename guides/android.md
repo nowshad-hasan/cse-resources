@@ -308,6 +308,7 @@
 ### React native
 
 - React Native Full Course for Beginners [Freecodecamp-Youtube](https://youtu.be/sm5Y7Vtuihg?si=uvRv_Su0Vlkk5Q2m)
+- Mobile App Development Course with React Native, Supabase, Next.js [Freecodecamp-Youtube](https://youtu.be/2esQdKzRUCw?si=SaB63uiA3NW_gZz8)
 
 ### Location
 

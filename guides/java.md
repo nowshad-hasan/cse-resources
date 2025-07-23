@@ -13,8 +13,10 @@
   - [RxJava](#rxjava)
   - [Resources](#resources)
   - [Others](#others)
+  - [Conference](#conference)
   - [Updates](#updates)
   - [Blogs](#blogs)
+  - [Videos](#videos)
 
 ### Core Java
 
@@ -178,3 +180,6 @@
 * [Bazlur Rahman - DZone](https://dzone.com/users/1298119/bazlur_rahman.html)
 * [Java Challengers](https://javachallengers.com/)
 * [Java World](https://www.javaworld.com/)
+  
+### Videos
+- Java Interview Questions and Answers - The 4 Hours Guide | ( Demonstrated with Live Examples) [Java Techie-Youtube](https://youtu.be/KN9BP9y6FKc?si=CCLHttriwTD_Xu1w)  

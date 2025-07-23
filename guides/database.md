@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
   - [Basics](#basics)
+  - [Migration](#migration)
   - [NoSQL](#nosql)
   - [Indexes](#indexes)
   - [Resources](#resources)
@@ -9,6 +10,7 @@
   - [SQL Query Practice](#sql-query-practice)
   - [Blog website](#blog-website)
   - [Blogs](#blogs)
+  - [Videos](#videos)
 
 
 ### Basics
@@ -89,3 +91,9 @@
 * [Do You Really Understand SQL’s GROUP BY and HAVING clauses?](https://blog.jooq.org/do-you-really-understand-sqls-group-by-and-having-clauses/)
 * Inner join vs Cross apply [Explain Extended](https://explainextended.com/2009/07/16/inner-join-vs-cross-apply/)
 * Using Window Functions for Efficient Pagination [Use the index, Luke](https://use-the-index-luke.com/sql/partial-results/window-functions)
+
+### Videos
+
+- Databases In-Depth – Complete Course [Freecodecamp-Youtube](https://youtu.be/pPqazMTzNOM?si=OA_i_KmrbXXOzFEb)
+- SQL - Complete Course in 9 Hours | SQL One Shot | SQL Full Course by Sumit Sir [Sumit Mittal-Youtube](https://youtu.be/qlkS-e5ym1w?si=SCscF9EJBAXdswGE)
+- Pgpool-II Tutorial [Youtube](https://youtu.be/qpxKlH7DBjU?si=z3M4kZVidsSFeD6d)

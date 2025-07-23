@@ -5,6 +5,7 @@
   - [CI/CD](#cicd)
   - [Learning materials](#learning-materials)
   - [Blogs](#blogs)
+  - [Videos](#videos)
 
 ### Basics
 
@@ -19,3 +20,8 @@
 ### Blogs
 
 - [Devopscube](https://devopscube.com/)
+
+### Videos 
+
+- Mastering curl with Daniel Stenberg (lead developer) [Youtube](https://youtu.be/V5vZWHP-RqU?si=_K2_WebZYUwoAdtR)
+- Introduction to Linux – Full Course for Beginners [Freecodecamp](https://youtu.be/sWbUDq4S6Y8?si=V75IwMieS_tc9VNr)
