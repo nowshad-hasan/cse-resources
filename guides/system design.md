@@ -27,3 +27,4 @@
 ### Videos
 
 - Bloom Filters Explained by Example [Hussein Nusser](https://youtu.be/gBygn3cVP80?si=3KnNyMvjsvKss0PI) 
+- সিস্টেম ডিজাইন ইন্টারভিউ - কীভাবে একটি ওয়েব অ্যাপ্লিকেশনকে স্কেল করতে হয় [Tamim Shahriar Subeen](https://youtu.be/UDadRJO5iec?si=gknzJa1E9OXJH2vt)

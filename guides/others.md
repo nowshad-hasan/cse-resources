@@ -166,6 +166,8 @@
 * Bangladeshi Developers: The Good, The Bad and The Ugly - Topu Newaj x Astha IT | The Sprint S2E2 [Youtube](https://youtu.be/Wk1_fNlXo0g?si=9TgyXegbcollWHhN)
 * 40 Life Lessons from a 40-Year-Old Developer [Travis Media-Youtube](https://youtu.be/AzczASDeXvU?si=nGaRm0HuwylfK4fC)
 * The software engineering industry in 2024: what changed, why, and what is next (Craft Conference) [Youtube](https://youtu.be/VpPPHDxR9aM?si=ZLB8jq84q50sfhm0)
+* How Does Live Streaming Platform Work? (YouTube live, Twitch, TikTok Live) [Bytebytego](https://youtu.be/7AMRfNKwuYo?si=Rw5BKjHqpzl_Wzc8)
+* What Recruiters really look for in a Backend Engineer? (Unpopular opinion) [Hussein Nasser](https://youtu.be/aTdGt_Mr4Fk?si=Atap6uryPdkpwA8X)
 
 ### Productivity
 

@@ -1,14 +1,13 @@
 ### Contents
 
-* [Data Structure](#data-structure)
-* [Algorithm](#algorithm)
-* [Discrete Mathematics](#discrete-mathematics)
-* [Online Judge Account](#online-judge-account)
-* [Article](#article)
-* [Problem Collection](#problem-collection)
-* [Blog](#blog)
-* [Tools](#tools)
-* [Resources](#resources)
+- [Discrete Mathematics](#discrete-mathematics)
+- [Online Judge Account](#online-judge-account)
+- [Article](#article)
+- [Problem Collection](#problem-collection)
+- [Blog](#blog)
+- [Tools](#tools)
+- [Resources](#resources)
+  - [Videos](#videos)
 
 ## Discrete Mathematics
 
@@ -51,3 +50,7 @@
 
 ## Resources
 * বাংলায় প্রোগ্রামিং রিসোর্সসমূহ [GitHub Project](https://github.com/me-shaon/bangla-programming-resources)
+
+### Videos
+- Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer [Freecodecamp-Youtube](https://youtu.be/RBSGKlAvoiM?si=e8mBCV5mIweb9o73)
+- Algorithms Course - Graph Theory Tutorial from a Google Engineer [Freecodecamp-Youtube](https://youtu.be/09_LlHjoEiY?si=8QYPhD70ltpaMSLi)

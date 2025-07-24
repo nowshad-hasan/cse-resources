@@ -26,6 +26,8 @@
 
 - Mastering curl with Daniel Stenberg (lead developer) [Youtube](https://youtu.be/V5vZWHP-RqU?si=_K2_WebZYUwoAdtR)
 - Introduction to Linux – Full Course for Beginners [Freecodecamp](https://youtu.be/sWbUDq4S6Y8?si=V75IwMieS_tc9VNr)
+- Docker Networking Crash Course [Hussein Nasser-Youtube](https://youtu.be/OU6xOM0SE4o?si=kCSM6lnNo13KfanX)
+- Linux File System/Structure Explained! [Youtube](https://youtu.be/HbgzrKJvDRw?si=F0rnjeQKtNA52AhG)
 
 ### ELK Stack
 - Elasticsearch Course for Beginners [Freecodecamp-Youtube](https://youtu.be/a4HBKEda_F8?si=XvNCMFCbYRq7tI_J)

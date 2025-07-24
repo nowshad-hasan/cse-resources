@@ -183,3 +183,9 @@
   
 ### Videos
 - Java Interview Questions and Answers - The 4 Hours Guide | ( Demonstrated with Live Examples) [Java Techie-Youtube](https://youtu.be/KN9BP9y6FKc?si=CCLHttriwTD_Xu1w)  
+- Java Concurrency and Multithreading - Introduction [Jakob Jenkov-Youtube](https://youtu.be/mTGdtC9f4EU?si=c2YYg2i666mBeVRD)
+- Java 19: Thread and Virtual Threads with Project Loom com Bazlur Rahman | Zup Insights [Zup-Youtube](https://youtu.be/0LZxXh2vmUA?si=xcIBuO3ga7LhzId3)
+- Thread Signaling in Java [Jakob Jenkov-Youtube](https://youtu.be/EgOjklzlnFw?si=eIoa7F1OrC-5ZP6R)
+- Java Concurrency and Multithreading [Jakob Jenkov-Youtube](https://youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&si=20l59fyCf464Q2jo)
+- Java Bytecode Crash Course [Oracle Developers](https://youtu.be/e2zmmkc5xI0?si=sUD8IAua9t4JjOWZ)
+- Garbage collection in Java, with Animation and discussion of G1 GC [Youtube](https://youtu.be/UnaNQgzw4zY?si=1qhTB6plsJxBUdgF)

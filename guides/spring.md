@@ -241,3 +241,7 @@
 - 10 Spring and Spring Boot Common Mistakes You Need To STOP [Amigoscode-Youtube](https://youtu.be/CT8dbbe783s?si=yLLYaYihQGXUZM5X)
 - Explain it to Me Like I’m 5: Oauth2 and OpenID [Spring Developer](https://youtu.be/5th6CSQTdpM?si=psEVa0rMjjiH_9mt)
 - Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course [Freecodecamp-Youtube](https://youtu.be/5PdEmeopJVQ?si=B6XUZqTPOhwqFSyz)
+- How exactly the Sessions and Cookies work? || Session Management || Spring MVC || @SessionAttributes [Selenium Express-Youtube](https://youtu.be/cpFfzE9eGT0?si=-4B357apHvRm6hmM)
+- Spring Boot Best Practices For Developers 👨‍💻 | Productivity | JavaTechie [Java Techie-Youtube](https://youtu.be/NaEk2zAmDE8?si=KPa6FTJlWh3uV9La)
+- Hello Spring Security 5.2 [Youtube](https://youtu.be/WbnuwpSBXPs?si=4_YqiAc7-ve6DZMo)
+- Spring Boot Microservices Project Example - Part 1 | Building Services [Programming Techie](https://youtu.be/lh1oQHXVSc0?si=Ns8qzX9OdcC9W5it)

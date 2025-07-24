@@ -95,3 +95,5 @@
 - My favorite resources and tools for coding [Coder coder-Youtube](https://youtu.be/dfczbF47Vqg?si=iCs9lllk7zy8ZUOd)
 - My process building websites from a design | HTML & CSS | ASMR coding [Coder coder-Youtube](https://youtu.be/Pj7wPjFRWC4?si=T0zdMsmWGtnMmMTM)
 - Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) [Freecodecamp-Youtube](https://youtu.be/MsnQ5uepIaE?si=zYyAHt_RcDCW0neD)
+- These Personal Websites are just WOW... [Youtube](https://youtu.be/S7V0-QvYbdo?si=zzuj-4JUJ_ieh4ud)
+- 6 simple typography tips to more professional looking sites [Kevin Powell-Youtube](https://youtu.be/6ardZEhjvV0?si=XbQ6rdJGQgGv1UrA)
