@@ -1,7 +1,10 @@
 ### Contents
 
-* [Basics](#basics)
-* [REST API](#rest-api)
+- [Contents](#contents)
+- [Basics](#basics)
+- [REST API](#rest-api)
+- [Tips and Tricks](#tips-and-tricks)
+- [Videos](#videos)
 
 
 ### Basics
@@ -30,3 +33,14 @@
   * [Twitter](https://developer.twitter.com/en/docs/api-reference-index)
   * [Facebook Graph API](https://developers.facebook.com/docs/graph-api/)
 * OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0 [YouTube](https://youtu.be/6kwmW_p_Tig)
+
+### Tips and Tricks
+
+- 21+ Browser Dev Tools & Tips You Need To Know [Fireship-Youtube](https://youtu.be/TcTSqhpm80Y?si=eL4gJ_NlrVC5_KDq)
+- Chrome DevTools - Crash Course [Freecodecamp-Youtube](https://youtu.be/gTVpBbFWry8?si=I-pP-rBLhd2qvUIa)
+- Facebook and memcached - Tech Talk [Meta Developers](https://youtu.be/UH7wkvcf0ys?si=Yur3EPIPYpwAucJN)
+
+### Videos
+
+-Proxy vs. Reverse Proxy (Explained by Example) [Hussein Nasser-Youtube](https://youtu.be/ozhe__GdWC8?si=9U5HRdUUKhq8oYLY)
+Stateful vs Stateless Applications (Explained by Example) [Hussein Nasser](https://youtu.be/nFPzI_Qg3FU?si=CIj76dLehZbi4E7A)

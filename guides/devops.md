@@ -25,9 +25,16 @@
 ### Videos 
 
 - Mastering curl with Daniel Stenberg (lead developer) [Youtube](https://youtu.be/V5vZWHP-RqU?si=_K2_WebZYUwoAdtR)
+- Basic cURL Tutorial[Traversy Media](https://youtu.be/7XUibDYw4mc?si=TEva0rPXem7xdoub)
 - Introduction to Linux – Full Course for Beginners [Freecodecamp](https://youtu.be/sWbUDq4S6Y8?si=V75IwMieS_tc9VNr)
 - Docker Networking Crash Course [Hussein Nasser-Youtube](https://youtu.be/OU6xOM0SE4o?si=kCSM6lnNo13KfanX)
 - Linux File System/Structure Explained! [Youtube](https://youtu.be/HbgzrKJvDRw?si=F0rnjeQKtNA52AhG)
+- DevOps Prerequisites Course - Getting started with DevOps [Freecodecamp-Youtube](https://youtu.be/Wvf0mBNGjXY?si=oa_kl4zRfu3VqjOq)
+- Certificates and Certificate Authority Explained [Hussein Nasser](https://youtu.be/x_I6Qc35PuQ?si=msjMrRCP6HHAR3kF)
+- AWS Cloud Development Kit (CDK) Crash Course [Freecodecamp-Youtube](https://youtu.be/T-H4nJQyMig?si=djlmX4KujlvMoauj)
+- How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS [Freecodecamp-Youtube](https://youtu.be/NQP89ish9t8?si=eYww9MURGj585MH3)
+- AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [Freecodecamp](https://youtu.be/Ia-UEYYR44s?si=E9GF2j-BDSL9PXal)
+- cURL Verbose Mode Explained (and how I use it to Troubleshoot my Backend) [Hussein Nasser-Youtube](https://youtu.be/PVm0YEEuS8s?si=HICt_EKWYNVE1ACw)
 
 ### ELK Stack
 - Elasticsearch Course for Beginners [Freecodecamp-Youtube](https://youtu.be/a4HBKEda_F8?si=XvNCMFCbYRq7tI_J)

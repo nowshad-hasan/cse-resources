@@ -98,5 +98,10 @@
 - Databases In-Depth – Complete Course [Freecodecamp-Youtube](https://youtu.be/pPqazMTzNOM?si=OA_i_KmrbXXOzFEb)
 - SQL - Complete Course in 9 Hours | SQL One Shot | SQL Full Course by Sumit Sir [Sumit Mittal-Youtube](https://youtu.be/qlkS-e5ym1w?si=SCscF9EJBAXdswGE)
 - Pgpool-II Tutorial [Youtube](https://youtu.be/qpxKlH7DBjU?si=z3M4kZVidsSFeD6d)
-- How to learn SQL for free | Roadmap to learning SQL [Youtube](https://youtu.be/a-hFbr-4VQQ?si=2SYn3JyX_3vanMDn)
+- How to learn SQL for free | Roadmap to learning SQL [Youtube](https://youtu.be/a-hFbr-4VQQ?si=2S
+- Yn3JyX_3vanMDn)
 - MongoDB Internal Architecture [Hussein Nasser](https://youtu.be/ONzdr4SmOng?si=klikjbcJTTD0YYRb)
+- 01 - Course Introduction & Relational Model (CMU Databases Systems / Fall 2019) [CMU DB Group-Youtube Playlist](https://youtu.be/oeYBdghaIjc?si=StnBqP4eTwcbCqUA)
+- 01 - History of Databases (CMU Databases / Spring 2020) [CMU DB Group-Youtube Playlist](https://youtu.be/SdW5RKUboKc?si=rcfQ_Kl1urJ3wNI6)
+- Database Design Course - Learn how to design and plan a database for beginners [Caleb from Freecodecamp-Youtube](https://youtu.be/ztHopE5Wnpc?si=kUq7hLlVLnAfON9B)
+- IQ15: 6 SQL Query Interview Questions [The Coding Interview-Youtube](https://youtu.be/uAWWhEA57bE?si=_mbRMcdViFK9Fd2L)

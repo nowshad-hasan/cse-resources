@@ -1,9 +1,11 @@
 ## Contents
 
-* [Core](#core)
-* [Blog](#blog)
-* [Mockito](#mockito)
-* [Others](#others)
+- [Contents](#contents)
+  - [Core](#core)
+  - [Blog](#blog)
+  - [Mockito](#mockito)
+  - [Others](#others)
+  - [Videos](#videos)
 
 ### Core
 
@@ -26,3 +28,11 @@
 ### Others
 
 * A Guide to Test-Driven Development (TDD): Shorter Feedback Loop, Faster Workflow [Medium](https://blog.bitsrc.io/a-guide-to-test-driven-development-tdd-shorter-feedback-loop-faster-workflow-ce5bd6b247c4)
+
+
+### Videos
+
+- Postman Beginner's Course - API Testing [Freecodecamp-Youtube](https://youtu.be/VywxIQ2ZXw4?si=LjDwLG1gXCWQCH2C)
+- JMeter Full Course Masterclass | Step by Step for Beginners [Raghav Pal-Youtube](https://youtu.be/SoW2pBak1_Q?si=MW1MHVUgdFU0S3HU)
+- Webinar: Climb Higher with QA! [Showmik-Youtube](https://youtu.be/lGJ8gzquLxY?si=0TDgRv_u93089bMZ)
+- IntelliJ IDEA. Writing Tests with JUnit 5 [IntelliJ IDEA-Youtube](https://youtu.be/we3zJE3hlWE?si=MTQFEFpEH7HhuvWN)

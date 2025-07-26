@@ -245,3 +245,8 @@
 - Spring Boot Best Practices For Developers 👨‍💻 | Productivity | JavaTechie [Java Techie-Youtube](https://youtu.be/NaEk2zAmDE8?si=KPa6FTJlWh3uV9La)
 - Hello Spring Security 5.2 [Youtube](https://youtu.be/WbnuwpSBXPs?si=4_YqiAc7-ve6DZMo)
 - Spring Boot Microservices Project Example - Part 1 | Building Services [Programming Techie](https://youtu.be/lh1oQHXVSc0?si=Ns8qzX9OdcC9W5it)
+- JavaScript Cookies vs Local Storage vs Session Storage [Web Dev Simplified-Youtube](https://youtu.be/GihQAC1I39Q?si=o9gPMqLj0-IwV-a0)
+- SpringOne Tour - July 2021: Do or Do Not, There is No Try {} in Production [SpringDeveloper](https://youtu.be/pQwMws6we6I?si=_WQ-DySmAxsfZ28j)
+- Spring Boot Tutorial - Spring Boot Actuator [Amigoscode-Youtube](https://youtu.be/LQlypTjmgZM?si=9vSus0t8jD-A1ltS)
+- Spring Boot Full Stack and Angular | Full Course [Amigoscode-Youtube](https://youtu.be/Gx4iBLKLVHk?si=R1azqu9abqDh_kEB)
+- Mastering Spring Boot's Actuator by Andy Wilkinson @ Spring I/O 2018 [Spring I/O-Youtube](https://youtu.be/lW3aN-7izCY?si=csSHrwFrfh1pLzjX)

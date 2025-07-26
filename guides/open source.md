@@ -23,6 +23,7 @@
 
 ### Videos
 - Contributing To Open Source – Beginner's Guide [Freecodecamp-Youtube](https://youtu.be/mklEhT_RLos?si=LYm9tebk0J7MQyNI)
+- “How to contribute to OpenJDK” with Stuart Marks & Jesper Wilhelmsson - Inside Java Podcast 11 [Java-Youtube](https://youtu.be/WPZiv1Ow2Qk?si=W4Kx8FtjKyxXSKPI)
 
 ### Blog
 * [First Timers Only](https://www.firsttimersonly.com/)

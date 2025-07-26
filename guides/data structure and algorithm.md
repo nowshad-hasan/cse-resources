@@ -54,3 +54,13 @@
 ### Videos
 - Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer [Freecodecamp-Youtube](https://youtu.be/RBSGKlAvoiM?si=e8mBCV5mIweb9o73)
 - Algorithms Course - Graph Theory Tutorial from a Google Engineer [Freecodecamp-Youtube](https://youtu.be/09_LlHjoEiY?si=8QYPhD70ltpaMSLi)
+- 10 Common Coding Interview Problems - Solved! [Freecodecamp](https://youtu.be/Peq4GCPNC5c?si=6xIelh9DyEy62WDQ)
+- How I Got Good at Coding Interviews [NeetCode-Youtube](https://youtu.be/SVvr3ZjtjI8?si=O0Y-3Zm8ae3NxqG0)
+- Bitwise Operators + Number Systems - Maths for DSA [Youtube](https://youtu.be/fzip9Aml6og?si=ybohvSHb8H_GnH3Q)
+- Big O Notation - Full Course [Freecodecamp-Youtube](https://youtu.be/Mo4vesaut8g?si=HRXeQrpxNbrcq98n)
+- Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges [Freecodecamp-Youtube](https://youtu.be/oBt53YbR9Kk?si=kgTLRkMlzLM11Olh)
+- Recursion in Programming - Full Course [Freecodecamp-Youtube](https://youtu.be/IJDJ0kBx2LM?si=cOFxhKz5ZNHfzIdU)
+- Algorithms: Bit Manipulation [HackerRank-Youtube](https://youtu.be/NLKQEOgBAnw?si=HdZ-oQCH68pjoLkr)
+- 5 Simple Steps for Solving Any Recursive Problem [Youtube](https://youtu.be/ngCos392W4w?si=KTrcly-WVRdLgSku)
+- Big O Notation [HackerRank-Youtube](https://youtu.be/v4cd1O4zkGw?si=fBTS2E1-q9FgJEUC)
+- Project Loom: Modern Scalable Concurrency for the Java Platform [Java-Youtube](https://youtu.be/fOEPEXTpbJA?si=wIGp88dr3gFeYC21)

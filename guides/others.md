@@ -15,6 +15,7 @@
   - [Free Tutorial](#free-tutorial)
   - [Awesome Projects](#awesome-projects)
   - [Stories](#stories)
+  - [IDE Tips](#ide-tips-1)
   - [Youtube Channel](#youtube-channel)
 
 ### Git
@@ -137,6 +138,8 @@
 * Talent is everything in software [KAZ Software](https://kaz.com.bd/blog/2020/1/30/talent-is-everything-in-software)
 * Do not disturb a software developer in "flow" [KAZ Software](https://kaz.com.bd/blog/2020/1/28/do-not-disturb-a-software-developer-in-flow)
 * 5 UX rule every software founder should know about [KAZ Software](https://kaz.com.bd/blog/2020/1/26/5-ux-wisdom-to-impress-anyone)
+* Career talk 2020 : How pet projects helped me in my 11+ years career [Foyzul Karim](https://youtu.be/2v8U5Lp032Q?si=zz1AphT1Fefeu3tz)
+* Show your Backend Engineering Skills To Recruiters - Building a Full Backend Portfolio [Hussein Nasser](https://youtu.be/nIracKeqsFk?si=8hygy2j046UQb47G)
 
 ### Articles and Videos
 
@@ -168,6 +171,9 @@
 * The software engineering industry in 2024: what changed, why, and what is next (Craft Conference) [Youtube](https://youtu.be/VpPPHDxR9aM?si=ZLB8jq84q50sfhm0)
 * How Does Live Streaming Platform Work? (YouTube live, Twitch, TikTok Live) [Bytebytego](https://youtu.be/7AMRfNKwuYo?si=Rw5BKjHqpzl_Wzc8)
 * What Recruiters really look for in a Backend Engineer? (Unpopular opinion) [Hussein Nasser](https://youtu.be/aTdGt_Mr4Fk?si=Atap6uryPdkpwA8X)
+* How I Nearly Shutdown A Billion Dollar Company While Learning To Ice Skate In A Suit [Web Dev Simplified](https://youtu.be/f5Zuq1pGkis?si=UZVp4ix-RaIrv4rS)
+* How To Structure Your Programming Projects [Youtube](https://youtu.be/_l_wtpxgB7k?si=MmmmDPeSu8YZd5SC)
+* (Bangla) Mock interview 001 : Junior developer [Foyzul Karim-Youtube](https://www.youtube.com/live/eO7Sl1BYXoE?si=cWIK5VS6M6Yi2DHn)
 
 ### Productivity
 
@@ -181,6 +187,15 @@
 * 10 Chrome Extensions That Will DOUBLE Your Productivity [Youtube](https://youtu.be/-qLuCfKddtE?si=marogtFwd6bJFQeu)
 * Advice for beginner backend engineers who just started their new jobs in software companies [Hussein Nasser](https://youtu.be/V3C0VvNrFZ8?si=MnT35fxThnrTwiqB)
 * How to Become a Good Backend Engineer (Fundamentals) [Hussein Nasser-Youtube](https://youtu.be/V3ZPPPKEipA?si=fs_RENKRCraZuwEf)
+* 32 Book Recommendations for the Holidays • Various Speakers • GOTO 2021 [GOTO Conferences-Youtube](https://youtu.be/Pg698WXPtYw?si=dp7ABU6GeBIeb_Us)
+* Passive Income Ideas For Programmers [Youtube](https://youtu.be/wWySnxhZYsc?si=43fgsHzEpKpdGGQc)
+* 7 Chrome Browser Extensions that will Save You Time! [Youtube](https://youtu.be/d0S2Gp7kd58?si=4D8RdLXeNOPns_0J)
+* How to self study technical things [Youtube](https://youtu.be/_EzmbCuoFcU?si=NvZ1AI3nzVWYEch1)
+* The Feynman Technique [Youtube](https://youtu.be/tkm0TNFzIeg?si=pvK-ZIw14km08Kpe)
+* 9 Passive Income Ideas - How I Make $27k per Week [Youtube](https://youtu.be/M5y69v1RbU0?si=Y0zAE-7cqy8WhUrp)
+* What's On My Bookshelf? [Hussein Nasser-Youtube](https://youtu.be/59Z3DlSu8tU?si=ExuowlP_r1rvgsQV)
+* War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • [GOTO 2020-Youtube](https://youtu.be/WFbvJ0dVlHk?si=I6o_c90FsMveoHa9)
+* 10 BAD PROGRAMMING HABITS [Amigoscode-Youtube](https://youtu.be/lyx7HNufwXQ?si=nf6XyLHZHsgajcib)
 
 ### Project Ideas
 
@@ -222,6 +237,18 @@
 - Angular: The Documentary | An origin story [Youtube](https://youtu.be/cRC9DlH45lA?si=DCqiTIdKXd1Iiu6Q)
 - - How A Small Team of Developers Created React at Facebook | React.js: The Documentary [Youtube](https://youtu.be/8pDqJVdNa44?si=kLKAsPm4v5V2iR0B)
 - The INSANE Truth About TikTok [Youtube](https://youtu.be/djk159kLBwA?si=jbWKwE4so0VzFa9m)
+- The Universe is Hostile to Computers [Youtube](https://youtu.be/AaZ_RSt0KP8?si=-VF6-4ZGrBJMC9_o)
+
+### IDE Tips
+- 3 VS Code Settings I IMMEDIATELY Turn Off [James Q Quick](https://youtu.be/fmzVJ0Wt29I?si=0ASltg7yYCiB1DCi)
+- IntelliJ IDEA. Helen's Take On: Keyboard Shortcuts [IntelliJ IDEA-Youtube](https://youtu.be/matPBmotxvY?si=TM-8dFvbj16VgQw5)
+- Top 15 IntelliJ IDEA shortcuts [IntelliJ IDEA-Youtube](https://youtu.be/QYO5_riePOQ?si=B2_yxlQDpy9yAnTX)
+- Visual Studio Code Crash Course [Freecodecamp-Youtube](https://youtu.be/WPqXP_kLzpo?si=6JHHfXPQ5WhygTAL)
+- 25 VS Code Productivity Tips and Speed Hacks [Fireship-Youtube](https://youtu.be/ifTF3ags0XI?si=WSmDRcQpfWCHP48C)
+- 42 IntelliJ IDEA Tips and Tricks [IntelliJ IDEA-Youtube](https://youtu.be/eq3KiAH4IBI?si=CM53fWrTV-PgxBho)
+- IntelliJ IDEA. Using the Terminal [IntelliJ IDEA-Youtube](https://youtu.be/tlEkrWU0d1M?si=JYsCHhvDsk650yiJ)
+- Profiling Tools and IntelliJ IDEA Ultimate [IntelliJ IDEA-Youtube](https://youtu.be/OQcyAtukps4?si=gg-7YYhfFMdUq9eC)
+
 
 ### Youtube Channel
 - [Life at Google](https://youtu.be/olScOTFtVW8?si=gbJedTCstH-ERJs4)
