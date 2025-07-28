@@ -6,6 +6,10 @@
 - How to apply for a job at Google [Life at Google-Youtube](https://youtu.be/olScOTFtVW8?si=gbJedTCstH-ERJs4)
 - Sharing my thought process and effective planning to get a better job [Foyzul Karim-Youtube](https://youtu.be/TxL1udmEhx4?si=t5vDLFe9mXhwn4f6)
 
+### Tips and Tricks
+
+- How to Get an Interview as a Software Developer [Freecodecamp](https://www.freecodecamp.org/news/how-to-get-an-interview-as-a-software-developer/)
+
 ### Career Page 
 - [Brain Station 23](https://brainstation-23.easy.jobs/)
 - [Cefalo](https://career.cefalo.com/)

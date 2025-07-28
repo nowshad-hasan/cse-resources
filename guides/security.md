@@ -4,6 +4,7 @@
   - [Basics](#basics)
   - [Collections](#collections)
   - [Videos](#videos)
+  - [Youtube Channel](#youtube-channel)
 
 ### Basics
 * Lecture 9: Security and Cryptography (2020) by Missing Semester [YouTube](https://youtu.be/tjwobAmnKTo)
@@ -20,3 +21,7 @@
 - How to Analyze Code for Vulnerabilities [Youtube](https://www.youtube.com/live/A8CNysN-lOM?si=-m8J6J95c3JzFDEh)
 - Ethical Hacking 101: Web App Penetration Testing - a full course for beginners [Freecodecamp-Youtube](https://youtu.be/2_lswM1S264?si=zrA3ad4AUdzsI3e5)
 - Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) [Freecodecamp-Youtube](https://youtu.be/3Kq1MIfTWCE?si=yyMsg-Ek8-uvcTx_)
+
+### Youtube Channel
+
+- [Computerphile](https://www.youtube.com/@Computerphile/featured)
