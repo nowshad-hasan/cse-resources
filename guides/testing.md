@@ -19,6 +19,7 @@
 * [Test Automation University](https://testautomationu.applitools.com/)
 * [Selenium Dev](https://www.selenium.dev/)
 * [Spock Testing](http://spockframework.org/)
+* [A Test Developer's Blog](https://sarkershantonu.github.io/)
 
 ### Mockito
 * Unit tests with Mockito - Tutorial [Vogella](https://www.vogella.com/tutorials/Mockito/article.html)

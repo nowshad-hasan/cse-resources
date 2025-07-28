@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
 - [Core](#core)
+  - [Course](#course)
   - [Collection](#collection)
   - [Others](#others)
   - [Videos](#videos)
@@ -9,6 +10,9 @@
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
 * Scaling Databases [Roadmap](https://roadmap.sh/guides/scaling-databases)
+
+### Course
+* System Design [HIRED IN TECH](https://www.hiredintech.com/system-design/introduction/)
 
 ### Collection
 

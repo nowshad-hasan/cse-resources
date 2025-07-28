@@ -140,6 +140,7 @@
 * 5 UX rule every software founder should know about [KAZ Software](https://kaz.com.bd/blog/2020/1/26/5-ux-wisdom-to-impress-anyone)
 * Career talk 2020 : How pet projects helped me in my 11+ years career [Foyzul Karim](https://youtu.be/2v8U5Lp032Q?si=zz1AphT1Fefeu3tz)
 * Show your Backend Engineering Skills To Recruiters - Building a Full Backend Portfolio [Hussein Nasser](https://youtu.be/nIracKeqsFk?si=8hygy2j046UQb47G)
+* Life is too short for bad software [KAZ Software](https://kaz.com.bd/blog/2020/11/3/life-is-too-short-for-bad-software)
 
 ### Articles and Videos
 
@@ -174,6 +175,8 @@
 * How I Nearly Shutdown A Billion Dollar Company While Learning To Ice Skate In A Suit [Web Dev Simplified](https://youtu.be/f5Zuq1pGkis?si=UZVp4ix-RaIrv4rS)
 * How To Structure Your Programming Projects [Youtube](https://youtu.be/_l_wtpxgB7k?si=MmmmDPeSu8YZd5SC)
 * (Bangla) Mock interview 001 : Junior developer [Foyzul Karim-Youtube](https://www.youtube.com/live/eO7Sl1BYXoE?si=cWIK5VS6M6Yi2DHn)
+* What Is Overengineering? [codesimplicity](https://www.codesimplicity.com/post/what-is-overengineering/)
+* Tech companies in Bangladesh [Github repo](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
 
 ### Productivity
 
@@ -196,6 +199,8 @@
 * What's On My Bookshelf? [Hussein Nasser-Youtube](https://youtu.be/59Z3DlSu8tU?si=ExuowlP_r1rvgsQV)
 * War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • [GOTO 2020-Youtube](https://youtu.be/WFbvJ0dVlHk?si=I6o_c90FsMveoHa9)
 * 10 BAD PROGRAMMING HABITS [Amigoscode-Youtube](https://youtu.be/lyx7HNufwXQ?si=nf6XyLHZHsgajcib)
+* The #1 software soft-skill [KAZ Software](https://kaz.com.bd/blog/2020/9/17/top-software-soft-skill)
+* Developer Freelancing Basics – How to Earn At Least $500 in Side Income Each Month [Freecodecamp](https://www.freecodecamp.org/news/developer-freelancing-basics/)
 
 ### Project Ideas
 
