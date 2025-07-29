@@ -17,6 +17,7 @@
   - [Stories](#stories)
   - [IDE Tips](#ide-tips-1)
   - [Youtube Channel](#youtube-channel)
+  - [Courses](#courses)
 
 ### Git
 
@@ -141,6 +142,7 @@
 * Career talk 2020 : How pet projects helped me in my 11+ years career [Foyzul Karim](https://youtu.be/2v8U5Lp032Q?si=zz1AphT1Fefeu3tz)
 * Show your Backend Engineering Skills To Recruiters - Building a Full Backend Portfolio [Hussein Nasser](https://youtu.be/nIracKeqsFk?si=8hygy2j046UQb47G)
 * Life is too short for bad software [KAZ Software](https://kaz.com.bd/blog/2020/11/3/life-is-too-short-for-bad-software)
+* Software Engineers Are Made Not Born – How to Become a Great Developer [Freecodecamp](https://www.freecodecamp.org/news/how-to-become-a-great-developer)
 
 ### Articles and Videos
 
@@ -177,6 +179,10 @@
 * (Bangla) Mock interview 001 : Junior developer [Foyzul Karim-Youtube](https://www.youtube.com/live/eO7Sl1BYXoE?si=cWIK5VS6M6Yi2DHn)
 * What Is Overengineering? [codesimplicity](https://www.codesimplicity.com/post/what-is-overengineering/)
 * Tech companies in Bangladesh [Github repo](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
+* Introducing new features in your released software [KAZ Software](https://kaz.com.bd/blog/2020/11/20/introducing-new-features-in-your-released-software)
+* A Brief History of the Internet – Who Invented It, How it Works, and How it Became the Web We Use Today [Freecodecamp](https://www.freecodecamp.org/news/brief-history-of-the-internet/)
+* How to Build Good Software [Link](https://knowledge.csc.gov.sg/ethos-issue-21/how-to-build-good-software/)
+* How I Accidentally Built an API Business [Freecodecamp](https://www.freecodecamp.org/news/how-i-accidentally-built-an-api-business/)
 
 ### Productivity
 
@@ -206,6 +212,7 @@
 
 * University of OxFord - Student Projects [Website](http://www.cs.ox.ac.uk/teaching/courses/projects/)
 * Here are some app ideas you can build to level up your coding skills [FreeCodeCamp](https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/)
+* [Android app-ideas](https://github.com/florinpop17/app-ideas)
 
 ### Study in Abroad
 * Study in USA [Shantanu Shanto vai's FB Post](https://www.facebook.com/groups/483500628365392/permalink/1908875862494521/)
@@ -257,3 +264,10 @@
 
 ### Youtube Channel
 - [Life at Google](https://youtu.be/olScOTFtVW8?si=gbJedTCstH-ERJs4)
+- [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/playlists)
+
+### Courses
+
+-[OSSU-Computer Science](https://github.com/ossu/computer-science)
+- [Class Central](https://www.classcentral.com/)
+- [Khanacademy](https://www.khanacademy.org/computing/computer-science)

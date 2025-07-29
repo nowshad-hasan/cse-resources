@@ -33,6 +33,7 @@
   * [Twitter](https://developer.twitter.com/en/docs/api-reference-index)
   * [Facebook Graph API](https://developers.facebook.com/docs/graph-api/)
 * OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0 [YouTube](https://youtu.be/6kwmW_p_Tig)
+* Richardson Maturity Model [Martin Fowler Blog](https://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ### Tips and Tricks
 

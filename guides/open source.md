@@ -5,6 +5,7 @@
   - [Collection](#collection)
   - [Videos](#videos)
   - [Blog](#blog)
+  - [Projects](#projects)
 
 ### Article
 
@@ -30,3 +31,7 @@
 * [Open Source Guides](https://opensource.guide/)
 * [Open Source.com](https://opensource.com/)
 * [CodeTriage](https://www.codetriage.com/)
+
+### Projects
+
+- [OpenMRS](https://github.com/openmrs)

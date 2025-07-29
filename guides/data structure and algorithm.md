@@ -8,6 +8,7 @@
 - [Tools](#tools)
 - [Resources](#resources)
   - [Videos](#videos)
+  - [Courses](#courses)
 
 ## Discrete Mathematics
 
@@ -64,3 +65,6 @@
 - 5 Simple Steps for Solving Any Recursive Problem [Youtube](https://youtu.be/ngCos392W4w?si=KTrcly-WVRdLgSku)
 - Big O Notation [HackerRank-Youtube](https://youtu.be/v4cd1O4zkGw?si=fBTS2E1-q9FgJEUC)
 - Project Loom: Modern Scalable Concurrency for the Java Platform [Java-Youtube](https://youtu.be/fOEPEXTpbJA?si=wIGp88dr3gFeYC21)
+
+### Courses
+- Computational Thinking for Problem Solving [Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
