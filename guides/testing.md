@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
   - [Core](#core)
+  - [Articles](#articles)
   - [Blog](#blog)
   - [Mockito](#mockito)
   - [Others](#others)
@@ -14,6 +15,11 @@
 * Software Engineering | Regression Testing [GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering-regression-testing/)
 * Software Testing Levels [Software Testing Fundamentals](http://softwaretestingfundamentals.com/software-testing-levels/)
 * Testing Strategies in a Microservice Architecture [Martin Flower](https://martinfowler.com/articles/microservice-testing/)
+
+
+### Articles
+
+* Testing beyond coverage [Increment](https://increment.com/reliability/testing-beyond-coverage/)
 
 ### Blog
 * [Test Automation University](https://testautomationu.applitools.com/)

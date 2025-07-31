@@ -13,6 +13,7 @@
 ### Article
 
 *  Udacity Frontend Nanodegree Style Guide [Udacity](https://udacity.github.io/frontend-nanodegree-styleguide/css.html#type-selectors)
+*  How to Build a Blog Using a Static Site Generator and a CDN [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-blog-using-a-static-site-generator-and-a-cdn/)
 
 ### HTML
 * Using HTML sections and outlines [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#The_HTML5_Outline_Algorithm)

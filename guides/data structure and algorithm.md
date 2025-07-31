@@ -33,6 +33,7 @@
 * Big-O Notation [Roadmap](https://roadmap.sh/guides/big-o-notation)
 * Time complexity of recursive Fibonacci program [geeksforgeeks](https://www.geeksforgeeks.org/dsa/time-complexity-recursive-fibonacci-program/)
 * How is the time complexity of Sieve of Eratosthenes is n*log(log(n))? [Geeksforgeeks](https://www.geeksforgeeks.org/dsa/how-is-the-time-complexity-of-sieve-of-eratosthenes-is-nloglogn/)
+* How Big O Notation Works – Explained with Cake [Freecodecamp](https://www.freecodecamp.org/news/big-o-notation)
 
 ## Problem Collection
 
@@ -46,7 +47,8 @@
 * [Tanvir's Blog](https://tanvir002700.wordpress.com/)
 * [ফাহিমের ব্লগ](https://sites.google.com/site/smilitude/tutorials)
 * [Programabad](https://programabad.com/)
-* [Algo Expert](https://www.algoexpert.io/) - Go to this [link](http://www.algoexpert.io/gaurav) for 15% discount
+* [Algo Expert](https://www.algoexpert.io/)
+* [VisualAlgo](https://visualgo.net/en)
 
 ## Tools
 * Online Debugging [uDebug](https://www.udebug.com/input)
@@ -72,3 +74,4 @@
 ### Courses
 - Computational Thinking for Problem Solving [Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
 - Introduction to Algorithms [OpenCourseWare](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
+- Mathematics for Competitive Programming - Self Paced [Geeksforgeeks](https://www.geeksforgeeks.org/courses/cp-maths)

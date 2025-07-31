@@ -4,11 +4,14 @@
   - [Basics](#basics)
   - [CI/CD](#cicd)
   - [Learning materials](#learning-materials)
+  - [Docker](#docker)
   - [Blogs](#blogs)
   - [Videos](#videos)
   - [ELK Stack](#elk-stack)
 
 ### Basics
+
+* What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples [Freecodecamp](https://www.freecodecamp.org/news/file-systems-architecture-explained/)
 
 ### CI/CD
 * Learn How to Set Up a CI/CD Pipeline From Scratch [DZone](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
@@ -17,6 +20,9 @@
 ### Learning materials
 
 - [DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) by [Michael Levan](https://michaellevan.net/)
+
+### Docker
+* The Docker Handbook – Learn Docker for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-docker-handbook/)
 
 ### Blogs
 

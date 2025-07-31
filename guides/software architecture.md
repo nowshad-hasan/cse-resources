@@ -1,3 +1,8 @@
+### Articles
+
+- Best Practices for Designing a Pragmatic RESTful API [Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- Inline Documentation for RESTful web APIs [APIDOC](https://apidocjs.com/)
+
 ### Talks and Conferences
 
 - A Philosophy of Software Design | John Ousterhout | Talks at Google [Talks at Google-Youtube](https://youtu.be/bmSAYlu0NcY?si=tyQR_eZUeXxjO2SL)

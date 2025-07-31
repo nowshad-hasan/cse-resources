@@ -12,6 +12,7 @@
 - VIM Essentials Course for Beginners [Freecodecamp-Youtube](https://youtu.be/JYNA9j8SXs4?si=k7xUXZf0dOsBfn-f)
 - Vim Tutorial for Beginners [Freecodecamp-Youtube](https://youtu.be/RZ4p-saaQkc?si=P-RDruckbvayL0Yq)
 - Learn Regular Expressions (Regex) - Crash Course for Beginners [Freecodecamp-Youtube](https://youtu.be/ZfQFUJhPqMM?si=KUjwaZi6P3_iJ355)
+- The Linux Command Handbook – Learn Linux Commands for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
 ### Command line and Bash Scripting
 
