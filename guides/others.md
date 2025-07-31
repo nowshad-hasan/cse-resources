@@ -19,7 +19,8 @@
   - [Youtube Channel](#youtube-channel)
   - [Courses](#courses)
   - [Articles](#articles)
-  - [Blog](#blog)
+  - [Personal Blog](#personal-blog)
+  - [Engineering Blog](#engineering-blog)
 
 ### Git
 
@@ -57,6 +58,12 @@
 * How to Undo Mistakes With Git Using the Command Line [Freecodecamp-Youtube](https://youtu.be/lX9hsdsAeTk?si=cpb2Nv6m94siOGob)
 * Git Internals by John Britton of GitHub - CS50 Tech Talk [CS50-Youtube](https://youtu.be/lG90LZotrpo?si=MOWSDAMhlyfReWNt)
 * How to Use Multiple Git Configs on One Computer [Freecodecamp](https://www.freecodecamp.org/news/how-to-handle-multiple-git-configurations-in-one-machine)
+* 8 Git aliases that make me more efficient [opensource.com](https://opensource.com/article/20/11/git-aliases)
+* How to Use Git and Git Workflows – a Practical Guide [Freecodecamp](https://www.freecodecamp.org/news/practical-git-and-git-workflows)
+* Git Cheat Sheet – 50 Git Commands You Should Know [Freecodecamp](https://www.freecodecamp.org/news/git-cheat-sheet/)
+* How to get rid of .DS_Store files in git repositories [Medium](https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247)
+* A Guide to Git Interactive Rebase, with Practical Examples [sitepoint](https://www.sitepoint.com/git-interactive-rebase-guide/)
+* How to Open Any Repo in VS Code Without Cloning It [Freecodecamp](https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning)
 
 ### VIM
 
@@ -146,6 +153,7 @@
 * Show your Backend Engineering Skills To Recruiters - Building a Full Backend Portfolio [Hussein Nasser](https://youtu.be/nIracKeqsFk?si=8hygy2j046UQb47G)
 * Life is too short for bad software [KAZ Software](https://kaz.com.bd/blog/2020/11/3/life-is-too-short-for-bad-software)
 * Software Engineers Are Made Not Born – How to Become a Great Developer [Freecodecamp](https://www.freecodecamp.org/news/how-to-become-a-great-developer)
+* Drunk Post: Things I've learned as a Sr Engineer [Reddit](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 
 ### Articles and Videos
 
@@ -186,6 +194,14 @@
 * A Brief History of the Internet – Who Invented It, How it Works, and How it Became the Web We Use Today [Freecodecamp](https://www.freecodecamp.org/news/brief-history-of-the-internet/)
 * How to Build Good Software [Link](https://knowledge.csc.gov.sg/ethos-issue-21/how-to-build-good-software/)
 * How I Accidentally Built an API Business [Freecodecamp](https://www.freecodecamp.org/news/how-i-accidentally-built-an-api-business/)
+* The deadly power distances in a software company [KAZ Software](https://kaz.com.bd/blog/2014/10/12/power-distances-in-a-software-company)
+* Unicode Characters – What Every Developer Should Know About Encoding [Freecodecamp](https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding)
+* Best practices can slow your application down [Stackoverflow Blog](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/)
+* How to Write Documentation For Your Next Software Development Project [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-documentation-for-your-next-software-development-project)
+* How to Build Your Personal Brand as a Developer [Freecodecamp](https://www.freecodecamp.org/news/build-your-personal-brand-as-a-developer)
+* Drunk Post: Things I've learned as a Sr Engineer [Reddit](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
+* Object-Oriented Thinking Is Too Complex for You [Medium](https://levelup.gitconnected.com/object-oriented-thinking-is-too-complex-for-you-76d59ccd3734)
+* 16 Years of Kaz Software: The work smart and love work way [KAZ Software](https://kaz.com.bd/blog/2020/6/24/16-years-of-kaz-software-the-work-smart-and-love-work-way)
 
 ### Productivity
 
@@ -223,6 +239,9 @@
 * How I Find Time for Coding While Raising My Newborn Son [Freecodecamp](https://www.freecodecamp.org/news/coding-with-a-newborn)
 * My System for Organizing Work in a Distracted World [Reflectoring.io](https://reflectoring.io/organizing-work/)
 * How to Stay Productive All Day – Coding and Scheduling Tips for Programmers [Freecodecamp](https://www.freecodecamp.org/news/how-to-stay-productive-all-day-coding-and-scheduling-tips-for-programmers/)
+* Avoiding burnout as an ambitious developer [Stackoverflow Blog](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
+* Boost Your Programming Skills by Reading Git's Code [Freecodecamp](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/)
+* Five things you should know as a software engineer [Interviewready](https://interviewready.io/blog/5-things-to-know-as-swe)
 
 ### Project Ideas
 
@@ -276,6 +295,7 @@
 - 42 IntelliJ IDEA Tips and Tricks [IntelliJ IDEA-Youtube](https://youtu.be/eq3KiAH4IBI?si=CM53fWrTV-PgxBho)
 - IntelliJ IDEA. Using the Terminal [IntelliJ IDEA-Youtube](https://youtu.be/tlEkrWU0d1M?si=JYsCHhvDsk650yiJ)
 - Profiling Tools and IntelliJ IDEA Ultimate [IntelliJ IDEA-Youtube](https://youtu.be/OQcyAtukps4?si=gg-7YYhfFMdUq9eC)
+- Top 10 Plugins for IntelliJ IDEA You Don’t Want to Miss [Jetbrains Blog](https://blog.jetbrains.com/idea/2021/05/top-10-plugins-for-intellij-idea/)
 
 
 ### Youtube Channel
@@ -284,7 +304,7 @@
 
 ### Courses
 
--[OSSU-Computer Science](https://github.com/ossu/computer-science)
+- [OSSU-Computer Science](https://github.com/ossu/computer-science)
 - [Class Central](https://www.classcentral.com/)
 - [Khanacademy](https://www.khanacademy.org/computing/computer-science)
 
@@ -292,6 +312,10 @@
 
 - History's Worst Software Bugs [Wired](https://www.wired.com/2005/11/historys-worst-software-bugs/)
 
-### Blog
+### Personal Blog
 
 -[Amy M Haddad](https://amymhaddad.com/)
+
+### Engineering Blog
+
+- [Uber Engineering](https://www.uber.com/en-BD/blog/engineering/)

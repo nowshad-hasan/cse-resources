@@ -14,6 +14,7 @@
 
 *  Udacity Frontend Nanodegree Style Guide [Udacity](https://udacity.github.io/frontend-nanodegree-styleguide/css.html#type-selectors)
 *  How to Build a Blog Using a Static Site Generator and a CDN [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-blog-using-a-static-site-generator-and-a-cdn/)
+*  HTML Bold Text Tutorial – How to Use the <b> Tag [Freecodecamp](https://www.freecodecamp.org/news/html-bold-text-tutorial-how-to-use-the-b-tag)
 
 ### HTML
 * Using HTML sections and outlines [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#The_HTML5_Outline_Algorithm)
@@ -25,6 +26,8 @@
   * PSD to Responsive Website Tutorial \#1 - Introduction [YouTube Playlist](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_&index=1)
   * PSD To HTML | PSD To Bootstrap | HTML Tutorial Step By Step | PSD To Responsive Website [YouTube Video](https://www.youtube.com/watch?v=YH0z2gy_9DU)
   * PSD to HTML using Bootstrap in Bangla for Beginners *Easy Method* Part 01 [YouTube Video](https://www.youtube.com/watch?v=NC_vbRp4GT0)
+
+* Learn CSS Flexbox by Building 5 Responsive Layouts [Freecodecamp](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
 
 ### CSS
 

@@ -15,6 +15,9 @@
 ### Articles
 
 * Autocomplete Search [System Design Interview Preparation](https://systemdesignprep.com/autocomplete)
+* Crack the System Design interview: tips from a Twitter software engineer [Geeksforgeeks](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
+* Announcing Snowflake [Twitter](https://blog.x.com/engineering/en_us/a/2010/announcing-snowflake)
+* Data Structures & Algorithms I Used Working at Tech Companies [Pragmatic Engineer](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
 ### Course
 * System Design [HIRED IN TECH](https://www.hiredintech.com/system-design/introduction/)
@@ -28,6 +31,7 @@
 * Basics of System Design [Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
 * System Design [Tech Dummies](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 * Grokking the System Design Interview [Educative.io](https://www.educative.io/courses/grokking-the-system-design-interview)
+* SYSTEM DESIGN PREPARATION [shashank88-Github](https://github.com/shashank88/system_design)
 
 ### Others
 

@@ -1,17 +1,20 @@
 ## Contents
 
 - [Contents](#contents)
-  - [Basics](#basics)
+  - [Article](#article)
   - [CI/CD](#cicd)
   - [Learning materials](#learning-materials)
   - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
   - [Blogs](#blogs)
   - [Videos](#videos)
   - [ELK Stack](#elk-stack)
 
-### Basics
+### Article
 
 * What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples [Freecodecamp](https://www.freecodecamp.org/news/file-systems-architecture-explained/)
+* Make Jenkins logs pretty [Opensource.com](https://opensource.com/article/21/5/jenkins-logs)
+* Automating Task with Cron and Anacron [Sihamsharif](https://sihamsharif.me/linux/automating-task-with-cron-and-anacron/)
 
 ### CI/CD
 * Learn How to Set Up a CI/CD Pipeline From Scratch [DZone](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
@@ -23,6 +26,9 @@
 
 ### Docker
 * The Docker Handbook – Learn Docker for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-docker-handbook/)
+
+### Kubernetes
+* The Kubernetes Handbook – Learn Kubernetes for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-kubernetes-handbook)
 
 ### Blogs
 

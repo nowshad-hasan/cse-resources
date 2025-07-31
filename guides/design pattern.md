@@ -1,7 +1,8 @@
 ## Contents
 
-* [Article](#article)
-* [Collection](#collection)
+- [Contents](#contents)
+  - [Article](#article)
+  - [Collection](#collection)
 
 ### Article
 
@@ -30,7 +31,10 @@
   * Java Singleton Design Pattern Best Practices with Examples [JournalDev](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
   * Java Singleton Design Pattern Practices with Examples [GeeksforGeeks](https://www.geeksforgeeks.org/java-singleton-design-pattern-practices-examples/)
   * How to prevent Singleton Pattern from Reflection, Serialization and Cloning? [GeeksforGeeks](https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/)
-
+* YAGNI: You Ain’t Gonna Need It [Medium](https://medium.com/better-programming/yagni-you-aint-gonna-need-it-f9a178cd8e1)
+* Yagni [Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
+* Design Patterns That Every Software Developer Must Know [Medium](https://viveknaskar.medium.com/design-patterns-that-every-software-developer-must-know-ac71f575e68)
+* Single Responsibility Principle: A Recipe for Great Code [Toptal](https://www.toptal.com/software/single-responsibility-principle)
 
 ### Collection
 

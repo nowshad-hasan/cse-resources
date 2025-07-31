@@ -14,6 +14,8 @@
 * CORS
   * What is CORS? [Codecademy](https://www.codecademy.com/articles/what-is-cors)
   * CORS Tutorial: A Guide to Cross-Origin Resource Sharing [Auth0](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
+* ETag header [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/ETag)
+* HTTP caching [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching)
 
 ### REST API
 

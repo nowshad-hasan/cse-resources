@@ -27,3 +27,6 @@ Rico's cheatsheets - https://devhints.io/bash
 - Bash Scripting Full Course 3 Hours [Linuxhint](https://youtu.be/e7BufAVwDiM?si=nSxwCJxOz0D9cOHd)
 - Linux Server Course - System Configuration and Operation [Freecodecamp-Youtube](https://youtu.be/WMy3OzvBWc0?si=NPlHW41edJd8wX2_)
 - My 5 Favorite Linux Shell Tricks for SPEEEEEED (and efficiency) [tutorialLinux-Youtube](https://youtu.be/V8EUdia_kOE?si=Zuulv_oh5uH9PH8S)
+
+### Github Projects
+- [modern-unix](https://github.com/ibraheemdev/modern-unix)

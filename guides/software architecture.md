@@ -2,6 +2,8 @@
 
 - Best Practices for Designing a Pragmatic RESTful API [Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - Inline Documentation for RESTful web APIs [APIDOC](https://apidocjs.com/)
+- The Uber Engineering Tech Stack, Part I: The Foundation [Uber Engineering](https://www.uber.com/en-BD/blog/tech-stack-part-one-foundation/)
+- How to design a system to scale to your first 100 million users [Medium](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
 
 ### Talks and Conferences
 

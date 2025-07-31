@@ -27,6 +27,7 @@
 
 ### Git Repo
 - Essential Repos [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049434548949958657/)
+- [awesome](https://github.com/sindresorhus/awesome)
 
 
 ### Mini projects
@@ -61,6 +62,8 @@
 
 ### Collection
 - linkedin-skill-assessments-quizzes [Link](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
+- [Goalkicker](https://goalkicker.com/)
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ### Project Idea
 - Cool web projects for beginners [KAZ Software](https://kaz.com.bd/blog/2020/8/12/cool-web-projects-for-beginners)

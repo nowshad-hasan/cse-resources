@@ -11,5 +11,4 @@
 ](https://books.goalkicker.com/)
 
 ### Articles
-- [Five Code Review Antipatterns
-](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns)
+- [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns)

@@ -1,6 +1,10 @@
 ### Articles
 
 - How to Interview for a Software Development Job: Success in the Wild West [Freecodecamp](https://www.freecodecamp.org/news/how-to-interview-for-software-development-jobs/)
+- Cracking the Mobile System Design Interview (iOS & Android) [Dev.to](https://dev.to/ecaselles/cracking-the-mobile-system-design-interview-ios-android-4kfi)
+- Preparing for the Systems Design and Coding Interview [Pragmatic Engineer](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+- Recruiting Software Developers – Coding Tests [Henrik Warne's blog](https://henrikwarne.com/2021/04/19/recruiting-software-developers-coding-tests/)
+- How to ace the Google interview using Chai (and the magic of spaced repetition) [Medium](https://ccbeauchamp.medium.com/how-to-ace-the-google-interview-using-chai-and-the-magic-of-spaced-repetition-f5fce0115821)
 
 ### Job abroad
 
@@ -13,6 +17,15 @@
 ### Tips and Tricks
 
 - How to Get an Interview as a Software Developer [Freecodecamp](https://www.freecodecamp.org/news/how-to-get-an-interview-as-a-software-developer/)
+
+### Preperation Website
+
+- [The Daily Byte](https://thedailybyte.dev/)
+- [Advent of Code](https://adventofcode.com/)
+
+### Github Projects
+
+- [kdn251-Github](https://github.com/kdn251/interviews)
 
 ### Job Abroad Website
 

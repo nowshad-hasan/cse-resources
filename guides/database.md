@@ -34,6 +34,7 @@
 
 ### GraphQL
 - Getting Started with GraphQL [Reflectoring.io](https://reflectoring.io/getting-started-with-graphql/)
+- The Fullstack Tutorial for GraphQL [How To GraphQL](https://www.howtographql.com/)
 
 ### NoSQL
 
@@ -109,3 +110,5 @@
 - 01 - History of Databases (CMU Databases / Spring 2020) [CMU DB Group-Youtube Playlist](https://youtu.be/SdW5RKUboKc?si=rcfQ_Kl1urJ3wNI6)
 - Database Design Course - Learn how to design and plan a database for beginners [Caleb from Freecodecamp-Youtube](https://youtu.be/ztHopE5Wnpc?si=kUq7hLlVLnAfON9B)
 - IQ15: 6 SQL Query Interview Questions [The Coding Interview-Youtube](https://youtu.be/uAWWhEA57bE?si=_mbRMcdViFK9Fd2L)
+- Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) [Freecodecamp](https://youtu.be/4cWkVbC2bNE?si=RJq_trbr-z50smNh)
+- UML Diagrams Full Course [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc&ab_channel=freeCodeCamp.org)

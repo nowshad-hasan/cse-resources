@@ -148,6 +148,7 @@
   * [JAVA TIPS](https://www.javaworld.com/blog/java-tips/)
   * [JAVA 101: LEARN JAVA](https://www.javaworld.com/blog/java-101/)
 * Java Guide [GitHub Project](https://github.com/forax/java-guide)
+* Java Notes for Professionals book [Goalkicker](https://goalkicker.com/JavaBook/)
 
 ### Others
 * KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton [YouTube](https://youtu.be/te3OU9fxC8U)

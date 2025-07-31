@@ -34,6 +34,8 @@
 * Time complexity of recursive Fibonacci program [geeksforgeeks](https://www.geeksforgeeks.org/dsa/time-complexity-recursive-fibonacci-program/)
 * How is the time complexity of Sieve of Eratosthenes is n*log(log(n))? [Geeksforgeeks](https://www.geeksforgeeks.org/dsa/how-is-the-time-complexity-of-sieve-of-eratosthenes-is-nloglogn/)
 * How Big O Notation Works – Explained with Cake [Freecodecamp](https://www.freecodecamp.org/news/big-o-notation)
+* How to Solve Coding Problems with a Simple Four Step Method [Freecodecamp](https://www.freecodecamp.org/news/how-to-solve-coding-problems/)
+* Ropes Data Structure (Fast String Concatenation) [Geeksforgeeks](https://www.geeksforgeeks.org/dsa/ropes-data-structure-fast-string-concatenation/)
 
 ## Problem Collection
 
