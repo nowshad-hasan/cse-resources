@@ -3,6 +3,7 @@
 - [Contents](#contents)
   - [Basics](#basics)
   - [Migration](#migration)
+  - [GraphQL](#graphql)
   - [NoSQL](#nosql)
   - [Indexes](#indexes)
   - [Resources](#resources)
@@ -30,6 +31,9 @@
 
 * The Ultimate Showdown of Database Migration Tools by Pasha Finkelshteyn / Anton Arhipov @ Spring I/O [Youtube](https://youtu.be/U3QUxpmzxts?si=kcU4M8AagJUvygiE)
 
+
+### GraphQL
+- Getting Started with GraphQL [Reflectoring.io](https://reflectoring.io/getting-started-with-graphql/)
 
 ### NoSQL
 

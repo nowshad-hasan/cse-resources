@@ -106,6 +106,7 @@
 * Java Multithreading [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
 * How to create a ThreadPool from scratch [Bazlur - YouTube](https://youtu.be/iH-sCG_zrHw)
 * Java concurrency (multi-threading) - Tutorial [Vogella](https://www.vogella.com/tutorials/JavaConcurrency/article.html)
+* Process vs Thread – Difference Between Them [Guru99](https://www.guru99.com/difference-between-process-and-thread.html)
 
 ### Socket Programming
 

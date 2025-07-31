@@ -1,3 +1,7 @@
+### Articles
+
+- UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma [Freecodecamp](https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma)
+
 ### Videos - 
 - Become a UI/UX designer in 2024 - A step by step guide [Rachel How-Youtube](https://youtu.be/HmKwiEmJIdM?si=otGYxIpMgNdgdcFK)
 - Web / Desktop App UI Design in Figma - Full Course [Design code- Youtube](https://youtu.be/5IanQIwhA4E?si=K7hbB69lIF5hTR0r)

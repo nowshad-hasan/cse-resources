@@ -31,6 +31,7 @@
 * Random Numbers: Are they? [Roadmap](https://roadmap.sh/guides/random-numbers)
 * Asymptotic Notation [Roadmap](https://roadmap.sh/guides/asymptotic-notation)
 * Big-O Notation [Roadmap](https://roadmap.sh/guides/big-o-notation)
+* How Big O Notation Works – Explained with Cake [Freecodecamp](https://www.freecodecamp.org/news/big-o-notation)
 
 ## Problem Collection
 
@@ -44,7 +45,8 @@
 * [Tanvir's Blog](https://tanvir002700.wordpress.com/)
 * [ফাহিমের ব্লগ](https://sites.google.com/site/smilitude/tutorials)
 * [Programabad](https://programabad.com/)
-* [Algo Expert](https://www.algoexpert.io/) - Go to this [link](http://www.algoexpert.io/gaurav) for 15% discount
+* [Algo Expert](https://www.algoexpert.io/)
+* [VisualAlgo](https://visualgo.net/en)
 
 ## Tools
 * Online Debugging [uDebug](https://www.udebug.com/input)
@@ -68,3 +70,4 @@
 
 ### Courses
 - Computational Thinking for Problem Solving [Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
+- Mathematics for Competitive Programming - Self Paced [Geeksforgeeks](https://www.geeksforgeeks.org/courses/cp-maths)

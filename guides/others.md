@@ -18,6 +18,8 @@
   - [IDE Tips](#ide-tips-1)
   - [Youtube Channel](#youtube-channel)
   - [Courses](#courses)
+  - [Articles](#articles)
+  - [Blog](#blog)
 
 ### Git
 
@@ -54,6 +56,7 @@
 * GitFlow Documentation [Docs](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 * How to Undo Mistakes With Git Using the Command Line [Freecodecamp-Youtube](https://youtu.be/lX9hsdsAeTk?si=cpb2Nv6m94siOGob)
 * Git Internals by John Britton of GitHub - CS50 Tech Talk [CS50-Youtube](https://youtu.be/lG90LZotrpo?si=MOWSDAMhlyfReWNt)
+* How to Use Multiple Git Configs on One Computer [Freecodecamp](https://www.freecodecamp.org/news/how-to-handle-multiple-git-configurations-in-one-machine)
 
 ### VIM
 
@@ -207,6 +210,18 @@
 * 10 BAD PROGRAMMING HABITS [Amigoscode-Youtube](https://youtu.be/lyx7HNufwXQ?si=nf6XyLHZHsgajcib)
 * The #1 software soft-skill [KAZ Software](https://kaz.com.bd/blog/2020/9/17/top-software-soft-skill)
 * Developer Freelancing Basics – How to Earn At Least $500 in Side Income Each Month [Freecodecamp](https://www.freecodecamp.org/news/developer-freelancing-basics/)
+* How I Escaped Tutorial Purgatory – and How You Can, Too [Freecodecamp](https://www.freecodecamp.org/news/escape-tutorial-purgatory/)
+* How to Learn Something New Every Day as a Software Developer [Freecodecamp](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer)
+* Software reality: Multiple ways of solving the same problem [KAZ Software](https://kaz.com.bd/blog/2021/1/28/software-reality-multiple-ways-of-solving-the-same-problem)
+* Dream big, and follow through even bigger [Github Readme](https://github.com/readme/stories/safia-abdalla)
+* How Google's Technical Writing Course Helped Me Become a Better Writer [Freecodecamp](https://www.freecodecamp.org/news/what-google-taught-me-about-technical-writting/)
+* How to Learn Something New Every Day as a Software Developer [Freecodecamp](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer/)
+* The Best Tech Podcasts for Software Developers in 2021 [Freecodecamp](https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/)
+* How Empathy Can Make You a Better Software Engineer [Freecodecamp](https://www.freecodecamp.org/news/how-empathy-makes-you-a-better-software-engineer)
+* I uncovered 1700 Coursera Courses that Are Still Completely Free [Freecodecamp](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
+* How I Find Time for Coding While Raising My Newborn Son [Freecodecamp](https://www.freecodecamp.org/news/coding-with-a-newborn)
+* My System for Organizing Work in a Distracted World [Reflectoring.io](https://reflectoring.io/organizing-work/)
+* How to Stay Productive All Day – Coding and Scheduling Tips for Programmers [Freecodecamp](https://www.freecodecamp.org/news/how-to-stay-productive-all-day-coding-and-scheduling-tips-for-programmers/)
 
 ### Project Ideas
 
@@ -271,3 +286,11 @@
 -[OSSU-Computer Science](https://github.com/ossu/computer-science)
 - [Class Central](https://www.classcentral.com/)
 - [Khanacademy](https://www.khanacademy.org/computing/computer-science)
+
+### Articles
+
+- History's Worst Software Bugs [Wired](https://www.wired.com/2005/11/historys-worst-software-bugs/)
+
+### Blog
+
+-[Amy M Haddad](https://amymhaddad.com/)

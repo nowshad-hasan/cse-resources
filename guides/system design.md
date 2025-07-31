@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
 - [Core](#core)
+  - [Articles](#articles)
   - [Course](#course)
   - [Collection](#collection)
   - [Others](#others)
@@ -10,6 +11,10 @@
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
 * Scaling Databases [Roadmap](https://roadmap.sh/guides/scaling-databases)
+
+### Articles
+
+* Autocomplete Search [System Design Interview Preparation](https://systemdesignprep.com/autocomplete)
 
 ### Course
 * System Design [HIRED IN TECH](https://www.hiredintech.com/system-design/introduction/)

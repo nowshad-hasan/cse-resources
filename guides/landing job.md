@@ -1,3 +1,7 @@
+### Articles
+
+- How to Interview for a Software Development Job: Success in the Wild West [Freecodecamp](https://www.freecodecamp.org/news/how-to-interview-for-software-development-jobs/)
+
 ### Job abroad
 
 - Career in Europe: A Guide for Bangladeshi Tech Professionals [Sunnat629-Youtube](https://youtu.be/NqawFsSx2ZU?si=ZhqhYQwxLphABmns)
@@ -9,6 +13,10 @@
 ### Tips and Tricks
 
 - How to Get an Interview as a Software Developer [Freecodecamp](https://www.freecodecamp.org/news/how-to-get-an-interview-as-a-software-developer/)
+
+### Job Abroad Website
+
+- [XING](https://www.xing.com/jobs/)
 
 ### Career Page 
 - [Brain Station 23](https://brainstation-23.easy.jobs/)
