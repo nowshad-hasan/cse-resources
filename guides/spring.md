@@ -121,6 +121,7 @@
 * Cross-Origin Resource Sharing (CORS) [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 * CORS support in Spring Framework [Spring.io](https://spring.io/blog/2015/06/08/cors-support-in-spring-framework)
 * Spring Boot CORS Configuration Examples [HowToDoInJava](https://howtodoinjava.com/spring-boot2/spring-cors-configuration/)
+* How Spring MVC Framework works? How HTTP Request is processed? [Javarevisited](https://javarevisited.blogspot.com/2017/06/how-spring-mvc-framework-works-web-flow.html#axzz6hMyjt0TW)
 
 ### Spring Security
 

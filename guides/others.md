@@ -207,6 +207,7 @@
 * 10 BAD PROGRAMMING HABITS [Amigoscode-Youtube](https://youtu.be/lyx7HNufwXQ?si=nf6XyLHZHsgajcib)
 * The #1 software soft-skill [KAZ Software](https://kaz.com.bd/blog/2020/9/17/top-software-soft-skill)
 * Developer Freelancing Basics – How to Earn At Least $500 in Side Income Each Month [Freecodecamp](https://www.freecodecamp.org/news/developer-freelancing-basics/)
+* What I Wish I Knew Before I Started Learning to Code [Freecodecamp](https://www.freecodecamp.org/news/what-i-wish-i-knew-before-i-started-learning-to-code/)
 
 ### Project Ideas
 

@@ -31,6 +31,8 @@
 * Random Numbers: Are they? [Roadmap](https://roadmap.sh/guides/random-numbers)
 * Asymptotic Notation [Roadmap](https://roadmap.sh/guides/asymptotic-notation)
 * Big-O Notation [Roadmap](https://roadmap.sh/guides/big-o-notation)
+* Time complexity of recursive Fibonacci program [geeksforgeeks](https://www.geeksforgeeks.org/dsa/time-complexity-recursive-fibonacci-program/)
+* How is the time complexity of Sieve of Eratosthenes is n*log(log(n))? [Geeksforgeeks](https://www.geeksforgeeks.org/dsa/how-is-the-time-complexity-of-sieve-of-eratosthenes-is-nloglogn/)
 
 ## Problem Collection
 
@@ -65,6 +67,8 @@
 - 5 Simple Steps for Solving Any Recursive Problem [Youtube](https://youtu.be/ngCos392W4w?si=KTrcly-WVRdLgSku)
 - Big O Notation [HackerRank-Youtube](https://youtu.be/v4cd1O4zkGw?si=fBTS2E1-q9FgJEUC)
 - Project Loom: Modern Scalable Concurrency for the Java Platform [Java-Youtube](https://youtu.be/fOEPEXTpbJA?si=wIGp88dr3gFeYC21)
+- Recursion playlist [Youtube](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLz3g66WrxFGSXvSsvyfzCO)
 
 ### Courses
 - Computational Thinking for Problem Solving [Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
+- Introduction to Algorithms [OpenCourseWare](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)

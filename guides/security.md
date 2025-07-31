@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
   - [Basics](#basics)
+  - [Articles](#articles)
   - [Collections](#collections)
   - [Videos](#videos)
   - [Youtube Channel](#youtube-channel)
@@ -9,6 +10,11 @@
 ### Basics
 * Lecture 9: Security and Cryptography (2020) by Missing Semester [YouTube](https://youtu.be/tjwobAmnKTo)
 * MD5 Collision Demo [Peter Selinger](https://www.mathstat.dal.ca/~selinger/md5collision/)
+
+### Articles 
+
+- https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html [Owsap](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+- Data privacy regulations 101 [KAZ Software](https://kaz.com.bd/blog/2020/12/16/data-privacy-regulations-101)
 
 ### Collections
 * Hacker Tools 2019 [Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv)
