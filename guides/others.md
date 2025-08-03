@@ -21,6 +21,12 @@
   - [Articles](#articles)
   - [Personal Blog](#personal-blog)
   - [Engineering Blog](#engineering-blog)
+  - [Newsletters](#newsletters)
+  - [Github Project](#github-project)
+  - [Code Quality Tools](#code-quality-tools)
+  - [Code Analysis](#code-analysis)
+  - [Documentation Tools](#documentation-tools)
+  - [Security Tools](#security-tools)
 
 ### Git
 
@@ -202,6 +208,8 @@
 * Drunk Post: Things I've learned as a Sr Engineer [Reddit](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 * Object-Oriented Thinking Is Too Complex for You [Medium](https://levelup.gitconnected.com/object-oriented-thinking-is-too-complex-for-you-76d59ccd3734)
 * 16 Years of Kaz Software: The work smart and love work way [KAZ Software](https://kaz.com.bd/blog/2020/6/24/16-years-of-kaz-software-the-work-smart-and-love-work-way)
+* Foobar [Wikipedia](https://en.wikipedia.org/wiki/Foobar)
+* How Does an Engineer Create a Programming Language? [The New Stack](https://thenewstack.io/how-does-an-engineer-create-a-programming-language/)
 
 ### Productivity
 
@@ -242,6 +250,9 @@
 * Avoiding burnout as an ambitious developer [Stackoverflow Blog](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 * Boost Your Programming Skills by Reading Git's Code [Freecodecamp](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/)
 * Five things you should know as a software engineer [Interviewready](https://interviewready.io/blog/5-things-to-know-as-swe)
+* 27 Things I Wish I'd Known When I Started Programming [Forbes](https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/)
+* The 6 Best Software Developer Habits [Better Programming](https://medium.com/better-programming/the-6-best-software-developer-habits-196221ae8c13)
+* [Jon H.M. Chan](https://jonhmchan.com/)
 
 ### Project Ideas
 
@@ -301,12 +312,14 @@
 ### Youtube Channel
 - [Life at Google](https://youtu.be/olScOTFtVW8?si=gbJedTCstH-ERJs4)
 - [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering/playlists)
+- [Foyzul Karim](https://www.youtube.com/c/FoyzulKarim/playlists) 
 
 ### Courses
 
 - [OSSU-Computer Science](https://github.com/ossu/computer-science)
 - [Class Central](https://www.classcentral.com/)
 - [Khanacademy](https://www.khanacademy.org/computing/computer-science)
+- Coding Programs – 152 Coding Classes You can Take for Free Online [Freecodecamp](https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online)
 
 ### Articles
 
@@ -319,3 +332,50 @@
 ### Engineering Blog
 
 - [Uber Engineering](https://www.uber.com/en-BD/blog/engineering/)
+
+### Newsletters
+
+- [Refactoring](https://refactoring.fm/)
+- [The System Design Newsletter](https://newsletter.systemdesign.one/)
+- [Product for Engineers](https://newsletter.posthog.com/)
+- [Engineering Leadership](https://newsletter.eng-leadership.com/)
+- [System Design Classroom](https://newsletter.systemdesignclassroom.com/)
+- [Craft Better Software](https://craftbettersoftware.com/)
+- [The T-Shaped Dev](https://thetshaped.dev/)
+- [Strategize Your Career](https://strategizeyourcareer.com/)
+- [DataExpert.io](https://blog.dataexpert.io/)
+- [The Hustling Engineer](https://thehustlingengineer.substack.com/)
+- [tech5ense](https://www.tech5ense.com/)
+- [The Cloud Engineers](https://blog.thecloudengineers.com/)
+
+### Github Project
+
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+### Code Quality Tools
+
+- SonarQube
+- ESLint
+- Stylelint
+- Codacy
+
+### Code Analysis
+
+- Coverify
+- Fortify
+- Checkmarx
+- Veracode
+
+### Documentation Tools
+
+- Javadoc
+- Doxygen
+- Sphinx
+- MkDocs
+
+### Security Tools
+
+- Burp Suite
+- Owasp Zap
+- Nessus
+- Snort

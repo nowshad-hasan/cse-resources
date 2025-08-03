@@ -17,6 +17,7 @@
   - [Updates](#updates)
   - [Blogs](#blogs)
   - [Videos](#videos)
+  - [OCP](#ocp)
 
 ### Core Java
 
@@ -75,6 +76,10 @@
 * 9 Rules about Constructors in Java [CodeJava](https://www.codejava.net/java-core/the-java-language/9-rules-about-constructors-in-java)
 * Java Access Modifiers Examples: public, protected, private and default [CodeJava](https://www.codejava.net/java-core/the-java-language/java-access-modifiers-examples-public-protected-private-and-default)
 * The Java Memory Model - The Basics [Jakob Jenkov](https://youtu.be/LCSqZyjBwWA?si=uovAJdCjdzeSy72X)
+* Secure Coding Guidelines for Java SE [Oracle](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
+* Prevent Breaking a Singleton Class Pattern [DZone](https://dzone.com/articles/prevent-breaking-a-singleton-class-pattern)
+
+
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
@@ -149,6 +154,7 @@
   * [JAVA 101: LEARN JAVA](https://www.javaworld.com/blog/java-101/)
 * Java Guide [GitHub Project](https://github.com/forax/java-guide)
 * Java Notes for Professionals book [Goalkicker](https://goalkicker.com/JavaBook/)
+* Java By IBM Developer [IBM](https://developer.ibm.com/languages/java/)
 
 ### Others
 * KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton [YouTube](https://youtu.be/te3OU9fxC8U)
@@ -200,3 +206,15 @@
 - Creating a Simple Java TCP/IP Server and Custom Servlet API [CM Abdullah-Youtube](https://youtu.be/lWPcWVdJl8U?si=wLd888VLIZ6LrAL3)
 - Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler [Devoxx](https://youtu.be/lIq-x_iI-kc?si=BneYQPqnrFbVhWg6)
 - Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam [Devoxx-Youtube](https://youtu.be/1OpAgZvYXLQ?si=MDrEDc3Txuq7neE-)
+
+### OCP
+
+- How to Pass Oracle’s Java Certifications — a Practical Guide for Developers [Freecodecamp](https://www.freecodecamp.org/news/how-to-pass-oracles-java-certifications-a-practical-guide-for-developers-e9b607ba6173/)
+- Oracle Certified Professional Java SE 11 Developer [Youtube Playlist](https://youtube.com/playlist?list=PLUDxEIP1X623utgoHn0ptWwWSvUIefzNy&si=k-tVfqZeB1U5K4Ac)
+- OCP Java SE 11 Programmer I (1Z0-815) Practice Exam Test 2023 [Link](https://skillcertpro.com/product/ocp-java-se-11-programmer-i-1z0-815-practice-exam-test/)
+- 7 Best Books, Courses and Practice Tests to Crack Java SE 11 Developer Certification Exam in 2024 [Javarevisited](https://medium.com/javarevisited/5-best-books-courses-and-practice-tests-to-crack-java-se-11-certification-ocajp-11-1z0-815-6c861d6d147f)
+- Oracle Certified Professional, Java SE 11 Developer (1Z0-819) [Whizlabs](https://www.whizlabs.com/ocpjd-java-se-11-developer-1z0-819/)
+- OCP Java SE 11 Developer 1Z0-819 Practice Exams [Udemy](https://www.udemy.com/course/ocp-java-se-11-developer-1z0-819-practice-exam/?couponCode=MT300725G1)
+- Questions and Exercises: Annotations [Oracle](https://docs.oracle.com/javase/tutorial/java/annotations/QandE/questions.html)
+- Java Certification (1Z0-819) Topic-wise Tests Part-1 [2025] [Udemy](https://www.udemy.com/course/ocp_java-se-11_1z0-819_p1/?couponCode=MT300725G1)
+- Oracle Learning [Oracle](https://learn.oracle.com/ols/user-portal)

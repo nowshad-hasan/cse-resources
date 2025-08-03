@@ -47,6 +47,7 @@
 - How to Put a Website Online: Template, Coding, Domain, Hosting, and DNS [Freecodecamp-Youtube](https://youtu.be/NQP89ish9t8?si=eYww9MURGj585MH3)
 - AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [Freecodecamp](https://youtu.be/Ia-UEYYR44s?si=E9GF2j-BDSL9PXal)
 - cURL Verbose Mode Explained (and how I use it to Troubleshoot my Backend) [Hussein Nasser-Youtube](https://youtu.be/PVm0YEEuS8s?si=HICt_EKWYNVE1ACw)
+- DevOps Engineering Course for Beginners [Freecodecamp](https://youtu.be/j5Zsa_eOXeY?si=Rtn2PP2KqdOjkxfs)
 
 ### ELK Stack
 - Elasticsearch Course for Beginners [Freecodecamp-Youtube](https://youtu.be/a4HBKEda_F8?si=XvNCMFCbYRq7tI_J)

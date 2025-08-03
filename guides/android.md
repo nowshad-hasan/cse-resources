@@ -576,6 +576,7 @@
   * 20 library I use in my every android project [Medium](https://medium.com/@mdmasudparvez/20-library-i-use-in-my-every-android-project-2aea460db2e4)
   * 5 Essential Android Development Techniques [Candyspace](https://blog.candyspace.com/5-essential-android-techniques-for-2020)
 * Muslims Day Android App [Technical Review] [Hello Hasan](https://hellohasan.com/2020/04/23/muslims-day-android-app-technical-review/)
+* How to Automatically Upload an Android App Bundle to the Play Store [Freecodecamp](https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store)
 ### Tools
 
 * [Microsoft App Center](https://appcenter.ms/)

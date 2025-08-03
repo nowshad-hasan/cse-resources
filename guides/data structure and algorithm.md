@@ -42,6 +42,7 @@
 * [Codemarshal](https://algo.codemarshal.org/problems)
 * Categorized Problems for Shafaet Ashraf [Light OJ](http://lightoj.com/volume_problemcategory.php?user_id=1058)
 * Subeen's 52 Problems [DimikOJ](https://dimikoj.com/problems)
+* 52 Programming Problems [Subeen's Blog](http://cpbook.subeen.com/p/blog-page_11.html)
 
 ## Blog
 

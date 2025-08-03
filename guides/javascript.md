@@ -8,6 +8,7 @@
 
 ### Article
 - The JavaScript Array Handbook – JS Array Methods Explained with Examples [Freecodecamp](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
+- The JavaScript Error Handling Handbook [Freecodecamp](https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/)
 
 ### Videos 
 

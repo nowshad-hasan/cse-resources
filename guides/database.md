@@ -54,6 +54,7 @@
   * MySQL, SQL and Stored Procedures from Beginner to advanced [Udemy](https://www.udemy.com/course/mysql-and-sql-from-beginner-to-advanced/)
   * Complete SQL Mastery [Coding With Mosh](https://codewithmosh.com/p/complete-sql-mastery)
 * Database Design by Caleb Curry [YouTube Playlist](https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID)
+* A fast PostgreSQL Log Analyzer - pgbadger [Github](https://github.com/darold/pgbadger)
 
 ### SQL Interview 
 

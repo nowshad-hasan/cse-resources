@@ -7,6 +7,7 @@
   - [Collection](#collection)
   - [Others](#others)
   - [Videos](#videos)
+  - [Discussion](#discussion)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
@@ -18,6 +19,7 @@
 * Crack the System Design interview: tips from a Twitter software engineer [Geeksforgeeks](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
 * Announcing Snowflake [Twitter](https://blog.x.com/engineering/en_us/a/2010/announcing-snowflake)
 * Data Structures & Algorithms I Used Working at Tech Companies [Pragmatic Engineer](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+* Strategy Design Pattern Made Easy! [Linkedin](https://www.linkedin.com/pulse/strategy-design-pattern-made-easy-mahmudul-hasan-rafi-7owgc/)
 
 ### Course
 * System Design [HIRED IN TECH](https://www.hiredintech.com/system-design/introduction/)
@@ -46,3 +48,42 @@
 - Mastering Chaos - A Netflix Guide to Microservices [infoQ-Youtube](https://youtu.be/CZ3wIuvmHeM?si=Qf2_L83Bf7wh6Yp9)
 - Critical rendering path - Crash course on web performance (Fluent 2013) [Youtube](https://youtu.be/PkOBnYxqj3k?si=RlvllMUfXoLIe0GD)
 - System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook [Youtube](https://youtu.be/DSGsa0pu8-k?si=IuYLzAQnJu7oARUW)
+
+
+### Discussion
+
+Q1. You're in a backend interview.
+
+They ask:
+"Design a rate limiting system for an API used by millions. Where do you start?"
+
+Here’s how you impress 👇
+
+1.Start with the goal:
+Prevent abuse, ensure fair usage, and protect system stability.
+
+
+2. Choose a rate-limiting strategy:
+ - Fixed window
+ - Sliding window
+ - Token bucket (most flexible for millions of users)
+ - Leaky bucket
+
+3. Decide on the granularity:
+ - Per user? Per IP? Per API key?
+ - Define the limit (e.g. 100 req/min)
+
+4. Pick a fast, distributed store:
+ Use Redis to track usage—fast reads/writes, with key expiry support.
+
+5. Implementation flow:
+ - Each request checks Redis.
+ - If within limit → continue.
+ - Else → return 429 Too Many Requests.
+
+6. Make it scalable:
+ - Use Redis clusters for horizontal scaling.
+ - Hash keys for sharding.
+ - Push logic to API gateways like Kong or Cloudflare Workers for global edge enforcement.
+
+7. Add burst control and global override flags:

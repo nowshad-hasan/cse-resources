@@ -28,5 +28,8 @@ Rico's cheatsheets - https://devhints.io/bash
 - Linux Server Course - System Configuration and Operation [Freecodecamp-Youtube](https://youtu.be/WMy3OzvBWc0?si=NPlHW41edJd8wX2_)
 - My 5 Favorite Linux Shell Tricks for SPEEEEEED (and efficiency) [tutorialLinux-Youtube](https://youtu.be/V8EUdia_kOE?si=Zuulv_oh5uH9PH8S)
 
+### Youtube Channel
+- [tutorialLinux](https://www.youtube.com/c/tutoriaLinux/playlists)
+
 ### Github Projects
 - [modern-unix](https://github.com/ibraheemdev/modern-unix)

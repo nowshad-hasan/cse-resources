@@ -12,6 +12,7 @@
 * First Timers Only by Kent C. Dodds [Blog](https://kentcdodds.com/blog/first-timers-only)
 * How to Contribute to Open Source [Open Source Guide](https://opensource.guide/how-to-contribute/)
 * FreeCodeCamp - How To Contribute to Open Source [GitHub](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+* How to Build a Sustainable Open Source Contribution Routine [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-sustainable-open-source-contribution-routine/)
 
 ### Collection
 * The Open Source Computer Science Degree [GitHub Repo](https://github.com/ForrestKnight/open-source-cs)
@@ -37,3 +38,4 @@
 
 - [OpenMRS](https://github.com/openmrs)
 - [Quran](https://github.com/quran)
+- [daily.dev](https://github.com/dailydotdev/daily)
