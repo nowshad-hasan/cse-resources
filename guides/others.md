@@ -160,6 +160,7 @@
 * Life is too short for bad software [KAZ Software](https://kaz.com.bd/blog/2020/11/3/life-is-too-short-for-bad-software)
 * Software Engineers Are Made Not Born – How to Become a Great Developer [Freecodecamp](https://www.freecodecamp.org/news/how-to-become-a-great-developer)
 * Drunk Post: Things I've learned as a Sr Engineer [Reddit](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
+* Focus on what you can control, not what you can't [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7296068150675025921/)
 
 ### Articles and Videos
 

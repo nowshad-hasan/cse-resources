@@ -9,6 +9,7 @@
 ### Article
 - The JavaScript Array Handbook – JS Array Methods Explained with Examples [Freecodecamp](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
 - The JavaScript Error Handling Handbook [Freecodecamp](https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/)
+- JavaScript Visualized: Event Loop [Lydia Hallie](https://web.archive.org/web/20230325052042/https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 ### Videos 
 

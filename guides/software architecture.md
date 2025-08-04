@@ -4,6 +4,11 @@
 - Inline Documentation for RESTful web APIs [APIDOC](https://apidocjs.com/)
 - The Uber Engineering Tech Stack, Part I: The Foundation [Uber Engineering](https://www.uber.com/en-BD/blog/tech-stack-part-one-foundation/)
 - How to design a system to scale to your first 100 million users [Medium](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
+- API Architecture - Design Best Practices for REST APIs [Medium](https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
+- Eventual vs Strong Consistency in Distributed Databases [Hackernoon](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+- What is distributed tracing, and why is it important? [Dynatrace](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- Synchronous vs. asynchronous communications: The differences [Blog](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
+- Batch Processing vs Stream Processing: Key Differences Explained [Atlan](https://atlan.com/batch-processing-vs-stream-processing/)
 
 ### Talks and Conferences
 

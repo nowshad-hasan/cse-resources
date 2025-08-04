@@ -35,6 +35,7 @@
 * Yagni [Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
 * Design Patterns That Every Software Developer Must Know [Medium](https://viveknaskar.medium.com/design-patterns-that-every-software-developer-must-know-ac71f575e68)
 * Single Responsibility Principle: A Recipe for Great Code [Toptal](https://www.toptal.com/software/single-responsibility-principle)
+* Strategy Design Pattern Made Easy! [Linkedin](https://www.linkedin.com/pulse/strategy-design-pattern-made-easy-mahmudul-hasan-rafi-7owgc/)
 
 ### Collection
 

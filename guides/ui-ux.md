@@ -12,3 +12,16 @@
 - Create a Design System with Figma - Full Course [Freecodecamp](https://youtu.be/RYDiDpW2VkM?si=hRh7J307bwy_vMyc)
 - Typography for Developers Tutorial - Full Course [Freecodecamp-Youtube](https://youtu.be/agbh1wbfJt8?si=lFSPdeHET5maZD7y)
 - UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma [Freecodecamp-Youtube](https://youtu.be/c9Wg6Cb_YlU?si=30bN5sjk5ttlp6kF)
+
+### Figma Plugins
+
+- Wireframe
+- Blobs
+- Blush
+- Lorem Ipsum
+- LottoeFiles
+- Unsplash
+- RemoveBG
+- Autoflow
+- Mockuuups Studio
+- SkewDat

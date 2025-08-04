@@ -10,3 +10,4 @@
 - Some must read books every SE should read[devskill](https://devskill.com/blog/details/some-must-read-books-for-programmers)
 - 6 books I wish I had read at 22 as a junior software engineer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7349763567107104768)
 - Top books for technology leaders [Linkedin](https://www.linkedin.com/pulse/top-books-technology-leaders-tanaka-mutakwa/?trackingId=HSs30wSfRqW2aIPsoxFRqQ%3D%3D)
+- Books that I enjoyed while working as an Engineering Manager! [Tamim Shahriar](https://www.linkedin.com/pulse/books-i-enjoyed-while-working-engineering-manager-tamim-shahriar/)

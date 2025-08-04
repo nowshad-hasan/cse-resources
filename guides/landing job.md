@@ -30,6 +30,8 @@
 - [kdn251-Github](https://github.com/kdn251/interviews)
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 
 ### Job Abroad Website
 
@@ -54,6 +56,12 @@
 - [Empollo](https://empllo.com/)
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [Remote Hub](https://www.remotehub.com/)
+- [EU Remote Jobs](https://euremotejobs.com/)
+- [Virtual Vocations](https://www.virtualvocations.com/)
+- [Go Lance](https://golance.com/)
+- [Zip Recruiter](https://www.ziprecruiter.co.uk/)
+- [My Job](https://www.myjob.mu/)
+- [airwork.ai](https://airwork.ai/)
 
 ### Preparation Website
 

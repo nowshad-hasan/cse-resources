@@ -5,6 +5,7 @@
 - [Article](#article)
 - [Problem Collection](#problem-collection)
 - [Blog](#blog)
+  - [Patterns](#patterns)
 - [Tools](#tools)
 - [Resources](#resources)
   - [Videos](#videos)
@@ -43,6 +44,7 @@
 * Categorized Problems for Shafaet Ashraf [Light OJ](http://lightoj.com/volume_problemcategory.php?user_id=1058)
 * Subeen's 52 Problems [DimikOJ](https://dimikoj.com/problems)
 * 52 Programming Problems [Subeen's Blog](http://cpbook.subeen.com/p/blog-page_11.html)
+* [The Algorithms-Java]( https://github.com/TheAlgorithms/Java)
 
 ## Blog
 
@@ -52,6 +54,34 @@
 * [Programabad](https://programabad.com/)
 * [Algo Expert](https://www.algoexpert.io/)
 * [VisualAlgo](https://visualgo.net/en)
+
+### Patterns
+
+- Dynamic Programming
+  - Dynamic Programming Patterns [Leetcode](https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/)
+  - Dynamic Programming Patterns [Leetcode](https://leetcode.com/discuss/post/1437879/dynamic-programming-patterns-by-badgujja-lh0i/)
+- Graph ALgorithm
+  - Leetcode Pattern 1 | DFS + BFS == 25% of the problems — part 2 [Medium](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+  - Iterative | Recursive | DFS & BFS Tree Traversal | In, Pre, Post & LevelOrder | Views [Leetcode](https://leetcode.com/discuss/post/937307/iterative-recursive-dfs-bfs-tree-travers-e1f4/)
+
+- Sliding Window
+  - Maximum Sliding Window Cheatsheet Template! [Leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
+- Two Pointers
+  - Solved all two pointers problems in 100 days. [Leetcode](https://leetcode.com/discuss/post/1688903/solved-all-two-pointers-problems-in-100-z56cn/)
+  - Graph For Beginners [Problems | Pattern | Sample Solutions] [Leetcode](https://leetcode.com/discuss/post/655708/graph-for-beginners-problems-pattern-sam-06fb/)
+
+- monotonic stack
+  - A comprehensive guide and template for monotonic stack based problems [Leetcode](https://leetcode.com/discuss/post/2347639/a-comprehensive-guide-and-template-for-m-irii/)
+
+- Backtracking
+  - Leetcode Pattern 3 | Backtracking [Medium](https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26)
+
+- Searching
+  - Powerful Ultimate Binary Search Template. Solved many problems [Leetcode](https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-t-rwv8/)
+ 
+- String
+  - Collections of Important String questions Pattern [Leetcode](https://leetcode.com/discuss/post/2001789/collections-of-important-string-question-pc6y/)
 
 ## Tools
 * Online Debugging [uDebug](https://www.udebug.com/input)

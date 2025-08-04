@@ -21,6 +21,9 @@
 * Announcing Snowflake [Twitter](https://blog.x.com/engineering/en_us/a/2010/announcing-snowflake)
 * Data Structures & Algorithms I Used Working at Tech Companies [Pragmatic Engineer](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 * Strategy Design Pattern Made Easy! [Linkedin](https://www.linkedin.com/pulse/strategy-design-pattern-made-easy-mahmudul-hasan-rafi-7owgc/)
+* What is fault tolerance, and how to build fault-tolerant systems [Cockroach Labs](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
+* What’s the Difference Between Throughput and Latency? [Amazon AWS](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+* Acid Transactions [Redis](https://redis.io/glossary/acid-transactions/)
 
 ### Course
 * System Design [HIRED IN TECH](https://www.hiredintech.com/system-design/introduction/)
