@@ -8,6 +8,7 @@
   - [Others](#others)
   - [Videos](#videos)
   - [Discussion](#discussion)
+  - [Github Repo](#github-repo)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
@@ -87,3 +88,12 @@ Prevent abuse, ensure fair usage, and protect system stability.
  - Push logic to API gateways like Kong or Cloudflare Workers for global edge enforcement.
 
 7. Add burst control and global override flags:
+
+### Github Repo
+
+- [System Design Playbook](https://github.com/systemdesign42/system-design)
+- [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [system-design-101 by ByteByteGo](https://github.com/ByteByteGoHq/system-design-101)
+- [awesome-system-design](https://github.com/madd86/awesome-system-design)
+- [awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design)

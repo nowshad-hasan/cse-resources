@@ -64,6 +64,13 @@
 - linkedin-skill-assessments-quizzes [Link](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 - [Goalkicker](https://goalkicker.com/)
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Shared Solutions](https://github.com/CodingChallengesFYI/SharedSolutions)
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+- [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+- [resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Code crafters](https://app.codecrafters.io/catalog)
 
 ### Project Idea
 - Cool web projects for beginners [KAZ Software](https://kaz.com.bd/blog/2020/8/12/cool-web-projects-for-beginners)

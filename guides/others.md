@@ -351,6 +351,7 @@
 ### Github Project
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 ### Code Quality Tools
 

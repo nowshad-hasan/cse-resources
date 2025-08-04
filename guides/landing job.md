@@ -28,6 +28,8 @@
 ### Github Projects
 
 - [kdn251-Github](https://github.com/kdn251/interviews)
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 ### Job Abroad Website
 
