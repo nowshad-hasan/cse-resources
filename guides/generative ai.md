@@ -8,3 +8,15 @@
 - [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms)
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [ai-notes](https://github.com/swyxio/ai-notes)
+
+
+### AI Website
+
+- [Groq-powered Chat Bot](https://dromerosm-groq-llama3.hf.space/)
+- [Deepseek](https://chat.deepseek.com/sign_in)
+- [Perplexity](https://www.perplexity.ai/)
+- [Chat mistral](https://chat.mistral.ai/chat)
+- [Blackbox](https://www.blackbox.ai/)
+- [Pi](https://pi.ai/onboarding)
+- [Microsoft copilot](https://copilot.microsoft.com/)
+- [Qwen](https://chat.qwen.ai/)

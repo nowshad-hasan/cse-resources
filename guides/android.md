@@ -19,6 +19,7 @@
   - [Blog](#blog)
   - [Others](#others)
   - [Tools](#tools)
+  - [Discussion](#discussion)
 
 
 ### Android Core
@@ -581,3 +582,21 @@
 
 * [Microsoft App Center](https://appcenter.ms/)
 * [Figma](https://www.figma.com)
+
+### Discussion
+
+How to Achieve 0% ANRs in Android App: A Practical Checklist 🚀
+
+Here’s a concise checklist:
+ 1. 📝 Add event logging to Crashlytics. Stack traces for ANRs are usually useless. Log user actions — libraries like FlowMVI help automate this.
+ 2. ❌ Remove SharedPreferences. Especially encrypted ones — they were my #1 ANR source. Switch to DataStore + Kotlin Serialization.
+ 3. 🔄 Move UI event handling off the main thread when dealing with buggy SDKs. It avoids blocking the UI.
+ 4. 🚫 Avoid GMS libraries on the main thread. They write to prefs internally. Use coroutine abstractions instead.
+ 5. 🖼️ Audit your image resources. Misplaced bitmaps (like in drawable-nodpi) can cause oversized loading and ANRs.
+ 6. ⚠️ Enable StrictMode and eliminate all disk/network I/O on the main thread. You’ll be shocked how much is hiding there.
+ 7. 🧠 Hunt memory leaks. 80% of my ANRs were caused by massive GC pauses. Use LeakCanary, timeouts, error handling — profile everything.
+ 8. 🔍 Don’t trust stack traces. 90% of ANRs are caused by your code. Dig deeper than queue.NativePollOnce.
+ 9. 🧬 Never load entire files into memory. Avoid File().readBytes(). Use streaming APIs instead.
+ 10. 🧩 Use Jetpack Compose and keep UIs lightweight. Some devices literally ANR while rendering complex layouts.
+ 11. ⏳ Use goAsync() in broadcast receivers, with timeouts! Always offload work to coroutines.
+ 12. 🚷 Avoid bound services. Use Application events instead. Binder-based services are ANR traps, especially on lower-end devices.

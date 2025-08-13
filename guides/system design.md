@@ -96,6 +96,7 @@ Prevent abuse, ensure fair usage, and protect system stability.
 
 - [System Design Playbook](https://github.com/systemdesign42/system-design)
 - [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+- [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [system-design-101 by ByteByteGo](https://github.com/ByteByteGoHq/system-design-101)
 - [awesome-system-design](https://github.com/madd86/awesome-system-design)

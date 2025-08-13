@@ -45,6 +45,7 @@
 * Subeen's 52 Problems [DimikOJ](https://dimikoj.com/problems)
 * 52 Programming Problems [Subeen's Blog](http://cpbook.subeen.com/p/blog-page_11.html)
 * [The Algorithms-Java]( https://github.com/TheAlgorithms/Java)
+* [awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)
 
 ## Blog
 

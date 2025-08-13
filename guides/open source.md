@@ -6,6 +6,7 @@
   - [Videos](#videos)
   - [Blog](#blog)
   - [Projects](#projects)
+  - [Javascript Projects](#javascript-projects)
 
 ### Article
 
@@ -22,6 +23,7 @@
   * [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
   * [Syncthing Android](https://github.com/syncthing/syncthing-android/blob/master/CONTRIBUTING.md)
 
+* [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects)
 
 ### Videos
 - Contributing To Open Source – Beginner's Guide [Freecodecamp-Youtube](https://youtu.be/mklEhT_RLos?si=LYm9tebk0J7MQyNI)
@@ -39,3 +41,13 @@
 - [OpenMRS](https://github.com/openmrs)
 - [Quran](https://github.com/quran)
 - [daily.dev](https://github.com/dailydotdev/daily)
+- [squish](https://github.com/addyosmani/squish)
+
+### Javascript Projects
+
+- [strapi](https://github.com/strapi/strapi)
+- [supabase](https://github.com/supabase/supabase)
+- [Ghost](https://github.com/TryGhost/Ghost)
+- [keystone](https://github.com/keystonejs/keystone)
+- [apostrophe](https://github.com/apostrophecms/apostrophe)
+- [json-server](https://github.com/typicode/json-server)

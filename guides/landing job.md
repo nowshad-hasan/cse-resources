@@ -6,6 +6,7 @@
 - Recruiting Software Developers – Coding Tests [Henrik Warne's blog](https://henrikwarne.com/2021/04/19/recruiting-software-developers-coding-tests/)
 - How to ace the Google interview using Chai (and the magic of spaced repetition) [Medium](https://ccbeauchamp.medium.com/how-to-ace-the-google-interview-using-chai-and-the-magic-of-spaced-repetition-f5fce0115821)
 - Agoda’s Interview Process: How We Hire for the Tech Team [Agoda Career Club](https://careersatagoda.com/blog/how-we-hire-agodas-tech-team-interview-process/)
+- Software Engineer Resume [Overleaf](https://www.overleaf.com/latex/templates/software-engineer-resume/gqxmqsvsbdjf)
 
 ### Job abroad
 
@@ -38,6 +39,12 @@
 - [JobBoardSearch](https://jobboardsearch.com/)
 - [XING](https://www.xing.com/jobs/)
 - [Flexa](https://flexa.careers/)
+- [Landing.Jobs](https://landing.jobs/)
+- [Europe landing jobs](https://europelanguagejobs.com/)
+- [eu careers](https://eu-careers.europa.eu/en)
+- [Job atical](https://www.jobbatical.com/)
+- [Jobs in network](https://jobsinnetwork.com/)
+- [Welcome to the Jungle](http://welcometothejungle.com/en)
 
 ### Remote Job Website
 
@@ -62,6 +69,18 @@
 - [Zip Recruiter](https://www.ziprecruiter.co.uk/)
 - [My Job](https://www.myjob.mu/)
 - [airwork.ai](https://airwork.ai/)
+- [https://hubstafftalent.net/]
+- [Hubstaff Talent](https://hubstafftalent.net/)
+- [Wellfound](https://wellfound.com/)
+- [Workwave](https://www.workwave.com/)
+- [Javascript Jobs](https://javascript.jobs/remote)
+- [Remotewoman](https://remotewoman.com/)
+- [JustRemote](https://justremote.co/)
+- [Job Hunt](https://www.job-hunt.org/)
+- [Job Together](https://jobgether.com/)
+- [Remote in europe](https://remoteineurope.com/)
+- [Remote Rocketship](https://www.remoterocketship.com/)
+- [Skip the drive](https://www.skipthedrive.com/)
 
 ### Preparation Website
 

@@ -30,6 +30,7 @@
 ### Softskills
 
 - How to interview at Amazon - Leadership - Now including the 2 new Principles [Linkedin](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/)
+- [awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
 
 ### Websites
 
