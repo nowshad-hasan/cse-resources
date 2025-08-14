@@ -1,6 +1,7 @@
 ## Contents
 
 - [Contents](#contents)
+  - [Book recommendation](#book-recommendation)
   - [Git](#git)
   - [VIM](#vim)
   - [Clean Code](#clean-code)
@@ -27,6 +28,10 @@
   - [Code Analysis](#code-analysis)
   - [Documentation Tools](#documentation-tools)
   - [Security Tools](#security-tools)
+
+### Book recommendation
+
+* [Crafting Interpreters](https://craftinginterpreters.com/)
 
 ### Git
 
@@ -333,6 +338,8 @@
 ### Engineering Blog
 
 - [Uber Engineering](https://www.uber.com/en-BD/blog/engineering/)
+- [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
+- [High Scalability](https://highscalability.com/)
 
 ### Newsletters
 

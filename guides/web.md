@@ -1,11 +1,16 @@
 ### Contents
 
 - [Contents](#contents)
+- [Book recommendation](#book-recommendation)
 - [Basics](#basics)
 - [REST API](#rest-api)
 - [Tips and Tricks](#tips-and-tricks)
 - [Videos](#videos)
 
+
+### Book recommendation
+* High Performance Browser Networking [Link](https://hpbn.co/)
+* Web Browser Engineering - Book [Link](https://browser.engineering/)
 
 ### Basics
 * How does the internet work? [Roadmap](https://roadmap.sh/guides/what-is-internet)
@@ -16,6 +21,7 @@
   * CORS Tutorial: A Guide to Cross-Origin Resource Sharing [Auth0](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
 * ETag header [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/ETag)
 * HTTP caching [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching)
+* Inside look at modern web browser (part 1-Part4) [Chrome for Developers](https://developer.chrome.com/blog/inside-browser-part1)
 
 ### REST API
 

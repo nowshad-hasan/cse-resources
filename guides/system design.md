@@ -2,6 +2,8 @@
 
 - [Contents](#contents)
 - [Core](#core)
+  - [Topics](#topics)
+  - [Practice Projects](#practice-projects)
   - [Articles](#articles)
   - [Course](#course)
   - [Collection](#collection)
@@ -13,6 +15,24 @@
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
 * Scaling Databases [Roadmap](https://roadmap.sh/guides/scaling-databases)
+
+### Topics
+
+* Scalability
+* Performance
+* Reliability
+* Security
+* Caching strategy
+* Data partitioning
+
+### Practice Projects
+
+* URL Shortener
+* Chat application
+* Payment system
+* Notification system
+
+
 
 ### Articles
 

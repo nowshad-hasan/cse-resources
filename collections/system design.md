@@ -24,6 +24,21 @@
 - What Is Service Discovery? [Link](https://systemdesign.one/what-is-service-discovery/)
 - How Databases Keep Passwords Securely 🔒 [Link](https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database)
 - How Stripe Prevents Double Payment Using Idempotent API [Link](https://newsletter.systemdesign.one/p/idempotent-api)
+- How Google Ads Was Able to Support 4.77 Billion Users With a SQL Database [Link](https://newsletter.systemdesign.one/p/cloud-spanner-database)
+- How Amazon S3 Works [Link](https://newsletter.systemdesign.one/p/s3-architecture)
+- How Uber Computes ETA at Half a Million Requests per Second [Link](https://newsletter.systemdesign.one/p/uber-eta)
+- How YouTube Was Able to Support 2.49 Billion Users With MySQL [Link](https://newsletter.systemdesign.one/p/vitess-mysql)
+- How Uber Finds Nearby Drivers at 1 Million Requests per Second [Link](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
+- How Amazon S3 Achieves 99.999999999% Durability [Link](https://newsletter.systemdesign.one/p/amazon-s3-durability)
+- How Amazon Lambda Works [Link](https://newsletter.systemdesign.one/p/how-does-aws-lambda-work)
+- How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server [Link](https://newsletter.systemdesign.one/p/how-does-nginx-work)
+- Slack System Design [Link](https://systemdesign.one/slack-architecture/)
+- How Tinder Scaled to 1.6 Billion Swipes per Day [Link](https://newsletter.systemdesign.one/p/tinder-architecture)
+- How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters [Link](https://newsletter.systemdesign.one/p/postgresql-scalability)
+- How Instagram Scaled to 2.5 Billion Users [Link](https://newsletter.systemdesign.one/p/instagram-infrastructure)
+- 5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day [Link](https://newsletter.systemdesign.one/p/zoom-architecture)
+- How Dropbox Scaled to 100 Thousand Users in a Year After Launch [Link](https://newsletter.systemdesign.one/p/dropbox-architecture)
+- How Facebook Scaled Live Video to a Billion Users [Link](https://newsletter.systemdesign.one/p/live-streaming-architecture)
 
 ### Blogs
 

@@ -1,6 +1,10 @@
 ### Blog Post
 - CQRS [Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 
+### Articles
+
+- How to Become a Good Backend Engineer (Fundamentals) [Hussein Nasser](https://www.linkedin.com/pulse/how-become-good-backend-engineer-fundamentals-hussein-nasser-9lxmc/)
+
 ### To Learn
 - WebRTC
 - Video Streaming
