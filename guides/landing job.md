@@ -81,6 +81,8 @@
 - [Remote in europe](https://remoteineurope.com/)
 - [Remote Rocketship](https://www.remoterocketship.com/)
 - [Skip the drive](https://www.skipthedrive.com/)
+- [Freelancer](https://www.freelancer.com/)
+- [](http://skipthechive.com/)
 
 ### Preparation Website
 
@@ -140,3 +142,30 @@ Here are 16 Best ChatGPT prompts that will 10X your Selection chances.
 13. I’m interviewing with [role of your interviewer] at [company/type of company]. What kinds of questions will they ask, and how should I answer them?
 14. What are the best questions for me to ask a hiring manager in a job interview for [job title] at [company/type of company]?
 15. I’m interviewing for [job title] at [company] and know nothing about the company. What do I need to know about them for my interview?
+
+
+1) Build a story bank 
+- Create a library of 10-15 stories in STAR format
+- Link each story to common interview questions it might apply to
+- Bias towards recent stories, if possible 
+
+2) Mistakes level you
+- When asked about mistakes, don’t choose trivial examples to look good
+- Mistakes give clues about your level of experience 
+- If your biggest career mistake is “breaking a software build”, you probably haven’t had a big scope. 
+
+3) Audit your stories for clarity
+- Ask family or friends for feedback on your stories
+- Make the situation, task, and result short and clear. 
+- If your stories confuse strangers, they will confuse the interviewer. 
+
+4) Specificity matters 
+- Be specific in your answers about what you did
+- “I led the project” leaves an open loop. Close it.
+- Numbers build trust
+- “Improved wait time” vs “Improved wait time from 4 hours to 10 minutes”
+
+5) Don’t use “we” statements:
+- When answering questions, don’t use “We”. Use “I”.
+- An interviewer wants to know what “you” did
+- When you say “we”, your answer loses credibility

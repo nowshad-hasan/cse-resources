@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
   - [Article](#article)
+  - [Courses](#courses)
   - [HTML](#html)
   - [CSS](#css)
   - [Collection](#collection)
@@ -15,6 +16,12 @@
 *  Udacity Frontend Nanodegree Style Guide [Udacity](https://udacity.github.io/frontend-nanodegree-styleguide/css.html#type-selectors)
 *  How to Build a Blog Using a Static Site Generator and a CDN [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-blog-using-a-static-site-generator-and-a-cdn/)
 *  HTML Bold Text Tutorial – How to Use the <b> Tag [Freecodecamp](https://www.freecodecamp.org/news/html-bold-text-tutorial-how-to-use-the-b-tag)
+*  Comparison Guide: Bootstrap vs. Tailwind CSS. When and What to choose? [Link](https://thetshaped.dev/p/comparison-guide-bootstrap-vs-tailwindcss)
+*  Demystifying the Shadow DOM [Link](https://thetshaped.dev/p/demystifying-the-shadow-dom)
+
+### Courses
+
+Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/getting-started-css-v2/)
 
 ### HTML
 * Using HTML sections and outlines [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#The_HTML5_Outline_Algorithm)
@@ -42,6 +49,8 @@
 * [HTML5UP](https://html5up.net/)
 * [Templated](https://templated.co/)
 * [Free Html 5](https://freehtml5.co/)
+* HTML5 Boilerplate [Github](https://github.com/h5bp/html5-boilerplate)
+* CSS Protips [Github](https://github.com/AllThingsSmitty/css-protips)
 
 ### Tools
 

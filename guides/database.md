@@ -12,6 +12,8 @@
   - [Blog website](#blog-website)
   - [Blogs](#blogs)
   - [Videos](#videos)
+  - [Courses](#courses)
+  - [Interview QUestions](#interview-questions)
 
 
 ### Basics
@@ -40,6 +42,7 @@
 ### NoSQL
 
 * NoSQL Cassandra Explanation with C# demonstration (In Bangla) [YouTube](https://youtu.be/-wyB1LLbHfc)
+* MongoDB Design Patterns [DZone](https://dzone.com/articles/mongodb-design-patterns)
 
 ### Indexes
 
@@ -85,6 +88,7 @@
 * [SQL Zoo](https://www.sqlzoo.net/wiki/SQL_Tutorial)
 * [SQL Pad](https://sqlpad.io/)
 * [Learn SQL](https://learnsql.com/course/postgresql-queries-online-practice)
+* [SQL Short Reads](https://sqlshortreads.com/)
 
 ### Blog website
 
@@ -114,3 +118,30 @@
 - IQ15: 6 SQL Query Interview Questions [The Coding Interview-Youtube](https://youtu.be/uAWWhEA57bE?si=_mbRMcdViFK9Fd2L)
 - Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) [Freecodecamp](https://youtu.be/4cWkVbC2bNE?si=RJq_trbr-z50smNh)
 - UML Diagrams Full Course [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc&ab_channel=freeCodeCamp.org)
+- 30DaySQLQueryChallenge [Youtube](https://youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&si=9V1wE74cflOaLIag)
+- SQL Medium Complex Interview Problems [Youtube](https://youtube.com/playlist?list=PLBTZqjSKn0IfuIqbMIqzS-waofsPHMS0E&si=IB9CKOnway9Gf2Rr)
+
+### Courses
+
+- Introduction to Structured Query Language (SQL) [Coursera](https://www.coursera.org/learn/intro-sql)
+- Become a Redis Expert [Redis university](https://university.redis.io/academy)
+
+### Interview QUestions
+
+1️⃣ Explain Order of Execution of SQL query
+2️⃣ Provide a use case for each of the functions Rank, Dense_Rank & Row_Number ( 💡 majority struggle )
+3️⃣ Write a query to find the cumulative sum/Running Total
+4️⃣ Find the Most selling product by sales/ highest Salary of employees
+5️⃣ Write a query to find the 2nd/nth highest Salary of employees
+6️⃣ Difference between union vs union all
+7️⃣ Identify if there any duplicates in a table
+8️⃣ Scenario based Joins question, understanding of Inner, Left and Outer Joins via simple yet tricky question
+9️⃣ LAG, write a query to find all those records where the transaction value is greater then previous transaction value
+1️⃣ 0️⃣ Rank vs Dense Rank, query to find the 2nd highest Salary of employee
+( Ideal soln should handle ties)
+1️⃣ 1️⃣ Write a query to find the Running Difference (Ideal sol'n using windows function)
+1️⃣ 2️⃣ Write a query to display year on year/month on month growth
+1️⃣ 3️⃣ Write a query to find rolling average of daily sign-ups
+1️⃣ 4️⃣ Write a query to find the running difference using self join (helps in understanding the logical approach, ideally this question is solved via windows function)
+1️⃣ 5️⃣ Write a query to find the cumulative sum using self join
+(helps in understanding the logical approach, ideally this question is solved via windows function)

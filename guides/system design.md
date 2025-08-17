@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
 - [Core](#core)
+  - [Books](#books)
   - [Topics](#topics)
   - [Practice Projects](#practice-projects)
   - [Articles](#articles)
@@ -15,6 +16,10 @@
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
 * Scaling Databases [Roadmap](https://roadmap.sh/guides/scaling-databases)
+
+### Books
+
+* API Design Patterns [Manning](https://www.manning.com/books/api-design-patterns)
 
 ### Topics
 
@@ -44,6 +49,14 @@
 * What is fault tolerance, and how to build fault-tolerant systems [Cockroach Labs](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 * What’s the Difference Between Throughput and Latency? [Amazon AWS](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 * Acid Transactions [Redis](https://redis.io/glossary/acid-transactions/)
+* Caching at Multiple Levels [Link](https://newsletter.systemdesigncodex.com/p/caching-at-multiple-levels)
+* How to Answer a System Design Interview Problem [Link](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
+* A Machine Learning approach for automation of Resume Recommendation system [Link](https://www.sciencedirect.com/science/article/pii/S187705092030750X)
+* How LinkedIn Uses Caching to Serve 5M Profile Reads/Sec? [Medium](https://newsletter.systemdesigncodex.com/p/how-linkedin-uses-caching-for-profile-reads)
+* What happens when... [Github](https://github.com/alex/what-happens-when)
+* How Disney+ Scaled to 11 Million Users on Launch Day [Link](https://newsletter.systemdesign.one/p/disney-architecture)
+* How GitHub Copilot Works [Link](https://blog.quastor.org/p/github-copilot-works)
+* When to use GraphQL, gRPC, and REST? [Link](https://newsletter.techworld-with-milan.com/p/when-to-use-graphql-grpc-and-rest)
 
 ### Course
 * System Design [HIRED IN TECH](https://www.hiredintech.com/system-design/introduction/)
@@ -58,6 +71,9 @@
 * System Design [Tech Dummies](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 * Grokking the System Design Interview [Educative.io](https://www.educative.io/courses/grokking-the-system-design-interview)
 * SYSTEM DESIGN PREPARATION [shashank88-Github](https://github.com/shashank88/system_design)
+* System Design [Github](https://github.com/karanpratapsingh/system-design)
+* Computer Science Papers For System Design [Github](https://github.com/arpit20adlakha/Computer-Science-Papers-For-System-Design)
+* Awesome Scalability [Github](https://github.com/binhnguyennus/awesome-scalability)
 
 ### Others
 
@@ -72,6 +88,7 @@
 - Mastering Chaos - A Netflix Guide to Microservices [infoQ-Youtube](https://youtu.be/CZ3wIuvmHeM?si=Qf2_L83Bf7wh6Yp9)
 - Critical rendering path - Crash course on web performance (Fluent 2013) [Youtube](https://youtu.be/PkOBnYxqj3k?si=RlvllMUfXoLIe0GD)
 - System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook [Youtube](https://youtu.be/DSGsa0pu8-k?si=IuYLzAQnJu7oARUW)
+- MIT Distributed System [Youtube](https://youtu.be/cQP8WApzIQQ?si=qXC00GlcwRCUlzgc)
 
 
 ### Discussion
@@ -111,6 +128,34 @@ Prevent abuse, ensure fair usage, and protect system stability.
  - Push logic to API gateways like Kong or Cloudflare Workers for global edge enforcement.
 
 7. Add burst control and global override flags:
+
+ Here are 10 things you will need to build a top notch production grade API:
+
+1. Proper URL path name and parameter convention - Follow RESTful conventions, and ensure the path is descriptive enough so devs/anyone can understand its purpose.
+
+2. Proper REST method - Learn the purpose of each REST method and use them accordingly, e.g. fetching with GET, updating with PUT, creating with POST etc. Sometimes there are exceptions to this, but get the basics right
+
+3. Authorization / Authentication - if the API you're building should be protected with certain permissions, be sure to include auth checks. Also learn the difference between Authn and Authz.
+
+4. Validation Middleware - there are typically standard libraries/packages for API request validation. Use them! Each request should be properly validated, while returning proper error messages, to make sure the backend is not unnecessarily processing invalid data.
+
+5. Controller / Service separation - Don't put all your eggs in one basket. i.e. separate your routes/controllers from your logic into separate service files. This is paramount in order for your code to be more modular, maintainable, reusable, and testable. Keep your controllers lean.
+
+6. Logging - Application logs and error logs / stack traces are important for debugging things in production. It's important to not have too many logs, but just enough to at least identify potential issues in your code.
+
+7. Error handling - Users don't want to see "Internal server error" or "something went wrong". Always try/catch your code wherever it can break (which is almost everywhere), and be sure to return proper error messages to inform the client accordingly.
+
+8. Proper REST return status codes - There are specific REST response status codes for a reason. Study up on their use cases, learn the most commonly used ones, and keep the context of the API in mind while returning the response.
+
+9. Consistent response formats - One API responds with { data: { items: [] } }, and another one responds with { items: [ ] } - this can be confusing and troublesome for frontend engineers to integrate your APIs. Use a utility function to centralize response formatting.
+
+10. Documentation - these days frameworks auto generate docs based on DTOs etc, but sometimes there are details or caveats that is worth explicitly mentioning.
+
+Bonus points for keeping these things in mind:
+- Statelessness
+- Caching commonly used APIs
+- Using database transactions within each API to maintain ACID
+- Rate limiting
 
 ### Github Repo
 

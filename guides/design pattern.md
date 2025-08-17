@@ -3,6 +3,7 @@
 - [Contents](#contents)
   - [Article](#article)
   - [Collection](#collection)
+  - [Github Project](#github-project)
 
 ### Article
 
@@ -18,6 +19,7 @@
   * A Solid Guide to SOLID Principles [Baeldung](https://www.baeldung.com/solid-principles)
   * Object Oriented Software Design - Solid Principles - with example [In 28 Minutes](https://www.springboottutorial.com/software-design-solid-principles)
 * The Clean Architecture [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* The S.O.L.I.D Principles in Pictures [Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 * Step Builder Pattern
 
@@ -46,3 +48,10 @@
 * Java Design Patterns and Architecture [Cave of Programming](https://courses.caveofprogramming.com/p/java-design-patterns-and-architecture)
 * Java Design Patterns [GitHub Project](https://github.com/iluwatar/java-design-patterns)
 * Design Patterns Saga Archives [Java Challengers](https://javachallengers.com/category/design-patterns-saga/)
+* Go Patterns [Github](https://github.com/tmrts/go-patterns)
+* Javascript Patterns By Addy Osmani and Lydia Hallie [Book link](https://www.patterns.dev/)
+* Design Patterns in Object Oriented Languages [Link](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&si=mUjNRv2VotqDVsTL)
+
+### Github Project
+
+* Awesome Software and Architectural Design Patterns [Github](https://github.com/DovAmir/awesome-design-patterns)

@@ -6,6 +6,7 @@
 - [REST API](#rest-api)
 - [Tips and Tricks](#tips-and-tricks)
 - [Videos](#videos)
+- [Courses](#courses)
 
 
 ### Book recommendation
@@ -53,3 +54,7 @@
 
 -Proxy vs. Reverse Proxy (Explained by Example) [Hussein Nasser-Youtube](https://youtu.be/ozhe__GdWC8?si=9U5HRdUUKhq8oYLY)
 Stateful vs Stateless Applications (Explained by Example) [Hussein Nasser](https://youtu.be/nFPzI_Qg3FU?si=CIj76dLehZbi4E7A)
+
+### Courses
+
+- Internet Fundamentals [Link](https://internetfundamentals.com/)

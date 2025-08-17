@@ -10,6 +10,7 @@
   - [Videos](#videos)
   - [ELK Stack](#elk-stack)
   - [GitHub Repo](#github-repo)
+  - [Collection](#collection)
   - [Interview questions](#interview-questions)
   - [Project based implementation](#project-based-implementation)
 
@@ -18,6 +19,9 @@
 * What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples [Freecodecamp](https://www.freecodecamp.org/news/file-systems-architecture-explained/)
 * Make Jenkins logs pretty [Opensource.com](https://opensource.com/article/21/5/jenkins-logs)
 * Automating Task with Cron and Anacron [Sihamsharif](https://sihamsharif.me/linux/automating-task-with-cron-and-anacron/)
+* Containers Patterns [Link](https://l0rd.github.io/containerspatterns/#1)
+* Kubernetes Production Patterns [Github](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
+* Cloud-Native – Why Software Developers Should Look Into It [Link](https://blog.adrianstanek.dev/p/cloud-native-why-devs-should-know-it)
 
 ### CI/CD
 * Learn How to Set Up a CI/CD Pipeline From Scratch [DZone](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
@@ -58,6 +62,10 @@
 
 ### GitHub Repo
 - [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
+
+### Collection
+
+- Devops exercises [Github](https://github.com/bregman-arie/devops-exercises)
 
 ### Interview questions
 

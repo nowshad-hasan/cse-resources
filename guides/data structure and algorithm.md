@@ -4,6 +4,7 @@
 - [Online Judge Account](#online-judge-account)
 - [Article](#article)
 - [Problem Collection](#problem-collection)
+  - [Practice Website](#practice-website)
 - [Blog](#blog)
   - [Patterns](#patterns)
 - [Tools](#tools)
@@ -37,6 +38,7 @@
 * How Big O Notation Works – Explained with Cake [Freecodecamp](https://www.freecodecamp.org/news/big-o-notation)
 * How to Solve Coding Problems with a Simple Four Step Method [Freecodecamp](https://www.freecodecamp.org/news/how-to-solve-coding-problems/)
 * Ropes Data Structure (Fast String Concatenation) [Geeksforgeeks](https://www.geeksforgeeks.org/dsa/ropes-data-structure-fast-string-concatenation/)
+* How I Mastered Data Structures and Algorithms [Link](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 
 ## Problem Collection
 
@@ -46,6 +48,12 @@
 * 52 Programming Problems [Subeen's Blog](http://cpbook.subeen.com/p/blog-page_11.html)
 * [The Algorithms-Java]( https://github.com/TheAlgorithms/Java)
 * [awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)
+* Grind 75 questions [Link](https://www.techinterviewhandbook.org/grind75/)
+* Data-Structure-Algorithms-LLD-HLD [Github](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
+
+### Practice Website
+
+* [Neetcode](https://neetcode.io/)
 
 ## Blog
 
@@ -109,3 +117,4 @@
 - Computational Thinking for Problem Solving [Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
 - Introduction to Algorithms [OpenCourseWare](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
 - Mathematics for Competitive Programming - Self Paced [Geeksforgeeks](https://www.geeksforgeeks.org/courses/cp-maths)
+- CS50 2017 [Youtube](https://youtu.be/U9o49qwa6hk?si=bvPzwXyjw-ZToyZn)

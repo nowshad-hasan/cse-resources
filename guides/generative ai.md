@@ -9,6 +9,9 @@
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [ai-notes](https://github.com/swyxio/ai-notes)
 
+### Courses
+
+- Generative AI with Large Language Models [Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
 
 ### AI Website
 

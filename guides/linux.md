@@ -13,12 +13,15 @@
 - Vim Tutorial for Beginners [Freecodecamp-Youtube](https://youtu.be/RZ4p-saaQkc?si=P-RDruckbvayL0Yq)
 - Learn Regular Expressions (Regex) - Crash Course for Beginners [Freecodecamp-Youtube](https://youtu.be/ZfQFUJhPqMM?si=KUjwaZi6P3_iJ355)
 - The Linux Command Handbook – Learn Linux Commands for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+- The Art of Command Line [Github](https://github.com/jlevy/the-art-of-command-line)
+- Awesome Shell [Github](https://github.com/alebcay/awesome-shell)
 
 ### Command line and Bash Scripting
 
 
-Awesome Cheatsheets - https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
-Rico's cheatsheets - https://devhints.io/bash
+- Awesome Cheatsheets - https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
+- Rico's cheatsheets - https://devhints.io/bash
+- Hands-on Introduction to Linux Commands and Shell Scripting [Coursera](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
 
 ### Videos
 - Watch Linux kernel developer write a USB driver from scratch in just 3h for Apple Xserve front-panel [Youtube](https://youtu.be/IXBC85SGC0Q?si=ACB-XsY_u8DJargo)

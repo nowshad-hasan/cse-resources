@@ -6,9 +6,14 @@
 
 * Pass By Value And Pass By Reference In JavaScript [Medium](https://medium.com/nodesimplified/javascript-pass-by-value-and-pass-by-reference-in-javascript-fcf10305aa9c)
 
+### Courses
+
+- Getting Started with JavaScript [Frontend Masters - Kyle Simpson](https://frontendmasters.com/courses/getting-started-javascript-v2/)
+
 ### Books
 
 - Exploring JavaScript [Link](https://exploringjs.com/js/index.html)
+- You-Dont-Know-JS [Github](https://github.com/getify/You-Dont-Know-JS)
 
 ### Article
 - The JavaScript Array Handbook – JS Array Methods Explained with Examples [Freecodecamp](https://www.freecodecamp.org/news/the-javascript-array-handbook/)

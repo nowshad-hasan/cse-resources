@@ -48,3 +48,9 @@
 ### Collection
 - System Design Resources [GitHub](https://github.com/InterviewReady/system-design-resources)
 - The Amazon Builders' Library [Amazon](https://aws.amazon.com/builders-library/)
+- AWS Cloud Design Patterns [Amazon](https://en.clouddesignpattern.org/index.php/Main_Page)
+- Azure Architecture Center [Microsoft](https://learn.microsoft.com/en-us/azure/architecture/)
+- Cloud Architecture Center [Google](https://cloud.google.com/architecture)
+- Cloud Computing Patterns [Link](https://www.cloudcomputingpatterns.org/)
+- LADV: Advanced Design Patterns for Amazon DynamoDB [AWS Workshop](https://catalog.workshops.aws/dynamodb-labs/en-US/design-patterns)
+- Redis Glossary [Redis.io](https://redis.io/glossary/)

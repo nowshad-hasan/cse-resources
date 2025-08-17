@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
   - [Core](#core)
+  - [Github Project](#github-project)
   - [Articles](#articles)
   - [Blog](#blog)
   - [Mockito](#mockito)
@@ -16,10 +17,14 @@
 * Software Testing Levels [Software Testing Fundamentals](http://softwaretestingfundamentals.com/software-testing-levels/)
 * Testing Strategies in a Microservice Architecture [Martin Flower](https://martinfowler.com/articles/microservice-testing/)
 
+### Github Project
+
+* swag labs e2e cypress [Github](https://github.com/KhairunNaharNowrin/swag-labs-e2e-cypress)
 
 ### Articles
 
 * Testing beyond coverage [Increment](https://increment.com/reliability/testing-beyond-coverage/)
+* How I write 1000s tests with little effort [Link](https://craftbettersoftware.com/p/how-i-write-1000s-tests-with-little)
 
 ### Blog
 * [Test Automation University](https://testautomationu.applitools.com/)

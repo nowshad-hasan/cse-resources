@@ -11,3 +11,9 @@
 - 6 books I wish I had read at 22 as a junior software engineer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7349763567107104768)
 - Top books for technology leaders [Linkedin](https://www.linkedin.com/pulse/top-books-technology-leaders-tanaka-mutakwa/?trackingId=HSs30wSfRqW2aIPsoxFRqQ%3D%3D)
 - Books that I enjoyed while working as an Engineering Manager! [Tamim Shahriar](https://www.linkedin.com/pulse/books-i-enjoyed-while-working-engineering-manager-tamim-shahriar/)
+- 5 books that changed my engineering career forever [Link](https://newsletter.techworld-with-milan.com/p/5-books-behind-my-growth-as-a-cto)
+- 40 book recommendations for productivity, growth and leadership [Addy Osmany](https://www.linkedin.com/feed/update/urn:li:activity:7078976658166202369)
+
+### Books
+
+- WHY PROGRAMS FAIL [Link](https://www.whyprogramsfail.com/book.php)

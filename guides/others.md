@@ -19,6 +19,7 @@
   - [IDE Tips](#ide-tips-1)
   - [Youtube Channel](#youtube-channel)
   - [Courses](#courses)
+  - [Website](#website)
   - [Articles](#articles)
   - [Personal Blog](#personal-blog)
   - [Engineering Blog](#engineering-blog)
@@ -28,10 +29,13 @@
   - [Code Analysis](#code-analysis)
   - [Documentation Tools](#documentation-tools)
   - [Security Tools](#security-tools)
+  - [Discussion](#discussion)
 
 ### Book recommendation
 
 * [Crafting Interpreters](https://craftinginterpreters.com/)
+* Working Effectively with Legacy Code [OReilly](https://www.oreilly.com/library/view/working-effectively-with/0131177052/toc.html)
+* The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
 ### Git
 
@@ -166,6 +170,7 @@
 * Software Engineers Are Made Not Born – How to Become a Great Developer [Freecodecamp](https://www.freecodecamp.org/news/how-to-become-a-great-developer)
 * Drunk Post: Things I've learned as a Sr Engineer [Reddit](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 * Focus on what you can control, not what you can't [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7296068150675025921/)
+* When is the Right Time to Quit? [Link](https://www.leadership-letters.com/p/when-is-the-right-time-to-quit)
 
 ### Articles and Videos
 
@@ -216,6 +221,7 @@
 * 16 Years of Kaz Software: The work smart and love work way [KAZ Software](https://kaz.com.bd/blog/2020/6/24/16-years-of-kaz-software-the-work-smart-and-love-work-way)
 * Foobar [Wikipedia](https://en.wikipedia.org/wiki/Foobar)
 * How Does an Engineer Create a Programming Language? [The New Stack](https://thenewstack.io/how-does-an-engineer-create-a-programming-language/)
+* Refactor like a PRO [Link](https://craftbettersoftware.com/p/refactor-like-a-pro)
 
 ### Productivity
 
@@ -258,7 +264,20 @@
 * Five things you should know as a software engineer [Interviewready](https://interviewready.io/blog/5-things-to-know-as-swe)
 * 27 Things I Wish I'd Known When I Started Programming [Forbes](https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/)
 * The 6 Best Software Developer Habits [Better Programming](https://medium.com/better-programming/the-6-best-software-developer-habits-196221ae8c13)
+* How to get promoted: Lessons from an ex-Amazon VP [Link](https://read.highgrowthengineer.com/p/get-promoted-lessons-from-amazon-vp)
 * [Jon H.M. Chan](https://jonhmchan.com/)
+* New Grad to Staff at Meta in 3 years: Evan King [Link](https://www.developing.dev/p/new-grad-to-staff-at-meta-in-3-years)
+* 3 Critical Skills You Need to Grow Beyond Senior Levels in Engineering [Link](https://www.thecaringtechie.com/p/3-critical-skills-you-need-to-grow)
+* Distracting software engineers is much more harmful than you think [Link](https://newsletter.manager.dev/p/the-biggest-problem-in-todays-work)
+* An Optimized WFH Setup [Link](https://www.developing.dev/p/an-optimized-wfh-setup)
+* Conquering Imposter Syndrome [Addy Osmani](https://addyo.substack.com/p/conquering-imposter-syndrome)
+* How to prevent burning out in the engineering industry [Link](https://newsletter.eng-leadership.com/p/how-to-prevent-burning-out-in-the)
+* How to Self-Manage Even if You Have a Manager (Your Future Self Will Thank You) [Link](https://www.thecaringtechie.com/p/how-to-self-manage-even-if-you-have)
+* 6 Archetypes of Broken Ownership [Link](https://blog.alexewerlof.com/p/broken-ownership)
+* Developing Essential Soft Skills for Engineers and Leaders [Link](https://hybridhacker.email/p/essential-soft-skills-for-engineers-and-managers)
+* Your ultimate self-confidence toolkit [Link](https://anemarifiser.substack.com/p/your-ultimate-self-confidence-toolkit-bea)
+* How Spotify Knows What You Want to Listen to Next [Link](https://bytesizeddesign.substack.com/p/how-spotify-knows-what-you-want-to)
+* The biggest Obstacle stalling your career growth [Link](https://www.thesunshinelayer.com/p/the-biggest-obstacle-stalling-your)
 
 ### Project Ideas
 
@@ -326,6 +345,11 @@
 - [Class Central](https://www.classcentral.com/)
 - [Khanacademy](https://www.khanacademy.org/computing/computer-science)
 - Coding Programs – 152 Coding Classes You can Take for Free Online [Freecodecamp](https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online)
+- Visual Studio Code Can Do That? [Frontend Masters](https://frontendmasters.com/courses/archive/customize-vs-code/)
+
+### Website
+
+- [Exercism](https://exercism.org/)
 
 ### Articles
 
@@ -340,6 +364,34 @@
 - [Uber Engineering](https://www.uber.com/en-BD/blog/engineering/)
 - [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
 - [High Scalability](https://highscalability.com/)
+- [Netflix Techblog](https://netflixtechblog.com/)
+- [Cloudflare](https://blog.cloudflare.com/)
+- [Engineering at Meta](https://engineering.fb.com/)
+- [Linkedin Engineering](https://www.linkedin.com/blog/engineering)
+- [Stripe Engineering](https://stripe.com/blog/engineering)
+- [Discord Engineering](https://discord.com/category/engineering)
+- [Slack Engineering](https://slack.engineering/)
+- [Google for Developers](https://developers.googleblog.com/en/)
+- [Microsoft Developer Blogs](https://devblogs.microsoft.com/)
+- [Instagram Engineering](https://instagram-engineering.com/)
+- [GitHub Engineering](https://githubengineering.com/)
+- [Notion Blog](https://www.notion.com/blog)
+- [NVIDIA Technical Blog](https://developer.nvidia.com/blog/)
+- [Machine Learning Research at Apple](https://machinelearning.apple.com/)
+- [Figma Engineering](https://www.figma.com/blog/engineering/)
+- [Stackoverflow Blog](https://stackoverflow.blog/)
+- [Spotify Engineering](https://engineering.atspotify.com/)
+- [OpenAI Research](https://openai.com/research/index/)
+- [Shopify Engineering](https://shopify.engineering/)
+- [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
+- [Twitter Engineering](https://blog.x.com/engineering/en_us)
+- [Dropbox Tech](https://dropbox.tech/)
+- [Engineering at Quora](https://quoraengineering.quora.com/)
+- [Square Corner Blog](https://developer.squareup.com/blog/)
+- [Palantir Blog](https://blog.palantir.com/)
+- [Yelp Engineering Blog](https://engineeringblog.yelp.com/)
+- [Tesla Blog](https://www.tesla.com/blog)
+- [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
 
 ### Newsletters
 
@@ -355,6 +407,19 @@
 - [The Hustling Engineer](https://thehustlingengineer.substack.com/)
 - [tech5ense](https://www.tech5ense.com/)
 - [The Cloud Engineers](https://blog.thecloudengineers.com/)
+- [The Developing Dev](https://www.developing.dev/)
+- [The Caring Techie Newsletter](https://www.thecaringtechie.com/)
+- [Coding Challenges](https://codingchallenges.substack.com/)
+- [Techlead Mentor](https://newsletter.techleadmentor.com/)
+- [High Growth Engineer](https://read.highgrowthengineer.com/)
+- [Engineer’s Codex](https://read.engineerscodex.com/)
+- [Developing Skills](https://read.developingskills.fyi/)
+- [The Developing Dev](https://www.developing.dev/)
+- [Techlead Mentor](https://newsletter.techleadmentor.com/)
+- [Byte-Sized Design](https://bytesizeddesign.substack.com/)
+- [The Polymathic Engineer](https://newsletter.francofernando.com/)
+- [Behind the Craft](https://creatoreconomy.so/)
+- [30 Seconds of code](https://www.30secondsofcode.org/)
 
 ### Github Project
 
@@ -388,3 +453,27 @@
 - Owasp Zap
 - Nessus
 - Snort
+
+### Discussion
+
+After 10 years of working in the industry, here are 10 lessons I learned while chasing professional excellence:
+
+ 1. 𝗕𝗲 𝗮 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗲𝗿 𝗳𝗶𝗿𝘀𝘁 - Technologies are merely tools to solve problems. Don't bind yourself to any one. Learn how to learn. Strive to be a jack of many trades and a master of some, while keeping an ‘always-learning’ mindset.
+ 
+ 2. 𝗔𝘀𝗸 𝘁𝗵𝗼𝘂𝗴𝗵𝘁𝗳𝘂𝗹 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 - What's the bigger picture? What problem are we trying to solve? Why do we need to do this? Why now? Can we simplify it? How do we handle [edge case]? Does the effort justify the outcome? Don't leave any assumptions. Clarify all doubts.
+ 
+ 3. 𝗚𝗲𝘁 𝗴𝗼𝗼𝗱 𝗮𝘁 𝗮𝗹𝗹 𝗳𝗼𝗿𝗺𝘀 𝗼𝗳 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 - Reading and writing docs or meeting notes, summarizing discussions, presenting ideas clearly; drawing database / system diagrams and flow charts, and wrangling spreadsheets; learn how to communicate effectively with stakeholders at all levels.
+ 
+ 4. 𝗗𝗼 𝘄𝗵𝗮𝘁 𝗽𝗲𝗼𝗽𝗹𝗲 𝗻𝗲𝗲𝗱, 𝗻𝗼𝘁 𝗼𝗻𝗹𝘆 𝘄𝗵𝗮𝘁 𝘁𝗵𝗲𝘆 𝗮𝘀𝗸 - Part of being a good problem solver is identifying the right problem to solve. People might know what they want, but they can't always tell you what they need.
+ 
+ 5. 𝗕𝗲 𝗽𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗲 𝗮𝗻𝗱 𝘁𝗮𝗸𝗲 𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽 - take up responsibilities and follow through on them. Raise problems where you see them, and solve them if possible. Automate some manual processes, fix some technical debt. Sometimes take up unwanted tasks. Be dependable - figure out how to get things done.
+ 
+ 6. 𝗕𝗲 𝗵𝘂𝗺𝗯𝗹𝗲 - Own your mistakes, be honest about when you don't know something, and know when to ask for help. There can always be some who know more than you. Learn from them, learn from everyone you can.
+ 
+ 7. 𝗧𝗮𝗸𝗲 𝗲𝘃𝗲𝗿𝘆 𝗺𝗶𝘀𝘁𝗮𝗸𝗲 𝗮𝘀 𝗮 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝘆 - develop a growth mindset. It’s okay to make mistakes, everyone does. Learn from your mistakes, help yourself and others avoid them.
+ 
+ 8. 𝗣𝗿𝗮𝗶𝘀𝗲 𝗶𝗻 𝗽𝘂𝗯𝗹𝗶𝗰, 𝗰𝗿𝗶𝘁𝗶𝗰𝗶𝘇𝗲 𝗶𝗻 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 - celebrate your peers’ achievements loud and proud, but for negative feedback / constructive criticism do it 1-1. Don't embarrass anyone, they will appreciate the discretion.
+ 
+ 9. 𝗕𝗲 𝗰𝗼𝗺𝗽𝗼𝘀𝗲𝗱 𝗶𝗻 𝗰𝗵𝗮𝗼𝘀 - learn how to deal with stressful situations. Take a step back, think big picture, avoid going down rabbit holes, help steer others towards their goals. Learn how to prioritize tasks. Learn how to think about pros/cons in any situation and make quick decisions.
+ 
+10. 𝗛𝗲𝗹𝗽 𝗼𝘁𝗵𝗲𝗿𝘀 - Share your knowledge, mentor your juniors, assist your seniors, unblock others. Talk to your peers. Help someone avoid burnout. Foster a culture of compassion, empathy, and trust. Make your teammates’ lives easier.

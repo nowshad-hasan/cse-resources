@@ -9,6 +9,7 @@
 - What is distributed tracing, and why is it important? [Dynatrace](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - Synchronous vs. asynchronous communications: The differences [Blog](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
 - Batch Processing vs Stream Processing: Key Differences Explained [Atlan](https://atlan.com/batch-processing-vs-stream-processing/)
+- REST API Design Best Practices [Medium](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
 
 ### Talks and Conferences
 
