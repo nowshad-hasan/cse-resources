@@ -425,6 +425,8 @@
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+- [realworld](https://github.com/gothinkster/realworld)
+- [Awesome resources](https://github.com/shahednasser/awesome-resources)
 
 ### Code Quality Tools
 
@@ -477,3 +479,44 @@ After 10 years of working in the industry, here are 10 lessons I learned while c
  9. 𝗕𝗲 𝗰𝗼𝗺𝗽𝗼𝘀𝗲𝗱 𝗶𝗻 𝗰𝗵𝗮𝗼𝘀 - learn how to deal with stressful situations. Take a step back, think big picture, avoid going down rabbit holes, help steer others towards their goals. Learn how to prioritize tasks. Learn how to think about pros/cons in any situation and make quick decisions.
  
 10. 𝗛𝗲𝗹𝗽 𝗼𝘁𝗵𝗲𝗿𝘀 - Share your knowledge, mentor your juniors, assist your seniors, unblock others. Talk to your peers. Help someone avoid burnout. Foster a culture of compassion, empathy, and trust. Make your teammates’ lives easier.
+
+
+By Addy Osmani - 
+
+"How to change your mood" 
+ 
+Whether you're aiming for productivity, looking for motivation, or simply wishing to grow, understanding how to effectively change your mood to match your goals is crucial. Here are some strategies that might help. 
+ 
+Quick Mood Enhancers 
+ 
+15 minutes to spare? 
+ 
+- TED Talks: A quick, inspiring TED Talk can shift your perspective and elevate your mood. 
+- Meditation and Breathwork: These practices bring a sense of calm and can reset your mood. 
+- Cardio Exercise: Even a short burst of cardio can release endorphins, boosting your happiness. 
+ 
+30 minutes in hand? 
+ 
+- Reading: Immersing yourself in a good book can be a great escape. 
+- Nature Time: A short walk in nature can refresh your mind and soul. 
+- Engaging Activities (45 minutes - 1 hour) 
+ 
+Got 45 minutes? 
+ 
+- Call a Friend: Connecting with someone you care about can be uplifting. 
+- Journaling: Writing down your thoughts can offer clarity and peace of mind. 
+ 
+An hour to unwind? 
+ 
+- Comfort TV Shows: Sometimes, a familiar show can be the perfect way to relax. 
+- Podcasts: Engaging with topics you love through podcasts can be both educational and mood-lifting. 
+- Yoga: This combines physical movement with mental relaxation, a perfect recipe for mood enhancement. 
+- Extended Mood-Boosting Activities 
+ 
+More than an hour? 
+ 
+Passion Projects: Engaging in a hobby or a project you're passionate about can be incredibly satisfying. 
+ 
+Personal Tips 
+ 
+Beyond these general suggestions, personal preferences play a significant role in mood management. For instance, some find a cold shower invigorating and alerting, while others might prefer a cranial massage for its calming and relaxing effects. 

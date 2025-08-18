@@ -83,6 +83,8 @@
 - [Skip the drive](https://www.skipthedrive.com/)
 - [Freelancer](https://www.freelancer.com/)
 - [](http://skipthechive.com/)
+- [Just Remote](https://justremote.co/remote-jobs)
+- [Power to Fly](https://powertofly.com/)
 
 ### Preparation Website
 
