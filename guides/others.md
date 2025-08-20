@@ -395,6 +395,8 @@
 - [Instagram Engineering](https://medium.com/@InstagramEng)
 - [Heroku Engineering]( https://www.heroku.com/blog/category/engineering/)
 - [The PayPal Technology Blog](https://medium.com/paypal-tech)
+- [Stackoverflow Engineering](https://stackoverflow.blog/engineering/)
+- [Salesforce Engineering](https://engineering.salesforce.com/)
 
 ### Newsletters
 
