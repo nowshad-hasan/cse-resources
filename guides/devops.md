@@ -6,6 +6,8 @@
   - [Learning materials](#learning-materials)
   - [Docker](#docker)
   - [Kubernetes](#kubernetes)
+  - [Github Actions](#github-actions)
+  - [Courses](#courses)
   - [Blogs](#blogs)
   - [Videos](#videos)
   - [ELK Stack](#elk-stack)
@@ -37,6 +39,17 @@
 ### Kubernetes
 * The Kubernetes Handbook – Learn Kubernetes for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-kubernetes-handbook)
 * Ultimate Certified Kubernetes Administrator (CKA) Exam Preparation Guide [Github](https://github.com/techiescamp/cka-certification-guide?tab=readme-ov-file#manage-the-lifecycle-of-kubernetes-clusters)
+
+### Github Actions
+
+- GitHub Actions Tutorial | From Zero to Hero in 90 minutes (Environments, Secrets, Runners, etc) [Youtube](https://youtu.be/TLB5MY9BBa4?si=rq4Lnd0QzP2KMo3N)
+
+### Courses
+
+- Linux Mastery: Master the Linux Command Line in 11.5 Hours [Udemy](https://www.udemy.com/course/linux-mastery/)
+- HashiCorp Certified: Terraform Associate 2025 [Udemy](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+- Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos [Udemy](https://www.udemy.com/course/terraform-on-aws-with-sre-iac-devops-real-world-demos/)
+- Certified Kubernetes Administrator (CKA) with Practice Tests [Udemy](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 
 ### Blogs
 

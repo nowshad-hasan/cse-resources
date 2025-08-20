@@ -392,6 +392,9 @@
 - [Yelp Engineering Blog](https://engineeringblog.yelp.com/)
 - [Tesla Blog](https://www.tesla.com/blog)
 - [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
+- [Instagram Engineering](https://medium.com/@InstagramEng)
+- [Heroku Engineering]( https://www.heroku.com/blog/category/engineering/)
+- [The PayPal Technology Blog](https://medium.com/paypal-tech)
 
 ### Newsletters
 
@@ -520,3 +523,105 @@ Passion Projects: Engaging in a hobby or a project you're passionate about can b
 Personal Tips 
  
 Beyond these general suggestions, personal preferences play a significant role in mood management. For instance, some find a cold shower invigorating and alerting, while others might prefer a cranial massage for its calming and relaxing effects. 
+
+<!--  -->
+
+If you're a fresher / job seeker who's looking to start a personal project, here's a pro tip - search "production ready template" on Github for whatever you're trying to build.
+
+Use the template to learn about how software engineers actually build applications in the real world.
+
+Trying to build a backend API with NodeJS? Google "production ready nodejs backend template"
+
+Replace the "nodejs backend" with whatever you need.
+
+Some things you can do to learn:
+• Observe the folder structure, how the files are organized
+• Observe the coding patterns, how functions, classes, code and logic is organized
+• Check the project dependencies (e.g. package.json, requirements.txt etc), look up what each one does
+
+These days we don't really start new projects from scratch, we all have some templates that we use to get started. For freshers, using a 'production ready' template will be both good for their resume, and also to learn about what we actually do in the industry.
+
+<!--  -->
+
+The purpose of reviewing code is not to point out mistakes. It's to
+
+1. Share knowledge within your team and increase team collaboration
+
+2. Elevate code quality and standards - use of proper design patterns, coding principles, structure, separation of concerns, etc.
+
+3. Identify gaps or areas for improvement e.g. edge cases or impact considerations 
+
+Things to avoid:
+1. Nitpicking code styles or formatting issues - this should already be taken care of by pre-commit linters and formatters
+
+2. Nitpicking implementation styles - not everyone's code will look the same. just because you might not "like" the way something is done, does not necessarily mean that it warrants a redo. Make a judgement call, if readability and maintainability seems good, let's go with it.
+
+3. Negative comments only - be sure to include positive comments to support your colleague's good work
+
+4. Diversify your reviewer - two people should not always review each other's code, otherwise they will end up with blinders. Randomize who reviews your code to get different perspectives.
+
+If possible, do the code reviews 1-1 in a call / meeting. Face to face is way better than async and leads to better team collaboration as well. If this gets tedious, you can also try a hybrid method where you do a 1-1 call after the initial implementation structure is ready, and then do an async review once the feature development is completed. Find out what works best for your team!
+
+<!--  -->
+
+Don't sit and wait around half a day for your pull request to get reviewed.
+
+If you raise a pull request, you are not really transferring the responsibility of the task to the reviewer. It is still your responsibility to make sure that the review is done sooner than later.
+
+If the review is getting delayed, follow up with your colleague, or if they are busy, try to reach out to others to get it done.
+
+When you take up a task, you should take on the ownership of the task until the end of it's lifecycle.
+
+Like and repost if you found this useful!
+
+Edit: If you follow the PR process in your team, the best practice is to keep your PRs small, so that it can be reviewed in a few minutes. PRs with 20 files and
+
+<!--  -->
+
+After 10 years of working in the industry, here are 10 lessons I learned while chasing professional excellence:
+
+ 1. 𝗕𝗲 𝗮 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗲𝗿 𝗳𝗶𝗿𝘀𝘁 - Technologies are merely tools to solve problems. Don't bind yourself to any one. Learn how to learn. Strive to be a jack of many trades and a master of some, while keeping an ‘always-learning’ mindset.
+ 
+ 2. 𝗔𝘀𝗸 𝘁𝗵𝗼𝘂𝗴𝗵𝘁𝗳𝘂𝗹 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 - What's the bigger picture? What problem are we trying to solve? Why do we need to do this? Why now? Can we simplify it? How do we handle [edge case]? Does the effort justify the outcome? Don't leave any assumptions. Clarify all doubts.
+ 
+ 3. 𝗚𝗲𝘁 𝗴𝗼𝗼𝗱 𝗮𝘁 𝗮𝗹𝗹 𝗳𝗼𝗿𝗺𝘀 𝗼𝗳 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 - Reading and writing docs or meeting notes, summarizing discussions, presenting ideas clearly; drawing database / system diagrams and flow charts, and wrangling spreadsheets; learn how to communicate effectively with stakeholders at all levels.
+ 
+ 4. 𝗗𝗼 𝘄𝗵𝗮𝘁 𝗽𝗲𝗼𝗽𝗹𝗲 𝗻𝗲𝗲𝗱, 𝗻𝗼𝘁 𝗼𝗻𝗹𝘆 𝘄𝗵𝗮𝘁 𝘁𝗵𝗲𝘆 𝗮𝘀𝗸 - Part of being a good problem solver is identifying the right problem to solve. People might know what they want, but they can't always tell you what they need.
+ 
+ 5. 𝗕𝗲 𝗽𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗲 𝗮𝗻𝗱 𝘁𝗮𝗸𝗲 𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽 - take up responsibilities and follow through on them. Raise problems where you see them, and solve them if possible. Automate some manual processes, fix some technical debt. Sometimes take up unwanted tasks. Be dependable - figure out how to get things done.
+ 
+ 6. 𝗕𝗲 𝗵𝘂𝗺𝗯𝗹𝗲 - Own your mistakes, be honest about when you don't know something, and know when to ask for help. There can always be some who know more than you. Learn from them, learn from everyone you can.
+ 
+ 7. 𝗧𝗮𝗸𝗲 𝗲𝘃𝗲𝗿𝘆 𝗺𝗶𝘀𝘁𝗮𝗸𝗲 𝗮𝘀 𝗮 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝘆 - develop a growth mindset. It’s okay to make mistakes, everyone does. Learn from your mistakes, help yourself and others avoid them.
+ 
+ 8. 𝗣𝗿𝗮𝗶𝘀𝗲 𝗶𝗻 𝗽𝘂𝗯𝗹𝗶𝗰, 𝗰𝗿𝗶𝘁𝗶𝗰𝗶𝘇𝗲 𝗶𝗻 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 - celebrate your peers’ achievements loud and proud, but for negative feedback / constructive criticism do it 1-1. Don't embarrass anyone, they will appreciate the discretion.
+ 
+ 9. 𝗕𝗲 𝗰𝗼𝗺𝗽𝗼𝘀𝗲𝗱 𝗶𝗻 𝗰𝗵𝗮𝗼𝘀 - learn how to deal with stressful situations. Take a step back, think big picture, avoid going down rabbit holes, help steer others towards their goals. Learn how to prioritize tasks. Learn how to think about pros/cons in any situation and make quick decisions.
+ 
+10. 𝗛𝗲𝗹𝗽 𝗼𝘁𝗵𝗲𝗿𝘀 - Share your knowledge, mentor your juniors, assist your seniors, unblock others. Talk to your peers. Help someone avoid burnout. Foster a culture of compassion, empathy, and trust. Make your teammates’ lives easier.
+
+<!--  -->
+
+Have you ever felt like your entire day was wasted? Maybe because of long meetings, technical blockers, context switching, and distractions, you couldn't get anything done?
+
+Here are 5 ways you can cope with productivity slumps:
+
+1. If you cannot give input or get any output from a meeting, don't attend it / leave. No use sitting and listening in on a meeting without any value. Remember to politely excuse yourself, or at least ask "is there anything else needed from me? Otherwise I will drop off".
+
+2. If a meeting is going over-time or beyond the agenda, try to steer others towards the agenda to stay on time and on topic. Note down the follow-ups and share it with the group after the meeting.
+
+3. If you're stuck on a problem that won't budge, you could take a break and approach the problem with a fresh mind. Or sometimes a second pair of eyes really help - ask someone for help, or delegate.
+
+4. When you're planning the sprint, consider the hours/capacity for scheduled meetings, and add some buffer time for unplanned meetings or contingencies.
+
+5. Block time for productive work - set aside some slots in your calendar for deep focused work. Set an agenda for yourself to complete within that time.
+
+At the end of the day, stuff happens. You might even waste an entire day without writing any code. It's important to prioritize, delegate, notify others, and manage your own and stakeholders' expectations.
+
+<!--  -->
+
+Here's how you can be an irreplacable member of your software engineering team:
+
+1. Take ownership of your tasks
+2. Be proactive in solving problems and unblocking others
+3. Contribute an intentional obscure bug in a critical application flow, that would generally go unnoticed, but would pop up once in a while and threaten to impact thousands of dollars, which of course only you yourself can rectify, so that whenever the bug pops up it will require your intervention, and you can save the day.

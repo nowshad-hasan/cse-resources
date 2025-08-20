@@ -30,6 +30,10 @@
 * ডাটাবেজ ট্রানজেকশন ও এসিড [Subeen](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/)
 * I replaced my entire tech stack with Postgres... [Fireship-Youtube](https://youtu.be/3JW732GrMdg?si=L6ucPZEbMInQ9281)
 * What happens when databases crash? [Hussein Nasser](https://www.linkedin.com/pulse/what-happens-when-databases-crash-hussein-nasser-fzfhc/)
+* Using ORMs vs Writing Raw Queries [Sabbir Siddiqui](https://www.linkedin.com/pulse/using-orms-vs-writing-raw-queries-sabbir-siddiqui-hgyec/)
+* Advantages and Disadvantages of Views in MySQL [Link](https://dotnettutorials.net/lesson/advantages-and-disadvantages-of-views-in-mysql/)
+* Beware the Performance Dangers of MySQL Views [Link](https://dev.to/jamiemcmanus/beware-the-performance-dangers-of-mysql-views-352e)
+* MySql views performance [Stackoverflow](https://stackoverflow.com/questions/10302615/mysql-views-performance/10379846#10379846)
 
 ### Migration
 
@@ -125,6 +129,8 @@
 - UML Diagrams Full Course [Freecodecamp](https://www.youtube.com/watch?v=WnMQ8HlmeXc&ab_channel=freeCodeCamp.org)
 - 30DaySQLQueryChallenge [Youtube](https://youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&si=9V1wE74cflOaLIag)
 - SQL Medium Complex Interview Problems [Youtube](https://youtube.com/playlist?list=PLBTZqjSKn0IfuIqbMIqzS-waofsPHMS0E&si=IB9CKOnway9Gf2Rr)
+- SQL Advance Concepts - Master SQL Window Functions [Sumit Mittal-Youtube](https://youtube.com/playlist?list=PLtgiThe4j67olcB82Fc3TT9q4cwWC3Is5&si=8PVQaKD87UDy3Rg8)
+- SQL Interview Questions - LeetCode [Sumit Mittal-Youtube](https://youtube.com/playlist?list=PLtgiThe4j67pSpMHaeFqO3Vyk7HifG5ns&si=Q-6LVIVl5HiEfnCb)
 
 ### Courses
 
@@ -181,3 +187,67 @@ It always specifies ranking in consecutive order. If we get a duplicate value, t
 This function is used to distribute row of an ordered partition into pre-defined number (N) of approximately equal group
 Each row group gets its rank based on defined condition & starts numbering from one group. 
 It assigns a bucket number for every row.
+
+<!--  -->
+
+MySQL and Postgres are two of the most popular SQL databases. They have some key differences in syntax and features which can make jumping between the two a bit tricky.
+
+Here are 5 differences that can have impact in your queries, that I faced personally.
+
+1. MySQL is case insensitive, Postgres is case sensitive
+- 𝚜𝚎𝚕𝚎𝚌𝚝 𝙸𝙳, 𝙽𝙰𝙼𝙴 𝚏𝚛𝚘𝚖 𝚞𝚜𝚎𝚛𝚜 𝚠𝚑𝚎𝚛𝚎 𝚗𝚊𝚖𝚎 = '𝙹𝚘𝚑𝚗'
+- 𝚜𝚎𝚕𝚎𝚌𝚝 𝚒𝚍, 𝚗𝚊𝚖𝚎 𝚏𝚛𝚘𝚖 𝚞𝚜𝚎𝚛𝚜 𝚠𝚑𝚎𝚛𝚎 𝚗𝚊𝚖𝚎 = '𝚓𝚘𝚑𝚗'
+- In Postgres, searching for "john" vs "John" will yield different results, whereas in MySQL it will return the same result set
+- Also, selecting "ID, NAME" will throw an error in Postgres if the columns are lowercase (which they should be for Postgres)
+
+2. MySQL allows camelCase for identifiers, Postgres does not
+- select dob as 𝚍𝚊𝚝𝚎𝙾𝚏𝙱𝚒𝚛𝚝𝚑 from users where id = 1
+- This query will return the dataset with the 𝚍𝚊𝚝𝚎𝙾𝚏𝙱𝚒𝚛𝚝𝚑 column for MySQL, but 𝚍𝚊𝚝𝚎𝚘𝚏𝚋𝚒𝚛𝚝𝚑 for Postgres. Be careful when mapping raw query results to objects in code.
+
+3. MySQL allows ON UPDATE to auto-update column values, but Postgres does not
+- For columns like updated_at, in MySQL we can simply declare the table definition as “𝚌𝚘𝚕𝚞𝚖𝚗 𝚞𝚙𝚍𝚊𝚝𝚎𝚍_𝚊𝚝 𝚍𝚊𝚝𝚎𝚝𝚒𝚖𝚎 𝚘𝚗 𝚞𝚙𝚍𝚊𝚝𝚎 𝚌𝚞𝚛𝚛𝚎𝚗𝚝_𝚝𝚒𝚖𝚎𝚜𝚝𝚊𝚖𝚙”
+- In postgres, you have to create a separate trigger on the table to achieve the same thing
+
+4. MySQL allows the use of boolean column values interchangeably between 1/0 and TRUE/FALSE, while Postgres only uses TRUE/FALSE values.
+ - select * from users where is_active = 1
+ - let’s say is_active is a boolean column. this query will work in mysql but not in postgres
+ 
+5. MySQL allows bulk-updating multiple rows for a partial set of columns, while for Postgres you must pass the whole row’s values
+- In MySQL you can do something like this, where you can update columns for multiple records by the primary ID (or unique constraint), while keeping other columns intact.
+ 𝙸𝙽𝚂𝙴𝚁𝚃 𝙸𝙽𝚃𝙾 𝚝𝟷 (𝚒𝚍,𝚗𝚊𝚖𝚎) 𝚅𝙰𝙻𝚄𝙴𝚂 (𝟷,'𝙹𝚘𝚑𝚗'),(𝟸,'𝙹𝚊𝚗𝚎') 𝙰𝚂 𝚗𝚎𝚠
+ 𝙾𝙽 𝙳𝚄𝙿𝙻𝙸𝙲𝙰𝚃𝙴 𝙺𝙴𝚈 𝚄𝙿𝙳𝙰𝚃𝙴 𝚗𝚊𝚖𝚎 = 𝚗𝚎𝚠.𝚗𝚊𝚖𝚎;
+- For Postgres there is a similar "𝙾𝙽 𝙲𝙾𝙽𝙵𝙻𝙸𝙲𝚃 (𝚒𝚍) 𝙳𝙾 𝚄𝙿𝙳𝙰𝚃𝙴” statement, but for that you cannot just have “id,name”, you will need to pass all the columns of the user table for the bulk-update to work.
+
+<!--  -->
+
+Some SQL Optimizations !!
+
+🦄 Indexing. 
+🦄 Avoiding using Wildcards. 
+🦄 Normalization. 
+🦄 Using appropriate Data types. 
+🦄 Using correct Join types. 
+🦄 Writing efficient WHERE clauses. 
+🦄 Using aggregate functions wisely. 
+🦄 Avoiding using subqueries. 
+🦄 Use proper storage & backup methods. 
+🦄 Monitoring performance.
+
+<!--  -->
+
+5 Quick Production DB Tips for New Devs..
+
+1. Always Backup:
+Before any change, ensure backup.
+
+2. Test First:
+Use staging before touching production.
+
+3. Limit Access:
+Minimize direct database touchpoints.
+
+4. Stay Alert:
+Set up monitors, catch anomalies.
+
+5. Document!:
+Note every change, every time.

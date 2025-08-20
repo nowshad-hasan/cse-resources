@@ -63,6 +63,19 @@ Join my Masterclass for Students & Graduates and get:
 ➡️ Hidden job-market strategies & LinkedIn optimization tips
 ➡️ Weekly live coaching sessions 
 
-👉 How to join? Comment “Masterclass” below, and I’ll DM you the details.
 
-Let’s turn your CV into a powerful self-marketing brochure that gets you through the door! 
+<!--  -->
+
+If you're applying for jobs, here are 5 pro-tips for your resume
+
+1. Check spelling and grammar - It doesn't look good when we see issues with spelling or English. Use any of the free tools available online to check and fix these issues.
+ 
+2. Make sure your Linkedin / portfolio / Github links are working - Many times I tried to click on resume links, and they would not open to the site. It's still okay if you give the full URL, but if you're saving space by hyperlinking a keyword, check to make sure they open to the right pages.
+ 
+3. Use a standard readable format - Don't go too crazy on the resume format (unless you're a UI designer). Keep your resume simple, the sections neatly organized, and the content easily readable (e.g. top to bottom, not all over the place).
+ 
+4. Always send a PDF document - Never use a word / editable format. PDF keeps it professional, and the formatting intact.
+ 
+5. Properly name your resume file - I see a lot of resumes like "CV.pdf" or "Sabbir resume.pdf". It would be best if you include your full name, and brief title in the file name like "Sabbir Siddiqui Resume - Full stack Python React", so at a glance recruiters can pick it out of a folder
+
+Bonus tip: Keep it short - A resume is a single page summary, while a CV is a full history of your experience and achievements, technically speaking. Don't send something that's 4-5 pages long, keep it up to max 2 pages long.

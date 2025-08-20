@@ -34,6 +34,7 @@
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+- [Interview](https://github.com/Olshansk/interview)
 
 ### Job Abroad Website
 
@@ -172,3 +173,35 @@ Here are 16 Best ChatGPT prompts that will 10X your Selection chances.
 - When answering questions, don’t use “We”. Use “I”.
 - An interviewer wants to know what “you” did
 - When you say “we”, your answer loses credibility
+
+<!--  -->
+
+At the end of the interview when they ask you "Do you have any questions"? - this is a golden opportunity, but most people don't use it. 
+
+Here are 5 questions you can ask the interviewer to know more about the company, while making yourself look good:
+
+1. What is the typical onboarding process for a new joiner? How soon can I start making an impact?
+ 
+2. What kind of challenges / problems will I have the opportunity to solve?
+ 
+3. 6 months to 1 year after I join, let's say I am doing really well. What criteria will you be using to judge my performance? What are some proactive steps I can take to be considered a high performer?
+ 
+4. What is the engineering culture like? For example, is unit testing prevalent? Are code quality standards enforced? Is there any process in place to enable a collaborative and knowledge-sharing environment?
+ 
+5. Are there any established practices or processes that you would like to see changed, and why?
+
+The answers for the first three questions will give you an idea of what you will be doing after you join, and what you can to do be a high performer in your role. It also shows passion, initiative and willingness to contribute.
+
+Questions 4 and 5 are more about the company culture - whether they follow good practices, whether they are retrospective and have an agile / improvement mindset, and how they deal with feedback.
+
+<!--  -->
+
+In an interview, when asked a question you don't know the answer to, here's what you don't do - stay quiet. Here are some ways to handle this situation:
+
+1. Firstly, communicate to your interviewer that you need some time to think about the answer. You could say "That's an interesting question, let me think about it" or "I haven't faced this situation before, but l can think about it"
+
+2. Think out loud - if possible, speak your thoughts. Even if you backtrack your first thought, speaking out loud will help the interviewer understand your thought process. It could be like "What if we do X? that won't work because Y. how about we try Z?"
+
+3. Try to relate the question to your own experience - even if you haven't faced the specific problem before, see if you can relate it to something similar in your experience. Be wary of going into a tangent though, but you could give a brief idea of the experience and see how the interviewers respond. It's not always about experience, it's about how you react to situations.
+
+4. Be honest - Interviewers will ask followup questions, so be wary of making up answers that have no logical basis - one thing worse than not knowing the answer is giving one that you can't back up or explain.
