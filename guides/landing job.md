@@ -7,6 +7,7 @@
 - How to ace the Google interview using Chai (and the magic of spaced repetition) [Medium](https://ccbeauchamp.medium.com/how-to-ace-the-google-interview-using-chai-and-the-magic-of-spaced-repetition-f5fce0115821)
 - Agoda’s Interview Process: How We Hire for the Tech Team [Agoda Career Club](https://careersatagoda.com/blog/how-we-hire-agodas-tech-team-interview-process/)
 - Software Engineer Resume [Overleaf](https://www.overleaf.com/latex/templates/software-engineer-resume/gqxmqsvsbdjf)
+- Before you interview, get warmed up [Google](https://grow.google/certificates/interview-warmup/)
 
 ### Job abroad
 

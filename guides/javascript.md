@@ -156,3 +156,52 @@
  - Call stack, task queue, microtask queue explained
  - How JS handles asynchronous operations
  - Examples with setTimeout, promises, async/await
+
+- set
+- null
+- map
+- filter
+- loops
+- String
+- BigInt
+- Object
+- Reflect
+- scopes
+- Symbol
+- Boolean
+- currying
+- closures
+- Number
+- variables
+- callbacks
+- promises
+- call stack
+- web APIs
+- undefined
+- deep copy
+- data types
+- event loop
+- statements
+- asynchrony
+- async-await
+- conditionals
+- map method
+- shallow copy
+- destructuring
+- pure function
+- lexical scoping
+- arrow function
+- array functions
+- string methods
+- named imports
+- default imports
+- reduce method
+- handling events
+- forEach method
+- template literals
+- normal functions
+- spread operators
+- promise chaining
+- optional chaining
+- conditional operator
+- function expressions

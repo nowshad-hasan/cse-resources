@@ -14,6 +14,7 @@
   - [Videos](#videos)
   - [Courses](#courses)
   - [Interview QUestions](#interview-questions)
+  - [Discussions](#discussions)
 
 
 ### Basics
@@ -59,6 +60,10 @@
   * Complete SQL Mastery [Coding With Mosh](https://codewithmosh.com/p/complete-sql-mastery)
 * Database Design by Caleb Curry [YouTube Playlist](https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID)
 * A fast PostgreSQL Log Analyzer - pgbadger [Github](https://github.com/darold/pgbadger)
+* Data Analysis using SQL [Kaggle](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql/notebook)
+* SQL Data Analysis & Data Visualizaiton Projects [Github](https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects)
+* Data_Analysis_SQL [Github](https://github.com/LoicChamplong/Data-Analysis-SQL)
+* SQL Projects for Data Analysis using Oracle Database [Github](https://github.com/Ajay026/SQL-Project-for-Data-Analysis-part-1-7)
 
 ### SQL Interview 
 
@@ -145,3 +150,34 @@
 1️⃣ 4️⃣ Write a query to find the running difference using self join (helps in understanding the logical approach, ideally this question is solved via windows function)
 1️⃣ 5️⃣ Write a query to find the cumulative sum using self join
 (helps in understanding the logical approach, ideally this question is solved via windows function)
+
+
+### Discussions
+
+These Window functions are useful for scenarios where you need to identify top N records, find duplicates, or rank results based on certain criteria within a partition of your dataset 
+
+
+1️⃣ RANK() Function -
+
+This function assigns a unique rank to each distinct row within a partition based on the ORDER BY clause
+Rows with same values get same rank, & next rank is skipped. If two rows have same values & get rank 1, next row will be assigned rank 3
+
+
+2️⃣ ROW_NUMBER() Function -
+
+This function is used to return unique sequential no for each row within its partition.
+The row numbering begins at one & increases by one until partition's total no of rows is reached 
+It return different ranks for row having similar values
+
+
+3️⃣ DENSE_RANK() Function -
+
+This function assigns unique rank for each row within hashtag#partition as per specified column value without any gaps
+It always specifies ranking in consecutive order. If we get a duplicate value, this function will assign it with same rank
+
+
+4️⃣ NTILE Function -
+
+This function is used to distribute row of an ordered partition into pre-defined number (N) of approximately equal group
+Each row group gets its rank based on defined condition & starts numbering from one group. 
+It assigns a bucket number for every row.

@@ -24,3 +24,39 @@
 
 ### Courses
 - Information​ ​Systems Specialization [Coursera](https://www.coursera.org/specializations/information-systems)
+
+
+### Discussions
+
+🔍 Decoding common API Endpoint Formats:
+--------------------------------------------- 
+- Singular vs. Plural Nomenclature:
+🚀 Format: Choose between singular and plural endpoint names. Example: /user (singular) vs. /users (plural)
+
+- Resource Nesting:
+🌐 Format: Employ nesting for hierarchical resources.Example: /organizations/{orgId}/users/{userId}
+
+- Action-Oriented Verbs:
+⚡ Format: Use action-oriented verbs for specific operations.Example: /create-account, /update-profile
+
+🌟 Recommended Endpoint Naming Strategy:
+----------------------------------------------
+- 🗂️ Resource-Centric Clarity:
+🌐 Strategy: Prioritize clarity and consistency with resource-centric naming.Example: /articles for articles resource, /comments for comments resource
+
+- 🚀 Actionable and Predictable:
+⚡ Strategy: Ensure endpoints are actionable and predictable.Example: /approve-request, /list-orders
+
+- 🎯 RESTful Conventions:
+📄 Strategy: Embrace RESTful conventions for simplicity.Example: /users/{userId}/posts/{postId}
+
+
+When I am building any API, these are the top 4 things I try to always consider regardless of the language or framework (or requirements):
+
+1. Request validation - Query, path or body json parameters - all should be validated through some standard schema or validation mechanism supported by your framework for consistent checking and error messages. This is not only for the request layer, but internally while implementing business logic, it's important to validate nulls or undefined values.
+
+2. Security - Usually authentication and authorization are handled by middleware, but sometimes business logic dictates the permission level of the API. For example, you have to query some data and return only the relevant data filtered by the user ID of the request (authenticated) user, on top of checking authorization. (AKA row level auth)
+
+3. Error handling - Unhandled exceptions should be managed through some central error handler in your framework, but otherwise business logic specific error handling should be considered. For those scenarios having custom exceptions kept in a central location can help manage all the possible exceptions your system can throw. 
+
+4. Logging - Request and response logging can be done at the framework level with some middleware (with some request ID for tracing). For API specific logging or error tracing, it's important to log key information that can help identify specific errors or steps in the logic. If possible include the request ID as a log prefix (this can also be done from a framework level).

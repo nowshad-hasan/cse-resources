@@ -89,6 +89,12 @@
 - Critical rendering path - Crash course on web performance (Fluent 2013) [Youtube](https://youtu.be/PkOBnYxqj3k?si=RlvllMUfXoLIe0GD)
 - System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook [Youtube](https://youtu.be/DSGsa0pu8-k?si=IuYLzAQnJu7oARUW)
 - MIT Distributed System [Youtube](https://youtu.be/cQP8WApzIQQ?si=qXC00GlcwRCUlzgc)
+- CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan [Youtube](https://youtu.be/-W9F__D3oY4?si=HgH3DzU8zSN0VZaq)
+- Distributed Systems in One Lesson by Tim Berglund [Youtube](https://youtu.be/Y6Ev8GIlbxc?si=BTR1TTr896uPw3-u)
+- Building Scalable, Highly Concurrent and Fault-Tolerant Systems: Lessons Learned [Youtube](https://youtu.be/DihXpZ9xR8E?si=tQPFYMiB-K7enu2Z)
+- What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney • GOTO 2016 [Youtube](https://youtu.be/kb-m2fasdDY?si=getCA4BeKSpPN7pF)
+- Streaming a Million Likes/Second: Real-Time Interactions on Live Video [Youtube](https://youtu.be/yqc3PPmHvrA?si=enubZDl3Xj9zyh3d)
+- Agoric + Protocol Labs // Part 1 - Distributed Programming for a Decentralized World - Mark Miller [Youtube](https://youtu.be/52SgGFpWjsY?si=mV3TuTdMmcZqrRgu)
 
 
 ### Discussion
