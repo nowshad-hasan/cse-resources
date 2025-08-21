@@ -21,6 +21,11 @@
 - JavaScript Visualized: Event Loop [Lydia Hallie](https://web.archive.org/web/20230325052042/https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - JavaScript: Vanilla Single Page Applications (SPA) [Medium](https://medium.com/better-programming/js-vanilla-script-spa-1b29b43ea475)
 
+### Website
+
+- [Learners Bucket](https://learnersbucket.com/)
+- [Javascript30](https://javascript30.com/)
+
 ### Videos 
 
 - JavaScript DOM Manipulation – Full Course for Beginners [Freecodecamp-Youtube](https://youtu.be/5fb2aPlgoys?si=95NDzzIYC-zO7k3X)
@@ -35,6 +40,7 @@
 - [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 
 ### Project Ideas
 

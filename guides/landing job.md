@@ -8,6 +8,7 @@
 - Agoda’s Interview Process: How We Hire for the Tech Team [Agoda Career Club](https://careersatagoda.com/blog/how-we-hire-agodas-tech-team-interview-process/)
 - Software Engineer Resume [Overleaf](https://www.overleaf.com/latex/templates/software-engineer-resume/gqxmqsvsbdjf)
 - Before you interview, get warmed up [Google](https://grow.google/certificates/interview-warmup/)
+- How to Use LinkedIn to Get Your First Developer Job – A Step-by-Step Guide [Freecodecamp](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
 
 ### Job abroad
 

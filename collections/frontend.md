@@ -6,6 +6,9 @@
 - [Scrimba](https://v2.scrimba.com/home)
 - [Frontend Masters](https://frontendmasters.com/courses/)
 - [Great Frontend](https://www.greatfrontend.com/)
+- [Piccalilli](https://piccalil.li/category/front-end-challenges-club/)
+- [Codier](https://codier.io/)
+- [100dayscss](https://100dayscss.com/)
 
 ### CSS Articles
 

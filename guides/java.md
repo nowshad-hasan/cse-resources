@@ -78,7 +78,7 @@
 * The Java Memory Model - The Basics [Jakob Jenkov](https://youtu.be/LCSqZyjBwWA?si=uovAJdCjdzeSy72X)
 * Secure Coding Guidelines for Java SE [Oracle](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
 * Prevent Breaking a Singleton Class Pattern [DZone](https://dzone.com/articles/prevent-breaking-a-singleton-class-pattern)
-
+* Things to avoid while writing Java [Medium](https://medium.com/@b.stoilov/things-to-avoid-while-writing-java-cd078e5aa61c)
 
 ### OOP
 

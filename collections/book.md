@@ -17,3 +17,34 @@
 ### Books
 
 - WHY PROGRAMS FAIL [Link](https://www.whyprogramsfail.com/book.php)
+
+### Book review
+
+- Book Review: Monolith to Microservices (Part 2) [A N M "Bazlur" Rahman](https://www.linkedin.com/pulse/book-review-monolith-microservices-part-2-a-n-m-bazlur-rahman/)
+
+### Discussion
+
+3 Books to Improve Your Coding Skills:
+
+1) Algorithms by Robert Sedgewick
+2) Code Complete by Steve McConnell
+3) Functional Thinking by Neal Ford
+
+
+<!--  -->
+
+"Deep Work" by Cal Newport is a book that completely improved my productivity a few years ago. Can't recommend it enough 👍
+
+What is it? Deep work is distraction-free, high concentration work that creates a lot of value in a little time. It's how I'm able to balance lots of meetings with knocking out design or strategy docs or creating slides during the day.
+
+Why is deep work useful? It maximizes the amount of productivity you squeeze out of a limited time by focusing on a *single* task. No distractions, no Twitter, no chat or email. You reserve deep work for tasks that are cognitive heavy. Some brief lessons:
+
+1. Be intentional about how you use your time.
+
+2. Work on 1 task at a time, ideally in a distraction-free environment. Even just putting on your headphones and turning off notifications can be a big help. To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction.
+
+3. If you service low-impact activities, you're taking away time you could be spending on higher-impact activities. It's a zero-sum game.
+
+4. The core components of deliberate practice are identified as follows: your attention is focused tightly on a specific skill you’re trying to improve, you receive feedback so you can correct your approach to keep your attention exactly where it’s most productive.
+
+5. Resting your mind improves focused work. You have a finite amount of willpower that becomes depleted as you use it. It's like a muscle that gets tired.

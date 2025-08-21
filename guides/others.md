@@ -278,6 +278,7 @@
 * Your ultimate self-confidence toolkit [Link](https://anemarifiser.substack.com/p/your-ultimate-self-confidence-toolkit-bea)
 * How Spotify Knows What You Want to Listen to Next [Link](https://bytesizeddesign.substack.com/p/how-spotify-knows-what-you-want-to)
 * The biggest Obstacle stalling your career growth [Link](https://www.thesunshinelayer.com/p/the-biggest-obstacle-stalling-your)
+* How to Use Git and GitHub in a Team like a Pro – Featuring Harry and Hermione [Freecodecamp](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/)
 
 ### Project Ideas
 
@@ -432,6 +433,7 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 - [realworld](https://github.com/gothinkster/realworld)
 - [Awesome resources](https://github.com/shahednasser/awesome-resources)
+- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 
 ### Code Quality Tools
 
