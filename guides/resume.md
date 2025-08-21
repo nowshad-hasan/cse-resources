@@ -79,3 +79,31 @@ If you're applying for jobs, here are 5 pro-tips for your resume
 5. Properly name your resume file - I see a lot of resumes like "CV.pdf" or "Sabbir resume.pdf". It would be best if you include your full name, and brief title in the file name like "Sabbir Siddiqui Resume - Full stack Python React", so at a glance recruiters can pick it out of a folder
 
 Bonus tip: Keep it short - A resume is a single page summary, while a CV is a full history of your experience and achievements, technically speaking. Don't send something that's 4-5 pages long, keep it up to max 2 pages long.
+
+<!--  -->
+
+🌳 𝐂𝐥𝐞𝐚𝐫 𝐚𝐧𝐝 𝐜𝐨𝐧𝐜𝐢𝐬𝐞 𝐟𝐨𝐫𝐦𝐚𝐭
+- Use a clean and professional layout with consistent fonts and formatting.
+- Keep your resume to one page, especially if you're early in your career.
+
+🌳 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭 𝐤𝐞𝐲 𝐚𝐜𝐜𝐨𝐦𝐩𝐥𝐢𝐬𝐡𝐦𝐞𝐧𝐭𝐬
+- Focus on quantifiable achievements that demonstrate your impact in previous roles. 
+- Use bullet points to make your accomplishments easy to scan.
+
+🌳 𝐀𝐜𝐭𝐢𝐨𝐧 𝐯𝐞𝐫𝐛𝐬 𝐚𝐧𝐝 𝐤𝐞𝐲𝐰𝐨𝐫𝐝𝐬
+- Start bullet points with strong action verbs like "achieved," "managed," "implemented," etc.
+- Incorporate keywords from the job description to ensure your resume gets through applicant tracking systems (ATS).
+
+formula shared by Diego Granados 
+𝐀𝐜𝐜𝐨𝐦𝐩𝐥𝐢𝐬𝐡𝐞𝐝 [𝐗] 𝐚𝐬 𝐦𝐞𝐚𝐬𝐮𝐫𝐞𝐝 𝐛𝐲 [𝐘] 𝐛𝐲 𝐝𝐨𝐢𝐧𝐠 [𝐙]
+
+For Example
+Accomplished [X]: “Launched a communications platform”
+Measured by [Y]: “Reduced communication cost by 20%”
+By doing [Z]: “, by introducing new communication channels like Whatsapp and introducing capabilities to switch between messaging platforms”
+
+🌳 𝐕𝐢𝐬𝐮𝐚𝐥 𝐚𝐩𝐩𝐞𝐚𝐥
+- Use bullet points, bold text, and italics to emphasize important details.
+- Consider using a subtle pop of color or shading, but keep it professional.
+
+🌳 Customize your resume for each job application by highlighting the most relevant skills, experiences, and accomplishments that align with the job description.

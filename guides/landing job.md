@@ -205,4 +205,8 @@ In an interview, when asked a question you don't know the answer to, here's what
 
 3. Try to relate the question to your own experience - even if you haven't faced the specific problem before, see if you can relate it to something similar in your experience. Be wary of going into a tangent though, but you could give a brief idea of the experience and see how the interviewers respond. It's not always about experience, it's about how you react to situations.
 
-4. Be honest - Interviewers will ask followup questions, so be wary of making up answers that have no logical basis - one thing worse than not knowing the answer is giving one that you can't back up or explain.
+4. Be honest - Interviewers will ask followup questions, so be wary of making up answers that have no logical baRsis - one thing worse than not knowing the answer is giving one that you can't back up or explain.
+
+
+<!--  -->
+

@@ -6,6 +6,7 @@
   - [Articles](#articles)
   - [Blog](#blog)
   - [Mockito](#mockito)
+  - [Tools](#tools)
   - [Others](#others)
   - [Videos](#videos)
   - [Discussions](#discussions)
@@ -37,6 +38,10 @@
 * Unit tests with Mockito - Tutorial [Vogella](https://www.vogella.com/tutorials/Mockito/article.html)
 * Mockito Tutorial [Javadoc.io](https://www.javadoc.io/doc/org.mockito/mockito-core/2.23.4/org/mockito/Mockito.html)
 * Mockito Verify Cookbook [Baeldung](https://www.baeldung.com/mockito-verify)
+
+### Tools
+
+* [Flutter Patrol](https://pub.dev/packages/patrol)
 
 ### Others
 
@@ -80,3 +85,21 @@ This tests the UI interactions with the APIs to make sure the data can be displa
 🔹 Fuzz Testing 
 This injects invalid or unexpected input data into the API and tries to crash the API. In this way, it identifies the API vulnerabilities. 
  
+
+<!--  -->
+
+Test Automation in hashtag#Flutter !!👀
+
+Flutter itself comes with a rich set of testing features. 
+🔹For hashtag#unit testing, there’s a rich set of APIs to test individual functions, classes, and methods. 
+🔹For hashtag#widget testing, you can create widget tests to test a single widget.
+🔹for hashtag#integration testing, Flutter provides a separate package, hashtag#flutter_driver, to create UI tests that simulate actual user interaction. 
+But for some specific use-cases here is the best available open-source option like hashtag#Appium
+
+✅ Appium is an open-source tool for automating native, mobile web, and hybrid applications on iOS mobile, Android mobile, and Windows desktop platforms. It’s used to conduct UI tests for the functionality of the software application.
+
+✅ Features:
+- Cross-platform Support of Android, iOS, and Windows.
+- Supports Multiple Languages which have Selenium client libraries, such as Java, Ruby, Python, PHP, JavaScript with Node.js, and C#, among others.
+- Does not require you to have access to your app’s source code or require you to include an SDK or recompile your app in any way.
+- Supports Automation of Various Types of Apps: native, hybrid, and mobile web application automation.

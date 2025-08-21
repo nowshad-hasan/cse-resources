@@ -23,6 +23,10 @@
 * ETag header [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/ETag)
 * HTTP caching [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching)
 * Inside look at modern web browser (part 1-Part4) [Chrome for Developers](https://developer.chrome.com/blog/inside-browser-part1)
+* Override web content and HTTP response headers locally [Chrome for Developers](https://developer.chrome.com/docs/devtools/overrides/)
+* What's New in DevTools (Chrome 116) [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-116/)
+* Toggle and autocomplete classes [Chrome for Developers](https://www.linkedin.com/posts/addyosmani_devtools-webdevelopers-programming-activity-7075133917112004608-iy5x/)
+* Shadow editor in Chrome []
 
 ### REST API
 
