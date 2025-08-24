@@ -23,8 +23,10 @@
   - [Articles](#articles)
   - [Personal Blog](#personal-blog)
   - [Engineering Blog](#engineering-blog)
+  - [Learning Website](#learning-website)
   - [Newsletters](#newsletters)
   - [Github Project](#github-project)
+  - [Free API](#free-api)
   - [Code Quality Tools](#code-quality-tools)
   - [Code Analysis](#code-analysis)
   - [Documentation Tools](#documentation-tools)
@@ -222,6 +224,7 @@
 * Foobar [Wikipedia](https://en.wikipedia.org/wiki/Foobar)
 * How Does an Engineer Create a Programming Language? [The New Stack](https://thenewstack.io/how-does-an-engineer-create-a-programming-language/)
 * Refactor like a PRO [Link](https://craftbettersoftware.com/p/refactor-like-a-pro)
+* 35 Best Websites to Learn Coding [Updated for 2025] [Link](https://devopscube.com/top-websites-to-learn-programming-online/)
 
 ### Productivity
 
@@ -347,6 +350,7 @@
 - [Khanacademy](https://www.khanacademy.org/computing/computer-science)
 - Coding Programs – 152 Coding Classes You can Take for Free Online [Freecodecamp](https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online)
 - Visual Studio Code Can Do That? [Frontend Masters](https://frontendmasters.com/courses/archive/customize-vs-code/)
+- HarvardX: CS50's Introduction to Computer Science [Link](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 ### Website
 
@@ -428,6 +432,11 @@
 - [Capital One Techblog](https://www.capitalone.com/tech/blog/)
 - [Disney Streaming](https://medium.com/disney-streaming)
 
+### Learning Website
+
+- [Google for Developers](https://developers.google.com/learn)
+- [Amazon Sustainability Data Initiative](https://exchange.aboutamazon.com/data-initiative)
+
 ### Newsletters
 
 - [Refactoring](https://refactoring.fm/)
@@ -463,6 +472,18 @@
 - [realworld](https://github.com/gothinkster/realworld)
 - [Awesome resources](https://github.com/shahednasser/awesome-resources)
 - [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+
+### Free API
+
+- [Weather API](https://openweathermap.org/api)
+- [quotable](https://github.com/lukePeavey/quotable)
+- [The Rick and Morty API](https://rickandmortyapi.com/documentation/)
+- [REST Countries](https://restcountries.com/)
+- [Unsplash Developers](https://unsplash.com/developers)
+- [NASA API](https://api.nasa.gov/)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [GIIPHY Developers](https://developers.giphy.com/docs/)
+- [Poke Api](https://pokeapi.co/docs/graphql#v1beta2)
 
 ### Code Quality Tools
 
@@ -658,3 +679,96 @@ Here's how you can be an irreplacable member of your software engineering team:
 1. Take ownership of your tasks
 2. Be proactive in solving problems and unblocking others
 3. Contribute an intentional obscure bug in a critical application flow, that would generally go unnoticed, but would pop up once in a while and threaten to impact thousands of dollars, which of course only you yourself can rectify, so that whenever the bug pops up it will require your intervention, and you can save the day.
+
+<!-- AI Promt -->
+
+15 powerful ChatGPT prompts to save you 15 hours a week:
+
+1. Use the 80/20 principle to learn faster:
+
+"I want to learn about [insert topic]. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
+________
+
+2. Improve your writing by getting feedback:
+
+[paste your writing]
+
+"Proofread my writing above. Fix grammar and spelling mistakes. And make suggestions that will improve the clarity of my writing"
+________
+
+
+3. Turn ChatGPT into your intern:
+
+"I am creating a report about [insert topic]. Research and create an in-depth report with a step-by-step guide that will help readers understand how to [insert outcome]."
+________
+
+4. Learn any new skill:
+
+"I want to learn [insert desired skill]. Create a 30 day learning plan that will help a beginner like me learn and improve this skill."
+________
+
+
+5. Strengthen your learning by testing yourself:
+
+"I am currently learning about [insert topic]. Ask me a series of questions that will test my knowledge. Identify knowledge gaps in my answers and give me better answers to fill those gaps."
+________
+
+
+6. Train ChatGPT to generate prompts for you:
+
+"You are an AI designed to help [insert profession]. Generate a list of the 10 best prompts for yourself."
+________
+
+7. Get ChatGPT to write in your style:
+
+"Analyze the writing style from the text below and write a 200 word piece guide on [insert topic]"
+
+[insert your text]
+________
+
+
+8. Learn any complex topic in only a few minutes:
+
+"Explain [insert topic] in simple and easy terms that any beginner can understand."
+________
+
+9. Generate new ideas:
+
+"I want to [insert task or goal]. Generate [insert desired outcome] for [insert task or goal]."
+________
+
+10. Summarize long documents and articles:
+
+"Summarize the text below and give me a list of bullet points with key insights and the most important facts."
+
+[insert text]
+________
+
+11. Solve problems faster:
+
+[insert problem]
+
+"Give me a step by step solution to the problem above with clear instructions on how to execute each step."
+________
+
+12. Make better decisions faster:
+
+"I am trying to decide if I should [insert decision]. Give me a list of pros and cons that will help me decide why I should or shouldn't make this decision."
+________
+
+13. Get short and insight-packed book summaries:
+
+"Summarize the book [insert book] by the author [insert author] and give me a list of the most important learnings and insights."
+________
+
+14. Understand things faster by simplifying complex texts.
+
+"Rewrite the text below and make it easy for a beginner to understand".
+
+[insert text]
+________
+
+15. Eliminate writer's block:
+
+"I'm writing a blog post about [insert topic]. I can't come up with a catchy title. Give me a list of 5 suggestions for the blog title for this piece."
+

@@ -13,3 +13,44 @@
 
 ### Video 
 - 3 Years Experienced React Interview [ProCodrr-Youtube](https://youtu.be/rX4dlpvbvu8?si=2YmpNJTCVBOkJ7YE)
+
+
+### Interview Questions
+
+👉 Introduction JSX
+👉 React Component
+👉 Component State and Props
+👉 Adding Style (CSS)
+👉 Functional and Class components
+👉 React Lifecycle Methods
+👉 Virtual DOM
+👉 React Hooks
+👉 Custom Hooks
+👉 Context API
+👉 Synthetic Events
+👉 Routing
+👉 Data Flow (Redux/Flux)
+👉 Server-Side Rendering
+👉 Unit Testing
+👉 Jest & React Testing library
+👉 Mocking Data
+👉 Understanding Webpack (Bundler)
+👉 Babel, env, prettier, linter
+
+<!--  -->
+
+Your hashtag#react project will be hacked...
+
+If you don't sanitize/escape these 5 properties/methods in your code!
+
+Want your website to be safe? Keep reading below ⬇️
+
+1️⃣ document.URL
+2️⃣ document.URLUnencoded
+3️⃣ document.location (and child properties)
+4️⃣ document.referrer
+5️⃣ window.location (and child properties)
+
+If you see any of these properties/methods in your code base, make sure they are properly sanitized or escaped.
+
+These are the most common methods hackers use to take control of your users and website by uploading malicious scripts!

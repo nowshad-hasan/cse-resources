@@ -9,6 +9,10 @@
 - Software Engineer Resume [Overleaf](https://www.overleaf.com/latex/templates/software-engineer-resume/gqxmqsvsbdjf)
 - Before you interview, get warmed up [Google](https://grow.google/certificates/interview-warmup/)
 - How to Use LinkedIn to Get Your First Developer Job – A Step-by-Step Guide [Freecodecamp](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
+- আমার গুগল ইন্টার্ভিউর আদ্যোপান্ত [Linkedin](https://www.linkedin.com/pulse/%E0%A6%86%E0%A6%AE%E0%A6%B0-%E0%A6%97%E0%A6%97%E0%A6%B2-%E0%A6%87%E0%A6%A8%E0%A6%9F%E0%A6%B0%E0%A6%AD%E0%A6%89%E0%A6%B0-%E0%A6%86%E0%A6%A6%E0%A6%AF%E0%A6%AA%E0%A6%A8%E0%A6%A4-md-elias-hassan-naim/)
+- 14 Most Popular Amazon Coding Interview Questions You Should Practice [Design Gurus](https://www.designgurus.io/blog/amazon-14-question)
+- Leadership Principles [Amazon Jobs](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- Software developer interview questions [Link](https://www.zippia.com/software-developer-jobs/interview-questions/)
 
 ### Job abroad
 
@@ -210,3 +214,59 @@ In an interview, when asked a question you don't know the answer to, here's what
 
 <!--  -->
 
+Facebook Interview Guide (2022)
+----
+ 
+Average salary in the US
+----
+ SDE (E3): 186K
+ SDE (E4): 267K
+ Sr. SDE (E5): 385K
+ 
+
+Interview Process
+----
+Here is what to expect in a Facebook interview for software engineers:
+ 
+◈ Recruiter Pre-screen (20-30 mins) - Initial screening based on resume. Questions related to your professional experience, noteworthy projects, and accomplishments. No coding.
+ 
+◈ Technical Phone Interview (45-60 mins) – You will solve a coding question using an online editor. Your interviewer might ask you a follow-up question or add constraints to the current problem. Common topics include data structures, algorithms, and time/space complexity. 
+ 
+◈ Onsite Loop (4-5 interviews) - Coding, design, and behavioral questions.
+ ➡ Ninja (coding, 2 interviews) – 1-2 coding questions solved on a whiteboard in 45 mins.
+ ➡ Pirate (design, 2 interviews) – Collaborative discussion with the interviewer. Drawing on a whiteboard to solve a system design question. Junior engineers don't get any design interviews.
+ ➡ Jedi (behavioral) Questions about your motivation, people interactions, challenges, and work ethics. 
+ 
+◈ Lunch - It's not an interview. The interviewer will show you around and have lunch with you.
+ 
+ 
+Interview Tips
+----
+ 
+1) Data Structures - Practice data structures like Heaps, HashTable, Tree, LinkedList, Stack, Queue, and Graph. 
+2) Algorithm - Practice recursion, Merge-Sort, Quick-Sort, Breadth-first search, Depth-first search, Divide and Conquer, and Dynamic Programming
+3) Explain your thought process - Extremely important. Practice describing your solution and design decisions clearly and concisely.
+4) Collaborate – Don't forget to discuss, present multiple solutions, and take hints from the interviewer.
+ 
+
+Top recent FB tagged Coding Questions on LeetCode
+ ----
+1. Right View of a Binary Tree (easy)
+2. Merge 'K' Sorted Lists (medium)
+3. Binary Search Tree Iterator (medium)
+4. Sum Root to Leaf Nodes (medium)
+5. Merge Intervals (medium)
+6. Diameter of a Binary Tree (easy)
+7. Sliding Window Median (hard)
+8. Kth Smallest Element in a Sorted Matrix (medium)
+9. Partition Equal Subset Sum (medium)
+10. Alien Dictionary (hard)
+
+ 
+Top FB System Design Questions
+----
+1. Design Facebook Newsfeed
+2. Design Facebook Messenger
+3. Design Instagram
+4. Design Facebook Status Search
+5. Design Nearby Friends

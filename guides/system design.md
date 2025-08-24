@@ -11,6 +11,7 @@
   - [Others](#others)
   - [Videos](#videos)
   - [Discussion](#discussion)
+  - [Research Paper](#research-paper)
   - [Github Repo](#github-repo)
 
 ## Core
@@ -162,6 +163,14 @@ Bonus points for keeping these things in mind:
 - Caching commonly used APIs
 - Using database transactions within each API to maintain ACID
 - Rate limiting
+
+### Research Paper
+
+- Harvest, Yield, and Scalable Tolerant Systems [Link](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf)
+- On Designing and Deploying Internet-Scale Services [Link](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
+- Data on the Outside versus Data on the Inside [Link](https://www.cidrdb.org/cidr2005/papers/P12.pdf)
+- Building on Quicksand [Link](https://arxiv.org/pdf/0909.1788)
+- A Note on Distributed Computing [Link](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf)
 
 ### Github Repo
 

@@ -11,6 +11,8 @@
 - [Resources](#resources)
   - [Videos](#videos)
   - [Courses](#courses)
+  - [Interview  Problems](#interview--problems)
+  - [Patterns](#patterns-1)
 
 ## Discrete Mathematics
 
@@ -50,10 +52,16 @@
 * [awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources)
 * Grind 75 questions [Link](https://www.techinterviewhandbook.org/grind75/)
 * Data-Structure-Algorithms-LLD-HLD [Github](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
+* 60 questions to solve [Leetcode](https://leetcode.com/problem-list/xo2bgr0r/)
+* Blind 75 Must Do Leetcode [Leetcode](https://leetcode.com/problem-list/5bybhzy7/)
+* Techie Delight [Link](https://www.techiedelight.com/data-structures-and-algorithms-problems/)
+* * The Ultimate Data Structure Interview Questions List (Google, Meta, etc) [IGotAnOffer](https://igotanoffer.com/blogs/tech/data-structure-interview-questions)
+* Striver’s SDE Sheet – Top Coding Interview Problems [Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
 ### Practice Website
 
 * [Neetcode](https://neetcode.io/)
+* [Interviews.school](https://interviews.school/)
 
 ## Blog
 
@@ -69,28 +77,47 @@
 - Dynamic Programming
   - Dynamic Programming Patterns [Leetcode](https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/)
   - Dynamic Programming Patterns [Leetcode](https://leetcode.com/discuss/post/1437879/dynamic-programming-patterns-by-badgujja-lh0i/)
+  - DP for Beginners [Leetcode](https://leetcode.com/problem-list/x1k8lxi5/)
+  - DP (Max - Min) [Leetcode](https://leetcode.com/problem-list/55ac4kuc/)
+
 - Graph ALgorithm
   - Leetcode Pattern 1 | DFS + BFS == 25% of the problems — part 2 [Medium](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
   - Iterative | Recursive | DFS & BFS Tree Traversal | In, Pre, Post & LevelOrder | Views [Leetcode](https://leetcode.com/discuss/post/937307/iterative-recursive-dfs-bfs-tree-travers-e1f4/)
+  - Graph Related Problems [Leetcode](https://leetcode.com/problem-list/x1vj23fh/)
+  - Tree BFS [Leetcode](https://leetcode.com/problem-list/xlepfebm/)
+  - Tree DFS [Leetcode](https://leetcode.com/problem-list/xlemouqi/)
 
 - Sliding Window
   - Maximum Sliding Window Cheatsheet Template! [Leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+  - Sliding Window [Leetcode](https://leetcode.com/problem-list/xlep8di5/)
 
 - Two Pointers
   - Solved all two pointers problems in 100 days. [Leetcode](https://leetcode.com/discuss/post/1688903/solved-all-two-pointers-problems-in-100-z56cn/)
   - Graph For Beginners [Problems | Pattern | Sample Solutions] [Leetcode](https://leetcode.com/discuss/post/655708/graph-for-beginners-problems-pattern-sam-06fb/)
+  - Fast & Slow Pointers [Leetcode](https://leetcode.com/problem-list/xlerlepr/)
+  - 2Pointers - Nov [Leetcode](https://leetcode.com/problem-list/9ns2k47r/)
+  - Two Pointers [Leetcode](https://leetcode.com/problem-list/xlem03mm/)
+
 
 - monotonic stack
   - A comprehensive guide and template for monotonic stack based problems [Leetcode](https://leetcode.com/discuss/post/2347639/a-comprehensive-guide-and-template-for-m-irii/)
 
 - Backtracking
   - Leetcode Pattern 3 | Backtracking [Medium](https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26)
+  - Dynamic Programming Patterns [Leetcode](https://leetcode.com/discuss/post/1437879/dynamic-programming-patterns-by-badgujja-lh0i/)
+  - Backtracking [Leetcode](https://leetcode.com/problem-list/xlere2g3/)
 
 - Searching
   - Powerful Ultimate Binary Search Template. Solved many problems [Leetcode](https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-t-rwv8/)
+  - Binary Search - Beginners [Leetcode](https://leetcode.com/problem-list/xcrx4mxm/)
+  - Modified Binary Search [Leetcode](https://leetcode.com/problem-list/xleplgq3/)
  
 - String
   - Collections of Important String questions Pattern [Leetcode](https://leetcode.com/discuss/post/2001789/collections-of-important-string-question-pc6y/)
+
+- Other
+  - Merge Intervals [Leetcode](https://leetcode.com/problem-list/xlepvmyj/)
+  - Top K Elements [Leetcode](https://leetcode.com/problem-list/xlepz4mv/)
 
 ## Tools
 * Online Debugging [uDebug](https://www.udebug.com/input)
@@ -118,3 +145,44 @@
 - Introduction to Algorithms [OpenCourseWare](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
 - Mathematics for Competitive Programming - Self Paced [Geeksforgeeks](https://www.geeksforgeeks.org/courses/cp-maths)
 - CS50 2017 [Youtube](https://youtu.be/U9o49qwa6hk?si=bvPzwXyjw-ZToyZn)
+
+### Interview  Problems
+
+- Amazon OA Question [Link]](https://leetcode.com/discuss/post/2475381/amazon-oa-question-by-anonymous_user-8e4l/)
+- Number of Islands [Link](https://leetcode.com/problems/number-of-islands/description/)
+- amazon sde dynamicprogramming question (k jumps) [Link](https://leetcode.com/discuss/post/2364380/amazon-sde-dynamicprogramming-question-k-3o93/)
+- amazon interview question 2022 [Link](https://leetcode.com/discuss/post/2470377/amazon-interview-question-2022-by-anonym-bel6/)
+- Amazon | Onsite | Binary Tree Top Down View [Link](https://leetcode.com/discuss/post/2436876/amazon-onsite-binary-tree-top-down-view-i5pgx/)
+- Diameter of a Binary Tree [Link](https://www.geeksforgeeks.org/dsa/diameter-of-a-binary-tree/)
+- Contains Duplicate III [Link](https://leetcode.com/problems/contains-duplicate-iii/description/)
+- Minimum Window Substring [Link](https://leetcode.com/problems/minimum-window-substring/description/)
+- Reverse Linked List II [Link](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+- Remove Loop in Linked List [Link](https://www.interviewbit.com/blog/remove-loop-in-linked-list/)
+- Reverse Nodes in k-Group [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+- Search in Rotated Sorted Array [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- Find Max Bandwidth [Link](https://leetcode.com/discuss/post/124554/find-max-bandwidth-by-rst-1mxh/)
+- Next Permutation [Link](https://leetcode.com/problems/next-permutation/description/)
+- Largest Rectangle in Histogram [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+
+### Patterns
+
+1) Sliding Window
+2) Islands (Matrix Traversal)
+3) Two Pointers
+4) Fast & Slow Pointers
+5) Merge Intervals
+6) Cyclic Sort
+7) In-place Reversal of a LinkedList
+8) Tree Breadth-First Search
+9) Tree Depth First Search
+10) Two Heaps
+11) Subsets
+12) Modified Binary Search
+13) Bitwise XOR
+14) Top ‘K’ Elements
+15) K-way Merge
+16) Topological Sort
+17) 0/1 Knapsack
+18) Fibonacci Numbers
+19) Palindromic Subsequence
+20) Longest Common Substring

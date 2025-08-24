@@ -10,7 +10,6 @@
   - [Template](#template)
   - [Personal Website](#personal-website)
   - [Videos](#videos)
-  - [Interview Questions](#interview-questions)
 
 ### Article
 
@@ -19,6 +18,9 @@
 *  HTML Bold Text Tutorial – How to Use the <b> Tag [Freecodecamp](https://www.freecodecamp.org/news/html-bold-text-tutorial-how-to-use-the-b-tag)
 *  Comparison Guide: Bootstrap vs. Tailwind CSS. When and What to choose? [Link](https://thetshaped.dev/p/comparison-guide-bootstrap-vs-tailwindcss)
 *  Demystifying the Shadow DOM [Link](https://thetshaped.dev/p/demystifying-the-shadow-dom)
+*  Centering in CSS [Web.dev](https://web.dev/articles/centering-in-css)
+*  Inspect and debug CSS flexbox layouts [Chrome for Developers](https://developer.chrome.com/docs/devtools/css/flexbox/)
+*  Change box and text shadows with the Shadow Editor [Chrome for Developers](https://developer.chrome.com/docs/devtools/css/reference#shadow-editor)
 
 ### Courses
 

@@ -34,6 +34,7 @@
 * Advantages and Disadvantages of Views in MySQL [Link](https://dotnettutorials.net/lesson/advantages-and-disadvantages-of-views-in-mysql/)
 * Beware the Performance Dangers of MySQL Views [Link](https://dev.to/jamiemcmanus/beware-the-performance-dangers-of-mysql-views-352e)
 * MySql views performance [Stackoverflow](https://stackoverflow.com/questions/10302615/mysql-views-performance/10379846#10379846)
+* SQL query order of execution [Link](https://www.sisense.com/blog/sql-query-order-of-operations/)
 
 ### Migration
 
@@ -68,6 +69,10 @@
 * SQL Data Analysis & Data Visualizaiton Projects [Github](https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects)
 * Data_Analysis_SQL [Github](https://github.com/LoicChamplong/Data-Analysis-SQL)
 * SQL Projects for Data Analysis using Oracle Database [Github](https://github.com/Ajay026/SQL-Project-for-Data-Analysis-part-1-7)
+* BrainTree SQL Coding Challenge Data Analyst [Github](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst)
+* The Best Medium-Hard Data Analyst SQL Interview Questions [Github](https://gist.github.com/monbang/76151aa5f36d5c058f95ce396d992bdb)
+* Learn SQL [Codeacademy](https://www.codecademy.com/learn/learn-sql)
+* SQL Teaching [Link](https://www.sqlteaching.com/)
 
 ### SQL Interview 
 

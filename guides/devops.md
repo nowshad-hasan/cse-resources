@@ -8,6 +8,7 @@
   - [Kubernetes](#kubernetes)
   - [Github Actions](#github-actions)
   - [Courses](#courses)
+  - [Free tier](#free-tier)
   - [Blogs](#blogs)
   - [Videos](#videos)
   - [ELK Stack](#elk-stack)
@@ -24,6 +25,8 @@
 * Containers Patterns [Link](https://l0rd.github.io/containerspatterns/#1)
 * Kubernetes Production Patterns [Github](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * Cloud-Native – Why Software Developers Should Look Into It [Link](https://blog.adrianstanek.dev/p/cloud-native-why-devs-should-know-it)
+* What is Service Discovery? [Devopscube](https://devopscube.com/service-discovery-explained/)
+* Terraform AWS RDS Provisioning Tutorial [Devopscube](https://devopscube.com/terraform-aws-rds/)
 
 ### CI/CD
 * Learn How to Set Up a CI/CD Pipeline From Scratch [DZone](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
@@ -35,10 +38,16 @@
 
 ### Docker
 * The Docker Handbook – Learn Docker for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-docker-handbook/)
+* Docker Tutorials - NetworkChuck [Youtube Playlist](https://www.youtube.com/playlist?list=PLIhvC56v63IJlnU4k60d0oFIrsbXEivQo)
+* you need to learn Docker RIGHT NOW!! // Docker Containers 101 [Youtube](https://youtu.be/eGz9DS-aIeY?si=y1oO0kPSbAmozkc6)
+* Docker networking is CRAZY!! (you NEED to learn it) [Youtube](https://youtu.be/bKFMS5C4CG0?si=zTFUuvyjp4q_P80b)
+* Docker-compose tutorial [Youtube](https://youtu.be/qH4ZKfwbO8w?si=PQJn0kPhXlAeVIs3)
+* Top 8 Docker Best Practices for using Docker in Production [Youtube](https://youtu.be/8vXoMqWgbQQ?si=B0tB5jLIalhfhgkh)
 
 ### Kubernetes
 * The Kubernetes Handbook – Learn Kubernetes for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-kubernetes-handbook)
 * Ultimate Certified Kubernetes Administrator (CKA) Exam Preparation Guide [Github](https://github.com/techiescamp/cka-certification-guide?tab=readme-ov-file#manage-the-lifecycle-of-kubernetes-clusters)
+* How to Learn Kubernetes (Complete Roadmap & Resources) [Devopscube](https://devopscube.com/learn-kubernetes-complete-roadmap/)
 
 ### Github Actions
 
@@ -50,6 +59,14 @@
 - HashiCorp Certified: Terraform Associate 2025 [Udemy](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 - Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos [Udemy](https://www.udemy.com/course/terraform-on-aws-with-sre-iac-devops-real-world-demos/)
 - Certified Kubernetes Administrator (CKA) with Practice Tests [Udemy](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- Coursera Devops [Link](https://www.coursera.org/courses?query=devops)
+
+### Free tier
+
+- AWS credit to grow your business [AWS](https://pages.awscloud.com/GLOBAL-acq-LN-ARRC-reg.html)
+- Oracle Cloud Free Tier [Oracle](https://www.oracle.com/in/cloud/free/)
+- AWS Cloud Credit for Research [AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/)
+- Grow your startup with AWS [Link](https://aws.amazon.com/startups#Extend%20your%20reach)
 
 ### Blogs
 

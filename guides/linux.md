@@ -15,6 +15,15 @@
 - The Linux Command Handbook – Learn Linux Commands for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - The Art of Command Line [Github](https://github.com/jlevy/the-art-of-command-line)
 - Awesome Shell [Github](https://github.com/alebcay/awesome-shell)
+- Settings to emojify and prettify your terminal (iTerm2 & ZSH) [Link](https://www.stefanjudis.com/blog/declutter-emojify-and-prettify-your-iterm2-terminal/)
+- My Terminal Has SUPER Powers! [James Q Quick](https://jamesqquick.hashnode.dev/my-terminal-has-super-powers)
+- The Fish Cookbook [Link](https://github.com/jorgebucaran/cookbook.fish)
+- What is Amazon Q Developer? [Link](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html)
+- My Ultimate PowerShell prompt with Oh My Posh and the Windows Terminal [Link](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
+- Customize & Beautify your Windows Terminal (2022 Edition) [Link](https://dev.to/ansonh/customize-beautify-your-windows-terminal-2022-edition-541l)
+- A Guide to Customising the Windows Terminal [Link](https://freshman.tech/windows-terminal-guide/)
+- Mathias’s dotfiles [Github](https://github.com/mathiasbynens/dotfiles)
+- The Front-End Developer's Guide to the Terminal [Josh W Comeau](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
 
 ### Command line and Bash Scripting
 

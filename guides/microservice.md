@@ -12,6 +12,7 @@
 - How to secure your Microservices with Keycloak - Thomas Darimont [Voxxed Days](https://youtu.be/FyVHNJNriUQ?si=WNkHXdF0A7Uk7URo)
 - What is the Sidecar pattern and why is it heavily used in micro-services [Hussein Nasser-Youtube](https://youtu.be/zcJWvhzkPsw?si=xievoNDd3Zx3rMPy)
 - Microservices • Martin Fowler • GOTO 2014 [Youtube](https://youtu.be/wgdBVIX9ifA?si=yb06ztilC35rFMfA)
+- Event-Driven Architectures Done Right, Apache Kafka • Tim Berglund • Devoxx Poland 2021 [Devoxx Poland](https://youtu.be/A_mstzRGfIE?si=lY-6eR013WOGJeQt)
 
 
 ### Collections

@@ -13,6 +13,10 @@
 - Typography for Developers Tutorial - Full Course [Freecodecamp-Youtube](https://youtu.be/agbh1wbfJt8?si=lFSPdeHET5maZD7y)
 - UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma [Freecodecamp-Youtube](https://youtu.be/c9Wg6Cb_YlU?si=30bN5sjk5ttlp6kF)
 
+### Collections
+
+- 30 UX Laws [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7096731969450835968/)
+
 ### Figma Plugins
 
 - Wireframe

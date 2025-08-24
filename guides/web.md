@@ -27,6 +27,17 @@
 * What's New in DevTools (Chrome 116) [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-116/)
 * Toggle and autocomplete classes [Chrome for Developers](https://www.linkedin.com/posts/addyosmani_devtools-webdevelopers-programming-activity-7075133917112004608-iy5x/)
 * Shadow editor in Chrome []
+* Fast load times [Web.dev](https://web.dev/explore/fast)
+* Is 0kb of JavaScript in your Future? [Dev.to](https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og)
+* Use Logpoints to log messages without cluttering up your code with console.log() statments [Link](Use Logpoints to log messages without cluttering up your code with console.log() statments)
+* What's New In DevTools (Chrome 73) [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-73)
+* Animations: Inspect and modify CSS animation effects [Chrome for Developers](https://developer.chrome.com/docs/devtools/css/animations/)
+* What's New In DevTools (Chrome 108) [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-108)
+* What's New in DevTools (Chrome 113) [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-113/)
+* Make your website more readable [Chrome for Developers](https://developer.chrome.com/docs/devtools/accessibility/contrast/)
+* Full accessibility tree in Chrome DevTools [Chrome for Developers](https://developer.chrome.com/blog/full-accessibility-tree/)
+* View the source order of elements on screen [Chrome for Developers](https://developer.chrome.com/docs/devtools/accessibility/reference/#source-order)
+* Emulate vision deficiencies [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-83/#vision-deficiencies)
 
 ### REST API
 
