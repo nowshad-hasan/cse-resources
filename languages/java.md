@@ -1,17 +1,17 @@
 ## Contents
 
-- [Contents](#contents)
-  - [Courses & Tutorials](#courses-$-tutorials)
-  - [Blog](#blog)
-  - [Core Java](#core-java)
-  - [Collection Framework](#collection-framework)
-  - [Generics](#generics)
-  - [Functional Programming](#functional-programming)
-  - [Threading](#threading)
-  - [Exception Handling](#exception-handling)
-  - [Testing](#testing)
-  - [RxJava](#rxjava)
-  - [OCP](#ocp)
+- [Courses & Tutorials](#courses-$-tutorials)
+- [Books](books)
+- [Blog](#blog)
+- [Core Java](#core-java)
+- [Collection Framework](#collection-framework)
+- [Generics](#generics)
+- [Functional Programming](#functional-programming)
+- [Threading](#threading)
+- [Exception Handling](#exception-handling)
+- [Testing](#testing)
+- [RxJava](#rxjava)
+- [OCP](#ocp)
 
 ### Courses & Tutorials
 
