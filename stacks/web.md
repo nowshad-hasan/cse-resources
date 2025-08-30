@@ -38,6 +38,7 @@
 * Full accessibility tree in Chrome DevTools [Chrome for Developers](https://developer.chrome.com/blog/full-accessibility-tree/)
 * View the source order of elements on screen [Chrome for Developers](https://developer.chrome.com/docs/devtools/accessibility/reference/#source-order)
 * Emulate vision deficiencies [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-83/#vision-deficiencies)
+- Complete Guide to CORS [KAZ Blog](https://kaz.com.bd/blog/2020/1/2/3-questions-to-define-a-software-product)
 
 ### REST API
 

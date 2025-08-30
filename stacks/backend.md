@@ -4,7 +4,8 @@
 ### Articles
 
 - How to Become a Good Backend Engineer (Fundamentals) [Hussein Nasser](https://www.linkedin.com/pulse/how-become-good-backend-engineer-fundamentals-hussein-nasser-9lxmc/)
-
+- Redis explained [Architecture Notes](https://architecturenotes.co/redis/)
+- Effective Backend Engineering Interviews [Hussein Nusser](https://medium.com/@hnasr/i-ask-this-question-to-every-backend-engineer-i-interview-8dd972648bb8)
 
 ### Collections
 

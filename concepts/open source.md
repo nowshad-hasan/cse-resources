@@ -30,6 +30,13 @@
 - “How to contribute to OpenJDK” with Stuart Marks & Jesper Wilhelmsson - Inside Java Podcast 11 [Java-Youtube](https://youtu.be/WPZiv1Ow2Qk?si=W4Kx8FtjKyxXSKPI)
 - Complete Guide to Open Source - How to Contribute [Freecodecamp-Youtube](https://youtu.be/yzeVMecydCE?si=gwC-1TI1NrnzVWD5)
 
+### How to start 
+- How to get started [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7041479167359553536/)
+
+
+### Some websites
+- [Good First Issue](https://goodfirstissues.com/)
+
 ### Blog
 * [First Timers Only](https://www.firsttimersonly.com/)
 * [Open Source Guides](https://opensource.guide/)

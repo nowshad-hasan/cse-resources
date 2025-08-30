@@ -1,17 +1,90 @@
 ## Contents
 
 - [Contents](#contents)
+  - [Courses and Tutorials](#courses-and-tutorials)
+  - [Books](books)
   - [Core Spring](#core-spring)
   - [Spring Security](#spring-security)
-  - [Testing](#testing)
-  - [Microservices](#microservices)
-  - [Database](#database)
-  - [Resources](#resources)
-  - [Updates](#updates)
-  - [Testing](#testing-1)
-  - [Videos](#videos)
+  - [Message Queue](#message-queue)
+  - [Chat Application](#chat-application)
+
+
+### Courses and Tutorials
+
+* [Learn Spring Boot](https://www.baeldung.com/spring-boot)
+* [Spring Boot Tutorials For Beginners - Articles and Videos](http://www.springboottutorial.com/tags/)
+* [Spring Boot by FreeCodeCamp](https://www.freecodecamp.org/news/tag/spring-boot/)
+* [Spring Boot Tutorials by Mkyong.com](https://www.mkyong.com/tutorials/spring-boot-tutorials/)
+* [Spring Boot Tutorial by HowToDoInJava](https://howtodoinjava.com/spring-boot-tutorials/)
+* [Top 5 Courses to Learn Spring Boot in 2019](https://dzone.com/articles/top-5-courses-to-learn-spring-boot-in-2019)
+* [Top Tutorials To Learn Spring Framework For The Java Application](https://medium.com/quick-code/top-tutorials-to-learn-spring-framework-for-the-java-application-12db01d9c288)
+* [Top 5 Spring Boot and Spring Cloud Books for Java Developers](https://medium.com/hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc)
+* Online Video Tutorials
+  * Learning Spring with Spring Boot [Linkedin Learning](https://www.linkedin.com/learning/learning-spring-with-spring-boot)
+  * Creating Your First Spring Boot Application [Pluralsight](https://www.pluralsight.com/courses/spring-boot-first-application)
+  * Spring Boot For Beginners [Udemy](https://www.udemy.com/course/spring-boot-essentials/)
+  * Learn Spring Boot - Rapid Spring Application Development [Udemy](https://www.udemy.com/course/spring-boot-intro/)
+  * Learn Spring Boot in 100 Steps - Beginner to Expert [Udemy](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
+  * Master Microservices with Spring Boot and Spring Cloud [Udemy](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+  * Spring Framework 5: Beginner to Guru [Udemy](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
+  * [Learn Spring Boot by Baeldung](https://www.baeldung.com/spring-boot)
+* [Spring Boot Tutorials For Beginners - Articles and Videos](http://www.springboottutorial.com/tags/)
+* [Spring Boot by FreeCodeCamp](https://www.freecodecamp.org/news/tag/spring-boot/)
+* [Spring Boot Tutorials by Mkyong.com](https://www.mkyong.com/tutorials/spring-boot-tutorials/)
+* [Spring Boot Tutorial by HowToDoInJava](https://howtodoinjava.com/spring-boot-tutorials/)
+* [Top 5 Courses to Learn Spring Boot in 2019](https://dzone.com/articles/top-5-courses-to-learn-spring-boot-in-2019)
+* [Top Tutorials To Learn Spring Framework For The Java Application](https://medium.com/quick-code/top-tutorials-to-learn-spring-framework-for-the-java-application-12db01d9c288)
+* [Top 5 Spring Boot and Spring Cloud Books for Java Developers](https://medium.com/hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc)
+* Online Video Tutorials
+  * Learning Spring with Spring Boot [Linkedin Learning](https://www.linkedin.com/learning/learning-spring-with-spring-boot)
+  * Creating Your First Spring Boot Application [Pluralsight](https://www.pluralsight.com/courses/spring-boot-first-application)
+  * Spring Boot For Beginners [Udemy](https://www.udemy.com/course/spring-boot-essentials/)
+  * Learn Spring Boot - Rapid Spring Application Development [Udemy](https://www.udemy.com/course/spring-boot-intro/)
+  * Learn Spring Boot in 100 Steps - Beginner to Expert [Udemy](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
+  * Master Microservices with Spring Boot and Spring Cloud [Udemy](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
+  * Spring Framework 5: Beginner to Guru [Udemy](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
+* জাভা এন্টারপ্রাইজ এডিশন [Dimik Computing](https://dimikcomputing.com/course/javaee-online-course/)
+* ওয়েব কনসেপ্টস [Dimik Computing](https://dimikcomputing.com/course/web-concepts-online-course/)
+* Spring [GitHub Project](https://github.com/wuyouzhuguli/SpringAll)
+* 10+ Free Open Source Projects Using Spring Boot [Java Guides](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html?m=1)
+* Romanian Coder [YouTube Channel](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw/playlists)
 
 ### Core Spring
+* JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
+* Getting started with Spring Data JPA [Spring Blog](https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa)
+* Spring ResponseEntity
+  * Using Spring ResponseEntity to Manipulate the HTTP Response [Baeldung](https://www.baeldung.com/spring-response-entity)
+* A Guide To Cron Expressions [Baeldung](https://www.baeldung.com/cron-expressions)
+
+* Scheduler
+  * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
+  * The \@Scheduled Annotation [Baeldung](https://www.baeldung.com/spring-scheduled-tasks)
+  * How to Schedule Tasks with Spring Boot [Callicoder](https://www.callicoder.com/spring-boot-task-scheduling-with-scheduled-annotation/)
+  * Scheduling Spring Boot Tasks [Stack Abuse](https://stackabuse.com/scheduling-spring-boot-tasks/)
+  * Spring Boot - Scheduling [Tutorials Point](https://www.tutorialspoint.com/spring_boot/spring_boot_scheduling.htm)
+
+* Autowiring in Spring
+  * Autowiring in Spring [DZone](https://dzone.com/articles/autowiring-in-spring)
+  * Guide to Spring \@Autowired [Baeldung](https://www.baeldung.com/spring-autowire)
+  * Spring \@Autowired Annotation [JournalDev](https://www.journaldev.com/2623/spring-autowired-annotation)
+
+* JPA Specifications
+  * Spring JPA dynamic query example [Java Developer Zone](https://javadeveloperzone.com/spring/spring-jpa-dynamic-query-example/)
+  * JPA Specifications [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.7.0.RELEASE/reference/html/#specifications)
+  * Building a REST Query Language [Baeldung](https://www.baeldung.com/spring-rest-api-query-search-language-tutorial)
+  * Spring Data - Multi-column searches [Stackoverflow](https://stackoverflow.com/questions/25872637/spring-data-multi-column-searches)
+  * Using Spring Data JPA Specification [DZone](https://dzone.com/articles/using-spring-data-jpa-specification)
+  * Use Criteria Queries in a Spring Data Application [Baeldung](https://www.baeldung.com/spring-data-criteria-queries)
+  * Spring Data JPA - Using Specifications to execute JPA Criteria Queries [LogicBig.com](https://www.logicbig.com/tutorials/spring-framework/spring-data/specifications.html)
+  * Advanced Spring Data JPA - Specifications and Querydsl [Spring Blog](https://spring.io/blog/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl/)
+  * Dynamic Queries with Spring Data JPA Specifications [Blog 1](https://attacomsian.com/blog/spring-data-jpa-specifications)
+  * Spring Data JPA Tutorial: Creating Database Queries With the JPA Criteria API [Blog 2](https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-part-four-jpa-criteria-queries/)
+  * Native Queries – How to call native SQL queries with JPA & Hibernate [Thoughts on JAVA](https://thoughts-on-java.org/jpa-native-queries/)
+
+* FCM integration with Spring
+  * Send push notifications from Spring Boot server-side application using FCM [Blog 1](https://blog.mestwin.net/send-push-notifications-from-spring-boot-server-side-application-using-fcm/)
+  * How To Send Firebase Push Notification From App Server Tutorial [Blog 2](http://developine.com/how-to-send-firebase-push-notifications-from-app-server-tutorial/)
+
 * [Core Technologies](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html)
 * Spring ResponseEntity
   * Using Spring ResponseEntity to Manipulate the HTTP Response [Baeldung](https://www.baeldung.com/spring-response-entity)
@@ -129,6 +202,11 @@
 * OAuth2 Boot [Spring Doc](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsingle/)
 * A Quick Guide to OAuth 2.0 with Spring Security [Blog](https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide)
 * Securing REST Services With OAuth2 in Spring Boot [DZone](https://dzone.com/articles/securing-rest-services-with-oauth2-in-springboot-1)
+* HTTPS using Self-Signed Certificate in Spring Boot [Baeldung](https://www.baeldung.com/spring-boot-https-self-signed-certificate)
+* Spring Boot and OAuth2 [Spring Doc](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+* OAuth2 Boot [Spring Doc](https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsingle/)
+* A Quick Guide to OAuth 2.0 with Spring Security [Blog](https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide)
+* Securing REST Services With OAuth2 in Spring Boot [DZone](https://dzone.com/articles/securing-rest-services-with-oauth2-in-springboot-1)
 * Spring Boot Security By Romanian Coder [YouTube Playlist](https://www.youtube.com/playlist?list=PLVApX3evDwJ1d0lKKHssPQvzv2Ao3e__Q)
 * Spring Security using JWT in Spring Boot App | Tech Primers [YouTube](https://youtu.be/-HYrUs1ZCLI)
 * Spring Security by Amigoscode [YouTube](https://youtu.be/her_7pa0vrg)
@@ -147,6 +225,21 @@
 * Spring Security Role Based Access Authorization Example [JournalDev](https://www.journaldev.com/8748/spring-security-role-based-access-authorization-example)
 * Granted Authority Versus Role in Spring Security [Baeldung](https://www.baeldung.com/spring-security-granted-authority-vs-role)
 * Spring Security – Roles and Privileges [Baeldung](https://www.baeldung.com/role-and-privilege-for-spring-security-registration)
+
+### Message Queue
+
+* Messaging in Spring Boot [Messaging](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/boot-features-messaging.html)
+* Messaging with RabbitMQ [Spring Doc](https://spring.io/guides/gs/messaging-rabbitmq)
+* Messaging with JMS [Spring Doc](https://spring.io/guides/gs/messaging-jms)
+* Getting Started with Spring JMS [Baeldung](https://www.baeldung.com/spring-jms)
+* Messaging with Spring AMQP [Baeldung](https://www.baeldung.com/spring-amqp)
+
+### Chat Application
+
+* Spring Boot Websocket Chat Application Example [Youtube](https://youtu.be/4Hyv4M1kFeM?si=u28ohgvTVdrFNwW0)
+* Build a Chat Application Using Spring Boot + WebSocket + RabbitMQ [DZone](https://dzone.com/articles/build-a-chat-application-using-spring-boot-websock)
+* Building a chat application with Spring Boot and WebSocket [Callicoder](https://www.callicoder.com/spring-boot-websocket-chat-example/)
+* Build a Real-Time Chat Application With Modulus and Spring Boot [Envato tuts+](https://code.tutsplus.com/build-a-real-time-chat-application-with-modulus-and-spring-boot--cms-22513t)
 
 ### Testing
 
@@ -191,50 +284,20 @@
 * Lightweight E2E Testing for Spring Boot/Angular Applications [DZone](https://dzone.com/articles/lightweight-e2e-testing-for-spring-boot-angular-ap)
 * Optimizing Spring Integration Tests [Baeldung](https://www.baeldung.com/spring-tests)
 * Writing End-to-End Tests With Spock Framework – Configuration (Spring Boot Edition) [Blog](https://www.testwithspring.com/lesson/writing-end-to-end-tests-with-spock-framework-configuration-spring-boot-edition/)
+- Bootiful Testing [Spring Developer-Youtube](https://youtu.be/1W5_tOiwEAc?si=if9tEYWVU8u7ETzK)
+- Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave [Spring  Developer](https://youtu.be/s9vt6UJiHg4?si=sEgjAYzIAd6rHFaU)
+- Test Driven Development (TDD) | Crash Course | 2020 [Amigoscode-Youtube](https://youtu.be/z6gOPonp2t0?si=JRF0pyigR6mDf7ka)
 
 ### Microservices
 * Mastering the art of Microservices Architecture by Alpha Code [YouTube Playlist](https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
 
-### Database
+
+### Database Migration
 * SQL Injection and How to Prevent It? [Baeldung](https://www.baeldung.com/sql-injection)
 * One-Stop Guide to Database Migration with Flyway and Spring Boot [Reflectoring](https://reflectoring.io/database-migration-spring-boot-flyway/)
 * One-Stop Guide to Database Migration with Liquibase and Spring Boot [Reflectoring](https://reflectoring.io/database-migration-spring-boot-liquibase/)
 * How to GraphQL in Java [Okta Developer](https://developer.okta.com/blog/2020/01/31/java-graphql)
 * Tool-based Database Refactoring: Flyway vs. Liquibase [Reflectoring](https://reflectoring.io/database-refactoring-flyway-vs-liquibase/)
-
-### Resources
-
-* [Learn Spring Boot by Baeldung](https://www.baeldung.com/spring-boot)
-* [Spring Boot Tutorials For Beginners - Articles and Videos](http://www.springboottutorial.com/tags/)
-* [Spring Boot by FreeCodeCamp](https://www.freecodecamp.org/news/tag/spring-boot/)
-* [Spring Boot Tutorials by Mkyong.com](https://www.mkyong.com/tutorials/spring-boot-tutorials/)
-* [Spring Boot Tutorial by HowToDoInJava](https://howtodoinjava.com/spring-boot-tutorials/)
-* [Top 5 Courses to Learn Spring Boot in 2019](https://dzone.com/articles/top-5-courses-to-learn-spring-boot-in-2019)
-* [Top Tutorials To Learn Spring Framework For The Java Application](https://medium.com/quick-code/top-tutorials-to-learn-spring-framework-for-the-java-application-12db01d9c288)
-* [Top 5 Spring Boot and Spring Cloud Books for Java Developers](https://medium.com/hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc)
-* Online Video Tutorials
-  * Learning Spring with Spring Boot [Linkedin Learning](https://www.linkedin.com/learning/learning-spring-with-spring-boot)
-  * Creating Your First Spring Boot Application [Pluralsight](https://www.pluralsight.com/courses/spring-boot-first-application)
-  * Spring Boot For Beginners [Udemy](https://www.udemy.com/course/spring-boot-essentials/)
-  * Learn Spring Boot - Rapid Spring Application Development [Udemy](https://www.udemy.com/course/spring-boot-intro/)
-  * Learn Spring Boot in 100 Steps - Beginner to Expert [Udemy](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
-  * Master Microservices with Spring Boot and Spring Cloud [Udemy](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
-  * Spring Framework 5: Beginner to Guru [Udemy](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
-* জাভা এন্টারপ্রাইজ এডিশন [Dimik Computing](https://dimikcomputing.com/course/javaee-online-course/)
-* ওয়েব কনসেপ্টস [Dimik Computing](https://dimikcomputing.com/course/web-concepts-online-course/)
-* Spring [GitHub Project](https://github.com/wuyouzhuguli/SpringAll)
-* 10+ Free Open Source Projects Using Spring Boot [Java Guides](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html?m=1)
-* Romanian Coder [YouTube Channel](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw/playlists)
-
-### Updates
-
-* Spring Boot 2.3 Features [Technicalsand](https://technicalsand.com/spring-boot-2-3-features/)
-
-
-### Testing
-- Bootiful Testing [Spring Developer-Youtube](https://youtu.be/1W5_tOiwEAc?si=if9tEYWVU8u7ETzK)
-- Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave [Spring  Developer](https://youtu.be/s9vt6UJiHg4?si=sEgjAYzIAd6rHFaU)
-- Test Driven Development (TDD) | Crash Course | 2020 [Amigoscode-Youtube](https://youtu.be/z6gOPonp2t0?si=JRF0pyigR6mDf7ka)
 
 ### Videos
 

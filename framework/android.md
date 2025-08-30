@@ -499,6 +499,11 @@
 * Awesome App Ideas [GitHub Project](https://github.com/tastejs/awesome-app-ideas)
 * Awesome Android [GitHub Project](https://github.com/JStumpp/awesome-android)
 * Foodium [GitHub Project](https://github.com/PatilShreyas/Foodium)
+* List of Android UI/UX Libraries [Github](https://github.com/wasabeef/awesome-android-ui)
+* Android Tips & Trics [Github](https://github.com/nisrulz/android-tips-tricks)
+- Clean Architecture [Github](https://github.com/mitchtabian/Clean-Notes)
+- Android Architecture Samples [Github](https://github.com/android/architecture-samples)
+- Android Interview Questions [Github](https://github.com/Kirchhoff-/Android-Interview-Questions)
 
 ### Blog
 
@@ -528,6 +533,15 @@
 * [Learn Android Development Online](https://www.codementor.io/collections/learn-android-development-online-bwba0mlle)
 * [Arnob Notes](https://farhanarnob.wordpress.com/2017/10/23/android-important-link/)
 * [CodingWithMitch](https://codingwithmitch.com/)
+
+### Github Projects
+
+- Google I/O Android App [Github](https://github.com/google/iosched)
+- Android Sunflower with Compose [Github](https://github.com/android/sunflower)
+- Android-CleanArchitecture-Kotlin [Github](https://github.com/android10/Android-CleanArchitecture-Kotlin)
+- CodePath Android Cliffnotes [Github](https://github.com/codepath/android_guides/wiki)
+- Android Architecture Components samples [Github](https://github.com/android/architecture-components-samples)
+
 
 ### Others
 * Android online view renderer from [Udacity](https://labs.udacity.com/android-visualizer/#/android/sandbox)
