@@ -1,4 +1,0 @@
-- [Right skills to get hired on amazing projects by Bazlur vai](https://www.linkedin.com/pulse/right-skills-get-hired-amazing-projects-a-n-m-bazlur-rahman/)
-- [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns)
-- [Code Review Best Practices](https://trishagee.github.io/post/code_review_best_practices/)
-- 

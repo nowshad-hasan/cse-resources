@@ -18,6 +18,7 @@
 * Software Engineering | Regression Testing [GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering-regression-testing/)
 * Software Testing Levels [Software Testing Fundamentals](http://softwaretestingfundamentals.com/software-testing-levels/)
 * Testing Strategies in a Microservice Architecture [Martin Flower](https://martinfowler.com/articles/microservice-testing/)
+- Why we should write tests [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7034585570383208448/)
 
 ### Github Project
 
@@ -55,6 +56,9 @@
 - Webinar: Climb Higher with QA! [Showmik-Youtube](https://youtu.be/lGJ8gzquLxY?si=0TDgRv_u93089bMZ)
 - IntelliJ IDEA. Writing Tests with JUnit 5 [IntelliJ IDEA-Youtube](https://youtu.be/we3zJE3hlWE?si=MTQFEFpEH7HhuvWN)
 
+### Tools
+
+- [Browserling – Online cross-browser testing](https://www.browserling.com/)
 
 ### Discussions
 

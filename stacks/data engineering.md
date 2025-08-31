@@ -13,3 +13,4 @@
 - Learn SQL Basics for Data Science Specialization [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science)
 - SQL for Data Science [Coursera](https://www.coursera.org/learn/sql-for-data-science)
 - Databases and SQL for Data Science with Python [Coursera](https://www.coursera.org/learn/sql-data-science)
+- Path to Data Engineer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7057681596367175680/)
