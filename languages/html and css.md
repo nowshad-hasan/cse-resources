@@ -1,8 +1,9 @@
 ## Contents
 
 - [Contents](#contents)
-  - [Article](#article)
-  - [Courses](#courses)
+  - [Courses and Tutorials](#courses-and-tutorials)
+  - [Books](#books)
+  - [Core](#core)
   - [HTML](#html)
   - [CSS](#css)
   - [Collection](#collection)
@@ -11,7 +12,11 @@
   - [Personal Website](#personal-website)
   - [Videos](#videos)
 
-### Article
+### Courses and Tutorials
+
+Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/getting-started-css-v2/)
+
+### Core
 
 *  Udacity Frontend Nanodegree Style Guide [Udacity](https://udacity.github.io/frontend-nanodegree-styleguide/css.html#type-selectors)
 *  How to Build a Blog Using a Static Site Generator and a CDN [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-blog-using-a-static-site-generator-and-a-cdn/)
@@ -22,9 +27,6 @@
 *  Inspect and debug CSS flexbox layouts [Chrome for Developers](https://developer.chrome.com/docs/devtools/css/flexbox/)
 *  Change box and text shadows with the Shadow Editor [Chrome for Developers](https://developer.chrome.com/docs/devtools/css/reference#shadow-editor)
 
-### Courses
-
-Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/getting-started-css-v2/)
 
 ### HTML
 * Using HTML sections and outlines [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#The_HTML5_Outline_Algorithm)
@@ -129,4 +131,6 @@ Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/
 - Responsive Personal Portfolio Website Using HTML CSS And JavaScript | Dark/Light Mode [Youtube](https://youtu.be/27JtRAI3QO8?si=zf7VWS6b74MUIJFn)
 - Sass Tutorial for Beginners - CSS With Superpowers [Freecodecamp-Youtube](https://youtu.be/_a5j7KoflTs?si=e4Rw1VGxnbroZwvU)
 - How to Make a Landing Page using HTML, SCSS, and JavaScript - Full Course [Freecodecamp-Youtube](https://youtu.be/aoQ6S1a32j8?si=D3h6eyXucffYMCAw)
+- 24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More! [Freecodecamp-Youtube](https://youtu.be/TzuWIHGFKCQ?si=s1VR3FMNPpBZWDp0)
+- My best CSS tips from 2024 [Kevin Powell](https://youtu.be/lUU2OAAg4Uw?si=9D6lBG47jcUtTbBz)
 
