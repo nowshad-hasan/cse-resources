@@ -68,8 +68,11 @@
 
 ### Videos
 
--Proxy vs. Reverse Proxy (Explained by Example) [Hussein Nasser-Youtube](https://youtu.be/ozhe__GdWC8?si=9U5HRdUUKhq8oYLY)
-Stateful vs Stateless Applications (Explained by Example) [Hussein Nasser](https://youtu.be/nFPzI_Qg3FU?si=CIj76dLehZbi4E7A)
+- Proxy vs. Reverse Proxy (Explained by Example) [Hussein Nasser-Youtube](https://youtu.be/ozhe__GdWC8?si=9U5HRdUUKhq8oYLY)
+- Stateful vs Stateless Applications (Explained by Example) [Hussein Nasser](https://youtu.be/nFPzI_Qg3FU?si=CIj76dLehZbi4E7A)
+- CORS, Preflight Request, OPTIONS Method | Access Control Allow Origin Error Explained [Youtube](https://youtu.be/tcLW5d0KAYE?si=dKX_RUq3mm-uwqKx)
+- Cross Origin Resource Sharing (Explained by Example) [Hussein Nasser-Youtube](https://youtu.be/Ka8vG5miErk?si=GnsKITJDnoGsybuO)
+- Stateful vs Stateless Applications [Hussein Nasser-Youtube](https://youtu.be/nFPzI_Qg3FU?si=x9dxg_fbqcgg5Fib)
 
 ### Courses
 

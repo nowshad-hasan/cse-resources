@@ -48,6 +48,12 @@
 
 * A Guide to Test-Driven Development (TDD): Shorter Feedback Loop, Faster Workflow [Medium](https://blog.bitsrc.io/a-guide-to-test-driven-development-tdd-shorter-feedback-loop-faster-workflow-ce5bd6b247c4)
 
+### Cypress
+
+- Brian Mann – I see your point, but… (Part 1) [Youtube](https://youtu.be/5XQOK0v_YRE?si=y6XzJF3pEdHJZPDk)
+- 8 Mistakes to Avoid in Cypress Test Automation with Filip Hric [Youtube](https://www.youtube.com/live/0FPfS7nGsZ8?si=cfxg4cBxGvBd93oE)
+- Cypress: E-2-E Testing, Component Testing, + Advanced Patterns with Jordan Powell | JS Drops [Youtube](https://youtu.be/UVEWgVX6esE?si=TZvt_tfrfEAxbMzw)
+
 
 ### Videos
 

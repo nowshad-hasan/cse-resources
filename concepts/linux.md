@@ -24,6 +24,7 @@
 - A Guide to Customising the Windows Terminal [Link](https://freshman.tech/windows-terminal-guide/)
 - Mathias’s dotfiles [Github](https://github.com/mathiasbynens/dotfiles)
 - The Front-End Developer's Guide to the Terminal [Josh W Comeau](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
+- Vim Tutorial [Ben Awad](https://youtu.be/IiwGbcd8S7I?si=YJSHbYO1Ly76zSuu)
 
 ### Command line and Bash Scripting
 
@@ -39,6 +40,7 @@
 - Bash Scripting Full Course 3 Hours [Linuxhint](https://youtu.be/e7BufAVwDiM?si=nSxwCJxOz0D9cOHd)
 - Linux Server Course - System Configuration and Operation [Freecodecamp-Youtube](https://youtu.be/WMy3OzvBWc0?si=NPlHW41edJd8wX2_)
 - My 5 Favorite Linux Shell Tricks for SPEEEEEED (and efficiency) [tutorialLinux-Youtube](https://youtu.be/V8EUdia_kOE?si=Zuulv_oh5uH9PH8S)
+- Kernel Development From Scratch! [Youtube](https://youtube.com/playlist?list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v&si=GdTwYmuoHiJDq3dY)
 
 ### Youtube Channel
 - [tutorialLinux](https://www.youtube.com/c/tutoriaLinux/playlists)

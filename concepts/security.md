@@ -34,6 +34,11 @@
 - How to Analyze Code for Vulnerabilities [Youtube](https://www.youtube.com/live/A8CNysN-lOM?si=-m8J6J95c3JzFDEh)
 - Ethical Hacking 101: Web App Penetration Testing - a full course for beginners [Freecodecamp-Youtube](https://youtu.be/2_lswM1S264?si=zrA3ad4AUdzsI3e5)
 - Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) [Freecodecamp-Youtube](https://youtu.be/3Kq1MIfTWCE?si=yyMsg-Ek8-uvcTx_)
+- What are SSL/TLS Certificates? Why do we Need them? and How do they Work? [Hussein Nasser](https://youtu.be/r1nJT63BFQ0?si=kRATV2Kg1nh0fCfS)
+
+### Keycloak
+
+- Keycloak Tutorial [Youtube playlist](https://youtube.com/playlist?list=PLRTM7OTAxy3OcmFEZeIcRgyYBjFR9yNyT&si=kTv1tkhtunI9YGyP)
 
 ### Youtube Channel
 

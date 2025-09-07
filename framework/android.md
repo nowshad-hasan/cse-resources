@@ -2,6 +2,7 @@
 ## Contents
 
 - [Contents](#contents)
+  - [Course](#course)
   - [Android Core](#android-core)
   - [UI Component](#ui-component)
   - [Networking](#networking)
@@ -21,6 +22,10 @@
   - [Tools](#tools)
   - [Discussion](#discussion)
 
+### Course
+
+- Android & Kotlin Development Masterclass – Full Course [Freecodecamp](https://youtu.be/blKkRoZPxLc?si=neRTkka6KNGk6sFo)
+- Android Developer Fundamentals [Google for Developers India](https://youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB&si=N7_-app1KHRComBo)
 
 ### Android Core
 

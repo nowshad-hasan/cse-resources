@@ -17,6 +17,10 @@
   - [Discussions](#discussions)
 
 
+### Courses
+
+- CMU Intro to Database Systems [Youtube](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=5DhprNCoxRbxbOFC)
+
 ### Basics
 
 * Database schema management tools
@@ -98,6 +102,7 @@
 - Learn SQL for free - Complete plan [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7060953596510547968/)
 - SQL tips [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7006788453996666880/)
 - 5 SQL projects to learn data analytics [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7028569280719831040/)
+- SQL Saturdays [Data with Zach](https://www.youtube.com/live/YA7YLrcLTO4?si=Zo8Y04BuimbHGBrg)
 
 ### SQL Interview 
 
@@ -161,6 +166,9 @@
 - SQL Medium Complex Interview Problems [Youtube](https://youtube.com/playlist?list=PLBTZqjSKn0IfuIqbMIqzS-waofsPHMS0E&si=IB9CKOnway9Gf2Rr)
 - SQL Advance Concepts - Master SQL Window Functions [Sumit Mittal-Youtube](https://youtube.com/playlist?list=PLtgiThe4j67olcB82Fc3TT9q4cwWC3Is5&si=8PVQaKD87UDy3Rg8)
 - SQL Interview Questions - LeetCode [Sumit Mittal-Youtube](https://youtube.com/playlist?list=PLtgiThe4j67pSpMHaeFqO3Vyk7HifG5ns&si=Q-6LVIVl5HiEfnCb)
+- CTE in SQL (Common Table Expression) | SQL WITH Clause [Sumit Mittal-Youtube](https://youtu.be/zg9GNdX-Q9g?si=vPelZVMP43-f5wni)
+- SQL Internals | Indexes in SQL | Order of Execution in SQL [Sumit Mittal-Youtube](https://youtu.be/gZu2ZldwrK4?si=t0GpjnMm0gaomEXY)
+- SQL Joins [Youtube Playlist](https://youtube.com/playlist?list=PL7api1O-krQYsl47dNJuTgF1L4EVSp0Ru&si=qeJGtm6wJYaaJUc1)
 
 ### Courses
 

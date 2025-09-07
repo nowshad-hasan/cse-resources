@@ -29,6 +29,9 @@
 - Contributing To Open Source – Beginner's Guide [Freecodecamp-Youtube](https://youtu.be/mklEhT_RLos?si=LYm9tebk0J7MQyNI)
 - “How to contribute to OpenJDK” with Stuart Marks & Jesper Wilhelmsson - Inside Java Podcast 11 [Java-Youtube](https://youtu.be/WPZiv1Ow2Qk?si=W4Kx8FtjKyxXSKPI)
 - Complete Guide to Open Source - How to Contribute [Freecodecamp-Youtube](https://youtu.be/yzeVMecydCE?si=gwC-1TI1NrnzVWD5)
+- How to Open Source Like a Pro [Ben Awad-Youtube](https://youtu.be/MT6M_sqAuZo?si=bEntR4elwcEOtGo7)
+- How to turn Open Source into a Job with Nick Taylor [Freecodecamp](https://youtu.be/m7nkioXNiik?si=5Z022SkkeTY7dALS)
+- How We Built It: $900K Open Source SaaS [Youtube](https://youtu.be/F8i0kkrQ8_o?si=wDhOdOFDJDECjmLS)
 
 ### How to start 
 - How to get started [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7041479167359553536/)

@@ -225,6 +225,8 @@
 * Spring Security Role Based Access Authorization Example [JournalDev](https://www.journaldev.com/8748/spring-security-role-based-access-authorization-example)
 * Granted Authority Versus Role in Spring Security [Baeldung](https://www.baeldung.com/spring-security-granted-authority-vs-role)
 * Spring Security – Roles and Privileges [Baeldung](https://www.baeldung.com/role-and-privilege-for-spring-security-registration)
+- Deconstructing and Evolving REST Security [JUGBD-Youtube](https://www.youtube.com/live/A-VwyNRseO8?si=vHSvEc3r6QoqQGxc)
+- Testing Java Code Effectively [JUGBD-Youtube](https://www.youtube.com/live/74EqlMHVB3E?si=XYsNXVbPTuTAnq5-)
 
 ### Message Queue
 
@@ -287,6 +289,8 @@
 - Bootiful Testing [Spring Developer-Youtube](https://youtu.be/1W5_tOiwEAc?si=if9tEYWVU8u7ETzK)
 - Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave [Spring  Developer](https://youtu.be/s9vt6UJiHg4?si=sEgjAYzIAd6rHFaU)
 - Test Driven Development (TDD) | Crash Course | 2020 [Amigoscode-Youtube](https://youtu.be/z6gOPonp2t0?si=JRF0pyigR6mDf7ka)
+- Testing Spring Boot Applications - Phil Webb [SpirngDeveloper-Youtube](https://youtu.be/QjaoAWLlGGs?si=Uz-HFw6zM3YhRIYE)
+
 
 ### Microservices
 * Mastering the art of Microservices Architecture by Alpha Code [YouTube Playlist](https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
@@ -298,6 +302,11 @@
 * One-Stop Guide to Database Migration with Liquibase and Spring Boot [Reflectoring](https://reflectoring.io/database-migration-spring-boot-liquibase/)
 * How to GraphQL in Java [Okta Developer](https://developer.okta.com/blog/2020/01/31/java-graphql)
 * Tool-based Database Refactoring: Flyway vs. Liquibase [Reflectoring](https://reflectoring.io/database-refactoring-flyway-vs-liquibase/)
+
+
+### Hibernate
+
+- Hibernate Playlist [Miss Xing](https://youtube.com/playlist?list=PLGTrAf5-F1YLNgq_0TXd9Xu245dJxqJMr&si=racfBUHlinhgnhnA)
 
 ### Videos
 
@@ -314,3 +323,8 @@
 - Spring Boot Tutorial - Spring Boot Actuator [Amigoscode-Youtube](https://youtu.be/LQlypTjmgZM?si=9vSus0t8jD-A1ltS)
 - Spring Boot Full Stack and Angular | Full Course [Amigoscode-Youtube](https://youtu.be/Gx4iBLKLVHk?si=R1azqu9abqDh_kEB)
 - Mastering Spring Boot's Actuator by Andy Wilkinson @ Spring I/O 2018 [Spring I/O-Youtube](https://youtu.be/lW3aN-7izCY?si=csSHrwFrfh1pLzjX)
+- Logging trick ! | Spring Boot application [Youtube](https://youtu.be/SYN_QdfI5Ss?si=MfkGJjyVLe8NJT-e)
+- Spring Framework with Maven Tutorial [Youtube Playlist - Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7rFkYFysfTwBu1JBPaNNDrk&si=s7Dc_dZvzF7LZkMv)
+- Spring Tips [Youtube playlist by SpringDeveloper](https://youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc&si=kIer9Zh9TV5bsqP6)
+- Spring Boot [Youtube playlist by SpringDeveloper](https://youtube.com/playlist?list=PLgGXSWYM2FpOa_FTla-x5Wd10dpmgrRC4&si=aN_j8fBOx_omVW5N)
+- Message Driven Architecture [Youtube playlist by SpringDeveloper](https://youtube.com/playlist?list=PL03192C8CDBBD4C96&si=VgVMMomtM5mVjVT9)

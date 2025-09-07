@@ -60,6 +60,9 @@
 - Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos [Udemy](https://www.udemy.com/course/terraform-on-aws-with-sre-iac-devops-real-world-demos/)
 - Certified Kubernetes Administrator (CKA) with Practice Tests [Udemy](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 - Coursera Devops [Link](https://www.coursera.org/courses?query=devops)
+- DevOps Tutorial for Beginners | Learn DevOps in 7 Hours - Full Course [Edureka-Youtube](https://youtu.be/hQcFE0RD0cQ?si=vJHN5gsn1dNWKIiu)
+- DevOps Courses [Freecodecamp Youtube](https://youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&si=5hw5XKItxVJNZVgq)
+- DevOps - Networking knowledge base [Eli the Computer Guy-Youtube](https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H&si=ULayqgZtDTrWcWb3)
 
 ### Free tier
 
@@ -86,6 +89,11 @@
 - AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) [Freecodecamp](https://youtu.be/Ia-UEYYR44s?si=E9GF2j-BDSL9PXal)
 - cURL Verbose Mode Explained (and how I use it to Troubleshoot my Backend) [Hussein Nasser-Youtube](https://youtu.be/PVm0YEEuS8s?si=HICt_EKWYNVE1ACw)
 - DevOps Engineering Course for Beginners [Freecodecamp](https://youtu.be/j5Zsa_eOXeY?si=Rtn2PP2KqdOjkxfs)
+- How to become a DevOps Engineer - DevOps Roadmap [Devops Journey-Youtube](https://youtu.be/5pxbp6FyTfk?si=uieYrHYW1ZZecS4C)
+- Learn Jenkins! Complete Jenkins Course - Zero to Hero [Devops Journey-Youtube](https://youtu.be/6YZvp2GwT0A?si=GJpNFwJYjtTk1bbM)
+- Why you should use a web server (Nginx) in front of your Spring Boot application [Marco Behlar](https://youtu.be/A0Il8_03_Mo?si=oub58VE16h-obj8Q)
+- How To Become A DevOps Engineer in 2023? | Skills To Learn [Youtube](https://youtu.be/IiuWlqabx9M?si=yAYch_6DROPm19Uf)
+- Let's deploy Spring Boot with Jenkins! [Youtube](https://youtube.com/playlist?list=PL0UJI1nZ56yC7X07TY7FST6XSOsEJ4Xvy&si=s-4MU4se3JxrEz2f)
 
 ### ELK Stack
 - Elasticsearch Course for Beginners [Freecodecamp-Youtube](https://youtu.be/a4HBKEda_F8?si=XvNCMFCbYRq7tI_J)

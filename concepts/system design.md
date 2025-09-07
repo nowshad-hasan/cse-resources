@@ -146,6 +146,12 @@
 - What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney • GOTO 2016 [Youtube](https://youtu.be/kb-m2fasdDY?si=getCA4BeKSpPN7pF)
 - Streaming a Million Likes/Second: Real-Time Interactions on Live Video [Youtube](https://youtu.be/yqc3PPmHvrA?si=enubZDl3Xj9zyh3d)
 - Agoric + Protocol Labs // Part 1 - Distributed Programming for a Decentralized World - Mark Miller [Youtube](https://youtu.be/52SgGFpWjsY?si=mV3TuTdMmcZqrRgu)
+- Tinder's New Ranking System - What Does It Mean For You? [Youtube](https://youtu.be/-UnMxiH-NKk?si=TTwglruH4unzGShv)
+- Object oriented design questions [Youtube playlist](https://youtube.com/playlist?list=PLVmewxuuuKs-MldK0ADcXGYanMNL5ALjH&si=9OACqc0G7f0f9scN)
+- Coding and System Design Interview [Youtube playlist](https://youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka&si=rL65P9pjnbg9_fUR)
+- Object Oriented Design [Youtube playlist](https://youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE&si=3odE7-MnHZ1qJp-I)
+- Basics of System Design [Youtube playlist](https://youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u&si=6lwa6NiVi3bxO6MY)
+- Grokking the System Design Interview [Youtube playlist](https://youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL&si=txNV8s0W6dpQcFSa)
 
 
 ### Discussion

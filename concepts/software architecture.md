@@ -25,6 +25,7 @@
 - How Grab configured their data layer to handle multi-million database transactions a day! [Arpit Bhayani-Youtube](https://youtu.be/KeV4erIm47o?si=wPuz0yO9sMgtbbm6)
 - The Business of Building Apps - App Product Management Course for Developers [Freecodecamp-Youtube](https://youtu.be/poLzjLt2yqU?si=-0r2Fbk81HcIY4_u)
 - (Bangla) Software architecture 01 : What should we consider when designing a software from scratch [Foyzul Karim](https://youtu.be/HDEWoUcHCqA?si=t_vjingKHp8zqi_n)
+- Building Software Systems At Google and Lessons Learned [Stanford-Youtube](https://youtu.be/modXC5IWTJI?si=ujXwrMtTvxAHSuA0)
 
 ### Courses
 - Information​ ​Systems Specialization [Coursera](https://www.coursera.org/specializations/information-systems)

@@ -12,6 +12,7 @@
 ### Courses
 
 - Generative AI with Large Language Models [Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
+- LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) [Freecodecamp](https://youtu.be/Q7mS1VHm3Yw?si=2sx1r-K1fPMs4oDu)
 
 ### AI Website
 

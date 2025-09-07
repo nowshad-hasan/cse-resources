@@ -9,3 +9,7 @@
 ### Collection
 
 * Chrome Extension Tutorials [Codedamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQlWil-vQ-y7NR902ovyq1Xi)
+
+### Videos
+
+- I Built and Published a Chrome Extension: Here’s What I’d Never Do Again [Youtube](https://youtu.be/CMItVMJnNik?si=uCOkwRt7DCY_Q3sl)

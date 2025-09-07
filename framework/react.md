@@ -9,11 +9,14 @@
 - Go and React Full Stack App – Go Tutorial for Node Developers [Freecodecamp-Youtube](https://youtu.be/lNd7XlXwlho?si=nMs1TyBxGQ-f_MRt)
 - Full Stack Tutorial – Hotel Management Site w/ Next.js, React, Sanity.io, Tailwind, Stripe [Freecodecamp](https://youtu.be/kiCH27qsNL8?si=53qjp8zAeO9WRTb5)
 - Full Stack React Node Project | Build a Notes App from Scratch for your Portfolio [Freecodecamp-Youtube](https://youtu.be/2MoSzSlAuNk?si=hxVLd1zeLeBwv0Wj)
+- Strapi 5 and Next.js 15 Full Stack Project Course [Freecodecamp](https://youtu.be/Q-cPtlYG1cY?si=HpGyuGX4apZ7_cSl)
 
 
 ### Video 
-- 3 Years Experienced React Interview [ProCodrr-Youtube](https://youtu.be/rX4dlpvbvu8?si=2YmpNJTCVBOkJ7YE)
 
+- Introduction to React.js [Meta Developers](https://youtu.be/XxVg_s8xAms?si=Vkpxlpp0AJuh-Y2R)
+- 3 Years Experienced React Interview [ProCodrr-Youtube](https://youtu.be/rX4dlpvbvu8?si=2YmpNJTCVBOkJ7YE)
+- All 12 useState & useEffect Mistakes Junior React Developers Still Make in 2025 [Youtube](https://youtu.be/-yIsQPp31L0?si=mIAWY-zvDAuxBHII)
 
 ### Interview Questions
 

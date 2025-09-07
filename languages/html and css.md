@@ -133,4 +133,4 @@ Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/
 - How to Make a Landing Page using HTML, SCSS, and JavaScript - Full Course [Freecodecamp-Youtube](https://youtu.be/aoQ6S1a32j8?si=D3h6eyXucffYMCAw)
 - 24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More! [Freecodecamp-Youtube](https://youtu.be/TzuWIHGFKCQ?si=s1VR3FMNPpBZWDp0)
 - My best CSS tips from 2024 [Kevin Powell](https://youtu.be/lUU2OAAg4Uw?si=9D6lBG47jcUtTbBz)
-
+- Frontend Mentor Challenges [Youtube Playlist](https://youtube.com/playlist?list=PLcZZlEf3w738Bv45a8yI_iIv2OGx_JLvz&si=nXfx4Z6H6EV9yDpQ)

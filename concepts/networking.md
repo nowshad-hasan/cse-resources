@@ -15,6 +15,7 @@
 - Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3 [Hussein Nasser-Youtube](https://youtu.be/0OrmKCB0UrQ?si=McHFRk3z9X9Rht_U)
 - The OSI Model - Explained by Example [Hussein Nasser-Youtube](https://youtu.be/7IS7gigunyI?si=whZJsEADCJpYUz40)
 - Networking Fundamentals [Youtube](https://youtube.com/playlist?list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1&si=6MGV6TyLU_7jAyLy)
+- TCP vs UDP Crash Course [Hussein Nasser](https://youtu.be/qqRYkcta6IE?si=kqHESNtECLIL6A-i)
 
 ### Other
 

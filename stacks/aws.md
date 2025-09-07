@@ -9,3 +9,8 @@
 - AWS Skillbuilder [AWS](https://skillbuilder.aws/search)
 - AWS Cloud Technology Consultant Professional Certificate [Coursera](https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant)
 - AWS For Beginners [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1)
+- AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) [Youtube](https://youtu.be/KX_AfyrhlgQ?si=rT9KZugZWZ1f0118)
+
+### Videos
+
+- I failed an AWS Exam TWICE (Mistakes to avoid for SysOps) [Youtube](https://youtu.be/lfLta9zFw3Y?si=EckUAzirX_eivrhf)

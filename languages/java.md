@@ -112,6 +112,7 @@
 * Secure Coding Guidelines for Java SE [Oracle](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
 * Prevent Breaking a Singleton Class Pattern [DZone](https://dzone.com/articles/prevent-breaking-a-singleton-class-pattern)
 * Things to avoid while writing Java [Medium](https://medium.com/@b.stoilov/things-to-avoid-while-writing-java-cd078e5aa61c)
+- Logback vs SLF4J vs Log4J2 - what is the difference? [Java Brains-Youtube](https://youtu.be/SWHYrCXIL38?si=2ZfQRjbxZBtyyD5g)
 
 ### Collection Framework
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
@@ -191,6 +192,7 @@
 * How to plan your Java learning path - Brain Bytes - Java Brains [YouTube](https://youtu.be/DC5wtYGQ7XE)
 * 13 Java type system caveats and tricks you may want to know | Cause Cheng at Java Z-Day [YouTube](https://youtu.be/NgomJQwujiY)
 * How Netflix Uses Java - 2025 Edition [Java-Youtube](https://youtu.be/XpunFFS-n8I?si=17ucrL1Anul85-CF)
+* How Netflix Really Uses Java [InfoQ](https://youtu.be/BaUrpq_7KMk?si=NU6C6WSTmxdsc5LN)
 * Java 14 Makes Code Super Expressive, Say Top Developers [Forbes](https://www.forbes.com/sites/oracle/2020/04/02/java-14-makes-code-super-expressive-say-top-developers/amp/)
 * The 2019 Java Developer Roadmap [DZone](https://dzone.com/articles/the-2019-java-developer-roadmap)
 * Best Books For Learning Java : Must Read [Java Hungry](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html)
@@ -216,6 +218,17 @@
 - Creating a Simple Java TCP/IP Server and Custom Servlet API [CM Abdullah-Youtube](https://youtu.be/lWPcWVdJl8U?si=wLd888VLIZ6LrAL3)
 - Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler [Devoxx](https://youtu.be/lIq-x_iI-kc?si=BneYQPqnrFbVhWg6)
 - Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam [Devoxx-Youtube](https://youtu.be/1OpAgZvYXLQ?si=MDrEDc3Txuq7neE-)
+- 5 killer tricks to make your Java web app look awesome [JUGBD-Youtube](https://www.youtube.com/live/MGlYoBrZkFQ?si=uRsY1n46pm07Q5ie)
+- How to create a ThreadPool from scratch [Bazlur Rahman-Youtube](https://youtu.be/iH-sCG_zrHw?si=LDoB_HLKYeO12S4J)
+- 5 mistakes Java developers make that prevent them from working on awesome projects [JUGBD-Youtube](https://www.youtube.com/live/jClgfopcAF8?si=xh055mJhdOC-9rMk)
+- Learn the Concepts Behind Those 10 Java Challenges and Eliminate Stressful Bugs [JUGBD-Youtube](https://www.youtube.com/live/KE6ZEAggOY8?si=OGcE3hgEW4PIqrbg)
+- How do I find the factorial of a large number using java? [Bazlur Rahman-Youtube](https://youtu.be/dQQOkSA9CNU?si=0OCHyDPzZEUt7Bjg)
+- Hashmap Internal Implementation in java [Youtube](https://youtu.be/AsAymWn7D40?si=-lh3qHxvorRFJ_0B)
+- 99% of Developers Don't Get JIT Compilers [Youtube](https://youtu.be/KVvGVPc7QM8?si=L3c4ZsgBBI9obhua)
+- Rethinking Garbage Collection by Dr. Rifat Shahriyar [JUGBD-Youtube](https://youtu.be/Fte2pKMjgG0?si=0xgSvZs1Lhio85in)
+- Java Concurrency and Multithreading [Youtube Playlist by Jakob Jenkov](https://youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&si=ZJ3mkqU4nGfoJoP2)
+- Oracle Developer Live -- Java [Youtube playlist](https://youtube.com/playlist?list=PLX8CzqL3ArzW8jrkifXxj_DhXjKeGOSuU&si=Qir6m9G5aYzEN909)
+- JetBrains Technology Day for Java 2020 [Youtube playlist by IntelliJ IDEA](https://youtube.com/playlist?list=PLPZy-hmwOdEW4Fe-j_rEy6tQUh_r_YC7g&si=Eqx011vlbkksRke6)
 
 ### Testing
 

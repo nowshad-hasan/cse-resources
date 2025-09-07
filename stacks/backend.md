@@ -11,6 +11,11 @@
 
 - Awesome Backend Engineer [Github](https://github.com/zhashkevych/awesome-backend)
 
+### Videos
+
+- Show your Backend Engineering Skills To Recruiters - Building a Full Backend Portfolio [Hussein Nasser-Youtube](https://youtu.be/nIracKeqsFk?si=d3hHNN6wToAtjW5A)
+
+
 ### To Learn
 - WebRTC
 - Video Streaming

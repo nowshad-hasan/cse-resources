@@ -108,7 +108,9 @@
   * Be More Productive With IntelliJ IDEA by Trisha Gee [YouTube](https://youtu.be/CmPJzEqFS4s)
   * IntelliJ IDEA by Amigoscode [YouTube](https://youtu.be/yefmcX57Eyg)
   * New IntelliJ Tricks I Learnt Part 2 [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij_2/)
-  * New IntelliJ Tricks I Learnt Today [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij/   )
+  * New IntelliJ Tricks I Learnt Today [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij/)
+  - IntelliJ IDEA 2020.2 for Java Developers [IntelliJ IDEA Youtube](https://youtu.be/lgZRMCpfYM4?si=tx0BWIPDz9I5hPE0)
+  - 
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -225,6 +227,7 @@
 * How Does an Engineer Create a Programming Language? [The New Stack](https://thenewstack.io/how-does-an-engineer-create-a-programming-language/)
 * Refactor like a PRO [Link](https://craftbettersoftware.com/p/refactor-like-a-pro)
 * 35 Best Websites to Learn Coding [Updated for 2025] [Link](https://devopscube.com/top-websites-to-learn-programming-online/)
+* Secret to Success in Tech by Addy Osmani [Youtube](https://youtu.be/HZLmPCGuJXU?si=al_KQ8gTzIYrGYNi)
 
 ### Productivity
 
@@ -329,6 +332,10 @@
 - - How A Small Team of Developers Created React at Facebook | React.js: The Documentary [Youtube](https://youtu.be/8pDqJVdNa44?si=kLKAsPm4v5V2iR0B)
 - The INSANE Truth About TikTok [Youtube](https://youtu.be/djk159kLBwA?si=jbWKwE4so0VzFa9m)
 - The Universe is Hostile to Computers [Youtube](https://youtu.be/AaZ_RSt0KP8?si=-VF6-4ZGrBJMC9_o)
+- How I Built It: $23K/month micro-saas [Youtube](https://youtu.be/NvtsM8Nk72c?si=sqCVNXH3gksm56BN)
+- GraphQL: The Documentary [Youtube](https://youtu.be/783ccP__No8?si=dYowLlKxV13VD8Ku)
+- TypeScript Origins: The Documentary [Youtube](https://youtu.be/U6s2pdxebSo?si=junaYLfkMBFszr7L)
+- Documentaries for Developers [Youtube Playlist](https://youtube.com/playlist?list=PLtEPUaeDclku1ECmuN3IsUimHApukWIOf&si=94FEcqFpGR-DE8dI)
 
 ### IDE Tips
 - 3 VS Code Settings I IMMEDIATELY Turn Off [James Q Quick](https://youtu.be/fmzVJ0Wt29I?si=0ASltg7yYCiB1DCi)
@@ -340,6 +347,7 @@
 - IntelliJ IDEA. Using the Terminal [IntelliJ IDEA-Youtube](https://youtu.be/tlEkrWU0d1M?si=JYsCHhvDsk650yiJ)
 - Profiling Tools and IntelliJ IDEA Ultimate [IntelliJ IDEA-Youtube](https://youtu.be/OQcyAtukps4?si=gg-7YYhfFMdUq9eC)
 - Top 10 Plugins for IntelliJ IDEA You Don’t Want to Miss [Jetbrains Blog](https://blog.jetbrains.com/idea/2021/05/top-10-plugins-for-intellij-idea/)
+- IntelliJ IDEA. Everyday Refactorings [IntelliJ IDEA - Youtube](https://youtu.be/rPq7fBo5JVs?si=pDxxdCj6PAOrjkTQ)
 
 
 ### Youtube Channel
@@ -355,6 +363,7 @@
 - Coding Programs – 152 Coding Classes You can Take for Free Online [Freecodecamp](https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online)
 - Visual Studio Code Can Do That? [Frontend Masters](https://frontendmasters.com/courses/archive/customize-vs-code/)
 - HarvardX: CS50's Introduction to Computer Science [Link](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+- Computer Science [Crash Course-Youtube Playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=dvchp8LyHzkKo_xO)
 
 ### Website
 

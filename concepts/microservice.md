@@ -8,6 +8,10 @@
 
 - Top 10 Microservices Pattern [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7062074241856200705/)
 
+### Courses
+
+- Spring Boot Microservices Full Course [Programming Techie](https://youtube.com/playlist?list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c&si=5T_IjMhRSKHsQinm)
+
 ### Articles
 
 - 10 Design Patterns every Software Architect and Software Engineer must know [Medium](https://ravindraelicherla.medium.com/10-design-patterns-every-software-architect-must-know-b33237bc01c2)

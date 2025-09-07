@@ -143,6 +143,10 @@
 - Big O Notation [HackerRank-Youtube](https://youtu.be/v4cd1O4zkGw?si=fBTS2E1-q9FgJEUC)
 - Project Loom: Modern Scalable Concurrency for the Java Platform [Java-Youtube](https://youtu.be/fOEPEXTpbJA?si=wIGp88dr3gFeYC21)
 - Recursion playlist [Youtube](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLz3g66WrxFGSXvSsvyfzCO)
+- Graph Algorithms for Technical Interviews - Full Course [Freecodecamp-Youtube](https://youtu.be/tWVWeAqZ0WU?si=eWNh0poHWOH2I-IZ)
+- Why Algorithms Work – Algorithm Analysis Deep Dive Course [Freecodecamp-Youtube](https://youtu.be/ku6HZ_k9qgY?si=vdYTSUMMNQCegE78)
+- IPC 2020 - Full Track [Youtube Playlist](https://youtube.com/playlist?list=PLQXZIFwMtjoxxLo-0iknkRsAvVQJ7kmrh&si=XsgXx2O0aV7xJnKl)
+- Data Structures and Algorithms in Java [Youtube Playlist](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&si=O4E5aWHzKT4Hyfg7)
 
 ### Courses
 - Computational Thinking for Problem Solving [Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
