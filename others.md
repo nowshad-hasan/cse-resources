@@ -228,6 +228,12 @@
 * Refactor like a PRO [Link](https://craftbettersoftware.com/p/refactor-like-a-pro)
 * 35 Best Websites to Learn Coding [Updated for 2025] [Link](https://devopscube.com/top-websites-to-learn-programming-online/)
 * Secret to Success in Tech by Addy Osmani [Youtube](https://youtu.be/HZLmPCGuJXU?si=al_KQ8gTzIYrGYNi)
+* Think Like A Coder [Youtube playlist](https://youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or&si=4zCabJJcPo0CgFOG)
+* Tech_Talk by Tamim Shahriar [Youtube playlist](https://youtube.com/playlist?list=PLym69wpbTIIFscLaK-u1M9J7MDp1RaV5h&si=cojsmTVZhtevNjtG)
+* Business of App Development [Youtube playlist](https://youtube.com/playlist?list=PLhPyEFL5u-i0hg8ejI9VeNuU5o5p8Tdw1&si=nCmr6f4Z_L5G4I0U)
+### Coding Music
+
+- coding music (long playlists) [Coder Coder](https://youtube.com/playlist?list=PLUWqFDiirlsu9rjpZQiAOqw2h6FXjtKeX&si=QK87cnl5Lpkx4Qrm)
 
 ### Productivity
 
@@ -289,6 +295,7 @@
 - [Software without anger: managing yourself](https://kaz.com.bd/blog/2019/11/22/software-without-anger-managing-yourself)
 - [5 things software entrepreneurs must remember](https://kaz.com.bd/blog/2015/10/8/5-things-software-entrepreneurs-must-remember)
 - [Usability testing: How not to strangle your customers](https://kaz.com.bd/blog/2020/10/15/usability-testing-how-not-to-strangle-your-customers)
+- Why incompetent people think they're amazing - David Dunning [TED-Ed](https://youtu.be/pOLmD_WVY-E?si=lWQ7FVhc5lSss2Ft)
 
 ### Project Ideas
 

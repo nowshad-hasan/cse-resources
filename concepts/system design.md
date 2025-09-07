@@ -152,7 +152,8 @@
 - Object Oriented Design [Youtube playlist](https://youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE&si=3odE7-MnHZ1qJp-I)
 - Basics of System Design [Youtube playlist](https://youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u&si=6lwa6NiVi3bxO6MY)
 - Grokking the System Design Interview [Youtube playlist](https://youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL&si=txNV8s0W6dpQcFSa)
-
+- Design Systems London 2018 [Design Systems London](https://youtube.com/playlist?list=PLNC1kqILNVugAHQyYv4US89qZQLjmLIpi&si=MTvFpbwEmuCWpRFj)
+- System design tutorials by Renaissance Engineer [Youtube playlist](https://youtube.com/playlist?list=PL_esswHjNwIeiFfVFer8uYly3Zk6YqXd0&si=Skrgf8qeWZollQPh)
 
 ### Discussion
 

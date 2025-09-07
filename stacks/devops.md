@@ -63,6 +63,7 @@
 - DevOps Tutorial for Beginners | Learn DevOps in 7 Hours - Full Course [Edureka-Youtube](https://youtu.be/hQcFE0RD0cQ?si=vJHN5gsn1dNWKIiu)
 - DevOps Courses [Freecodecamp Youtube](https://youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&si=5hw5XKItxVJNZVgq)
 - DevOps - Networking knowledge base [Eli the Computer Guy-Youtube](https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H&si=ULayqgZtDTrWcWb3)
+- (Bangla) Docker tutorial by Foyzul Karim [Youtube playlist](https://youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku&si=5YEBcRieLU9eaJMD)
 
 ### Free tier
 
@@ -94,6 +95,10 @@
 - Why you should use a web server (Nginx) in front of your Spring Boot application [Marco Behlar](https://youtu.be/A0Il8_03_Mo?si=oub58VE16h-obj8Q)
 - How To Become A DevOps Engineer in 2023? | Skills To Learn [Youtube](https://youtu.be/IiuWlqabx9M?si=yAYch_6DROPm19Uf)
 - Let's deploy Spring Boot with Jenkins! [Youtube](https://youtube.com/playlist?list=PL0UJI1nZ56yC7X07TY7FST6XSOsEJ4Xvy&si=s-4MU4se3JxrEz2f)
+- DEVOPS_BOOT_CAMP [Youtube playlist](https://youtube.com/playlist?list=PLZij6bgEHkTXhO0NziZmxSrLJa3e0KGWF&si=HwGBk8GribKPiJgy)
+- Networking In Docker [Youtube playlist](https://youtube.com/playlist?list=PLVXIPQEYWxlq5lWS1qWGVXnx5J97ji_vR&si=A0Pjvjm-vrlr0MPv)
+- Docker Made Easy [Youtube playlist](https://youtube.com/playlist?list=PLVXIPQEYWxlrFC0mRjplAP6mWCAX7c5it&si=398JpA6QLp5-AZmb)
+- CI/CD/DevOps - freeCodeCamp [Youtube playlist](https://youtube.com/playlist?list=PLtS7XdlvrF99tN-WcI1pOtQepN_w4nUmR&si=Q7iwJgQj4R_7UiOy)
 
 ### ELK Stack
 - Elasticsearch Course for Beginners [Freecodecamp-Youtube](https://youtu.be/a4HBKEda_F8?si=XvNCMFCbYRq7tI_J)

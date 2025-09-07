@@ -14,7 +14,9 @@
 ### Videos
 
 - Show your Backend Engineering Skills To Recruiters - Building a Full Backend Portfolio [Hussein Nasser-Youtube](https://youtu.be/nIracKeqsFk?si=d3hHNN6wToAtjW5A)
-
+- Backend Engineering (Beginner) [Hussein Nasser-Youtube playlist](https://youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT&si=HVVbpKHoTcqIY_pO)
+- Backend Engineering (Intermediate) [Hussein Nasser-Youtube playlist](https://youtube.com/playlist?list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs&si=VpaNqL6jANcRM8rW)
+- Backend Engineering (Advanced) [Hussein Nasser-Youtube playlist](https://youtube.com/playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ&si=RwQ-zZ2Kj6YxO---)
 
 ### To Learn
 - WebRTC

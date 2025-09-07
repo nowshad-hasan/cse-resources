@@ -1,6 +1,7 @@
 ## Contents
 
 - [Courses & Tutorials](#courses-$-tutorials)
+- [Conference Talks](#conference-talks)
 - [Books](books)
 - [Blog](#blog)
 - [Core Java](#core-java)
@@ -26,6 +27,8 @@
 * Java Notes for Professionals book [Goalkicker](https://goalkicker.com/JavaBook/)
 * Java By IBM Developer [IBM](https://developer.ibm.com/languages/java/)
 * Java and Spring Learning Materials [Github](https://github.com/simantaturja/Learn-Java-Spring)
+
+### Conference Talks
 
 ### Blog
 * [Marcobehler](https://www.marcobehler.com/guides)
@@ -229,6 +232,13 @@
 - Java Concurrency and Multithreading [Youtube Playlist by Jakob Jenkov](https://youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&si=ZJ3mkqU4nGfoJoP2)
 - Oracle Developer Live -- Java [Youtube playlist](https://youtube.com/playlist?list=PLX8CzqL3ArzW8jrkifXxj_DhXjKeGOSuU&si=Qir6m9G5aYzEN909)
 - JetBrains Technology Day for Java 2020 [Youtube playlist by IntelliJ IDEA](https://youtube.com/playlist?list=PLPZy-hmwOdEW4Fe-j_rEy6tQUh_r_YC7g&si=Eqx011vlbkksRke6)
+- Modern Java - Update your Java [Youtube playlist](https://youtube.com/playlist?list=PL8GhfcywW9YNuNHrG0FAg5xiprfYcYyuL&si=zBk_hyhuNkelgZmY)
+- Hibernate 5 Tutorial [Youtube playlist](https://youtube.com/playlist?list=PLGRDMO4rOGcMrHnQoSg3pK4PpxCV6pzmO&si=QBrP0SzfiVocEGoi)
+- Java Developers FAQs [Youtube playlist](https://youtube.com/playlist?list=PLVz2XdJiJQxwS8FyWnWyKyfILxHPLsiro&si=9r07cwc-NO2CQunZ)
+- Oracle Code One 2018 [Java playlist](https://youtube.com/playlist?list=PLX8CzqL3ArzXVmMKcWEbECLoy8mVddkv9&si=xE1Sfg2LeDsshEjD)
+- Spring MVC [Miss Xing playlist](https://youtube.com/playlist?list=PLGTrAf5-F1YIiJH5rpBcv3M6DSrbi08vI&si=nvXIXhDq8xgPsPG6)
+- Oracle Code One 2019 [Youtube playlist](https://youtube.com/playlist?list=PLgb3pcfc1uwT1umMTBztF_OcOU3G7rBdk&si=S-i-jqiT7iP5bzx8)
+- Global Summit for Java devs 2021 by Geekle Official [Youtube playlist](https://youtube.com/playlist?list=PLnQIVBzL8WX4-D-dJoxAme-HL1ugeOI11&si=j-9ETpRRbopso3ge)
 
 ### Testing
 

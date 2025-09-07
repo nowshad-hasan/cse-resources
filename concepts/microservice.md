@@ -26,7 +26,9 @@
 - What is the Sidecar pattern and why is it heavily used in micro-services [Hussein Nasser-Youtube](https://youtu.be/zcJWvhzkPsw?si=xievoNDd3Zx3rMPy)
 - Microservices • Martin Fowler • GOTO 2014 [Youtube](https://youtu.be/wgdBVIX9ifA?si=yb06ztilC35rFMfA)
 - Event-Driven Architectures Done Right, Apache Kafka • Tim Berglund • Devoxx Poland 2021 [Devoxx Poland](https://youtu.be/A_mstzRGfIE?si=lY-6eR013WOGJeQt)
-
+- বাংলায় মাইক্রোসার্ভিস / Microservices by Foyzul Karim [Youtube playlist](https://youtube.com/playlist?list=PLEYpvDF6qy8YyX2dQX93C88mQ5alaWFXJ&si=VNXEmbQen9LXMa-H)
+- Event Sourcing - Do it yourself [Youtube playlist](https://youtube.com/playlist?list=PL-nSd-yeckKh7Ts5EKChek7iXcgyUGDHa&si=SKzjOB5BhnSpmKOI)
+- Microservices [Youtube playlist](https://youtube.com/playlist?list=PLEYpvDF6qy8Y2jqShTLjaYnkGU6vYKf4Y&si=uPfSRkkQysstvSMe)
 
 ### Collections
 - A pattern language for microservices [Microservices.io](https://microservices.io/patterns/)

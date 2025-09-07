@@ -16,6 +16,9 @@
 - The OSI Model - Explained by Example [Hussein Nasser-Youtube](https://youtu.be/7IS7gigunyI?si=whZJsEADCJpYUz40)
 - Networking Fundamentals [Youtube](https://youtube.com/playlist?list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1&si=6MGV6TyLU_7jAyLy)
 - TCP vs UDP Crash Course [Hussein Nasser](https://youtu.be/qqRYkcta6IE?si=kqHESNtECLIL6A-i)
+- Network Fundamentals [Youtube playlist](https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=W86S8E0VEOMVSjKQ)
+- Computer Networking [Youtube playlist](https://youtube.com/playlist?list=PLfZEHK9XLKd6p3lRjZluG73e1_3FfOC2N&si=kzpwURM4Kgc-Z9Ov)
+- বাংলায় ৪০ মিনিটে নেটওয়ার্কিং কোর্স by Foyzul Karim [Youtube playlist](https://youtube.com/playlist?list=PLEYpvDF6qy8b2jm3xl-5lEdYE8OBniHe4&si=4T-xogExeayFOtdY)
 
 ### Other
 

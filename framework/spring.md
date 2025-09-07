@@ -227,6 +227,8 @@
 * Spring Security – Roles and Privileges [Baeldung](https://www.baeldung.com/role-and-privilege-for-spring-security-registration)
 - Deconstructing and Evolving REST Security [JUGBD-Youtube](https://www.youtube.com/live/A-VwyNRseO8?si=vHSvEc3r6QoqQGxc)
 - Testing Java Code Effectively [JUGBD-Youtube](https://www.youtube.com/live/74EqlMHVB3E?si=XYsNXVbPTuTAnq5-)
+- Spring Security Fundamentals 2020 by Laur Spilca [Youtube playlist](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz&si=VSzzPR3ya0Nt8f4T)
+- Spring Security Experimental Authorization Server by Laur Spilca [Youtube playlist](https://youtube.com/playlist?list=PLEocw3gLFc8WtQ1OD5TgkffxcXVafIFFP&si=1v2J9jeqjtDVfwJo)
 
 ### Message Queue
 
@@ -328,3 +330,12 @@
 - Spring Tips [Youtube playlist by SpringDeveloper](https://youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc&si=kIer9Zh9TV5bsqP6)
 - Spring Boot [Youtube playlist by SpringDeveloper](https://youtube.com/playlist?list=PLgGXSWYM2FpOa_FTla-x5Wd10dpmgrRC4&si=aN_j8fBOx_omVW5N)
 - Message Driven Architecture [Youtube playlist by SpringDeveloper](https://youtube.com/playlist?list=PL03192C8CDBBD4C96&si=VgVMMomtM5mVjVT9)
+- Spring Integration using Annotations [Youtube playlist](https://youtube.com/playlist?list=PLO0KWyajXMh6HbVTnf7YqwbEeZU6kuKJa&si=Qt4if3ZYK8SCATwB)
+
+### Gradle
+
+- Understanding Gradle [Youtube playlist](https://youtube.com/playlist?list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE&si=xLlw7MSZpbL5dwio)
+- Gradle for Beginners Series [Tom Gregory-Youtube playlist](https://youtube.com/playlist?list=PL0UJI1nZ56yDZSgsL1Gf4_krgTMhuotYM&si=cYkgeh_VkRySnnm6)
+- Build Like a PRO Gradle Best Practice [Tom Gregory-Youtube playlist](https://youtube.com/playlist?list=PL0UJI1nZ56yAHv9H9kZA6vat4N1kSRGis&si=v4bzhxh0GGi02wNl)
+- Configuring the Build Scan Service for Gradle by Gradle [Youtube playlist](https://youtube.com/playlist?list=PLLQbIfXVLZqH4Ag5Og8VXYpJV9AworvXm&si=wVMqFftiUIvbZA85)
+- Gradle Build Tool - Dependency Management [Youtube playlist](https://youtube.com/playlist?list=PLLQbIfXVLZqEdJ-6tEsfvn17IKCeQOGWf&si=esKRZb8QhFXxwhDl)

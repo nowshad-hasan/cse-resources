@@ -147,6 +147,8 @@
 - Why Algorithms Work – Algorithm Analysis Deep Dive Course [Freecodecamp-Youtube](https://youtu.be/ku6HZ_k9qgY?si=vdYTSUMMNQCegE78)
 - IPC 2020 - Full Track [Youtube Playlist](https://youtube.com/playlist?list=PLQXZIFwMtjoxxLo-0iknkRsAvVQJ7kmrh&si=XsgXx2O0aV7xJnKl)
 - Data Structures and Algorithms in Java [Youtube Playlist](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&si=O4E5aWHzKT4Hyfg7)
+- LeetCode Solutions [Nick White playlist](https://youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&si=2DG-HkpKZxImkYeM)
+- HackerRank Solutions [Youtube playlist](https://youtube.com/playlist?list=PLU_sdQYzUj2nKXYskiYlKQIKknqu4H5ti&si=scnil_Z2Ym9nNawg)
 
 ### Courses
 - Computational Thinking for Problem Solving [Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)

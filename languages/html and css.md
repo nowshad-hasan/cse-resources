@@ -16,6 +16,15 @@
 
 Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/getting-started-css-v2/)
 
+### Conference Talks
+
+- “Modern Layouts: Getting Out of Our Ruts” by Jen Simmons – An Event Apart Austin 2015 [An Event Apart](https://youtu.be/jreccgYLfx8?si=wAxRY23gshOx_jZI)
+- “Revolutionize Your Page” by Jen Simmons – An Event Apart Orlando 2016 [An Event Apart](https://youtu.be/aYgMExb-mlo?si=H3iBEzcmlR8FSo_1)
+- “Designing with Grid” by Jen Simmons – An Event Apart Denver 2017 [An Event Apart](https://youtu.be/t0b3uBoDkBs?si=5w_t0oJIsy-QXUju)
+- “Everything You Know About Web Design Just Changed” by Jen Simmons—An Event Apart video [An Event Apart](https://youtu.be/jBwBACbRuGY?si=ldMfy0ZJSpM91LHQ)
+- “Designing Intrinsic Layouts” by Jen Simmons—An Event Apart video [An Event Apart](https://youtu.be/AMPKmh98XLY?si=22_Q8bvLcjSrCdd0)
+- “Everything You Know About Web Design Just Changed” by Jen Simmons—An Event Apart video [An Event Apart](https://youtu.be/jBwBACbRuGY?si=aPTbQ2kJHXa9_AT_)
+
 ### Core
 
 *  Udacity Frontend Nanodegree Style Guide [Udacity](https://udacity.github.io/frontend-nanodegree-styleguide/css.html#type-selectors)
@@ -134,3 +143,25 @@ Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/
 - 24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More! [Freecodecamp-Youtube](https://youtu.be/TzuWIHGFKCQ?si=s1VR3FMNPpBZWDp0)
 - My best CSS tips from 2024 [Kevin Powell](https://youtu.be/lUU2OAAg4Uw?si=9D6lBG47jcUtTbBz)
 - Frontend Mentor Challenges [Youtube Playlist](https://youtube.com/playlist?list=PLcZZlEf3w738Bv45a8yI_iIv2OGx_JLvz&si=nXfx4Z6H6EV9yDpQ)
+- Give your site a fantastic color scheme fast [Kevin Powell](https://youtu.be/mq8LYj6kRyE?si=GTpAIytsaAys4MSx)
+- Three fun uses for ::before and ::after [Kevin Powell](https://youtu.be/QFjqxVMwIl8?si=XkXQKVxsEHeS0lb9)
+- The most common HTML mistake // The incorrect use of HTML heading levels [Kevin Powell](https://youtu.be/NexL5_Vdoq8?si=lb1EHFzij_5fV5qD)
+- Stop using JS for things that CSS can solve [Kevin Powell](https://youtu.be/yyPteFyZsCE?si=AkqYK36pK16i2QKK)
+- JavaScript Problems, CSS Solutions (with Amit Sheen) | Some Antics [Ben Myers](https://youtu.be/__Thf_Wo-oA?si=as9aiwU8HlJ34Ovj)
+- Figma components: the basics to creating robust components [Kevin Powell](https://youtu.be/hnx5UWaP_jo?si=4iXcd3644FFgDT1o)
+- Learn flexbox the easy way [Kevin Powell](https://youtu.be/u044iM9xsWU?si=-ypWMxUqpJF6lMQu)
+- The Ultimate CSS3 Flexbox Tutorial - Colt's Code Camp [Colt Steele](https://youtu.be/qZv-rNx0jEA?si=9Gl23EQcDxzTmJrG)
+- Introduction To Responsive Web Design - HTML & CSS Tutorial [Freecodecamp](https://youtu.be/srvUrASNj0s?si=YmjvoJnFUj537uam)
+- Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer [Youtube](https://youtu.be/IKFq2cSbQ4Q?si=7elWILDzLNyUft42)
+- How to write Semantic CSS [Kevin Powell](https://youtu.be/lWu5zf_S9R4?si=30SyEaMqPtMrNG99)
+
+### Live Coding
+
+- HTML / CSS Tutorial – Create a Preview Card Component [Freecodecamp - Youtube](https://youtu.be/PfhFnPuWums?si=yUzltvWp7tDiKW1R)
+- Responsive layout practice for beginners [Kevin Powell](https://youtu.be/JFbxl_VmIx0?si=VYomdrrt9YBOZUFS)
+- Building an accordion with HTML, CSS & JS (Part 1) [Coder coder](https://youtu.be/FboXxLxg8eo?si=VE7EGf9-cdE2LlZa)
+- Building a portfolio website with HTML & CSS | Part 1 [Coder coder](https://youtu.be/65GVcdESj3s?si=JygXedE7euN7K-b6)
+- Step up your front-end skills with these 5 resources [Kevin Powell](https://youtu.be/QqDH5sYzDS8?si=uTiJ6QSnxDMrvist)
+- Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component [Kevin Powell](https://youtu.be/B2WL6KkqhLQ?si=bgMYaj9BhvAxrkYO)
+- From Design to Code // HTML & CSS from scratch // Frontend Mentor [Kevin Powell](https://youtu.be/KqFAs5d3Yl8?si=3L8T2hUlUfS8QkT3)
+- Position absolute and responsive layouts [Kevin Powell](https://youtu.be/H04P5YXVssE?si=pRr14Pm0C0pKlVIQ)

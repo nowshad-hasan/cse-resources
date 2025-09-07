@@ -10,6 +10,7 @@
 - AWS Cloud Technology Consultant Professional Certificate [Coursera](https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant)
 - AWS For Beginners [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1)
 - AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) [Youtube](https://youtu.be/KX_AfyrhlgQ?si=rT9KZugZWZ1f0118)
+- AWS Tutorial in Bengali [Youtube playlist](https://youtube.com/playlist?list=PLo1fN4WDLQ_YTvJ00S4bYWLwSUw8YxEWl&si=a4iHRoH6VG1utXeh)
 
 ### Videos
 

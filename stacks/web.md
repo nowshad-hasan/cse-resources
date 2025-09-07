@@ -73,6 +73,7 @@
 - CORS, Preflight Request, OPTIONS Method | Access Control Allow Origin Error Explained [Youtube](https://youtu.be/tcLW5d0KAYE?si=dKX_RUq3mm-uwqKx)
 - Cross Origin Resource Sharing (Explained by Example) [Hussein Nasser-Youtube](https://youtu.be/Ka8vG5miErk?si=GnsKITJDnoGsybuO)
 - Stateful vs Stateless Applications [Hussein Nasser-Youtube](https://youtu.be/nFPzI_Qg3FU?si=x9dxg_fbqcgg5Fib)
+- Cookies by Hussein Nasser [Youtube playlist](https://youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn&si=svPo_vOrm5BATT4s)
 
 ### Courses
 

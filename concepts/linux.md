@@ -2,6 +2,11 @@
 
 * [Command line](#command-line)
 
+### Courses
+
+- The Linux Basics Course by tutorialLinux [Youtube playlist](https://youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK&si=VPkHlOth0rXihSQ3)
+
+
 ### Articles
 
 - Linux vs. Unix: What's the difference? [opensource.com](https://opensource.com/article/18/5/differences-between-linux-and-unix)
@@ -25,6 +30,7 @@
 - Mathias’s dotfiles [Github](https://github.com/mathiasbynens/dotfiles)
 - The Front-End Developer's Guide to the Terminal [Josh W Comeau](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
 - Vim Tutorial [Ben Awad](https://youtu.be/IiwGbcd8S7I?si=YJSHbYO1Ly76zSuu)
+- Why I'm a Better Developer than You [Ben Awad](https://youtu.be/4WTV6ZCY4qo?si=13ET3dWMPVbAARbZ)
 
 ### Command line and Bash Scripting
 
@@ -32,6 +38,7 @@
 - Awesome Cheatsheets - https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
 - Rico's cheatsheets - https://devhints.io/bash
 - Hands-on Introduction to Linux Commands and Shell Scripting [Coursera](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
+- Bash Scripting [Youtube playlist-tutorialLinux](https://youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY&si=3w-46XDLIdFWmTGl)
 
 ### Videos
 - Watch Linux kernel developer write a USB driver from scratch in just 3h for Apple Xserve front-panel [Youtube](https://youtu.be/IXBC85SGC0Q?si=ACB-XsY_u8DJargo)
@@ -41,6 +48,7 @@
 - Linux Server Course - System Configuration and Operation [Freecodecamp-Youtube](https://youtu.be/WMy3OzvBWc0?si=NPlHW41edJd8wX2_)
 - My 5 Favorite Linux Shell Tricks for SPEEEEEED (and efficiency) [tutorialLinux-Youtube](https://youtu.be/V8EUdia_kOE?si=Zuulv_oh5uH9PH8S)
 - Kernel Development From Scratch! [Youtube](https://youtube.com/playlist?list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v&si=GdTwYmuoHiJDq3dY)
+- Understanding Linux Processes [Youtube playlist-Tutorial linux](https://youtube.com/playlist?list=PLtK75qxsQaMKLUENMaPlD_O2qS8ZBGjuy&si=hqOwSMNnpVvX8siC)
 
 ### Youtube Channel
 - [tutorialLinux](https://www.youtube.com/c/tutoriaLinux/playlists)

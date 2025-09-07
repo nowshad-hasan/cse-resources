@@ -20,6 +20,7 @@
 ### Courses
 
 - CMU Intro to Database Systems [Youtube](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=5DhprNCoxRbxbOFC)
+- Intro to Database Systems [CMU Database Group](https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&si=BS1jaGevSVxu5u1L)
 
 ### Basics
 
@@ -169,6 +170,7 @@
 - CTE in SQL (Common Table Expression) | SQL WITH Clause [Sumit Mittal-Youtube](https://youtu.be/zg9GNdX-Q9g?si=vPelZVMP43-f5wni)
 - SQL Internals | Indexes in SQL | Order of Execution in SQL [Sumit Mittal-Youtube](https://youtu.be/gZu2ZldwrK4?si=t0GpjnMm0gaomEXY)
 - SQL Joins [Youtube Playlist](https://youtube.com/playlist?list=PL7api1O-krQYsl47dNJuTgF1L4EVSp0Ru&si=qeJGtm6wJYaaJUc1)
+- Database Management [Youtube playlist](https://youtube.com/playlist?list=PLx5CT0AzDJCnO9k98RsrPY9WGAXj8yeKL&si=QAcDT-MSeHUvSsSo)
 
 ### Courses
 
