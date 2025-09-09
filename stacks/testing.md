@@ -2,6 +2,7 @@
 
 - [Contents](#contents)
   - [Core](#core)
+  - [Courses and Tutorials](#courses-and-tutorials)
   - [Github Project](#github-project)
   - [Articles](#articles)
   - [Blog](#blog)
@@ -10,6 +11,10 @@
   - [Others](#others)
   - [Videos](#videos)
   - [Discussions](#discussions)
+
+### Courses and Tutorials
+
+- SQA/SET Resources by Tahanima Chowdhury [Github](https://github.com/Tahanima/sqa-set-resources)
 
 ### Core
 
@@ -61,6 +66,7 @@
 - JMeter Full Course Masterclass | Step by Step for Beginners [Raghav Pal-Youtube](https://youtu.be/SoW2pBak1_Q?si=MW1MHVUgdFU0S3HU)
 - Webinar: Climb Higher with QA! [Showmik-Youtube](https://youtu.be/lGJ8gzquLxY?si=0TDgRv_u93089bMZ)
 - IntelliJ IDEA. Writing Tests with JUnit 5 [IntelliJ IDEA-Youtube](https://youtu.be/we3zJE3hlWE?si=MTQFEFpEH7HhuvWN)
+- Testcontainers – From Zero to Hero. By MarcoCodes [IntelliJ IDEA](https://www.youtube.com/live/v3eQCIWLYOw?si=3aGyEzwcc7odQGzw)
 
 ### Tools
 

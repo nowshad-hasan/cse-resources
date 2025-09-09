@@ -14,6 +14,10 @@
   - [Interview  Problems](#interview--problems)
   - [Patterns](#patterns-1)
 
+### Courses and ALgorithms
+
+- Awesome Algorithms [Github](https://github.com/tayllan/awesome-algorithms)
+
 ## Discrete Mathematics
 
 * বিচ্ছিন্ন গণিত [Dimik Computing](https://dimikcomputing.com/course/discrete-mathematics-online-course/)

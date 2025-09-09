@@ -14,7 +14,8 @@
 
 ### Courses and Tutorials
 
-Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/getting-started-css-v2/)
+- Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/getting-started-css-v2/)
+- design-resources-for-developers [Github](https://github.com/bradtraversy/design-resources-for-developers)
 
 ### Conference Talks
 
