@@ -11,6 +11,9 @@
 - Full Stack React Node Project | Build a Notes App from Scratch for your Portfolio [Freecodecamp-Youtube](https://youtu.be/2MoSzSlAuNk?si=hxVLd1zeLeBwv0Wj)
 - Strapi 5 and Next.js 15 Full Stack Project Course [Freecodecamp](https://youtu.be/Q-cPtlYG1cY?si=HpGyuGX4apZ7_cSl)
 
+### Github Projects
+
+- Awesome React [Github](https://github.com/enaqx/awesome-react)
 
 ### Video 
 

@@ -9,6 +9,7 @@
 - Getting Started with JavaScript [Frontend Masters - Kyle Simpson](https://frontendmasters.com/courses/getting-started-javascript-v2/)
 - [Learners Bucket](https://learnersbucket.com/)
 - [Javascript30](https://javascript30.com/)
+- [JS Code Challenges](https://jscodechallenges.vercel.app/)
 
 ### Books
 

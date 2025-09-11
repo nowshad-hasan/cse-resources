@@ -27,6 +27,7 @@
 * Cloud-Native – Why Software Developers Should Look Into It [Link](https://blog.adrianstanek.dev/p/cloud-native-why-devs-should-know-it)
 * What is Service Discovery? [Devopscube](https://devopscube.com/service-discovery-explained/)
 * Terraform AWS RDS Provisioning Tutorial [Devopscube](https://devopscube.com/terraform-aws-rds/)
+* The Docker Container Lifecycle [Medium](https://medium.com/techmormo/the-docker-container-lifecycle-docker-made-easy-part-3-1452764263ca)
 
 ### CI/CD
 * Learn How to Set Up a CI/CD Pipeline From Scratch [DZone](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)

@@ -1,3 +1,8 @@
+
+### Articles 
+
+- 12 Free Coding Games to Learn Programming for Beginners [Freecodecamp](https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/)
+
 ### Videos
 
 - Discrete Mathematics By Dr. Muhammad Zafar Iqbal [Youtube playlist](https://youtube.com/playlist?list=PLv832EzHdqDABq36G_Zpkj5hYjQ-q562W&si=sD2lYrOJ449yDGjX)

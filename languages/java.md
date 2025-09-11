@@ -247,6 +247,8 @@
 ### YouTube Channel
 - [Laur Spilca](https://www.youtube.com/c/LaurentiuSpilca/playlists)
 
+### Github repo
+- Awesome Java [Github](https://github.com/akullpp/awesome-java)
 
 ### Interview
 

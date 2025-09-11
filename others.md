@@ -175,6 +175,7 @@
 * Drunk Post: Things I've learned as a Sr Engineer [Reddit](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
 * Focus on what you can control, not what you can't [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7296068150675025921/)
 * When is the Right Time to Quit? [Link](https://www.leadership-letters.com/p/when-is-the-right-time-to-quit)
+* Java Creator James Gosling Interview [DZone](https://dzone.com/articles/java-creator-james-gosling-interview)
 
 ### Articles and Videos
 
@@ -231,6 +232,9 @@
 * Think Like A Coder [Youtube playlist](https://youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or&si=4zCabJJcPo0CgFOG)
 * Tech_Talk by Tamim Shahriar [Youtube playlist](https://youtube.com/playlist?list=PLym69wpbTIIFscLaK-u1M9J7MDp1RaV5h&si=cojsmTVZhtevNjtG)
 * Business of App Development [Youtube playlist](https://youtube.com/playlist?list=PLhPyEFL5u-i0hg8ejI9VeNuU5o5p8Tdw1&si=nCmr6f4Z_L5G4I0U)
+* curl ootw: –keepalive-time [Link](curl ootw: –keepalive-time)
+* I build a Github Dark Theme inspired Portfolio [Dev.to](https://dev.to/commentme/i-build-a-github-dark-theme-inspired-portfolio-5gmo)
+
 ### Coding Music
 
 - coding music (long playlists) [Coder Coder](https://youtube.com/playlist?list=PLUWqFDiirlsu9rjpZQiAOqw2h6FXjtKeX&si=QK87cnl5Lpkx4Qrm)
@@ -296,6 +300,8 @@
 - [5 things software entrepreneurs must remember](https://kaz.com.bd/blog/2015/10/8/5-things-software-entrepreneurs-must-remember)
 - [Usability testing: How not to strangle your customers](https://kaz.com.bd/blog/2020/10/15/usability-testing-how-not-to-strangle-your-customers)
 - Why incompetent people think they're amazing - David Dunning [TED-Ed](https://youtu.be/pOLmD_WVY-E?si=lWQ7FVhc5lSss2Ft)
+- How writing can advance your career as a developer [Stackoverflow](https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/)
+- 7 Ways to Improve Your Code Reading Skills [DZone](https://dzone.com/articles/7-ways-to-improve-your-code-reading-skill)
 
 ### Project Ideas
 
@@ -539,7 +545,9 @@
 ### Git Repo
 - Essential Repos [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049434548949958657/)
 - [awesome](https://github.com/sindresorhus/awesome)
-
+- Awesome Lists [Github topics](https://github.com/topics/awesome)
+- The book of secret knowledge [Github](https://github.com/trimstray/the-book-of-secret-knowledge)
+- Awesome Mac [Github](https://github.com/jaywcjlove/awesome-mac)
 
 ### Mini projects
 - Some mini projects [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030788972628905985/)

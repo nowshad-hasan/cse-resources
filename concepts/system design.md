@@ -71,6 +71,7 @@
 * How Disney+ Scaled to 11 Million Users on Launch Day [Link](https://newsletter.systemdesign.one/p/disney-architecture)
 * How GitHub Copilot Works [Link](https://blog.quastor.org/p/github-copilot-works)
 * When to use GraphQL, gRPC, and REST? [Link](https://newsletter.techworld-with-milan.com/p/when-to-use-graphql-grpc-and-rest)
+* How We Design Our APIs at Slack [Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
