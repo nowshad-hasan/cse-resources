@@ -31,6 +31,7 @@
 - The Front-End Developer's Guide to the Terminal [Josh W Comeau](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
 - Vim Tutorial [Ben Awad](https://youtu.be/IiwGbcd8S7I?si=YJSHbYO1Ly76zSuu)
 - Why I'm a Better Developer than You [Ben Awad](https://youtu.be/4WTV6ZCY4qo?si=13ET3dWMPVbAARbZ)
+- Linux Commands cheat sheet [Xmind](https://xmind.app/m/WwtB/)
 
 ### Command line and Bash Scripting
 
@@ -39,6 +40,10 @@
 - Rico's cheatsheets - https://devhints.io/bash
 - Hands-on Introduction to Linux Commands and Shell Scripting [Coursera](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
 - Bash Scripting [Youtube playlist-tutorialLinux](https://youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY&si=3w-46XDLIdFWmTGl)
+
+### Vim
+- [Vim Adventures](https://vim-adventures.com/)
+- Linux VI Editor Shortcuts, Tips, and Productivity Hacks For Beginners [Devopscube](https://devopscube.com/linux-vi-editor-shortcuts-beginners/)
 
 ### Videos
 - Watch Linux kernel developer write a USB driver from scratch in just 3h for Apple Xserve front-panel [Youtube](https://youtu.be/IXBC85SGC0Q?si=ACB-XsY_u8DJargo)
@@ -55,3 +60,6 @@
 
 ### Github Projects
 - [modern-unix](https://github.com/ibraheemdev/modern-unix)
+
+### Blog Website
+- [Phoronix](https://www.phoronix.com/)

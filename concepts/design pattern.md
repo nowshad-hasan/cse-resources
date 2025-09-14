@@ -20,6 +20,7 @@
   * Object Oriented Software Design - Solid Principles - with example [In 28 Minutes](https://www.springboottutorial.com/software-design-solid-principles)
 * The Clean Architecture [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * The S.O.L.I.D Principles in Pictures [Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+* SOLID Design Principles Explained: Building Better Software Architecture [DigitalOcean](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 * Step Builder Pattern
 

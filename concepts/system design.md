@@ -72,6 +72,11 @@
 * How GitHub Copilot Works [Link](https://blog.quastor.org/p/github-copilot-works)
 * When to use GraphQL, gRPC, and REST? [Link](https://newsletter.techworld-with-milan.com/p/when-to-use-graphql-grpc-and-rest)
 * How We Design Our APIs at Slack [Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/)
+* System Design: DoorDash — a prepared food delivery service [Medium](https://medium.com/beyond-the-infinite-loop/system-design-doordash-a-prepared-food-delivery-service-bf44093388e2)
+* Spotify’s Backstage: A Strategic Guide [The New Stack](https://thenewstack.io/spotifys-backstage-a-strategic-guide/)
+* How to Use HAProxy for Load Balancing [Link](https://phoenixnap.com/kb/haproxy-load-balancer)
+* HAProxy Load Balancer Configuration Basics: Step-by-Step [HAProxy.com](https://www.haproxy.com/blog/haproxy-configuration-basics-load-balance-your-servers)
+* 10 Tips for Building Resilient Payment Systems [Shopify](https://shopify.engineering/building-resilient-payment-systems)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
@@ -126,6 +131,7 @@
 * System Design [Github](https://github.com/karanpratapsingh/system-design)
 * Computer Science Papers For System Design [Github](https://github.com/arpit20adlakha/Computer-Science-Papers-For-System-Design)
 * Awesome Scalability [Github](https://github.com/binhnguyennus/awesome-scalability)
+* White papers that are worth your time [Interview ready](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)
 
 ### Others
 

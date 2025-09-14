@@ -4,7 +4,10 @@
 
 ### Core
 * Computer Networking Complete Course by Google - Beginner to Advanced [YouTube Video](https://youtu.be/QKfk7YFILws)
-
+* What is DNS? [Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+* Supernetting in Network Layer [Geeksforgeeks](https://www.geeksforgeeks.org/computer-networks/supernetting-in-network-layer/)
+* What Is a CDN (Content Delivery Network)? [Akamai.com](https://www.akamai.com/glossary/what-is-a-cdn)
+* TCP vs. UDP — What's the Difference and Which Protocol is Faster? [Freecodecamp](https://www.freecodecamp.org/news/tcp-vs-udp/)
 
 ### Resurces
 * কম্পিউটার নেটওয়ার্কিং [Dimik Computing](https://dimikcomputing.com/course/computer-networking-01-online-course/)

@@ -32,6 +32,7 @@
 ### CI/CD
 * Learn How to Set Up a CI/CD Pipeline From Scratch [DZone](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
 * GitHub Actions Certification – Full Course to PASS the Exam [Freecodecamp-Youtube](https://youtu.be/Tz7FsunBbfQ?si=qEVctgtGkz3GPUQb)
+* Hacker scripts [Github](https://github.com/NARKOZ/hacker-scripts)
 
 ### Learning materials
 
@@ -44,6 +45,8 @@
 * Docker networking is CRAZY!! (you NEED to learn it) [Youtube](https://youtu.be/bKFMS5C4CG0?si=zTFUuvyjp4q_P80b)
 * Docker-compose tutorial [Youtube](https://youtu.be/qH4ZKfwbO8w?si=PQJn0kPhXlAeVIs3)
 * Top 8 Docker Best Practices for using Docker in Production [Youtube](https://youtu.be/8vXoMqWgbQQ?si=B0tB5jLIalhfhgkh)
+* Docker Network Drivers Overview [Medium](https://medium.com/techmormo/docker-network-drivers-overview-networking-in-docker-3-78308e0839c9)
+* Portainer, an awesome GUI if you run Docker on your Ubuntu Linux Desktop [Portainer.io](https://www.portainer.io/blog/portainer-your-docker-gui-for-your-ubuntu-linux-desktop)
 
 ### Kubernetes
 * The Kubernetes Handbook – Learn Kubernetes for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-kubernetes-handbook)

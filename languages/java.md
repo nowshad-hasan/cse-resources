@@ -31,6 +31,7 @@
 ### Conference Talks
 
 ### Blog
+* [Foojay](https://foojay.io/)
 * [Marcobehler](https://www.marcobehler.com/guides)
 * [Java Specialists](https://www.javaspecialists.eu/)
 * [JGuru](http://www.jguru.com/)
@@ -48,12 +49,15 @@
 * [Bazlur Rahman - DZone](https://dzone.com/users/1298119/bazlur_rahman.html)
 * [Java Challengers](https://javachallengers.com/)
 * [Java World](https://www.javaworld.com/)
+* [Nicolai Parlog](https://nipafx.dev/)
+* [Mohibul Hassan](https://mohibulsblog.netlify.app/blog/)
 
 ### OOP
 
 * Understanding the Use of Interface and Abstract Classes [Medium](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837)
 * Object Oriented Programming By Bazlur Rahman [YouTube](https://youtu.be/DJO1k6LLSR8)
 * অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং: ইন্টারফেস এবং পলিমর্ফিজম [Shafaets Planet](http://www.shafaetsplanet.com/?p=3375)
+* When to use an interface instead of an abstract class and vice versa? [Stackoverflow](https://stackoverflow.com/questions/479142/when-to-use-an-interface-instead-of-an-abstract-class-and-vice-versa)
 
 ### Core Java
 
@@ -111,11 +115,15 @@
 * Understanding Classic Java Garbage Collection [InfoQ](https://www.infoq.com/articles/understand-classic-java-garbage-collection/)
 * 9 Rules about Constructors in Java [CodeJava](https://www.codejava.net/java-core/the-java-language/9-rules-about-constructors-in-java)
 * Java Access Modifiers Examples: public, protected, private and default [CodeJava](https://www.codejava.net/java-core/the-java-language/java-access-modifiers-examples-public-protected-private-and-default)
-* The Java Memory Model - The Basics [Jakob Jenkov](https://youtu.be/LCSqZyjBwWA?si=uovAJdCjdzeSy72X)
+* The Java Memory Model - The Basics [Jakob Jenkov](httpDs://youtu.be/LCSqZyjBwWA?si=uovAJdCjdzeSy72X)
 * Secure Coding Guidelines for Java SE [Oracle](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
 * Prevent Breaking a Singleton Class Pattern [DZone](https://dzone.com/articles/prevent-breaking-a-singleton-class-pattern)
 * Things to avoid while writing Java [Medium](https://medium.com/@b.stoilov/things-to-avoid-while-writing-java-cd078e5aa61c)
 - Logback vs SLF4J vs Log4J2 - what is the difference? [Java Brains-Youtube](https://youtu.be/SWHYrCXIL38?si=2ZfQRjbxZBtyyD5g)
+- JVM Internals [Link](https://blog.jamesdbloom.com/JVMInternals.html)
+- Java Copy Constructor [Baeldung](https://www.baeldung.com/java-copy-constructor)
+- Understanding JMX and its architecture (Management Level) [Link](https://mohibulsblog.netlify.app/posts/java/100daysofjava/day61/)
+- What Should I Know About Garbage Collection as a Java Developer? [Azul](https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/)
 
 ### Collection Framework
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
@@ -174,6 +182,7 @@
 ### RxJava
 * Functional Reactive Programming with RxJava by Ben Christensen [GOTO 2013](https://youtu.be/_t06LRX0DV0)
 * Applying Reactive Programming with Rx by Ben Christensen [GOTO 2015](https://youtu.be/8OcCSQS0tug)
+* Reactive Programming in Java [Linkedin](https://www.linkedin.com/pulse/reactive-programming-java-part-4-our-second-nine-operators-rasel/)
 
 ### OCP
 
@@ -249,6 +258,17 @@
 
 ### Github repo
 - Awesome Java [Github](https://github.com/akullpp/awesome-java)
+
+### Articles
+- LinkedIn’s journey to Java 11 [Linkedin Blog](https://www.linkedin.com/blog/engineering/infrastructure/linkedin-s-journey-to-java-11)
+- From Law Degree to Java Champion: Geertjan Wielenga on the Success of Java and Navigating the Software Industry [Foojay.io](https://foojay.io/today/from-law-degree-to-java-champion-geertjan-wielenga-on-the-success-of-java-and-navigating-the-software-industry/)
+
+### Tools
+- Java Faker [Github](https://github.com/DiUS/java-faker)
+- Eclipse Memory Analyzer [Link](https://projects.eclipse.org/projects/tools.mat)
+
+### Outage
+- How a Bug In Java String API Messed Up Our Data [Medium](https://medium.com/trendyol-tech/how-a-bug-in-java-string-api-messed-up-our-data-83feb7aa328)
 
 ### Interview
 

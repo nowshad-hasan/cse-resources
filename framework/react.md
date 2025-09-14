@@ -1,6 +1,7 @@
 ### Article
 
 - 15 React Component Principles & Best Practices for Better Software Architecture & Design [Link](https://thetshaped.dev/p/15-react-component-principles-for-better-design)
+- Case Study: Mistake with react keys can kill the performance [Link](https://www.showrin.com/blog/case-study-mistake-with-react-keys-can-kill-the-performance)
 
 
 ### Course

@@ -4,6 +4,7 @@
   - [Courses and Tutorials](#courses-and-tutorials)
   - [Books](books)
   - [Core Spring](#core-spring)
+  - [Hibernate/Java](#hibernate-jpa)
   - [Spring Security](#spring-security)
   - [Message Queue](#message-queue)
   - [Chat Application](#chat-application)
@@ -195,6 +196,11 @@
 * CORS support in Spring Framework [Spring.io](https://spring.io/blog/2015/06/08/cors-support-in-spring-framework)
 * Spring Boot CORS Configuration Examples [HowToDoInJava](https://howtodoinjava.com/spring-boot2/spring-cors-configuration/)
 * How Spring MVC Framework works? How HTTP Request is processed? [Javarevisited](https://javarevisited.blogspot.com/2017/06/how-spring-mvc-framework-works-web-flow.html#axzz6hMyjt0TW)
+* N+1 query problem with JPA and Hibernate [Vlad Mihalcea](https://vladmihalcea.com/n-plus-1-query-problem/)
+* Spring Bean Names [Baeldung](https://www.baeldung.com/spring-bean-names)
+
+### Hibernate JPA
+- An Overview of Identifiers in Hibernate/JPA [Baeldung](https://www.baeldung.com/hibernate-identifiers)
 
 ### Spring Security
 
@@ -339,3 +345,8 @@
 - Build Like a PRO Gradle Best Practice [Tom Gregory-Youtube playlist](https://youtube.com/playlist?list=PL0UJI1nZ56yAHv9H9kZA6vat4N1kSRGis&si=v4bzhxh0GGi02wNl)
 - Configuring the Build Scan Service for Gradle by Gradle [Youtube playlist](https://youtube.com/playlist?list=PLLQbIfXVLZqH4Ag5Og8VXYpJV9AworvXm&si=wVMqFftiUIvbZA85)
 - Gradle Build Tool - Dependency Management [Youtube playlist](https://youtube.com/playlist?list=PLLQbIfXVLZqEdJ-6tEsfvn17IKCeQOGWf&si=esKRZb8QhFXxwhDl)
+
+### Github Project
+
+- Spring Boot Admin by codecentric [Github](https://github.com/codecentric/spring-boot-admin)
+- Programming Books [Github](https://github.com/arifhasnatnstucsteonGit/ProgrammingBooks)

@@ -21,6 +21,7 @@
 - Front-end Developer Interview Questions [Github](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - Front-End Checklist [Github](https://github.com/thedaviddias/Front-End-Checklist)
 - Frontend Development [Github](https://github.com/dypsilon/frontend-dev-bookmarks)
+- Frontend Resources [Github](https://github.com/Ashik045/frontend-resources)
 
 ### Courses
 

@@ -45,6 +45,7 @@
 * How to Solve Coding Problems with a Simple Four Step Method [Freecodecamp](https://www.freecodecamp.org/news/how-to-solve-coding-problems/)
 * Ropes Data Structure (Fast String Concatenation) [Geeksforgeeks](https://www.geeksforgeeks.org/dsa/ropes-data-structure-fast-string-concatenation/)
 * How I Mastered Data Structures and Algorithms [Link](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
+* [Tutorial] Common Mistakes in Competitive Programming and How to Avoid Them [Codeforces](https://codeforces.com/blog/entry/111217)
 
 ## Problem Collection
 

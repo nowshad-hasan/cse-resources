@@ -6,6 +6,9 @@
 - How to Become a Good Backend Engineer (Fundamentals) [Hussein Nasser](https://www.linkedin.com/pulse/how-become-good-backend-engineer-fundamentals-hussein-nasser-9lxmc/)
 - Redis explained [Architecture Notes](https://architecturenotes.co/redis/)
 - Effective Backend Engineering Interviews [Hussein Nusser](https://medium.com/@hnasr/i-ask-this-question-to-every-backend-engineer-i-interview-8dd972648bb8)
+- ব্যাকএন্ড ইঞ্জিনিয়ারিং: ডিস্ট্রিবিউটেড ফাইল সিস্টেম [Safayet's Planet](https://www.shafaetsplanet.com/?p=3888)
+- How to setup an Nginx reverse proxy server example [Link](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-setup-Nginx-reverse-proxy-servers-by-example)
+- Kickstarting Your Coding Journey: Backend-Focused Project Ideas for Beginners Incorporating Basic Frontend Skills by Bazlur Rahman [Jugbd](https://jugbd.org/kickstarting-your-coding-journey-backend-focused-project-ideas-for-beginners-incorporating-basic-frontend-skills/)
 
 ### Collections
 

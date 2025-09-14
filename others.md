@@ -6,6 +6,7 @@
   - [VIM](#vim)
   - [Clean Code](#clean-code)
   - [IDE Tips](#ide-tips)
+  - [Tools](#tools)
   - [Blockchain](#blockchain)
   - [Inspiration](#inspiration)
   - [Articles and Videos](#articles-and-videos)
@@ -38,6 +39,13 @@
 * [Crafting Interpreters](https://craftinginterpreters.com/)
 * Working Effectively with Legacy Code [OReilly](https://www.oreilly.com/library/view/working-effectively-with/0131177052/toc.html)
 * The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+* Bookshelf [Arpit Bhayani](https://arpitbhayani.me/bookshelf)
+* Flavio Copies[Link](https://flaviocopes.com/access/)
+
+### Book Reviews and Notes
+
+- Clean Code Notes [Github](https://github.com/JuanCrg90/Clean-Code-Notes#readme)
+- Book Review: “OpenJDK Migration for Dummies” [Foojay.io](https://foojay.io/today/book-review-openjdk-migration-for-dummies)
 
 ### Git
 
@@ -81,6 +89,12 @@
 * How to get rid of .DS_Store files in git repositories [Medium](https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247)
 * A Guide to Git Interactive Rebase, with Practical Examples [sitepoint](https://www.sitepoint.com/git-interactive-rebase-guide/)
 * How to Open Any Repo in VS Code Without Cloning It [Freecodecamp](https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning)
+* [Github Minesweeper](https://profy.dev/project/github-minesweeper)
+* Git with Udacity [Link](https://www.udacity.com/course/version-control-with-git--ud123)
+* Oh my git [Link](https://ohmygit.org/)
+* The Odin Project [Link](https://www.theodinproject.com/lessons/foundations-git-basics)
+* Git Cheat Sheet 📄 (50 commands + PDF and poster) [Dev.to](https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
+* Git’s database internals III: file history queries [Github blog](https://github.blog/open-source/git/gits-database-internals-iii-file-history-queries/)
 
 ### VIM
 
@@ -110,7 +124,12 @@
   * New IntelliJ Tricks I Learnt Part 2 [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij_2/)
   * New IntelliJ Tricks I Learnt Today [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij/)
   - IntelliJ IDEA 2020.2 for Java Developers [IntelliJ IDEA Youtube](https://youtu.be/lgZRMCpfYM4?si=tx0BWIPDz9I5hPE0)
-  - 
+
+### Tools
+
+* [Notion](https://www.notion.com/)
+* [One Compiler](https://onecompiler.com/)
+* [JSON Crack](https://jsoncrack.com/)
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -176,6 +195,11 @@
 * Focus on what you can control, not what you can't [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7296068150675025921/)
 * When is the Right Time to Quit? [Link](https://www.leadership-letters.com/p/when-is-the-right-time-to-quit)
 * Java Creator James Gosling Interview [DZone](https://dzone.com/articles/java-creator-james-gosling-interview)
+* How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code [Freecodecamp](https://www.freecodecamp.org/news/how-to-learn-programming)
+* Node.js Creator Ryan Dahl Interview [DZone](https://dzone.com/articles/nodejs-creator-ryan-dahl-interview)
+* How training & helping others helped me to get into Google! [Linkedin](https://www.linkedin.com/pulse/how-training-helping-others-helped-me-get-google-chowdhury/)
+* How to Write Good Code: 10 Beginner-friendly Techniques for Instant Results [Sitepoint](https://www.sitepoint.com/how-to-write-good-code/)
+* CV of failures: Princeton professor publishes résumé of his career lows [The Guardian](https://amp.theguardian.com/education/2016/apr/30/cv-of-failures-princeton-professor-publishes-resume-of-his-career-lows)
 
 ### Articles and Videos
 
@@ -234,6 +258,7 @@
 * Business of App Development [Youtube playlist](https://youtube.com/playlist?list=PLhPyEFL5u-i0hg8ejI9VeNuU5o5p8Tdw1&si=nCmr6f4Z_L5G4I0U)
 * curl ootw: –keepalive-time [Link](curl ootw: –keepalive-time)
 * I build a Github Dark Theme inspired Portfolio [Dev.to](https://dev.to/commentme/i-build-a-github-dark-theme-inspired-portfolio-5gmo)
+* Finding great software developers [KAZ Software](https://kaz.com.bd/blog/2022/10/20/finding-great-software-developers)
 
 ### Coding Music
 
@@ -302,6 +327,27 @@
 - Why incompetent people think they're amazing - David Dunning [TED-Ed](https://youtu.be/pOLmD_WVY-E?si=lWQ7FVhc5lSss2Ft)
 - How writing can advance your career as a developer [Stackoverflow](https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/)
 - 7 Ways to Improve Your Code Reading Skills [DZone](https://dzone.com/articles/7-ways-to-improve-your-code-reading-skill)
+- 23 Top Tips to Become a Better Software Engineer [Link](https://codewithandrea.com/videos/top-tips-software-engineers/)
+- How to Become a Better Developer – Tips to Grow Your Coding Skills [Freecodecamp](https://www.freecodecamp.org/news/how-to-become-a-better-developer)
+- How to Become a Better Developer – Tips to Grow Your Coding Skills [Freecodecamp](https://www.freecodecamp.org/news/how-to-become-a-better-developer)
+- Software Engineering is a Loser’s Game [DZone](https://dzone.com/articles/software-engineering-is-a-losers-game)
+- 3 tips from "Atomic habits" that helped me on my journey to becoming a full-stack dev at Microsoft [Dev.to](https://dev.to/kokaneka/3-tips-from-atomic-habits-that-helped-me-get-a-job-at-microsoft-56ih)
+- Why do software projects fail and how to save them [KAZ Software Blog](https://kaz.com.bd/blog/2021/11/26/why-do-software-projects-fail-and-how-to-save-them)
+- The software engineer mental health [Hussein Nasser](https:/D/www.youtube.com/watch?v=zaQ8uEM5ogU)
+- Best practices for writing code comments [Stackoverflow](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
+- Calendar. Not to-do lists. [Medium](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd)
+- Interview of Adam Bender - Principal Software Engineer at Google [Staff Engineering](https://staffeng.com/stories/adam-bender/)
+- Advice From a Software Engineer With 8 Years of Experience [Medium](https://medium.com/better-programming/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55)
+
+### Debugginh
+
+- Fixing Cars and Fixing Bugs [Link](https://keepcalmandrefactor.com/)
+
+
+### Outages
+
+- More details about the October 4 outage [FB Engineering](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+- * Understanding how Facebook disappeared from the Internet [Cloudflare](https://blog.cloudflare.com/october-2021-facebook-outage/)
 
 ### Project Ideas
 
@@ -336,9 +382,6 @@
 
 * [Free Tutorial](https://freetutorials.se/)
 
-### Awesome Projects
-
-* [Neal.fun](https://neal.fun/)
 
 ### Stories
 - Angular: The Documentary | An origin story [Youtube](https://youtu.be/cRC9DlH45lA?si=DCqiTIdKXd1Iiu6Q)
@@ -381,6 +424,8 @@
 ### Website
 
 - [Exercism](https://exercism.org/)
+- [Technology Radar](https://www.thoughtworks.com/radar)
+- [Github Stars](https://stars.github.com/)
 
 ### Articles
 
@@ -389,6 +434,7 @@
 ### Personal Blog
 
 -[Amy M Haddad](https://amymhaddad.com/)
+- [Bazlur Rahman](https://bazlur.ca/)
 
 ### Engineering Blog
 
@@ -593,6 +639,7 @@
 
 ### Project Idea
 - Cool web projects for beginners [KAZ Software](https://kaz.com.bd/blog/2020/8/12/cool-web-projects-for-beginners)
+- How to Use APIs in Your Projects to Practice Your Coding Skills [Freecodecamp](https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/)
   
 ### Podcast 
 - [Hope This Helps](https://creators.spotify.com/pod/show/saad-bin-amjad/episodes/HTH-02-Angular-vs-React-egk19g)

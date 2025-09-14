@@ -10,6 +10,8 @@
 - [Learners Bucket](https://learnersbucket.com/)
 - [Javascript30](https://javascript30.com/)
 - [JS Code Challenges](https://jscodechallenges.vercel.app/)
+- Javascript for the Web [Sabe.io](https://sabe.io/classes/javascript/introduction)
+- [JSRoadmap](https://jsroadmap.com/)
 
 ### Books
 
@@ -24,6 +26,7 @@
 - JavaScript Visualized: Event Loop [Lydia Hallie](https://web.archive.org/web/20230325052042/https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - JavaScript Visualized - Closures [Lydia Hallie](https://youtu.be/6Ixyltr8_R0?si=4ds-YJZ6Bimwv0Lc)
 - JavaScript: Vanilla Single Page Applications (SPA) [Medium](https://medium.com/better-programming/js-vanilla-script-spa-1b29b43ea475)
+- How JavaScript's Proxy Object Works – Explained with Example Use Cases [Freecodecamp](https://www.freecodecamp.org/news/javascript-proxy-object)
 
 ### Videos 
 

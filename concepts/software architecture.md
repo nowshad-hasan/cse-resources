@@ -15,6 +15,11 @@
 - 10 Steps to Making Your Software Product [KAZ Software](https://kaz.com.bd/blog/2020/7/7/making-your-software-defining-what-the-software-will-do-wireframes-and-mockups)
 - Making your software: Step 1 - A rough specification [KAZ Software](https://kaz.com.bd/blog/2020/7/20/making-your-software-step-1-a-rough-specification)
 - Start Clean! [Reflectoring.io](https://reflectoring.io/start-clean/)
+- REST API Best Practices – REST Endpoint Design Examples [Freecodecamp](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples)
+- Building a Distributed Audit Log with YugabyteDB [Vlad Mihalcea](https://vladmihalcea.com/audit-log-yugabytedb/)
+- My Notes from Software Engineering at Google: Lessons Learned from Programming Over Time [Link](https://mattjamesboyle.com/posts/notes-from-software-eng-at-google/)
+- How to Version a REST API [Freecodecamp](https://www.freecodecamp.org/news/how-to-version-a-rest-api/)
+- Mastering Backend Development with Java Spring Boot: Best Practices and Pro Tips [Medium](https://itznihal.medium.com/mastering-backend-development-with-java-spring-boot-best-practices-and-pro-tips-3fc0f501418e)
 
 ### Talks and Conferences
 
@@ -31,6 +36,8 @@
 ### Courses
 - Information​ ​Systems Specialization [Coursera](https://www.coursera.org/specializations/information-systems)
 
+### Tools
+- The world’s most adopted open source API gateway [Kong](https://konghq.com/products/kong-gateway)
 
 ### Videos
 - Software Design by Jakob Jenkov [Youtube playlist](https://youtube.com/playlist?list=PLL8woMHwr36HWMaOTIiWNf_fYYkZCHPxo&si=7h1b5xi8PdOCOJq2)

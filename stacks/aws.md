@@ -1,4 +1,7 @@
 
+### Articles
+- How we reduced our annual server costs by 80% — from $1M to $200k — by moving away from AWS [Medium](https://levelup.gitconnected.com/how-we-reduced-our-annual-server-costs-by-80-from-1m-to-200k-by-moving-away-from-aws-2b98cbd21b46)
+
 ### Courses
 
 - AWS Cloud Practitioner Essentials [Coursera](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)

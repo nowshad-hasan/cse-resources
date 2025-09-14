@@ -11,6 +11,7 @@
 ### Basics
 * Lecture 9: Security and Cryptography (2020) by Missing Semester [YouTube](https://youtu.be/tjwobAmnKTo)
 * MD5 Collision Demo [Peter Selinger](https://www.mathstat.dal.ca/~selinger/md5collision/)
+* What is LDAP and how does it work? [Link](https://sensu.io/blog/what-is-ldap)
 
 ### Books
 - [The Code Book](https://simonsingh.net/books/the-code-book/) 
@@ -22,6 +23,11 @@
 - The Basics of Web Application Security [Martin Fowler](https://www.martinfowler.com/articles/web-security-basics.html)
 - Azure security best practices and patterns [Microsoft](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns)
 - Phone call to location track [সাইবার ৭১ -We Hack to Protect Bangladesh](https://www.facebook.com/Cyber71Bangladesh/posts/833847376966122)
+- Blind XSS for beginners [Medium](https://infosecwriteups.com/blind-xss-for-beginners-c88e48083071)
+
+### Cases
+
+- How Google Cloud blocked the largest Layer 7 DDoS attack at 46 million rps [Google cloud](https://cloud.google.com/blog/products/identity-security/how-google-cloud-blocked-largest-layer-7-ddos-attack-at-46-million-rps)
 
 ### Collections
 * Hacker Tools 2019 [Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv)

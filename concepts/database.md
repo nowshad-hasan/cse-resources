@@ -1,6 +1,7 @@
 ## Contents
 
 - [Contents](#contents)
+  - [Courses](#courses)
   - [Basics](#basics)
   - [Migration](#migration)
   - [GraphQL](#graphql)
@@ -11,8 +12,8 @@
   - [SQL Query Practice](#sql-query-practice)
   - [Blog website](#blog-website)
   - [Blogs](#blogs)
+  - [Tools](#tools)
   - [Videos](#videos)
-  - [Courses](#courses)
   - [Interview QUestions](#interview-questions)
   - [Discussions](#discussions)
 
@@ -21,6 +22,7 @@
 
 - CMU Intro to Database Systems [Youtube](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=5DhprNCoxRbxbOFC)
 - Intro to Database Systems [CMU Database Group](https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&si=BS1jaGevSVxu5u1L)
+-  Intro to SQL: Querying and managing data [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 
 ### Basics
 
@@ -43,6 +45,12 @@
 - What’s the Difference Between OLAP and OLTP? [Amazon](https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/)
 - LATERAL is Your Friend to Create Local Column Variables in SQL [Jooq](https://blog.jooq.org/lateral-is-your-friend-to-create-local-column-variables-in-sql/)
 - Migrating Facebook to MySQL 8.0 [Engineering at Meta](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
+- Partitioning GitHub’s relational databases to handle scale [Github Blog](https://github.blog/engineering/partitioning-githubs-relational-databases-scale/)
+- What are database schemas? 5 minute guide with examples [Educative.io](https://www.educative.io/blog/what-are-database-schemas-examples)
+- Difference between PostgreSQL Database vs schema [Link](https://www.educba.com/postgresql-database-vs-schema/)
+- S-QUERY: Opening the Black Box of the Internal Stream Processor State [Delivery Hero Tech](https://tech.deliveryhero.com/blog/s-query-opening-the-black-box-of-the-internal-stream-processor-state/)
+- Optimistic vs. Pessimistic locking [Stackoverflow](https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking/58952004#58952004)
+- Redis as a Dynamic Interconnecting Datastore [Pluralsight](https://www.pluralsight.com/resources/blog/guides/redis-as-a-dynamic-interconnecting-datastore)
 
 ### Paper
 - 5 papers on storage systems every software engineer should read [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6991647229329518592/)
@@ -61,7 +69,7 @@
 - [SQL Masterclass](https://github.com/DataWithDanny/sql-masterclass)
 - [PopSQL](https://popsql.com/learn-sql)
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
--  Learning SQL Book By Alan Beaulieu
+- [Oracle Dev GYM](https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::)
 
 ### Migration
 
@@ -71,6 +79,8 @@
 ### GraphQL
 - Getting Started with GraphQL [Reflectoring.io](https://reflectoring.io/getting-started-with-graphql/)
 - The Fullstack Tutorial for GraphQL [How To GraphQL](https://www.howtographql.com/)
+- N+1 Problem in GraphQL [Link](https://unchained.shop/blog/n-plus-one-problem-in-graphql)
+- Solving the N+1 Problem for GraphQL through Batching [Shopify Engineering](https://shopify.engineering/solving-the-n-1-problem-for-graphql-through-batching)
 
 ### NoSQL
 
@@ -93,7 +103,7 @@
 * Database Design by Caleb Curry [YouTube Playlist](https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID)
 * A fast PostgreSQL Log Analyzer - pgbadger [Github](https://github.com/darold/pgbadger)
 * Data Analysis using SQL [Kaggle](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql/notebook)
-* SQL Data Analysis & Data Visualizaiton Projects [Github](https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects)
+* SQL Data Analysis & Data Visualizaiton Projects [Github](https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects)R
 * Data_Analysis_SQL [Github](https://github.com/LoicChamplong/Data-Analysis-SQL)
 * SQL Projects for Data Analysis using Oracle Database [Github](https://github.com/Ajay026/SQL-Project-for-Data-Analysis-part-1-7)
 * BrainTree SQL Coding Challenge Data Analyst [Github](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst)
@@ -140,6 +150,7 @@
 * [Use the index, LUKE](https://use-the-index-luke.com/)
 * [Modern SQL](https://modern-sql.com/)
 * [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres)
+* [SQL Blog](https://sqlblog.org/)
 
 ### Blogs
 
@@ -148,6 +159,10 @@
 * [Do You Really Understand SQL’s GROUP BY and HAVING clauses?](https://blog.jooq.org/do-you-really-understand-sqls-group-by-and-having-clauses/)
 * Inner join vs Cross apply [Explain Extended](https://explainextended.com/2009/07/16/inner-join-vs-cross-apply/)
 * Using Window Functions for Efficient Pagination [Use the index, Luke](https://use-the-index-luke.com/sql/partial-results/window-functions)
+
+### Tools
+
+- [DB Diagram.io](https://dbdiagram.io/home)
 
 ### Videos
 
