@@ -132,6 +132,7 @@
 * Computer Science Papers For System Design [Github](https://github.com/arpit20adlakha/Computer-Science-Papers-For-System-Design)
 * Awesome Scalability [Github](https://github.com/binhnguyennus/awesome-scalability)
 * White papers that are worth your time [Interview ready](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)
+* Twitter's Recommendation Algorithm [Github](https://github.com/twitter/the-algorithm)
 
 ### Others
 

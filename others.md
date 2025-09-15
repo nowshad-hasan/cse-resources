@@ -125,11 +125,17 @@
   * New IntelliJ Tricks I Learnt Today [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij/)
   - IntelliJ IDEA 2020.2 for Java Developers [IntelliJ IDEA Youtube](https://youtu.be/lgZRMCpfYM4?si=tx0BWIPDz9I5hPE0)
 
+### Collections
+
+- Introducing 50 Carefully Curated Cheat Sheets You'll Ever Need [Dev.to](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
+
 ### Tools
 
 * [Notion](https://www.notion.com/)
 * [One Compiler](https://onecompiler.com/)
 * [JSON Crack](https://jsoncrack.com/)
+* [Readme.so](https://readme.so/)
+* For Mockup [Previewed](https://previewed.app/)
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -338,6 +344,8 @@
 - Calendar. Not to-do lists. [Medium](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd)
 - Interview of Adam Bender - Principal Software Engineer at Google [Staff Engineering](https://staffeng.com/stories/adam-bender/)
 - Advice From a Software Engineer With 8 Years of Experience [Medium](https://medium.com/better-programming/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55)
+- Advice From a Software Engineer With 8 Years of Experience [Better Programming](https://medium.com/better-programming/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55)
+- 7 steps for making the perfect software product [KAZ Software](https://kaz.com.bd/blog/7-steps-for-making-the-perfect-software-product)
 
 ### Debugginh
 
@@ -544,6 +552,9 @@
 - [realworld](https://github.com/gothinkster/realworld)
 - [Awesome resources](https://github.com/shahednasser/awesome-resources)
 - [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 ### Blog Website
 - [Architecture Notes](https://architecturenotes.co/)

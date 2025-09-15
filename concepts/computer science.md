@@ -16,6 +16,17 @@
 - Missing Semester IAP 2020 [Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&si=7_xWGSj6tuGXJMSo)
 - How Computers Synchronize Their Clocks - NTP and PTP Explained [Gary Explains-Youtube](https://youtu.be/WX5E8x3pYqg?si=J6UaguK0VYuVqhlv)
 
+### Tools
+- [Dev Docs](https://devdocs.io/)
+- [Over API](https://overapi.com/)
+- [Ray.so](https://ray.so/)
+- [Code Beautify](https://codebeautify.org/)
+- [Showcase](https://www.showwcase.com/)
+- [Developer Roadmaps](https://roadmap.sh/)
+- [Archive.org](https://archive.org/)
+- [edX](https://www.edx.org/)
+- [Pexels](https://www.pexels.com/)
+
 ### Compiler
 
 - Compiler Course [Youtube playlist](https://youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM&si=n7PjDMUk-4JeyAaU)

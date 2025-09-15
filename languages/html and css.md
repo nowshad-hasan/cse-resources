@@ -60,6 +60,16 @@
 * Flex Wrap [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap)
 * Learn CSS [Web.dev](https://web.dev/learn/css/)
 
+### Website
+
+- [CSS Tricks](https://css-tricks.com/)
+- [Magic Pattern](https://www.magicpattern.design/)
+- [CSS Gradient](https://cssgradient.io/)
+- [CSS Layout Generator](https://layout.bradwoods.io/)
+- [Can I Use](https://caniuse.com/)
+- [Spline.design](https://spline.design/)
+- [Webflow](https://webflow.com/)
+
 ### Collection
 
 * [HTML5UP](https://html5up.net/)
@@ -67,6 +77,10 @@
 * [Free Html 5](https://freehtml5.co/)
 * HTML5 Boilerplate [Github](https://github.com/h5bp/html5-boilerplate)
 * CSS Protips [Github](https://github.com/AllThingsSmitty/css-protips)
+* 30 Free CSS Loading Animation for your website in 2023 [Dev.to](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
+* An animated lesson on CSS will teach you how to use it [Dev.to](https://dev.to/jon_snow789/an-animated-lesson-on-css-will-teach-you-how-to-use-it-2dj4)
+* You Won't Believe these animations made In Pure CSS [Dev.to](https://dev.to/jon_snow789/you-wont-believe-these-animations-made-in-pure-css-4cgc)
+* Bad UI Battels: Developers are competing who create the worst UI [Dev.to](https://dev.to/jon_snow789/bad-ui-battels-developers-are-competing-who-create-the-worst-ui-1no2)
 
 ### Tools
 
@@ -86,6 +100,9 @@
 * [12 Time-Saving Bootstrap Examples](https://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples)
 * [Charity](https://p.w3layouts.com/demos/charity/web/index.html)
 * [Salon](https://technext.github.io/Man-Hair-Salon/index.html)
+* [Demo Coding](https://democoding.in/)
+* [Carrd](https://carrd.co/)
+* [LottieFiles](https://lottiefiles.com/)
 
 * Portfolio
 
