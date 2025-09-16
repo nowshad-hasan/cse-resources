@@ -6,6 +6,7 @@
   - [Core Spring](#core-spring)
   - [Hibernate/Java](#hibernate-jpa)
   - [Spring Security](#spring-security)
+  - [Tools](#tools)
   - [Message Queue](#message-queue)
   - [Chat Application](#chat-application)
 
@@ -202,6 +203,9 @@
 ### Hibernate JPA
 - An Overview of Identifiers in Hibernate/JPA [Baeldung](https://www.baeldung.com/hibernate-identifiers)
 
+### Github Repo
+- Securing Spring Applications With OAuth2 [Link](https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials)
+
 ### Spring Security
 
 * Spring Boot and OAuth2 [Spring Doc](https://spring.io/guides/tutorials/spring-boot-oauth2/)
@@ -235,6 +239,9 @@
 - Testing Java Code Effectively [JUGBD-Youtube](https://www.youtube.com/live/74EqlMHVB3E?si=XYsNXVbPTuTAnq5-)
 - Spring Security Fundamentals 2020 by Laur Spilca [Youtube playlist](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz&si=VSzzPR3ya0Nt8f4T)
 - Spring Security Experimental Authorization Server by Laur Spilca [Youtube playlist](https://youtube.com/playlist?list=PLEocw3gLFc8WtQ1OD5TgkffxcXVafIFFP&si=1v2J9jeqjtDVfwJo)
+
+### Tools
+- Liquibase Hibernate Integration [Github](https://github.com/liquibase/liquibase-hibernate)
 
 ### Message Queue
 

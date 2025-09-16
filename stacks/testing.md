@@ -26,6 +26,7 @@
 - Why we should write tests [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7034585570383208448/)
 - Some Advanced Features of JMeter for Powerful Performance Testing [Medium](https://blog.emumba.com/some-advanced-features-of-jmeter-for-powerful-performance-testing-7f82d8f503b6)
 - Spring Boot Testing Tutorial [Link](https://www.sivalabs.in/spring-boot-testing-tutorial/)
+- Faster integration tests with reusable Testcontainers and Flyway [Link](https://maciejwalkowiak.com/blog/testcontainers-reusable-flyway/)
 
 ### Github Project
 

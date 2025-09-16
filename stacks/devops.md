@@ -79,6 +79,7 @@
 ### Blogs
 
 - [Devopscube](https://devopscube.com/)
+- [SigNoz](https://dev.to/signoz)
 
 ### Videos 
 

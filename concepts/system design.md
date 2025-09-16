@@ -77,6 +77,8 @@
 * How to Use HAProxy for Load Balancing [Link](https://phoenixnap.com/kb/haproxy-load-balancer)
 * HAProxy Load Balancer Configuration Basics: Step-by-Step [HAProxy.com](https://www.haproxy.com/blog/haproxy-configuration-basics-load-balance-your-servers)
 * 10 Tips for Building Resilient Payment Systems [Shopify](https://shopify.engineering/building-resilient-payment-systems)
+* Sharding Pinterest: How we scaled our MySQL fleet [Pinterest Engineering Blog](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
+* How We Solve Load Balancing Challenges in Apache Kafka [Medium](https://medium.com/agoda-engineering/how-we-solve-load-balancing-challenges-in-apache-kafka-8cd88fdad02b)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)

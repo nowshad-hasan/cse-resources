@@ -52,6 +52,10 @@
 - Optimistic vs. Pessimistic locking [Stackoverflow](https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking/58952004#58952004)
 - Redis as a Dynamic Interconnecting Datastore [Pluralsight](https://www.pluralsight.com/resources/blog/guides/redis-as-a-dynamic-interconnecting-datastore)
 
+### Articles
+
+- Postgres is eating the database world [Medium](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
+
 ### Paper
 - 5 papers on storage systems every software engineer should read [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6991647229329518592/)
 
@@ -70,6 +74,8 @@
 - [PopSQL](https://popsql.com/learn-sql)
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [Oracle Dev GYM](https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::)
+- [The Data Monk](https://thedatamonk.com/sql-complete-tutorial-7-days-analytics-course/)
+- [SQL Leetcode Challenge](https://github.com/mrinal1704/SQL-Leetcode-Challenge)
 
 ### Migration
 
@@ -114,6 +120,7 @@
 - SQL tips [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7006788453996666880/)
 - 5 SQL projects to learn data analytics [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7028569280719831040/)
 - SQL Saturdays [Data with Zach](https://www.youtube.com/live/YA7YLrcLTO4?si=Zo8Y04BuimbHGBrg)
+* Let's Build a Simple Database [CStack](https://cstack.github.io/db_tutorial/)
 
 ### SQL Interview 
 
@@ -159,6 +166,10 @@
 * [Do You Really Understand SQL’s GROUP BY and HAVING clauses?](https://blog.jooq.org/do-you-really-understand-sqls-group-by-and-having-clauses/)
 * Inner join vs Cross apply [Explain Extended](https://explainextended.com/2009/07/16/inner-join-vs-cross-apply/)
 * Using Window Functions for Efficient Pagination [Use the index, Luke](https://use-the-index-luke.com/sql/partial-results/window-functions)
+
+### Github Repo
+
+- The Data Engineering Handbook [Github](https://github.com/DataExpert-io/data-engineer-handbook?tab=readme-ov-file)
 
 ### Tools
 

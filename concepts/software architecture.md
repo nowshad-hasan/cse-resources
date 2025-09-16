@@ -20,6 +20,7 @@
 - My Notes from Software Engineering at Google: Lessons Learned from Programming Over Time [Link](https://mattjamesboyle.com/posts/notes-from-software-eng-at-google/)
 - How to Version a REST API [Freecodecamp](https://www.freecodecamp.org/news/how-to-version-a-rest-api/)
 - Mastering Backend Development with Java Spring Boot: Best Practices and Pro Tips [Medium](https://itznihal.medium.com/mastering-backend-development-with-java-spring-boot-best-practices-and-pro-tips-3fc0f501418e)
+- API Integration Patterns – The Difference between REST, RPC, GraphQL, Polling, WebSockets and WebHooks [Freecodecamp](https://www.freecodecamp.org/news/api-integration-patterns/)
 
 ### Talks and Conferences
 

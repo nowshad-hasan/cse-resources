@@ -51,6 +51,7 @@
 * [Java World](https://www.javaworld.com/)
 * [Nicolai Parlog](https://nipafx.dev/)
 * [Mohibul Hassan](https://mohibulsblog.netlify.app/blog/)
+* [Java rants](https://javarants.com/)
 
 ### OOP
 

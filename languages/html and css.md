@@ -51,6 +51,8 @@
 
 * Learn CSS Flexbox by Building 5 Responsive Layouts [Freecodecamp](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
 
+* Inclusively Hidden [Link](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html)
+
 ### CSS
 
 * CSS reference [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
@@ -59,6 +61,9 @@
 * Flex [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
 * Flex Wrap [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap)
 * Learn CSS [Web.dev](https://web.dev/learn/css/)
+* BEM naming [Link](https://getbem.com/naming/)
+* BEM 101 [CSS Tricks](https://css-tricks.com/bem-101/)
+* Learn CSS Units – Em, Rem, VH, and VW with Code Examples [Freecodecamp](https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/)
 
 ### Website
 
@@ -69,6 +74,9 @@
 - [Can I Use](https://caniuse.com/)
 - [Spline.design](https://spline.design/)
 - [Webflow](https://webflow.com/)
+- [Jensimmons](https://jensimmons.com/)
+- [Resilient web design](https://resilientwebdesign.com/)
+- [CSS Podcast](https://thecsspodcast.libsyn.com/)
 
 ### Collection
 

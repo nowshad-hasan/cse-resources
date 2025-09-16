@@ -24,6 +24,7 @@
 - Azure security best practices and patterns [Microsoft](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns)
 - Phone call to location track [সাইবার ৭১ -We Hack to Protect Bangladesh](https://www.facebook.com/Cyber71Bangladesh/posts/833847376966122)
 - Blind XSS for beginners [Medium](https://infosecwriteups.com/blind-xss-for-beginners-c88e48083071)
+- Stop using JWT for sessions [Link](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 
 ### Cases
 
@@ -41,6 +42,10 @@
 - Ethical Hacking 101: Web App Penetration Testing - a full course for beginners [Freecodecamp-Youtube](https://youtu.be/2_lswM1S264?si=zrA3ad4AUdzsI3e5)
 - Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) [Freecodecamp-Youtube](https://youtu.be/3Kq1MIfTWCE?si=yyMsg-Ek8-uvcTx_)
 - What are SSL/TLS Certificates? Why do we Need them? and How do they Work? [Hussein Nasser](https://youtu.be/r1nJT63BFQ0?si=kRATV2Kg1nh0fCfS)
+
+### Website
+- [Wargames](https://overthewire.org/wargames/)
+- [Bouncy Castle](https://www.bouncycastle.org/)
 
 ### Keycloak
 

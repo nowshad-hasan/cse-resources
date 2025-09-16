@@ -20,6 +20,7 @@
   - [IDE Tips](#ide-tips-1)
   - [Youtube Channel](#youtube-channel)
   - [Courses](#courses)
+  - [Fun](#fun)
   - [Website](#website)
   - [Articles](#articles)
   - [Personal Blog](#personal-blog)
@@ -41,6 +42,7 @@
 * The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win [Amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 * Bookshelf [Arpit Bhayani](https://arpitbhayani.me/bookshelf)
 * Flavio Copies[Link](https://flaviocopes.com/access/)
+* Books You Need To Read [Tutorial Linux](https://tutorialinux.com/sysadmin-learning-resources/sysadmin-software-books/)
 
 ### Book Reviews and Notes
 
@@ -136,6 +138,9 @@
 * [JSON Crack](https://jsoncrack.com/)
 * [Readme.so](https://readme.so/)
 * For Mockup [Previewed](https://previewed.app/)
+* [One Uptime](https://github.com/OneUptime/oneuptime)
+* [Git Leaks](https://github.com/gitleaks/gitleaks)
+* [Sentry.io](https://sentry.io/welcome/)
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -206,6 +211,7 @@
 * How training & helping others helped me to get into Google! [Linkedin](https://www.linkedin.com/pulse/how-training-helping-others-helped-me-get-google-chowdhury/)
 * How to Write Good Code: 10 Beginner-friendly Techniques for Instant Results [Sitepoint](https://www.sitepoint.com/how-to-write-good-code/)
 * CV of failures: Princeton professor publishes résumé of his career lows [The Guardian](https://amp.theguardian.com/education/2016/apr/30/cv-of-failures-princeton-professor-publishes-resume-of-his-career-lows)
+* How I learn Software Engineering [Hussein Nasser](https://medium.com/@hnasr/how-i-learn-software-engineering-eae8e25ccac9)
 
 ### Articles and Videos
 
@@ -346,8 +352,11 @@
 - Advice From a Software Engineer With 8 Years of Experience [Medium](https://medium.com/better-programming/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55)
 - Advice From a Software Engineer With 8 Years of Experience [Better Programming](https://medium.com/better-programming/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55)
 - 7 steps for making the perfect software product [KAZ Software](https://kaz.com.bd/blog/7-steps-for-making-the-perfect-software-product)
+- Reduce the gap between idea and execution [Addy Osmani](https://addyo.substack.com/p/reduce-the-gap-between-idea-and-execution)
+- 8 Email Etiquette Tips - How to Write Better Emails at Work [Harvard Business Review](https://youtu.be/1XctnF7C74s?si=f4pRF85wyhex2UJs)
+- Why your software partner needs to be laser focused on product launch [KAZ Software](https://kaz.com.bd/blog/why-your-software-partner-needs-to-be-laser-focused-on-product-launch)
 
-### Debugginh
+### Debugging
 
 - Fixing Cars and Fixing Bugs [Link](https://keepcalmandrefactor.com/)
 
@@ -429,6 +438,10 @@
 - HarvardX: CS50's Introduction to Computer Science [Link](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - Computer Science [Crash Course-Youtube Playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=dvchp8LyHzkKo_xO)
 
+### Fun
+
+- What's your most controversial programming opinion? [Stackoverflow](https://stackoverflow.com/questions/406760/whats-your-most-controversial-programming-opinion?page=1&tab=createdasc#tab-top)
+
 ### Website
 
 - [Exercism](https://exercism.org/)
@@ -443,11 +456,13 @@
 
 -[Amy M Haddad](https://amymhaddad.com/)
 - [Bazlur Rahman](https://bazlur.ca/)
+- [Leader's Whiteboard](https://ashikuzzaman.com/)
 
 ### Engineering Blog
 
 - [Uber Engineering](https://www.uber.com/en-BD/blog/engineering/)
 - [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
+- [AWS Engineering & Design](https://aws.amazon.com/industrial/engineering-design/)
 - [High Scalability](https://highscalability.com/)
 - [Netflix Techblog](https://netflixtechblog.com/)
 - [Cloudflare](https://blog.cloudflare.com/)
@@ -455,6 +470,7 @@
 - [Linkedin Engineering](https://www.linkedin.com/blog/engineering)
 - [Stripe Engineering](https://stripe.com/blog/engineering)
 - [Discord Engineering](https://discord.com/category/engineering)
+- [Discord Blog](https://discord.com/blog/)
 - [Slack Engineering](https://slack.engineering/)
 - [Google for Developers](https://developers.googleblog.com/en/)
 - [Microsoft Developer Blogs](https://devblogs.microsoft.com/)
@@ -537,8 +553,7 @@
 - [Techlead Mentor](https://newsletter.techleadmentor.com/)
 - [High Growth Engineer](https://read.highgrowthengineer.com/)
 - [Engineer’s Codex](https://read.engineerscodex.com/)
-- [Developing Skills](https://read.developingskills.fyi/)
-- [The Developing Dev](https://www.developing.dev/)
+- [Developing Skills](https://read.developingskills.fyi/)W
 - [Techlead Mentor](https://newsletter.techleadmentor.com/)
 - [Byte-Sized Design](https://bytesizeddesign.substack.com/)
 - [The Polymathic Engineer](https://newsletter.francofernando.com/)
@@ -611,6 +626,7 @@
 
 ### Websites
 - Some poplular YouTube channels [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6986548865030078464/)
+- [Deepstash](https://deepstash.com/)
 
 ### CV writing
 

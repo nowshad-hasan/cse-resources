@@ -2,7 +2,12 @@
 
 - 15 React Component Principles & Best Practices for Better Software Architecture & Design [Link](https://thetshaped.dev/p/15-react-component-principles-for-better-design)
 - Case Study: Mistake with react keys can kill the performance [Link](https://www.showrin.com/blog/case-study-mistake-with-react-keys-can-kill-the-performance)
+- React hooks: not magic, just arrays [Medium](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
+- Debounce vs Throttle: Definitive Visual Guide [Link](https://kettanaito.com/blog/debounce-vs-throttle)
 
+
+### Tools
+- [Bundlephobia](https://bundlephobia.com/)
 
 ### Course
 

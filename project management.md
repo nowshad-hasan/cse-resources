@@ -4,6 +4,9 @@
 - When your developers don't speak to you [KAZ Software](https://kaz.com.bd/blog/2020/1/14/when-your-developers-dont-speak-to-you)
 - Conflict Resolution Strategies for Engineering Managers [Link](https://hybridhacker.email/p/conflict-resolution-strategies-in-engineering)
 - The Five Dysfunctions of a Team [Addy Osmani](https://www.linkedin.com/feed/update/urn:li:activity:7000540911050907648/)
+- Common mistakes that new software companies make and how to avoid them [KAZ Software](https://kaz.com.bd/blog/common-mistakes-that-new-software-companies-make-and-how-to-avoid-them)
+- What is the RACI Model? How to 10X Your Projects Using the RACI Matrix [Link](https://monday.com/blog/project-management/raci-model/)
+- Tuckman's Stages of Group Development [Link](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx)
 
 ### Tools
 - [xmind](https://xmind.com/)

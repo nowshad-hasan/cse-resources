@@ -13,10 +13,13 @@
 - Books that I enjoyed while working as an Engineering Manager! [Tamim Shahriar](https://www.linkedin.com/pulse/books-i-enjoyed-while-working-engineering-manager-tamim-shahriar/)
 - 5 books that changed my engineering career forever [Link](https://newsletter.techworld-with-milan.com/p/5-books-behind-my-growth-as-a-cto)
 - 40 book recommendations for productivity, growth and leadership [Addy Osmany](https://www.linkedin.com/feed/update/urn:li:activity:7078976658166202369)
+- ১০টি সেরা বই ডেটা স্ট্রাকচার এবং অ্যালগরিদমের ওপর [Ostad Blog](https://blog.ostad.app/blog/10-best-data-structures-and-algorithms-books)
+- Programming Book Recommendations [Marco Behlar](https://www.marcobehler.com/guides/programming-books )
 
 ### Books
 
 - WHY PROGRAMS FAIL [Link](https://www.whyprogramsfail.com/book.php)
+- Crafting Interpreters [Link](https://www.craftinginterpreters.com/)
 
 ### Book review
 
