@@ -4,6 +4,7 @@
 - Case Study: Mistake with react keys can kill the performance [Link](https://www.showrin.com/blog/case-study-mistake-with-react-keys-can-kill-the-performance)
 - React hooks: not magic, just arrays [Medium](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 - Debounce vs Throttle: Definitive Visual Guide [Link](https://kettanaito.com/blog/debounce-vs-throttle)
+- Mastering Higher Order Components (HOCs) in React [Hackernoon](https://hackernoon.com/mastering-higher-order-components-hocs-in-react)
 
 
 ### Tools

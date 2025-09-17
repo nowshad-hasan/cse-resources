@@ -51,6 +51,7 @@
 - S-QUERY: Opening the Black Box of the Internal Stream Processor State [Delivery Hero Tech](https://tech.deliveryhero.com/blog/s-query-opening-the-black-box-of-the-internal-stream-processor-state/)
 - Optimistic vs. Pessimistic locking [Stackoverflow](https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking/58952004#58952004)
 - Redis as a Dynamic Interconnecting Datastore [Pluralsight](https://www.pluralsight.com/resources/blog/guides/redis-as-a-dynamic-interconnecting-datastore)
+- Hierarchical data (SQL Server) [Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/hierarchical-data-sql-server)
 
 ### Articles
 

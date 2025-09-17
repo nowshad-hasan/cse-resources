@@ -199,6 +199,7 @@
 * How Spring MVC Framework works? How HTTP Request is processed? [Javarevisited](https://javarevisited.blogspot.com/2017/06/how-spring-mvc-framework-works-web-flow.html#axzz6hMyjt0TW)
 * N+1 query problem with JPA and Hibernate [Vlad Mihalcea](https://vladmihalcea.com/n-plus-1-query-problem/)
 * Spring Bean Names [Baeldung](https://www.baeldung.com/spring-bean-names)
+* Grouping Jakarta (Javax) Validation Constraints [Baeldung](https://www.baeldung.com/javax-validation-groups)
 
 ### Hibernate JPA
 - An Overview of Identifiers in Hibernate/JPA [Baeldung](https://www.baeldung.com/hibernate-identifiers)

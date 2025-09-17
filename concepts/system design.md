@@ -248,3 +248,5 @@ Bonus points for keeping these things in mind:
 - [system-design-101 by ByteByteGo](https://github.com/ByteByteGoHq/system-design-101)
 - [awesome-system-design](https://github.com/madd86/awesome-system-design)
 - [awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design)
+- [System Design Banlga](https://github.com/lahin31/system-design-bangla)
+- [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources)

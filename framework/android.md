@@ -27,6 +27,10 @@
 - Android & Kotlin Development Masterclass – Full Course [Freecodecamp](https://youtu.be/blKkRoZPxLc?si=neRTkka6KNGk6sFo)
 - Android Developer Fundamentals [Google for Developers India](https://youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB&si=N7_-app1KHRComBo)
 
+### Articles
+
+- Let's clarify some misconceptions around android development these days [Link](https://yveskalume.dev/lets-clarify-some-misconceptions-around-android-development-these-days)
+
 ### Android Core
 
 * The Android Lifecycle cheat sheet — part I: Single Activities [Android Developers - Medium](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)

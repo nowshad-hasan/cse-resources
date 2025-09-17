@@ -271,6 +271,7 @@
 * curl ootw: –keepalive-time [Link](curl ootw: –keepalive-time)
 * I build a Github Dark Theme inspired Portfolio [Dev.to](https://dev.to/commentme/i-build-a-github-dark-theme-inspired-portfolio-5gmo)
 * Finding great software developers [KAZ Software](https://kaz.com.bd/blog/2022/10/20/finding-great-software-developers)
+* PHP: a fractal of bad design [Link](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/D)
 
 ### Coding Music
 
@@ -620,6 +621,8 @@
 - Awesome Lists [Github topics](https://github.com/topics/awesome)
 - The book of secret knowledge [Github](https://github.com/trimstray/the-book-of-secret-knowledge)
 - Awesome Mac [Github](https://github.com/jaywcjlove/awesome-mac)
+- Project Based Learning [Github](https://github.com/practical-tutorials/project-based-learning)
+- Best websites a programmer should visit [Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ### Mini projects
 - Some mini projects [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7030788972628905985/)

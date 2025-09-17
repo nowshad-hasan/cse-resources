@@ -32,6 +32,10 @@
 - [edX](https://www.edx.org/)
 - [Pexels](https://www.pexels.com/)
 
+### Github Repository
+
+- Collection of advice for prospective and current PhD students [Github](https://github.com/pliang279/awesome-phd-advice)
+
 ### Compiler
 
 - Compiler Course [Youtube playlist](https://youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM&si=n7PjDMUk-4JeyAaU)
