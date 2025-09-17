@@ -33,6 +33,7 @@
 - Why I'm a Better Developer than You [Ben Awad](https://youtu.be/4WTV6ZCY4qo?si=13ET3dWMPVbAARbZ)
 - Linux Commands cheat sheet [Xmind](https://xmind.app/m/WwtB/)
 - Linux Command.org [Link](https://linuxcommand.org/index.php)
+- wcurl: A Simple Wrapper for curl to download files [Link](https://blog.techiescamp.com/docs/wcurl/)
 
 ### Command line and Bash Scripting
 

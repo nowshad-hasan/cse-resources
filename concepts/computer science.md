@@ -35,6 +35,8 @@
 ### Github Repository
 
 - Collection of advice for prospective and current PhD students [Github](https://github.com/pliang279/awesome-phd-advice)
+- PhD advice [Link](https://github.com/shaily99/advice)
+- CS-PhD-Application-fee-waivers [Link](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers)
 
 ### Compiler
 

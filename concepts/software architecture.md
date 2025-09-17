@@ -45,6 +45,9 @@
 - Software Design by Jakob Jenkov [Youtube playlist](https://youtube.com/playlist?list=PLL8woMHwr36HWMaOTIiWNf_fYYkZCHPxo&si=7h1b5xi8PdOCOJq2)
 - Worldwide Software Architecture Summit by Geekle Official [Youtube playlist](https://youtube.com/playlist?list=PLnQIVBzL8WX72gAXkrLLDq3ovFR4CDugP&si=hs4VLmkNc4QYQYkB)
 
+### Github Repo
+- Awesome Software Architecture [Link](https://github.com/mehdihadeli/awesome-software-architecture)
+
 ### Discussions
 
 🔍 Decoding common API Endpoint Formats:

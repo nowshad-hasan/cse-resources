@@ -17,6 +17,7 @@
 - Full Stack Tutorial – Hotel Management Site w/ Next.js, React, Sanity.io, Tailwind, Stripe [Freecodecamp](https://youtu.be/kiCH27qsNL8?si=53qjp8zAeO9WRTb5)
 - Full Stack React Node Project | Build a Notes App from Scratch for your Portfolio [Freecodecamp-Youtube](https://youtu.be/2MoSzSlAuNk?si=hxVLd1zeLeBwv0Wj)
 - Strapi 5 and Next.js 15 Full Stack Project Course [Freecodecamp](https://youtu.be/Q-cPtlYG1cY?si=HpGyuGX4apZ7_cSl)
+- How to Build a TODO App from Scratch with React.js [Freecodecamp](https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/)
 
 ### Github Projects
 

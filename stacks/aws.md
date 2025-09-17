@@ -18,3 +18,6 @@
 ### Videos
 
 - I failed an AWS Exam TWICE (Mistakes to avoid for SysOps) [Youtube](https://youtu.be/lfLta9zFw3Y?si=EckUAzirX_eivrhf)
+
+### Github Repo
+- The Open Guide to Amazon Web Services [Link](https://github.com/open-guides/og-aws)

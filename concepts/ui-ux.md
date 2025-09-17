@@ -30,9 +30,10 @@
 - Blobs
 - Blush
 - Lorem Ipsum
-- LottoeFiles
+- Lottoe Files
 - Unsplash
 - RemoveBG
 - Autoflow
 - Mockuuups Studio
 - SkewDat
+- WhatFont - Chrome web store

@@ -8,6 +8,7 @@
 - [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms)
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 - [ai-notes](https://github.com/swyxio/ai-notes)
+- [LLM Course](https://github.com/mlabonne/llm-course)
 
 ### Courses
 

@@ -47,6 +47,9 @@
 - [Wargames](https://overthewire.org/wargames/)
 - [Bouncy Castle](https://www.bouncycastle.org/)
 
+### Github Repo
+- [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
+
 ### Keycloak
 
 - Keycloak Tutorial [Youtube playlist](https://youtube.com/playlist?list=PLRTM7OTAxy3OcmFEZeIcRgyYBjFR9yNyT&si=kTv1tkhtunI9YGyP)

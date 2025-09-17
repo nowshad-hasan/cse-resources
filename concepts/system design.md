@@ -79,6 +79,7 @@
 * 10 Tips for Building Resilient Payment Systems [Shopify](https://shopify.engineering/building-resilient-payment-systems)
 * Sharding Pinterest: How we scaled our MySQL fleet [Pinterest Engineering Blog](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 * How We Solve Load Balancing Challenges in Apache Kafka [Medium](https://medium.com/agoda-engineering/how-we-solve-load-balancing-challenges-in-apache-kafka-8cd88fdad02b)
+* What’s different about the new Google Docs: Making collaboration fast [Google Drive Blog](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)

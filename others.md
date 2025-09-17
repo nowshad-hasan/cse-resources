@@ -571,6 +571,7 @@
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering)
 
 ### Blog Website
 - [Architecture Notes](https://architecturenotes.co/)
