@@ -25,6 +25,9 @@
 - Phone call to location track [সাইবার ৭১ -We Hack to Protect Bangladesh](https://www.facebook.com/Cyber71Bangladesh/posts/833847376966122)
 - Blind XSS for beginners [Medium](https://infosecwriteups.com/blind-xss-for-beginners-c88e48083071)
 - Stop using JWT for sessions [Link](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+- How To Use Certbot Standalone Mode to Retrieve Let's Encrypt SSL Certificates on Ubuntu 20.04 [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-20-04)
+- A Readable Specification of TLS 1.3 [Link](https://www.davidwong.fr/tls13/)
+- Everything you should know about certificates and PKI but are too afraid to ask [Link](https://smallstep.com/blog/everything-pki/)
 
 ### Cases
 
@@ -46,6 +49,7 @@
 ### Website
 - [Wargames](https://overthewire.org/wargames/)
 - [Bouncy Castle](https://www.bouncycastle.org/)
+- [Certbot](https://certbot.eff.org/instructions)
 
 ### Github Repo
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)

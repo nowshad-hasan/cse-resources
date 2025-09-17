@@ -13,7 +13,7 @@
 * কম্পিউটার নেটওয়ার্কিং [Dimik Computing](https://dimikcomputing.com/course/computer-networking-01-online-course/)
 - Network Routing Crash Course [Hussein Nusser-Youtube](https://youtu.be/iV5fajdpb7c?si=HSUgbDSPb72K0fT1)
 
-### Videos 
+### Videos
 - Full HTTP Networking Course – Fetch and REST APIs in JavaScript [Freecodecamp-Youtube](https://youtu.be/2JYT5f2isg4?si=SKyBqMtPtq28jMuK)
 - Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3 [Hussein Nasser-Youtube](https://youtu.be/0OrmKCB0UrQ?si=McHFRk3z9X9Rht_U)
 - The OSI Model - Explained by Example [Hussein Nasser-Youtube](https://youtu.be/7IS7gigunyI?si=whZJsEADCJpYUz40)
@@ -22,6 +22,9 @@
 - Network Fundamentals [Youtube playlist](https://youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&si=W86S8E0VEOMVSjKQ)
 - Computer Networking [Youtube playlist](https://youtube.com/playlist?list=PLfZEHK9XLKd6p3lRjZluG73e1_3FfOC2N&si=kzpwURM4Kgc-Z9Ov)
 - বাংলায় ৪০ মিনিটে নেটওয়ার্কিং কোর্স by Foyzul Karim [Youtube playlist](https://youtube.com/playlist?list=PLEYpvDF6qy8b2jm3xl-5lEdYE8OBniHe4&si=4T-xogExeayFOtdY)
+
+### Tools
+- Bangladesh — bd.pool.ntp.org [Link](https://www.ntppool.org/en/zone/bd)
 
 ### Other
 
@@ -36,4 +39,4 @@
 9. JWT vs Session [Ben Awad](https://youtu.be/o9hT7v0OLJc)
 10. Cookie crash course [Hussein Nasser](https://youtu.be/sovAIX4doOE), [Computerpfile](https://youtu.be/T1QEs3mdJoc)
 11. HTTP/1 to HTTP/2 to HTTP/3 [ByteByteGo](https://youtu.be/a-sBfyiXysI)
-12. What is idempotent? And what HTTP request should have retry mechanism? 
+12. What is idempotent? And what HTTP request should have retry mechanism?

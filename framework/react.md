@@ -22,6 +22,7 @@
 ### Github Projects
 
 - Awesome React [Github](https://github.com/enaqx/awesome-react)
+- Best-of React Web [Github](https://github.com/lukasmasuch/best-of-react)
 
 ### Video 
 

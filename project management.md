@@ -11,6 +11,8 @@
 ### Tools
 - [xmind](https://xmind.com/)
 - [Kaleida](https://www.kaleida.team/)
+- [Taiga](https://taiga.io/)
+- [Redmine](https://www.redmine.org/)
 
 ### Project Management
 
@@ -22,6 +24,9 @@
 - How to motivate a remote team [KAZ Software](https://kaz.com.bd/blog/2021/11/16/how-to-motivate-a-remote-team)
 - How to make a software project plan that actually works [KAZ Software](https://kaz.com.bd/blog/2021/11/17/how-to-make-a-software-project-plan-that-actually-works)
 - RFC driven development [Link](https://engineering-management.space/post/rfc-driven-development/)
+- The 4 Best Open Source Jira Alternatives [Get Magical](https://www.getmagical.com/blog/best-open-source-jira-alternatives)
+- Top 10 Open-Source JIRA Alternatives 2024 [Meetrix.io](https://meetrix.io/articles/best-free-open-source-jira-alternatives-self-hosted-pm-tool/)
+- Why Scrum is Stressing You Out [Link](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
 
 ### Videos 
 - Intro to Kanban in Under 5 Minutes (What is Kanban, Learn Kanban) [Youtube](https://youtu.be/R8dYLbJiTUE?si=Qd3ayJAICdR6HNcH)

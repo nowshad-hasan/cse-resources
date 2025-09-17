@@ -80,6 +80,7 @@
 
 - [Devopscube](https://devopscube.com/)
 - [SigNoz](https://dev.to/signoz)
+- [iximiuz](https://labs.iximiuz.com/tutorials)
 
 ### Videos 
 

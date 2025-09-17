@@ -31,6 +31,7 @@
   - [Free API](#free-api)
   - [Code Quality Tools](#code-quality-tools)
   - [Code Analysis](#code-analysis)
+  - [Fun](#fun)
   - [Documentation Tools](#documentation-tools)
   - [Security Tools](#security-tools)
   - [Discussion](#discussion)
@@ -131,6 +132,10 @@
 
 - Introducing 50 Carefully Curated Cheat Sheets You'll Ever Need [Dev.to](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
 
+### History
+
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11)
+
 ### Tools
 
 * [Notion](https://www.notion.com/)
@@ -141,6 +146,7 @@
 * [One Uptime](https://github.com/OneUptime/oneuptime)
 * [Git Leaks](https://github.com/gitleaks/gitleaks)
 * [Sentry.io](https://sentry.io/welcome/)
+* [Zimbra](https://www.zimbra.com/)
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -572,6 +578,11 @@
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering)
+- [Best of](https://github.com/best-of-lists/best-of)
+
+### Libraries
+
+- [Meilisearch](https://github.com/meilisearch/meilisearch)
 
 ### Blog Website
 - [Architecture Notes](https://architecturenotes.co/)
@@ -674,6 +685,9 @@
   
 ### Podcast 
 - [Hope This Helps](https://creators.spotify.com/pod/show/saad-bin-amjad/episodes/HTH-02-Angular-vs-React-egk19g)
+
+### Fun
+- Nothing is Certain Except Death, Taxes and a Short Mobile App Lifespan [Link](https://blog.axway.com/learning-center/software-development/api-development/nothing-is-certain-except-death-taxes-and-a-short-mobile-app-lifespan-2)
 
 ### Code Quality Tools
 
