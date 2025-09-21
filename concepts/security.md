@@ -28,6 +28,9 @@
 - How To Use Certbot Standalone Mode to Retrieve Let's Encrypt SSL Certificates on Ubuntu 20.04 [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-20-04)
 - A Readable Specification of TLS 1.3 [Link](https://www.davidwong.fr/tls13/)
 - Everything you should know about certificates and PKI but are too afraid to ask [Link](https://smallstep.com/blog/everything-pki/)
+- How to Use Wireshark Filters to Analyze Your Network Traffic [Freecodecamp](https://www.freecodecamp.org/news/use-wireshark-filters-to-analyze-network-traffic/)
+- How SSH Authentication with GitHub Works Under the Hood [Github](https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/)
+- Why Cybersecurity Skills Are Important for Front-End Developers [Freecodecamp](https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/)
 
 ### Cases
 
@@ -53,6 +56,10 @@
 
 ### Github Repo
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
+
+### Tools
+
+- [mitmproxy](https://www.mitmproxy.org/)
 
 ### Keycloak
 

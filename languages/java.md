@@ -126,6 +126,7 @@
 - Understanding JMX and its architecture (Management Level) [Link](https://mohibulsblog.netlify.app/posts/java/100daysofjava/day61/)
 - What Should I Know About Garbage Collection as a Java Developer? [Azul](https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/)
 - Guide to Passay [Baeldung](https://www.baeldung.com/java-passay)
+- Sneaky throws [Project Lombok](https://projectlombok.org/features/SneakyThrows)
 
 ### Collection Framework
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)

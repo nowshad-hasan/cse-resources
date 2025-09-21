@@ -6,3 +6,11 @@
 ### Projects
 
 - [Fireworks](https://github.com/addyosmani/firew0rks/)
+
+### Videos
+
+- Solve This Coding Question To Win $100 [Nick White](https://www.youtube.com/watch?v=_DvSIoQKBac&t=316s)
+
+- I Sold VSCode Stories [Ben Awad](https://www.youtube.com/watch?v=CHO316LKnZw)
+- VSCode Stories [Link](https://marketplace.visualstudio.com/items?itemName=bar9.stories)
+- Introducing VSCode Stories [Ben Awad](https://www.youtube.com/watch?v=ApR-kNXxLUs)

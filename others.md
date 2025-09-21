@@ -98,6 +98,8 @@
 * The Odin Project [Link](https://www.theodinproject.com/lessons/foundations-git-basics)
 * Git Cheat Sheet 📄 (50 commands + PDF and poster) [Dev.to](https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
 * Git’s database internals III: file history queries [Github blog](https://github.blog/open-source/git/gits-database-internals-iii-file-history-queries/)
+*  Manage multiple working trees [Git Scm](https://git-scm.com/docs/git-worktree)
+* Git Immersion [](https://gitimmersion.com/index.html)
 
 ### VIM
 
@@ -128,6 +130,10 @@
   * New IntelliJ Tricks I Learnt Today [Trisha Gee](https://trishagee.github.io/post/stuff_i_learnt_about_intellij/)
   - IntelliJ IDEA 2020.2 for Java Developers [IntelliJ IDEA Youtube](https://youtu.be/lgZRMCpfYM4?si=tx0BWIPDz9I5hPE0)
 
+### Cases
+
+- Nightmare in code street - a software project horror story with a happy ending [KAZ Software](https://kaz.com.bd/blog/2015/9/10/nightmare-in-code-street-a-software-project-horror-story-with-a-happy-ending)
+
 ### Collections
 
 - Introducing 50 Carefully Curated Cheat Sheets You'll Ever Need [Dev.to](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
@@ -147,6 +153,11 @@
 * [Git Leaks](https://github.com/gitleaks/gitleaks)
 * [Sentry.io](https://sentry.io/welcome/)
 * [Zimbra](https://www.zimbra.com/)
+* [Miro](https://miro.com/)
+* SMS Solution [Durbar](https://sms.durbar71.com/)
+* Reviewdog - A code review dog who keeps your codebase healthy [Reviewdog](https://github.com/reviewdog/reviewdog)
+* [Giz.tools](https://giz.tools/)
+
 
 ### Blockchain
 * [What Is Blockchain? Simplest Introduction To The Blockchain](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575)
@@ -218,6 +229,10 @@
 * How to Write Good Code: 10 Beginner-friendly Techniques for Instant Results [Sitepoint](https://www.sitepoint.com/how-to-write-good-code/)
 * CV of failures: Princeton professor publishes résumé of his career lows [The Guardian](https://amp.theguardian.com/education/2016/apr/30/cv-of-failures-princeton-professor-publishes-resume-of-his-career-lows)
 * How I learn Software Engineering [Hussein Nasser](https://medium.com/@hnasr/how-i-learn-software-engineering-eae8e25ccac9)
+* Life’s Work: A Conversation with Wahid Choudhury, Founder, Kaz Software (Part 01) [KAZ Software](https://futurestartup.com/2025/06/21/lifes-work-a-conversation-with-wahid-choudhury-founder-kaz-software-part-01/)
+* How to Get Promoted from Senior to Staff Engineer – Tips from My Experience [Freecodecamp](https://www.freecodecamp.org/news/how-to-get-promoted-from-senior-to-staff-engineer-tips-from-my-experience/)
+* Right skills to get hired on amazing projects [A N M Bazlur Rahman](https://www.linkedin.com/pulse/right-skills-get-hired-amazing-projects-a-n-m-bazlur-rahman/)
+* How to Interview for a Software Development Job: Success in the Wild West [Freecodecamp](https://www.freecodecamp.org/news/how-to-interview-for-software-development-jobs/)
 
 ### Articles and Videos
 
@@ -278,6 +293,10 @@
 * I build a Github Dark Theme inspired Portfolio [Dev.to](https://dev.to/commentme/i-build-a-github-dark-theme-inspired-portfolio-5gmo)
 * Finding great software developers [KAZ Software](https://kaz.com.bd/blog/2022/10/20/finding-great-software-developers)
 * PHP: a fractal of bad design [Link](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/D)
+* The 70% problem: Hard truths about AI-assisted coding [Addy Osmani](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+* Why Google Stores Billions of Lines of Code in a Single Repository [Link](https://cacm.acm.org/research/why-google-stores-billions-of-lines-of-code-in-a-single-repository/)
+* What Really Happened in Paris? [KAZ SOftware](https://kaz.com.bd/blog/what-really-happened-in-paris)
+* The Meanings of Googliness [Link](https://meiert.com/blog/googliness/)
 
 ### Coding Music
 
@@ -312,12 +331,11 @@
 * Software reality: Multiple ways of solving the same problem [KAZ Software](https://kaz.com.bd/blog/2021/1/28/software-reality-multiple-ways-of-solving-the-same-problem)
 * Dream big, and follow through even bigger [Github Readme](https://github.com/readme/stories/safia-abdalla)
 * How Google's Technical Writing Course Helped Me Become a Better Writer [Freecodecamp](https://www.freecodecamp.org/news/what-google-taught-me-about-technical-writting/)
-* How to Learn Something New Every Day as a Software Developer [Freecodecamp](https://www.freecodecamp.org/news/learn-something-new-every-day-as-a-software-developer/)
 * The Best Tech Podcasts for Software Developers in 2021 [Freecodecamp](https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/)
 * How Empathy Can Make You a Better Software Engineer [Freecodecamp](https://www.freecodecamp.org/news/how-empathy-makes-you-a-better-software-engineer)
 * I uncovered 1700 Coursera Courses that Are Still Completely Free [Freecodecamp](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 * How I Find Time for Coding While Raising My Newborn Son [Freecodecamp](https://www.freecodecamp.org/news/coding-with-a-newborn)
-* My System for Organizing Work in a Distracted World [Reflectoring.io](https://reflectoring.io/organizing-work/)
+* My System for Organizing Work in a Distracted World [Reflectoring.io](https://reflectoriGng.io/organizing-work/)
 * How to Stay Productive All Day – Coding and Scheduling Tips for Programmers [Freecodecamp](https://www.freecodecamp.org/news/how-to-stay-productive-all-day-coding-and-scheduling-tips-for-programmers/)
 * Avoiding burnout as an ambitious developer [Stackoverflow Blog](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/)
 * Boost Your Programming Skills by Reading Git's Code [Freecodecamp](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/)
@@ -342,7 +360,6 @@
 - [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns)
 - [Software without anger: managing yourself](https://kaz.com.bd/blog/2019/11/22/software-without-anger-managing-yourself)
 - [5 things software entrepreneurs must remember](https://kaz.com.bd/blog/2015/10/8/5-things-software-entrepreneurs-must-remember)
-- [Usability testing: How not to strangle your customers](https://kaz.com.bd/blog/2020/10/15/usability-testing-how-not-to-strangle-your-customers)
 - Why incompetent people think they're amazing - David Dunning [TED-Ed](https://youtu.be/pOLmD_WVY-E?si=lWQ7FVhc5lSss2Ft)
 - How writing can advance your career as a developer [Stackoverflow](https://stackoverflow.blog/2021/08/09/how-writing-can-advance-your-career-as-a-developer/)
 - 7 Ways to Improve Your Code Reading Skills [DZone](https://dzone.com/articles/7-ways-to-improve-your-code-reading-skill)
@@ -362,10 +379,29 @@
 - Reduce the gap between idea and execution [Addy Osmani](https://addyo.substack.com/p/reduce-the-gap-between-idea-and-execution)
 - 8 Email Etiquette Tips - How to Write Better Emails at Work [Harvard Business Review](https://youtu.be/1XctnF7C74s?si=f4pRF85wyhex2UJs)
 - Why your software partner needs to be laser focused on product launch [KAZ Software](https://kaz.com.bd/blog/why-your-software-partner-needs-to-be-laser-focused-on-product-launch)
+- Vibe Coding is not an excuse for low-quality work [Addy Osmani](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for)
+- Software Engineer to Software Architect — Roadmap to Success [Medium](https://levelup.gitconnected.com/from-software-developer-to-software-architect-roadmap-to-success-695951521d9b)
+- The Untold Story of My Home Server - A Journey Through Self-Hosted Services [Ashraful's Blog](https://blog.ashraful.dev/posts/history-of-a-home-server.html)
+- 16 Years of Kaz Software: Why we make our screens private [KAZ Software](https://kaz.com.bd/blog/2020/7/3/16-years-of-kaz-software-why-we-make-our-screens-private)
+- 23 Alternative Career Paths that Software Developers Can Grow Into [Freecodecamp](https://www.freecodecamp.org/news/alternative-career-paths)
+- 10 Steps to Making Your Software Product [KAZ Software](https://kaz.com.bd/blog/2020/7/7/making-your-software-defining-what-the-software-will-do-wireframes-and-mockups)
+- The 80/20 Rule And How It Can Change Your Life [Forbes](https://www.forbes.com/sites/kevinkruse/2016/03/07/80-20-rule/#283964573814)
+- From Mistakes to Mastery: Dev Career Growth Tips [KAZ Software](https://kaz.com.bd/blog/2013/10/29/failing-better-the-secret-of-great-software-careers)
+- Talent is everything in software [KAZ Software](https://kaz.com.bd/blog/2020/1/30/talent-is-everything-in-software)
+- Do not disturb a software developer in "flow" [KAZ Software](https://kaz.com.bd/blog/2020/1/28/do-not-disturb-a-software-developer-in-flow)
+- What Is Overengineering? [Link](https://www.codesimplicity.com/post/what-is-overengineering/)
+- The #1 software soft-skill [KAZ Software](https://kaz.com.bd/blog/2020/9/17/top-software-soft-skill)
+- Software without anger: managing yourself [KAZ Software](https://kaz.com.bd/blog/2019/11/22/software-without-anger-managing-yourself)
+
+### Code Review
+
+- Five Code Review Antipatterns [Java Magazine](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns)
+- Code Review Best Practices [Link](https://trishagee.github.io/post/code_review_best_practices/)
 
 ### Debugging
 
 - Fixing Cars and Fixing Bugs [Link](https://keepcalmandrefactor.com/)
+- Rubber duck debugging [Wikipedia](https://en.m.wikipedia.org/wiki/Rubber_duck_debugging)
 
 
 ### Outages
@@ -445,7 +481,7 @@
 - HarvardX: CS50's Introduction to Computer Science [Link](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - Computer Science [Crash Course-Youtube Playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=dvchp8LyHzkKo_xO)
 
-### Fun
+### FunS
 
 - What's your most controversial programming opinion? [Stackoverflow](https://stackoverflow.com/questions/406760/whats-your-most-controversial-programming-opinion?page=1&tab=createdasc#tab-top)
 
@@ -464,6 +500,11 @@
 -[Amy M Haddad](https://amymhaddad.com/)
 - [Bazlur Rahman](https://bazlur.ca/)
 - [Leader's Whiteboard](https://ashikuzzaman.com/)
+- [Sam Altman](https://blog.samaltman.com/)
+- [Luciano Nooijen](https://lucianonooijen.com/blog/)
+- [Anam's Blog](https://anam.co/)
+- [Rachel Andrew](https://rachelandrew.co.uk/)
+- [Sazzadur Rahaman](https://www.sazzadur.com/)
 
 ### Engineering Blog
 
@@ -534,6 +575,7 @@
 - [Forethought Engineering](https://engineering.forethought.ai/)
 - [Capital One Techblog](https://www.capitalone.com/tech/blog/)
 - [Disney Streaming](https://medium.com/disney-streaming)
+- [Zalando Engineering](https://engineering.zalando.com/)
 
 ### Learning Website
 
@@ -570,6 +612,7 @@
 ### Github Project
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Free Programming Books by Subject](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 - [realworld](https://github.com/gothinkster/realworld)
 - [Awesome resources](https://github.com/shahednasser/awesome-resources)
@@ -682,6 +725,7 @@
 ### Project Idea
 - Cool web projects for beginners [KAZ Software](https://kaz.com.bd/blog/2020/8/12/cool-web-projects-for-beginners)
 - How to Use APIs in Your Projects to Practice Your Coding Skills [Freecodecamp](https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/)
+- Project Ideas [Link](https://roadmap.sh/projects)
   
 ### Podcast 
 - [Hope This Helps](https://creators.spotify.com/pod/show/saad-bin-amjad/episodes/HTH-02-Angular-vs-React-egk19g)

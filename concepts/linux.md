@@ -46,6 +46,7 @@
 ### Vim
 - [Vim Adventures](https://vim-adventures.com/)
 - Linux VI Editor Shortcuts, Tips, and Productivity Hacks For Beginners [Devopscube](https://devopscube.com/linux-vi-editor-shortcuts-beginners/)
+- Mastering VIM: Your Guide to Efficient Text Editing [Freecodecamp](https://www.freecodecamp.org/news/mastering-vim-your-guide-to-efficient-text-editing/)
 
 ### Videos
 - Watch Linux kernel developer write a USB driver from scratch in just 3h for Apple Xserve front-panel [Youtube](https://youtu.be/IXBC85SGC0Q?si=ACB-XsY_u8DJargo)

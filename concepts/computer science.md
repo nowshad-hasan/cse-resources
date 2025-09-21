@@ -10,6 +10,10 @@
 - Free for Developers [Free-for.dev](https://free-for.dev/)
 - [Neal.fun](https://neal.fun/)
 - [Coursera](https://www.coursera.org/)
+- [Codelabs](https://codelabs.developers.google.com/)
+- [Build Your Own X From Scratch](https://build-your-own.org/)
+- [Code with Mosh](https://codewithmosh.com/)
+- [Open Source Society University](https://github.com/ossu/computer-science)
 
 ### Videos
 
@@ -20,6 +24,7 @@
 ### Collections
 
 - 1200 Free Computer Science Courses from the World’s Top Universities [Freecodecamp](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
+- The Top 100 Free University Courses of the Year (Ranked by Popularity) [Freecodecamp](https://www.freecodecamp.org/news/most-popular-free-online-courses/)
 
 ### Tools
 - [Dev Docs](https://devdocs.io/)

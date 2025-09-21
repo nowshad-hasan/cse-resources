@@ -12,6 +12,7 @@
 - [JS Code Challenges](https://jscodechallenges.vercel.app/)
 - Javascript for the Web [Sabe.io](https://sabe.io/classes/javascript/introduction)
 - [JSRoadmap](https://jsroadmap.com/)
+- 40 Days of JS - Daily Learning Plan [Tapascript](https://atapas.notion.site/40-Days-of-JS-Daily-Learning-Plan-193b7e47a3df80c1868cea5881f0b160)
 
 ### Library
 

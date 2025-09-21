@@ -52,6 +52,7 @@
 * Go Patterns [Github](https://github.com/tmrts/go-patterns)
 * Javascript Patterns By Addy Osmani and Lydia Hallie [Book link](https://www.patterns.dev/)
 * Design Patterns in Object Oriented Languages [Link](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&si=mUjNRv2VotqDVsTL)
+* Object-Oriented Design Patterns with Java [Freecodecamp](https://www.freecodecamp.org/news/object-oriented-design-patterns-with-java/)
 
 ### Github Project
 

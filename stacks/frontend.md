@@ -10,9 +10,10 @@
 - [Codier](https://codier.io/)
 - [100dayscss](https://100dayscss.com/)
 
-### CSS Articles
+### Articles
 
 - CSS Cheat Sheet – 10 Tricks to Improve Your Next Coding Project [Freecodecamp](https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project)
+- The Front-End Performance Optimization Handbook – Tips and Strategies for Devs [Freecodecamp](https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/)
 
 ### Collections
 
@@ -23,9 +24,15 @@
 - Frontend Development [Github](https://github.com/dypsilon/frontend-dev-bookmarks)
 - Frontend Resources [Github](https://github.com/Ashik045/frontend-resources)
 
+
+### Podcasts
+
+- Angular vs React [Hope This Helps](https://creators.spotify.com/pod/profile/saad-bin-amjad/episodes/HTH-02-Angular-vs-React-egk19g)
+
 ### Courses
 
 - Frontend masters bootcamp [Link](https://frontendmasters.com/bootcamp/)
+- Meta Front-End Developer Professional Certificate [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
 ### To Learn
 
@@ -34,6 +41,7 @@
 - [Threejs](https://threejs.org/)
 - [D3 JS](https://d3js.org/)
 - [Canva JS](https://canvasjs.com/)
+- [Great Frontend](https://www.greatfrontend.com/)
 
 
 ### Interview Questions

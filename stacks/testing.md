@@ -37,6 +37,8 @@
 
 * Testing beyond coverage [Increment](https://increment.com/reliability/testing-beyond-coverage/)
 * How I write 1000s tests with little effort [Link](https://craftbettersoftware.com/p/how-i-write-1000s-tests-with-little)
+* 5 tips to stay sane with automation testing [KAZ Software](https://kaz.com.bd/blog/2020/8/27/5-tips-to-stay-sane-with-automation-testing)
+* Usability testing: How not to strangle your customers [KAZ Software](https://kaz.com.bd/blog/2020/10/15/usability-testing-how-not-to-strangle-your-customers)
 
 ### Blog
 * [Test Automation University](https://testautomationu.applitools.com/)
@@ -49,9 +51,14 @@
 * Mockito Tutorial [Javadoc.io](https://www.javadoc.io/doc/org.mockito/mockito-core/2.23.4/org/mockito/Mockito.html)
 * Mockito Verify Cookbook [Baeldung](https://www.baeldung.com/mockito-verify)
 
+### Github Projects
+
+- Playwright Java Test Automation Architecture [Link](https://github.com/Tahanima/playwright-java-test-automation-architecture)
+
 ### Tools
 
 * [Flutter Patrol](https://pub.dev/packages/patrol)
+* [Browserling](https://www.browserling.com/)
 
 ### Others
 
@@ -63,6 +70,10 @@
 - 8 Mistakes to Avoid in Cypress Test Automation with Filip Hric [Youtube](https://www.youtube.com/live/0FPfS7nGsZ8?si=cfxg4cBxGvBd93oE)
 - Cypress: E-2-E Testing, Component Testing, + Advanced Patterns with Jordan Powell | JS Drops [Youtube](https://youtu.be/UVEWgVX6esE?si=TZvt_tfrfEAxbMzw)
 
+
+### Youtube Channel
+
+- [gleb bahmutov](https://www.youtube.com/@gleb) 
 
 ### Videos
 

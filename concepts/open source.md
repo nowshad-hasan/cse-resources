@@ -16,6 +16,8 @@
 * How to Build a Sustainable Open Source Contribution Routine [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-sustainable-open-source-contribution-routine/)
 * 12 Ways to Get More GitHub Stars for your Open-Source Project [Link](https://blog.tooljet.ai/12-ways-to-get-more-github-stars-for-your-open-source-projects/)
 * How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners [Freecodecamp](https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/)
+* Contributing guideline [Link](https://github.com/addyosmani/git2txt/blob/main/CONTRIBUTING.md)
+* The Ultimate Guide to Open Source [Freecodecamp](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
 
 ### Collection
 * The Open Source Computer Science Degree [GitHub Repo](https://github.com/ForrestKnight/open-source-cs)
@@ -57,6 +59,7 @@
 - [Quran](https://github.com/quran)
 - [daily.dev](https://github.com/dailydotdev/daily)
 - [squish](https://github.com/addyosmani/squish)
+- [Blood Connect](https://github.com/CraftsmenLtd/BloodConnect)
 
 ### Javascript Projects
 

@@ -22,6 +22,15 @@
 - Mastering Backend Development with Java Spring Boot: Best Practices and Pro Tips [Medium](https://itznihal.medium.com/mastering-backend-development-with-java-spring-boot-best-practices-and-pro-tips-3fc0f501418e)
 - API Integration Patterns – The Difference between REST, RPC, GraphQL, Polling, WebSockets and WebHooks [Freecodecamp](https://www.freecodecamp.org/news/api-integration-patterns/)
 - Code Analysis with SonarQube [Baeldung](https://www.baeldung.com/sonar-qube)
+- Semantic Versioning 2.0.0 [Link](https://semver.org/)
+- Learn API Fundamentals and Architecture – A Beginner-Friendly Guide [Freecodecamp](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/)
+- Why Your Code is Slow: Common Performance Mistakes Beginners Make [Freecodecamp](https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/)
+- Isn't Sentry just logging? [Sentry.io](https://sentry.io/vs/logging/)
+- Learn Software Design Basics: Key Phases and Best Practices [Freecodecamp](https://www.freecodecamp.org/news/learn-software-design-basics/)
+- 7 best practices to know about before you outsource software [KAZ Software](https://kaz.com.bd/blog/2016/10/9/best-practices-for-software-development-outsourcing)
+- Making your software: Step 1 - A rough specification [KAZ Software](https://kaz.com.bd/blog/2020/7/20/making-your-software-step-1-a-rough-specification)
+- The Quality of Software [KAZ Software](https://kaz.com.bd/blog/2020/8/18/the-quality-of-software)
+- 5 Tools all non-technical software founders should use [KAZ Software](https://kaz.com.bd/blog/2017/2/13/5-software-dev-tools-all-non-technical-founder-should-use)
 
 ### Talks and Conferences
 
@@ -37,6 +46,8 @@
 
 ### Courses
 - Information​ ​Systems Specialization [Coursera](https://www.coursera.org/specializations/information-systems)
+- How to Create Documentation with docs.page – A Beginner's Tutorial [Freecodecamp](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
+- How to Write Good API Documentation [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-good-api-docs/)
 
 ### Tools
 - The world’s most adopted open source API gateway [Kong](https://konghq.com/products/kong-gateway)
@@ -47,6 +58,7 @@
 
 ### Github Repo
 - Awesome Software Architecture [Link](https://github.com/mehdihadeli/awesome-software-architecture)
+- Software Architecture Books [Link](https://github.com/mhadidg/software-architecture-books)
 
 ### Discussions
 

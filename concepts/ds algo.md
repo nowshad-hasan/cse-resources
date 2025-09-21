@@ -18,6 +18,7 @@
 
 - Awesome Algorithms [Github](https://github.com/tayllan/awesome-algorithms)
 - You Know Who Academy [Link](https://youkn0wwho.academy/topic-list)
+- Design and Analysis of Algorithms [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 ## Discrete Mathematics
 
@@ -47,6 +48,7 @@
 * Ropes Data Structure (Fast String Concatenation) [Geeksforgeeks](https://www.geeksforgeeks.org/dsa/ropes-data-structure-fast-string-concatenation/)
 * How I Mastered Data Structures and Algorithms [Link](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 * [Tutorial] Common Mistakes in Competitive Programming and How to Avoid Them [Codeforces](https://codeforces.com/blog/entry/111217)
+* Computational Complexity of Fibonacci Sequence [Baeldung](https://www.baeldung.com/cs/fibonacci-computational-complexity)
 
 ## Problem Collection
 
@@ -67,11 +69,16 @@
 * General summary of what kind of problem can/ cannot solved by Two Pointers [Leetocde](https://leetcode.com/problems/subarray-sum-equals-k/solutions/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers/)
 * Comprehensive Data Structure and Algorithm Study Guide [Leetcode](https://leetcode.com/discuss/post/494279/comprehensive-data-structure-and-algorit-tdez/)
 * How to effectively use LeetCode to prepare for interviews!! [Leetcode](https://leetcode.com/discuss/post/449135/how-to-effectively-use-leetcode-to-prepa-m7gt/)
+* Bitwise-XOR [GeeksforGeeks](https://www.geeksforgeeks.org/tag/xor/)
 
 ### Practice Website
 
 * [Neetcode](https://neetcode.io/)
 * [Interviews.school](https://interviews.school/)
+
+### Online Judge
+
+- [ATCoder](https://atcoder.jp/)
 
 ## Blog
 
@@ -81,6 +88,8 @@
 * [Programabad](https://programabad.com/)
 * [Algo Expert](https://www.algoexpert.io/)
 * [VisualAlgo](https://visualgo.net/en)
+* [takeUForward](https://takeuforward.org)
+* [Namaste.dev](https://namastedev.com/)
 
 ### Patterns
 
@@ -169,6 +178,7 @@
 ### DP
 - Common DP problems - [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7061933638564659200/)
 - DP for Beginners [Problems | Patterns | Sample Solutions] [Leetcode](https://leetcode.com/discuss/post/662866/dp-for-beginners-problems-patterns-sampl-atdb/)
+- Dynamic Programming for Beginners – How to Solve Coding Challenges with Memoization and Tabulation [Freecodecamp](https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/)
 
 ### Sliding Window 
 - Sliding Window algorithm template to solve all the Leetcode substring search problem. [Leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem/)
@@ -183,12 +193,21 @@
 
 ### Courses
 - Algorithms Specialization [Course era](https://www.coursera.org/specializations/algorithms)
+- Computer Science Theory [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ### YouTube
 - [My Code School](https://www.youtube.com/user/mycodeschool/playlists)
 - [Logicmojo](https://www.youtube.com/@logicmojo)
 - [Errichto Algorithms](https://www.youtube.com/@Errichto/playlists)
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+- [Take U Forward](https://www.youtube.com/@takeUforward/playlists)
+- [Logicmojo](https://www.youtube.com/channel/UCvEbA5RN5YLeOwYLXwC-jhg/videos)
+- [Errichto Algorithms](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+
+### Youtube playlist
+
+- Recursion [MyCodeSchool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLz3g66WrxFGSXvSsvyfzCO)
 
 ### GitHub Repo
 

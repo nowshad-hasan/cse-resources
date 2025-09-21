@@ -46,6 +46,10 @@
 - Complete Guide to CORS [KAZ Blog](https://kaz.com.bd/blog/2020/1/2/3-questions-to-define-a-software-product)
 - How browsers work [web.dev](https://web.dev/articles/howbrowserswork)
 
+### WebRTC
+
+- [WebRTC Google Repository](https://webrtc.googlesource.com/src/+/main/g3doc/)
+
 ### REST API
 
 * Representational State Transfer (REST) [Publication](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
@@ -65,6 +69,12 @@
   * [Facebook Graph API](https://developers.facebook.com/docs/graph-api/)
 * OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0 [YouTube](https://youtu.be/6kwmW_p_Tig)
 * Richardson Maturity Model [Martin Fowler Blog](https://martinfowler.com/articles/richardsonMaturityModel.html)
+
+### Rest API Client
+
+- [httpie](https://httpie.io/)
+- [Bruno](https://docs.usebruno.com/)
+- Rapid-The most advanced API tool for Mac [Link](https://paw.cloud/)
 
 ### Tips and Tricks
 

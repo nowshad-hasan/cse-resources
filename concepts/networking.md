@@ -8,6 +8,8 @@
 * Supernetting in Network Layer [Geeksforgeeks](https://www.geeksforgeeks.org/computer-networks/supernetting-in-network-layer/)
 * What Is a CDN (Content Delivery Network)? [Akamai.com](https://www.akamai.com/glossary/what-is-a-cdn)
 * TCP vs. UDP — What's the Difference and Which Protocol is Faster? [Freecodecamp](https://www.freecodecamp.org/news/tcp-vs-udp/)
+* TCP and UDP Ports Explained [Link](https://www.bleepingcomputer.com/tutorials/tcp-and-udp-ports-explained/)
+* TCP/IP Ports and Sockets Explained [Link](http://www.steves-internet-guide.com/tcpip-ports-sockets/)
 
 ### Resurces
 * কম্পিউটার নেটওয়ার্কিং [Dimik Computing](https://dimikcomputing.com/course/computer-networking-01-online-course/)

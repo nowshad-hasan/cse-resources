@@ -16,6 +16,8 @@
 
 - Getting Started with CSS [Frontend Masters](https://frontendmasters.com/courses/getting-started-css-v2/)
 - design-resources-for-developers [Github](https://github.com/bradtraversy/design-resources-for-developers)
+- https://www.freecodecamp.org/news/create-24-css-projects/
+- CSS 24 Projects [Freecodecamp](https://www.freecodecamp.org/news/create-24-css-projects/)
 
 ### Conference Talks
 
@@ -90,6 +92,8 @@
 * An animated lesson on CSS will teach you how to use it [Dev.to](https://dev.to/jon_snow789/an-animated-lesson-on-css-will-teach-you-how-to-use-it-2dj4)
 * You Won't Believe these animations made In Pure CSS [Dev.to](https://dev.to/jon_snow789/you-wont-believe-these-animations-made-in-pure-css-4cgc)
 * Bad UI Battels: Developers are competing who create the worst UI [Dev.to](https://dev.to/jon_snow789/bad-ui-battels-developers-are-competing-who-create-the-worst-ui-1no2)
+* 404 Templates [Free Frontend](https://freefrontend.com/html-404-templates/)
+* 404 Templates [Colorlib](https://colorlib.com/wp/free-404-error-page-templates/)
 
 ### Tools
 

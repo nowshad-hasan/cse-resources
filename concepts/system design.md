@@ -40,7 +40,7 @@
 - What Is Service Discovery? [Link](https://systemdesign.one/what-is-service-discovery/)
 - How Databases Keep Passwords Securely 🔒 [Link](https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database)
 - How Stripe Prevents Double Payment Using Idempotent API [Link](https://newsletter.systemdesign.one/p/idempotent-api)
-- How Google Ads Was Able to Support 4.77 Billion Users With a SQL Database [Link](https://newsletter.systemdesign.one/p/cloud-spanner-database)
+- How Google Ads Was Able to Support 4.77 BillDion Users With a SQL Database [Link](https://newsletter.systemdesign.one/p/cloud-spanner-database)
 - How Amazon S3 Works [Link](https://newsletter.systemdesign.one/p/s3-architecture)
 - How Uber Computes ETA at Half a Million Requests per Second [Link](https://newsletter.systemdesign.one/p/uber-eta)
 - How YouTube Was Able to Support 2.49 Billion Users With MySQL [Link](https://newsletter.systemdesign.one/p/vitess-mysql)
@@ -80,6 +80,9 @@
 * Sharding Pinterest: How we scaled our MySQL fleet [Pinterest Engineering Blog](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
 * How We Solve Load Balancing Challenges in Apache Kafka [Medium](https://medium.com/agoda-engineering/how-we-solve-load-balancing-challenges-in-apache-kafka-8cd88fdad02b)
 * What’s different about the new Google Docs: Making collaboration fast [Google Drive Blog](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
+* How to Build a Scalable URL Shortener with Distributed Caching Using Redis [Freecodecamp](https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/)
+* Google Maps UX: The India Conundrum [Link](https://elizlaraki.substack.com/p/google-maps-ux-the-india-conundrum)
+* Data Structures & Algorithms I Used Working at Tech Companies [Pragmatic Engineer](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)
@@ -136,6 +139,8 @@
 * Awesome Scalability [Github](https://github.com/binhnguyennus/awesome-scalability)
 * White papers that are worth your time [Interview ready](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)
 * Twitter's Recommendation Algorithm [Github](https://github.com/twitter/the-algorithm)
+* [Storage Scalability](https://www.interviewbit.com/courses/system-design/storage-scalability/)
+* [Hired In Tech](https://www.hiredintech.com/system-design/)
 
 ### Others
 
@@ -251,3 +256,7 @@ Bonus points for keeping these things in mind:
 - [awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design)
 - [System Design Banlga](https://github.com/lahin31/system-design-bangla)
 - [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources)
+- [Extended Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+- [ood-interview](https://github.com/ByteByteGoHq/ood-interview/)
+- [OOD-Object-Oriented-Design](https://github.com/ycwkatie/OOD-Object-Oriented-Design)
+- [Grokking the Object Oriented Design Interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)

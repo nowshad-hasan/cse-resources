@@ -5,6 +5,10 @@
 - React hooks: not magic, just arrays [Medium](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 - Debounce vs Throttle: Definitive Visual Guide [Link](https://kettanaito.com/blog/debounce-vs-throttle)
 - Mastering Higher Order Components (HOCs) in React [Hackernoon](https://hackernoon.com/mastering-higher-order-components-hocs-in-react)
+- A mostly complete guide to webpack 5 (2020) [Link](https://www.valentinog.com/blog/webpack/)
+- React / Create React App — But I don’t wanna Eject. [Medium](https://medium.com/@timarney/but-i-dont-wanna-eject-3e3da5826e39#.x81bb4kji)
+- Essential JavaScript Concepts to Know Before Learning React – With Code Examples [Freecodecamp](https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/)
+- React Developers — This ONE Mistake Is Costing You High-Paying Jobs! [KAZ Software](https://kaz.com.bd/blog/react-developers-this-one-mistake-is-costing-you-high-paying-jobs)
 
 
 ### Tools
@@ -18,6 +22,8 @@
 - Full Stack React Node Project | Build a Notes App from Scratch for your Portfolio [Freecodecamp-Youtube](https://youtu.be/2MoSzSlAuNk?si=hxVLd1zeLeBwv0Wj)
 - Strapi 5 and Next.js 15 Full Stack Project Course [Freecodecamp](https://youtu.be/Q-cPtlYG1cY?si=HpGyuGX4apZ7_cSl)
 - How to Build a TODO App from Scratch with React.js [Freecodecamp](https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/)
+- How to Build a Stepper Component in React [Freecodecamp](https://www.freecodecamp.org/news/build-a-stepper-component-in-react/)
+- How to Build a Dynamic Wardrobe App with React Drag and Drop [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/)
 
 ### Github Projects
 

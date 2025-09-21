@@ -306,6 +306,7 @@
 - Test Driven Development with Spring Boot - Sannidhi Jalukar, Madhura Bhave [Spring  Developer](https://youtu.be/s9vt6UJiHg4?si=sEgjAYzIAd6rHFaU)
 - Test Driven Development (TDD) | Crash Course | 2020 [Amigoscode-Youtube](https://youtu.be/z6gOPonp2t0?si=JRF0pyigR6mDf7ka)
 - Testing Spring Boot Applications - Phil Webb [SpirngDeveloper-Youtube](https://youtu.be/QjaoAWLlGGs?si=Uz-HFw6zM3YhRIYE)
+- Diving Deeper Into Spring Testing (3) [Link](https://abdelaziz321.github.io/blog/2025-08-12-diving_deeper_into_spring_testing)
 
 
 ### Microservices
@@ -323,6 +324,7 @@
 ### Hibernate
 
 - Hibernate Playlist [Miss Xing](https://youtube.com/playlist?list=PLGTrAf5-F1YLNgq_0TXd9Xu245dJxqJMr&si=racfBUHlinhgnhnA)
+- [Hypersistence](https://hypersistence.io/)
 
 ### Videos
 
@@ -354,7 +356,15 @@
 - Configuring the Build Scan Service for Gradle by Gradle [Youtube playlist](https://youtube.com/playlist?list=PLLQbIfXVLZqH4Ag5Og8VXYpJV9AworvXm&si=wVMqFftiUIvbZA85)
 - Gradle Build Tool - Dependency Management [Youtube playlist](https://youtube.com/playlist?list=PLLQbIfXVLZqEdJ-6tEsfvn17IKCeQOGWf&si=esKRZb8QhFXxwhDl)
 
+### Collection
+
+- Diving Deeper Into Spring Framework [Link](https://abdelaziz321.github.io/blog/2025-08-10-diving_deeper_into_spring_framework)
+
 ### Github Project
 
 - Spring Boot Admin by codecentric [Github](https://github.com/codecentric/spring-boot-admin)
 - Programming Books [Github](https://github.com/arifhasnatnstucsteonGit/ProgrammingBooks)
+
+### Blog Website
+
+- Spring Testing, Spring Boot, SSL Certificates [Link](https://abdelaziz321.github.io/blog/)

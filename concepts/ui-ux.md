@@ -3,6 +3,7 @@
 - UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma [Freecodecamp](https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma)
 - 10 chrome plugins every UI/UX designer should have in 2023 [Medium](https://uxplanet.org/10-chrome-plugins-every-ui-ux-designer-should-have-in-2023-ad4b54134296)
 - Everything you need to know about Design Systems [Medium](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+- 5 UX rule every software founder should know about [KAZ Software](https://kaz.com.bd/blog/2020/1/26/5-ux-wisdom-to-impress-anyone)
 
 ### Videos - 
 - Become a UI/UX designer in 2024 - A step by step guide [Rachel How-Youtube](https://youtu.be/HmKwiEmJIdM?si=otGYxIpMgNdgdcFK)

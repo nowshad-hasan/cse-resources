@@ -56,6 +56,7 @@
 ### Articles
 
 - Postgres is eating the database world [Medium](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
+- MySQL At Uber [Uber Engineering](https://www.uber.com/en-BD/blog/mysql-at-uber/)
 
 ### Paper
 - 5 papers on storage systems every software engineer should read [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6991647229329518592/)

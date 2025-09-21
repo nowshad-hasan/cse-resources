@@ -1,3 +1,8 @@
+### Courses and Tutorials
+
+- Information​ ​Systems Specialization [Coursera](https://www.coursera.org/specializations/information-systems)
+
+
 ### Articles
 
 - Top 10 Software Product Manager Skills [KAZ Software](https://kaz.com.bd/blog/2020/2/24/top-10-software-product-manager-skills)
@@ -7,12 +12,16 @@
 - Common mistakes that new software companies make and how to avoid them [KAZ Software](https://kaz.com.bd/blog/common-mistakes-that-new-software-companies-make-and-how-to-avoid-them)
 - What is the RACI Model? How to 10X Your Projects Using the RACI Matrix [Link](https://monday.com/blog/project-management/raci-model/)
 - Tuckman's Stages of Group Development [Link](https://www.wcupa.edu/coral/tuckmanStagesGroupDelvelopment.aspx)
+- Staff Engineer vs Engineering Manager [Link](https://blog.alexewerlof.com/p/staff-engineer-vs-engineering-manager)
+- Making your software: Step 2 - Find software developers [KAZ Software](https://kaz.com.bd/blog/2020/7/29/making-your-software-step-2-find-software-developers)
+- The no 1 skill for software founders [KAZ Software](https://kaz.com.bd/blog/2020/8/28/the-no-1-skill-for-a-software-founder)
 
 ### Tools
 - [xmind](https://xmind.com/)
 - [Kaleida](https://www.kaleida.team/)
 - [Taiga](https://taiga.io/)
 - [Redmine](https://www.redmine.org/)
+- [Github Projects](https://docs.github.com/en/enterprise-server@3.16/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
 
 ### Project Management
 

@@ -17,6 +17,11 @@
   - [Interview questions](#interview-questions)
   - [Project based implementation](#project-based-implementation)
 
+### Courses and Tutorials
+
+- How to Build a Production-Ready DevOps Pipeline with Free Tools [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/)
+- How to Build a Bot and Automate your Everyday Work [Freecodecamp](https://www.freecodecamp.org/news/building-bots/)
+
 ### Article
 
 * What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples [Freecodecamp](https://www.freecodecamp.org/news/file-systems-architecture-explained/)
@@ -47,6 +52,7 @@
 * Top 8 Docker Best Practices for using Docker in Production [Youtube](https://youtu.be/8vXoMqWgbQQ?si=B0tB5jLIalhfhgkh)
 * Docker Network Drivers Overview [Medium](https://medium.com/techmormo/docker-network-drivers-overview-networking-in-docker-3-78308e0839c9)
 * Portainer, an awesome GUI if you run Docker on your Ubuntu Linux Desktop [Portainer.io](https://www.portainer.io/blog/portainer-your-docker-gui-for-your-ubuntu-linux-desktop)
+* DevOps Directive Docker Course [Github](https://github.com/sidpalas/devops-directive-docker-course)
 
 ### Kubernetes
 * The Kubernetes Handbook – Learn Kubernetes for Beginners [Freecodecamp](https://www.freecodecamp.org/news/the-kubernetes-handbook)
@@ -81,6 +87,8 @@
 - [Devopscube](https://devopscube.com/)
 - [SigNoz](https://dev.to/signoz)
 - [iximiuz](https://labs.iximiuz.com/tutorials)
+- [Welcome to The DevOps Guide](https://thedevops.guide/)
+- [KodeKloud](https://learn.kodekloud.com/)
 
 ### Videos 
 
@@ -111,6 +119,12 @@
 
 ### GitHub Repo
 - [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
+- DevOps Learning & Projects Repository [Link](https://github.com/akhileshmishrabiz/Devops-zero-to-hero)
+
+
+### Azure
+
+- Designing and Implementing an Azure Data Science Solution [Github](https://github.com/DDLSTraining/Engage/tree/master/Azure/DP-100)
 
 ### Collection
 
