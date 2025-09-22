@@ -14,6 +14,7 @@
 
 - CSS Cheat Sheet – 10 Tricks to Improve Your Next Coding Project [Freecodecamp](https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project)
 - The Front-End Performance Optimization Handbook – Tips and Strategies for Devs [Freecodecamp](https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/)
+- How Microfrontends Work: From iframes to Module Federation [Freecodecamp](https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/)
 
 ### Collections
 

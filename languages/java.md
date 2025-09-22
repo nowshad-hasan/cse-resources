@@ -27,6 +27,7 @@
 * Java Notes for Professionals book [Goalkicker](https://goalkicker.com/JavaBook/)
 * Java By IBM Developer [IBM](https://developer.ibm.com/languages/java/)
 * Java and Spring Learning Materials [Github](https://github.com/simantaturja/Learn-Java-Spring)
+* aocj - Advent of Code in Java [Github](https://github.com/code-shoily/aocj)
 
 ### Conference Talks
 
@@ -137,6 +138,7 @@
 - Time Complexity of Java Collections [Baeldung](https://www.baeldung.com/java-collections-complexity)
 - Complexity of Collection frameworks [GitHub](https://gist.github.com/psayre23/c30a821239f4818b0709)
 - Java Collections Tutorial [Jenkov](http://tutorials.jenkov.com/java-collections/index.html)
+- Java HashSet Internal Working [Link](https://javaconceptoftheday.com/how-hashset-works-internally-in-java/)
 
 ### Generics
 * Type Erasure

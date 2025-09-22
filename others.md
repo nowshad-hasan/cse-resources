@@ -297,6 +297,7 @@
 * Why Google Stores Billions of Lines of Code in a Single Repository [Link](https://cacm.acm.org/research/why-google-stores-billions-of-lines-of-code-in-a-single-repository/)
 * What Really Happened in Paris? [KAZ SOftware](https://kaz.com.bd/blog/what-really-happened-in-paris)
 * The Meanings of Googliness [Link](https://meiert.com/blog/googliness/)
+* Dropbox Engineering Career Framework [Dropbox](https://dropbox.github.io/dbx-career-framework/overview.html)
 
 ### Coding Music
 

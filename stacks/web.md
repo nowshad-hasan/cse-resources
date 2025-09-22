@@ -95,3 +95,4 @@
 
 - Internet Fundamentals [Link](https://internetfundamentals.com/)
 - Web.dev by Google [Link](https://web.dev/learn/)
+- Awesome Web Development Resources [Link](https://web-dev-resources.com/list/)

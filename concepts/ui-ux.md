@@ -16,6 +16,10 @@
 - Typography for Developers Tutorial - Full Course [Freecodecamp-Youtube](https://youtu.be/agbh1wbfJt8?si=lFSPdeHET5maZD7y)
 - UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma [Freecodecamp-Youtube](https://youtu.be/c9Wg6Cb_YlU?si=30bN5sjk5ttlp6kF)
 
+### Courses and Tutorials
+
+- What is Figma? A Design Crash Course [Freecodecamp](https://www.freecodecamp.org/news/figma-crash-course)
+
 ### Websites
 
 - [UI Design Daily](https://www.uidesigndaily.com/)

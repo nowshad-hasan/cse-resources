@@ -13,12 +13,13 @@
   - [Courses](#courses)
   - [Interview  Problems](#interview--problems)
   - [Patterns](#patterns-1)
-
-### Courses and ALgorithms
+F
+### Courses and Algorithms
 
 - Awesome Algorithms [Github](https://github.com/tayllan/awesome-algorithms)
 - You Know Who Academy [Link](https://youkn0wwho.academy/topic-list)
 - Design and Analysis of Algorithms [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+- Algorithms, Part I [Coursera](https://www.coursera.org/learn/algorithms-part1)
 
 ## Discrete Mathematics
 
@@ -49,6 +50,7 @@
 * How I Mastered Data Structures and Algorithms [Link](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 * [Tutorial] Common Mistakes in Competitive Programming and How to Avoid Them [Codeforces](https://codeforces.com/blog/entry/111217)
 * Computational Complexity of Fibonacci Sequence [Baeldung](https://www.baeldung.com/cs/fibonacci-computational-complexity)
+* What is Pseudocode? How to Use Pseudocode to Solve Coding Problems [Freecodecamp](https://www.freecodecamp.org/news/what-is-pseudocode-in-programming)
 
 ## Problem Collection
 
@@ -216,6 +218,7 @@
 - Interviewpen [Github](https://github.com/bephrem1/interviewpen)
 - Mission Peace [Github](https://github.com/mission-peace/interview/wiki)
 - Leetcode-Company-Wise-Problems [Github](https://github.com/amanjainn/Leetcode-Company-Wise-Problems)
+- Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS/)
 
 ### Websites
 

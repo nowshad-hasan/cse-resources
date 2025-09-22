@@ -83,6 +83,8 @@
 * How to Build a Scalable URL Shortener with Distributed Caching Using Redis [Freecodecamp](https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/)
 * Google Maps UX: The India Conundrum [Link](https://elizlaraki.substack.com/p/google-maps-ux-the-india-conundrum)
 * Data Structures & Algorithms I Used Working at Tech Companies [Pragmatic Engineer](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+* Learn Key System Design Principles Behind High-Traffic Platforms Like Gaming and Job Discovery [Freecodecamp](https://www.freecodecamp.org/news/learn-key-system-design-principles-behind-high-traffic-platforms-like-gaming-and-job-discovery/)
+* Handling 500M clicks with a $4 VPS [Youtube](https://youtu.be/nk3Ti0tCGvA?si=HOFmVWwKvI1VEls_)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)

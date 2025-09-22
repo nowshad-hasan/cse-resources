@@ -18,6 +18,7 @@
 - design-resources-for-developers [Github](https://github.com/bradtraversy/design-resources-for-developers)
 - https://www.freecodecamp.org/news/create-24-css-projects/
 - CSS 24 Projects [Freecodecamp](https://www.freecodecamp.org/news/create-24-css-projects/)
+- A refresh of Learn CSS with nine new modules [Rachel Andrew](https://web.dev/blog/learn-css-refresh)
 
 ### Conference Talks
 

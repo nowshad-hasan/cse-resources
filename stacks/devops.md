@@ -33,6 +33,7 @@
 * What is Service Discovery? [Devopscube](https://devopscube.com/service-discovery-explained/)
 * Terraform AWS RDS Provisioning Tutorial [Devopscube](https://devopscube.com/terraform-aws-rds/)
 * The Docker Container Lifecycle [Medium](https://medium.com/techmormo/the-docker-container-lifecycle-docker-made-easy-part-3-1452764263ca)
+* কীভাবে আমি Aliases আর Bash দিয়ে আমার DevOps Workflow সহজ করেছি [Link](https://imranbd.hashnode.dev/aliases-bash-devops-workflow)
 
 ### CI/CD
 * Learn How to Set Up a CI/CD Pipeline From Scratch [DZone](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
