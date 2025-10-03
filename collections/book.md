@@ -15,6 +15,7 @@
 - 40 book recommendations for productivity, growth and leadership [Addy Osmany](https://www.linkedin.com/feed/update/urn:li:activity:7078976658166202369)
 - ১০টি সেরা বই ডেটা স্ট্রাকচার এবং অ্যালগরিদমের ওপর [Ostad Blog](https://blog.ostad.app/blog/10-best-data-structures-and-algorithms-books)
 - Programming Book Recommendations [Marco Behlar](https://www.marcobehler.com/guides/programming-books )
+- [Gradle Books](https://community.gradle.org/resources/books/)
 
 ### Books
 
