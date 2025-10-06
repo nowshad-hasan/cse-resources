@@ -22,7 +22,11 @@
 
 - CMU Intro to Database Systems [Youtube](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=5DhprNCoxRbxbOFC)
 - Intro to Database Systems [CMU Database Group](https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&si=BS1jaGevSVxu5u1L)
--  Intro to SQL: Querying and managing data [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+- Intro to SQL: Querying and managing data [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+
+### Websites
+
+- [Stratascratch](https://www.stratascratch.com/)
 
 ### Basics
 
@@ -58,6 +62,8 @@
 - Postgres is eating the database world [Medium](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
 - MySQL At Uber [Uber Engineering](https://www.uber.com/en-BD/blog/mysql-at-uber/)
 - Understanding WINDOW in PostgreSQL (With Examples) [Link](https://www.tigerdata.com/learn/understanding-window-in-postgresql-with-examples)
+- How I built a simple ORM from scratch in Python [Medium](https://levelup.gitconnected.com/how-i-built-a-simple-orm-from-scratch-in-python-18b50108cfa3)
+- Database Partitioning: Breaking Up Big Databases (Part 1) [Exabyting](https://exabyting.com/blog/database-partitioning-breaking-up-big-databases-part-1/)
 
 ### Paper
 - 5 papers on storage systems every software engineer should read [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6991647229329518592/)
@@ -99,6 +105,8 @@
 ### Indexes
 
 * [How to Create and Use Indexes in Oracle Database](https://blogs.oracle.com/sql/post/how-to-create-and-use-indexes-in-oracle-database)
+* A tour of Postgres Index Types [Blog](https://www.citusdata.com/blog/2017/10/17/tour-of-postgres-index-types/)
+* Advanced Indexing Strategies in PostgreSQL [Freecodecamp](https://www.freecodecamp.org/news/postgresql-indexing-strategies/)
 
 ### Resources
 

@@ -14,6 +14,8 @@
 - [Build Your Own X From Scratch](https://build-your-own.org/)
 - [Code with Mosh](https://codewithmosh.com/)
 - [Open Source Society University](https://github.com/ossu/computer-science)
+- [Udacity](https://www.udacity.com/catalog?price=free)
+- [Code Crafters](https://app.codecrafters.io/catalog)
 
 ### Videos
 
@@ -42,6 +44,7 @@
 - Collection of advice for prospective and current PhD students [Github](https://github.com/pliang279/awesome-phd-advice)
 - PhD advice [Link](https://github.com/shaily99/advice)
 - CS-PhD-Application-fee-waivers [Link](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers)
+- Awesome Computer Science Opportunities [Link](https://github.com/anu0012/awesome-computer-science-opportunities)
 
 ### Compiler
 

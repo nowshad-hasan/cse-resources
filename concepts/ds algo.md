@@ -51,6 +51,7 @@ F
 * [Tutorial] Common Mistakes in Competitive Programming and How to Avoid Them [Codeforces](https://codeforces.com/blog/entry/111217)
 * Computational Complexity of Fibonacci Sequence [Baeldung](https://www.baeldung.com/cs/fibonacci-computational-complexity)
 * What is Pseudocode? How to Use Pseudocode to Solve Coding Problems [Freecodecamp](https://www.freecodecamp.org/news/what-is-pseudocode-in-programming)
+* Kadane's Algorithm [Neetcode.io](https://neetcode.io/courses/advanced-algorithms/0)
 
 ## Problem Collection
 
@@ -219,6 +220,7 @@ F
 - Mission Peace [Github](https://github.com/mission-peace/interview/wiki)
 - Leetcode-Company-Wise-Problems [Github](https://github.com/amanjainn/Leetcode-Company-Wise-Problems)
 - Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS/)
+- Data Structures and Algorithms [Link](https://github.com/sudheerj/datastructures-algorithms)
 
 ### Websites
 

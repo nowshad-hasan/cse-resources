@@ -117,6 +117,8 @@
   * How Does Spring \@Transactional Really Work? [DZone](https://dzone.com/articles/how-does-spring-transactional)
   * Transactions with Spring and JPA [Baeldung](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
   * Spring Transaction Management: \@Transactional In-Depth [Marcobehler](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
+  * Is @Transactional(readOnly=true) a silver bullet? [Medium](https://medium.com/@jkha7371/is-transactional-readonly-true-a-silver-bullet-1dbf130c97f8)
+  * Spring @Transactional Rollback Handling with Code Explanation [Blog](https://wynnt3o.hashnode.dev/spring-transactional-rollback-handling)
 
 * Scheduler
   * Scheduling Tasks [Spring Doc](https://spring.io/guides/gs/scheduling-tasks/)
@@ -200,9 +202,14 @@
 * N+1 query problem with JPA and Hibernate [Vlad Mihalcea](https://vladmihalcea.com/n-plus-1-query-problem/)
 * Spring Bean Names [Baeldung](https://www.baeldung.com/spring-bean-names)
 * Grouping Jakarta (Javax) Validation Constraints [Baeldung](https://www.baeldung.com/javax-validation-groups)
+* Intro to Querydsl [Baeldung](https://www.baeldung.com/intro-to-querydsl)
+* 6 ways to create spring beans [Medium](https://medium.com/javarevisited/6-ways-to-create-spring-beans-8d1f6ada99bb)
+* Difference Between @NotNull, @NotEmpty, and @NotBlank Constraints in Bean Validation [Baeldung](https://www.baeldung.com/java-bean-validation-not-null-empty-blank)
 
 ### Hibernate JPA
 - An Overview of Identifiers in Hibernate/JPA [Baeldung](https://www.baeldung.com/hibernate-identifiers)
+- Overview of JPA/Hibernate Cascade Types [Baeldung](https://www.baeldung.com/jpa-cascade-types)
+- JPA CascadeType.REMOVE vs orphanRemoval [Baeldung](https://www.baeldung.com/jpa-cascade-remove-vs-orphanremoval)
 
 ### Github Repo
 - Securing Spring Applications With OAuth2 [Link](https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials)
@@ -319,6 +326,7 @@
 * One-Stop Guide to Database Migration with Liquibase and Spring Boot [Reflectoring](https://reflectoring.io/database-migration-spring-boot-liquibase/)
 * How to GraphQL in Java [Okta Developer](https://developer.okta.com/blog/2020/01/31/java-graphql)
 * Tool-based Database Refactoring: Flyway vs. Liquibase [Reflectoring](https://reflectoring.io/database-refactoring-flyway-vs-liquibase/)
+* Rolling Back Migrations with Flyway [Baeldung](https://www.baeldung.com/flyway-roll-back)
 
 
 ### Hibernate

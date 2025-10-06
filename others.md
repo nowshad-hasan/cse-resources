@@ -670,6 +670,7 @@
 - How to be a great software engineer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6997110648656547840/)
 - [5 Tools all non-technical software founders should use](https://kaz.com.bd/blog/2017/2/13/5-software-dev-tools-all-non-technical-founder-should-use)
 - 23 Alternative Career Paths that Software Developers Can Grow Into [Freecodecamp](https://www.freecodecamp.org/news/alternative-career-paths)
+- Effective Engineer - Notes [Github](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 ### Git Repo
 - Essential Repos [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049434548949958657/)

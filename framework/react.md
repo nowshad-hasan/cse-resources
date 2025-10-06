@@ -24,6 +24,7 @@
 - How to Build a TODO App from Scratch with React.js [Freecodecamp](https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/)
 - How to Build a Stepper Component in React [Freecodecamp](https://www.freecodecamp.org/news/build-a-stepper-component-in-react/)
 - How to Build a Dynamic Wardrobe App with React Drag and Drop [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/)
+- How to Build an Image Search App Using React – An In-Depth Tutorial [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/)
 
 ### Github Projects
 

@@ -129,6 +129,10 @@
 - Guide to Passay [Baeldung](https://www.baeldung.com/java-passay)
 - Sneaky throws [Project Lombok](https://projectlombok.org/features/SneakyThrows)
 
+### Memory Model
+- Understanding Just-In-Time (JIT) Compilation in Java [Medium](https://medium.com/@sakshee_agrawal/understanding-just-in-time-jit-compilation-in-java-ae2a6b9fa931)
+- Inside the JVM: Java Memory Model and Garbage Collection Simplified [Exabyting](https://exabyting.com/blog/inside-the-jvm-java-memory-model-and-garbage-collection-simplified/)
+
 ### Collection Framework
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
 * Collection and Generics in Java [Telusko - YouTube Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR)
@@ -139,6 +143,7 @@
 - Complexity of Collection frameworks [GitHub](https://gist.github.com/psayre23/c30a821239f4818b0709)
 - Java Collections Tutorial [Jenkov](http://tutorials.jenkov.com/java-collections/index.html)
 - Java HashSet Internal Working [Link](https://javaconceptoftheday.com/how-hashset-works-internally-in-java/)
+- Internal Working of HashMap in Java and Performance Improvement in Java 8 [Medium](https://medium.com/@yashodhara.chowkar/internal-working-of-hashmap-in-java-and-performance-improvement-in-java-8-a28ee1660cda)
 
 ### Generics
 * Type Erasure
@@ -166,6 +171,8 @@
   * Lock and Semaphore in OS
   * Deadlock and Race condition
   * Asynchronus programming
+* JDK 24 Makes Virtual Threads Even Better (No More Pinning!) [Exabyting](https://exabyting.com/blog/jdk-24-makes-virtual-threads-even-better-no-more-pinning/)
+* Fail-Fast vs Fail-Safe Iterators in Java: Understanding ConcurrentModificationException [Bazlur Rahman](https://www.linkedin.com/pulse/fail-fast-vs-fail-safe-iterators-java-understanding-bazlur-rahman-is9ic/)
 
 ### Exception Handling
 

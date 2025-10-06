@@ -49,6 +49,9 @@
 - [JavaScript30](https://github.com/wesbos/JavaScript30)
 - [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 - [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+- [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
+- [The Algorithms - Javascript](https://github.com/TheAlgorithms/Javascript)
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 
 ### Project Ideas
 
