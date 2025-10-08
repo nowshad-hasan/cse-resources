@@ -5,6 +5,7 @@
 ### Courses
 
 - The Linux Basics Course by tutorialLinux [Youtube playlist](https://youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK&si=VPkHlOth0rXihSQ3)
+- Configuring Linux Web Servers [Udacity](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 
 ### Articles

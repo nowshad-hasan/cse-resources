@@ -28,6 +28,7 @@
 * Java By IBM Developer [IBM](https://developer.ibm.com/languages/java/)
 * Java and Spring Learning Materials [Github](https://github.com/simantaturja/Learn-Java-Spring)
 * aocj - Advent of Code in Java [Github](https://github.com/code-shoily/aocj)
+* Object Oriented Programming in Java [Udacity](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ### Conference Talks
 

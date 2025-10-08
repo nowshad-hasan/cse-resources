@@ -48,6 +48,8 @@
 - Information​ ​Systems Specialization [Coursera](https://www.coursera.org/specializations/information-systems)
 - How to Create Documentation with docs.page – A Beginner's Tutorial [Freecodecamp](https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/)
 - How to Write Good API Documentation [Freecodecamp](https://www.freecodecamp.org/news/how-to-write-good-api-docs/)
+- Design of Computer Programs [Udacity](https://www.udacity.com/course/design-of-computer-programs--cs212)
+- Rapid Prototyping [Udacity](https://www.udacity.com/course/rapid-prototyping--ud723)
 
 ### Tools
 - The world’s most adopted open source API gateway [Kong](https://konghq.com/products/kong-gateway)

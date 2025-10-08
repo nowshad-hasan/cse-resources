@@ -21,6 +21,9 @@
 
 - How to Build a Production-Ready DevOps Pipeline with Free Tools [Freecodecamp](https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/)
 - How to Build a Bot and Automate your Everyday Work [Freecodecamp](https://www.freecodecamp.org/news/building-bots/)
+- Scalable Microservices with Kubernetes [Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+- Shell Workshop [Udacity](https://www.udacity.com/course/shell-workshop--ud206)
+- Continuous Integration and Deployment [Udacity](https://www.udacity.com/course/continuous-integration-and-deployment--ud1030)
 
 ### Article
 

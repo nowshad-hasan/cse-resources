@@ -14,6 +14,10 @@
 - [JSRoadmap](https://jsroadmap.com/)
 - 40 Days of JS - Daily Learning Plan [Tapascript](https://atapas.notion.site/40-Days-of-JS-Daily-Learning-Plan-193b7e47a3df80c1868cea5881f0b160)
 - [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/)
+- Intro to JavaScript [Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
+- JavaScript Design Patterns [Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
+- JavaScript Promises [Udacity](https://www.udacity.com/course/javascript-promises--ud898)
+- Object-Oriented JavaScript [Udacity](https://www.udacity.com/course/object-oriented-javascript--ud711)
 
 ### Library
 

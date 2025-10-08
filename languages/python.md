@@ -1,3 +1,7 @@
+### Courses
+
+- Introduction to Python Programming [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+
 ### Books
 
 - Automate the Boring Stuff with Python [Link](https://automatetheboringstuff.com/)

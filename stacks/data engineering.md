@@ -14,3 +14,5 @@
 - SQL for Data Science [Coursera](https://www.coursera.org/learn/sql-for-data-science)
 - Databases and SQL for Data Science with Python [Coursera](https://www.coursera.org/learn/sql-data-science)
 - Path to Data Engineer [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7057681596367175680/)
+- Data Wrangling with MongoDB [Udacity](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
+- Spark [Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)

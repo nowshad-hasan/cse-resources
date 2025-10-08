@@ -13,6 +13,10 @@
 * MD5 Collision Demo [Peter Selinger](https://www.mathstat.dal.ca/~selinger/md5collision/)
 * What is LDAP and how does it work? [Link](https://sensu.io/blog/what-is-ldap)
 
+### Courses
+
+- Applied Cryptography [Udacity](https://www.udacity.com/course/applied-cryptography--cs387)
+
 ### Books
 - [The Code Book](https://simonsingh.net/books/the-code-book/) 
 

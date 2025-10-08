@@ -1,6 +1,12 @@
 ### Blog Post
 - CQRS [Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 
+### Courses
+
+- Designing RESTful APIs [Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
+- Intro to Backend [Udacity](https://www.udacity.com/course/intro-to-backend--ud171)
+- HTTP & Web Servers [Udacity](https://www.udacity.com/course/http-web-servers--ud303)
+
 ### Articles
 
 - How to Become a Good Backend Engineer (Fundamentals) [Hussein Nasser](https://www.linkedin.com/pulse/how-become-good-backend-engineer-fundamentals-hussein-nasser-9lxmc/)

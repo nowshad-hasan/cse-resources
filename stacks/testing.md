@@ -15,6 +15,7 @@
 ### Courses and Tutorials
 
 - SQA/SET Resources by Tahanima Chowdhury [Github](https://github.com/Tahanima/sqa-set-resources)
+- A/B Testing [Udacity](https://www.udacity.com/course/ab-testing--ud257)
 
 ### Core
 

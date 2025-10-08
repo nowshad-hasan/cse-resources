@@ -26,6 +26,12 @@
 
 - Android & Kotlin Development Masterclass – Full Course [Freecodecamp](https://youtu.be/blKkRoZPxLc?si=neRTkka6KNGk6sFo)
 - Android Developer Fundamentals [Google for Developers India](https://youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB&si=N7_-app1KHRComBo)
+- Developing Android Apps with Kotlin [Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+- Firebase in a Weekend (Android) [Udacity](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+- Advanced Android with Kotlin [Udacity](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
+- Firebase Analytics: Android [Udacity](https://www.udacity.com/course/firebase-analytics-android--ud354)
+- Android Interview Preparation [Udacity](https://www.udacity.com/course/android-interview-prep--ud241)
+- Mobile Design and Usability for Android [Udacity](https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358)
 
 ### Articles
 

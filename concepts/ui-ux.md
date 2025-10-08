@@ -19,6 +19,7 @@
 ### Courses and Tutorials
 
 - What is Figma? A Design Crash Course [Freecodecamp](https://www.freecodecamp.org/news/figma-crash-course)
+- UX Design for Mobile Developers [Udacity](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 ### Websites
 

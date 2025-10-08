@@ -20,6 +20,8 @@ F
 - You Know Who Academy [Link](https://youkn0wwho.academy/topic-list)
 - Design and Analysis of Algorithms [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 - Algorithms, Part I [Coursera](https://www.coursera.org/learn/algorithms-part1)
+- Intro to Algorithms [Udacity](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- Problem Solving with Advanced Analytics [Udacity](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 
 ## Discrete Mathematics
 

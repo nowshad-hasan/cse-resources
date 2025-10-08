@@ -23,6 +23,8 @@
 - CMU Intro to Database Systems [Youtube](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=5DhprNCoxRbxbOFC)
 - Intro to Database Systems [CMU Database Group](https://youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&si=BS1jaGevSVxu5u1L)
 - Intro to SQL: Querying and managing data [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+- Intro to Hadoop and MapReduce [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+- SQL for Data Analysis [Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 
 ### Websites
 

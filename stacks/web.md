@@ -8,6 +8,17 @@
 - [Videos](#videos)
 - [Courses](#courses)
 
+### Courses
+
+- Client-Server Communication [Udacity](https://www.udacity.com/course/client-server-communication--ud897)
+- Internet Fundamentals [Link](https://internetfundamentals.com/)
+- Web.dev by Google [Link](https://web.dev/learn/)
+- Awesome Web Development Resources [Link](https://web-dev-resources.com/list/)
+- Web Accessibility [Udacity](https://www.udacity.com/course/web-accessibility--ud891)
+- Intro to jQuery [Udacity](https://www.udacity.com/course/intro-to-jquery--ud245)
+- Browser Rendering Optimization [Udacity](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+- Intro to Progressive Web Apps [Udacity](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
+- Web Tooling & Automation [Udacity](https://www.udacity.com/course/web-tooling-automation--ud892)
 
 ### Book recommendation
 * High Performance Browser Networking [Link](https://hpbn.co/)
@@ -90,9 +101,3 @@
 - Cross Origin Resource Sharing (Explained by Example) [Hussein Nasser-Youtube](https://youtu.be/Ka8vG5miErk?si=GnsKITJDnoGsybuO)
 - Stateful vs Stateless Applications [Hussein Nasser-Youtube](https://youtu.be/nFPzI_Qg3FU?si=x9dxg_fbqcgg5Fib)
 - Cookies by Hussein Nasser [Youtube playlist](https://youtube.com/playlist?list=PLQnljOFTspQXaimjxx6uGLJz6lR25abZn&si=svPo_vOrm5BATT4s)
-
-### Courses
-
-- Internet Fundamentals [Link](https://internetfundamentals.com/)
-- Web.dev by Google [Link](https://web.dev/learn/)
-- Awesome Web Development Resources [Link](https://web-dev-resources.com/list/)

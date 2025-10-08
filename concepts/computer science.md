@@ -3,6 +3,11 @@
 
 - 12 Free Coding Games to Learn Programming for Beginners [Freecodecamp](https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/)
 
+### Courses
+
+- Intro to Theoretical Computer Science [Udacity](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+- Localization Essentials [Udacity](https://www.udacity.com/course/localization-essentials--ud610)
+
 ### Learning Websites
 
 - [The Odin Project](https://www.theodinproject.com/)

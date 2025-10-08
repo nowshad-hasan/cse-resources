@@ -1,3 +1,8 @@
+### Courses
+
+- How to Build a Startup [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+- Get Your Startup Started [Udacity](https://www.udacity.com/course/get-your-startup-started--ud806)
+
 ### Articles
 
 - Start a Software Business in 2025: Proven Steps to Succeed [KAZ Software](https://kaz.com.bd/blog/2014/6/7/lessons-in-creating-a-software-business)
