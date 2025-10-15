@@ -493,7 +493,7 @@
 - [Github Stars](https://stars.github.com/)
 
 ### Articles
-
+  
 - History's Worst Software Bugs [Wired](https://www.wired.com/2005/11/historys-worst-software-bugs/)
 
 ### Personal Blog
@@ -509,6 +509,7 @@
 
 ### Engineering Blog
 
+- [Oracle Blogs](https://blogs.oracle.com/)
 - [Uber Engineering](https://www.uber.com/en-BD/blog/engineering/)
 - [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
 - [AWS Engineering & Design](https://aws.amazon.com/industrial/engineering-design/)

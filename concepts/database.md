@@ -112,6 +112,7 @@
 
 ### Resources
 
+* Postgres Documentation [Official Link](https://www.postgresql.org/docs/current/index.html)
 * MySQL and SQL for Beginners [Cave of Programming](https://courses.caveofprogramming.com/p/mysql-and-sql-for-beginners)
 * Paid Course
   * The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert [Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)

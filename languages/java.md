@@ -129,10 +129,14 @@
 - What Should I Know About Garbage Collection as a Java Developer? [Azul](https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/)
 - Guide to Passay [Baeldung](https://www.baeldung.com/java-passay)
 - Sneaky throws [Project Lombok](https://projectlombok.org/features/SneakyThrows)
+- What is Upcasting and Downcasting in Java [CodeJava](https://www.codejava.net/java-core/the-java-language/what-is-upcasting-and-downcasting-in-java)
 
 ### Memory Model
 - Understanding Just-In-Time (JIT) Compilation in Java [Medium](https://medium.com/@sakshee_agrawal/understanding-just-in-time-jit-compilation-in-java-ae2a6b9fa931)
 - Inside the JVM: Java Memory Model and Garbage Collection Simplified [Exabyting](https://exabyting.com/blog/inside-the-jvm-java-memory-model-and-garbage-collection-simplified/)
+- An introduction to Java Agent and bytecode manipulation Permalink [Thomas Queste](https://www.tomsquest.com/blog/2014/01/intro-java-agent-and-bytecode-manipulation/)
+- A Guide to Java Bytecode Manipulation with ASM [Baeldung](https://www.baeldung.com/java-asm)
+- Exploring JVM Tuning Flags [Baeldung](https://www.baeldung.com/jvm-tuning-flags)
 
 ### Collection Framework
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
@@ -225,6 +229,8 @@
 * 10 Skills Java Programmer can Learn to Accelerate their Career [Dev.to](https://dev.to/javinpaul/10-skills-java-programmer-can-learn-to-accelerate-their-career-3nlh)
 * Java Developer [Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035)
 * Java Lambdas and the Stream API: Bringing Functional Programming to Java [Oreilly](https://www.oreilly.com/library/view/java-lambdas-and/9781484255940/)
+* Loom - Fibers, Continuations and Tail-Calls for the JVM [OpenJDK](https://openjdk.org/projects/loom/)
+* Amazon Corretto [Amazon](https://aws.amazon.com/corretto/)
 
 
 ### Videos
