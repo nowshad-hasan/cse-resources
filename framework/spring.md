@@ -53,6 +53,7 @@
 
 ### Core Spring
 * JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
+* PubSub Messaging with Spring Data Redis [Baeldung](https://www.baeldung.com/spring-data-redis-pub-sub)
 * Getting started with Spring Data JPA [Spring Blog](https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa)
 * Spring ResponseEntity
   * Using Spring ResponseEntity to Manipulate the HTTP Response [Baeldung](https://www.baeldung.com/spring-response-entity)

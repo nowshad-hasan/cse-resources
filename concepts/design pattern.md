@@ -9,6 +9,7 @@
 
 * [ডিজাইন প্যাটার্ন — সফটওয়্যার ডেভলপমেন্টের সমস্যা সমাধানের ভাষা](https://medium.com/প্রোগ্রামিং-পাতা/ডিজাইন-প্যাটার্ন-সফটওয়্যার-ডেভলপমেন্টের-সমস্যা-সমাধানের-ভাষা-8daeca237acd)
 * Design Patterns for Humans [Roadmap](https://roadmap.sh/guides/design-patterns-for-humans)
+* Observer Pattern [Springframework Guru](https://springframework.guru/gang-of-four-design-patterns/observer-pattern/)
 * SOLID
   * SOLID Principles Of Object Oriented Programming [Spring Guru](https://springframework.guru/solid-principles-object-oriented-programming/)
   * The SOLID Principles in Real Life [DZone](https://dzone.com/articles/the-solid-principles-in-real-life)
@@ -57,3 +58,4 @@
 ### Github Project
 
 * Awesome Software and Architectural Design Patterns [Github](https://github.com/DovAmir/awesome-design-patterns)
+* g ∘ f patterns (aka From Gof to lambda) [Link](https://github.com/mariofusco/from-gof-to-lambda)

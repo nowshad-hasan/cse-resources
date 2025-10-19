@@ -30,6 +30,10 @@
 * aocj - Advent of Code in Java [Github](https://github.com/code-shoily/aocj)
 * Object Oriented Programming in Java [Udacity](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
+### Tools
+
+- Key Promoter [Jetbrains Plugin](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+
 ### Conference Talks
 
 ### Blog
@@ -54,6 +58,8 @@
 * [Nicolai Parlog](https://nipafx.dev/)
 * [Mohibul Hassan](https://mohibulsblog.netlify.app/blog/)
 * [Java rants](https://javarants.com/)
+* [Josh Long](https://joshlong.com/)
+* [Bazlur Rahman - DZone](https://dzone.com/authors/bazlur_rahman)
 
 ### OOP
 
@@ -130,6 +136,13 @@
 - Guide to Passay [Baeldung](https://www.baeldung.com/java-passay)
 - Sneaky throws [Project Lombok](https://projectlombok.org/features/SneakyThrows)
 - What is Upcasting and Downcasting in Java [CodeJava](https://www.codejava.net/java-core/the-java-language/what-is-upcasting-and-downcasting-in-java)
+- Random, SecureRandom, ThreadLocalRandom and SplittableRandom - Different ways to create Random numbers in Java [Logicbig](https://www.logicbig.com/how-to/java-random/different-random-classes.html)
+- Benefits of lambda expressions in Java make the move to a newer JDK worthwhile [Blog](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Benefits-of-lambda-expressions-in-Java-makes-the-move-to-a-newer-JDK-worthwhile)
+- Pros and Cons of Lambdas in Java 8 [Blog](https://www.jrebel.com/blog/pros-and-cons-of-lambdas-in-java-8)
+- The Dark Side Of Lambda Expressions in Java 8 [Blog](https://www.javacodegeeks.com/2014/03/the-dark-side-of-lambda-expressions-in-java-8.html)
+- Exceptions in Java Lambda Expressions [Baeldung](https://www.baeldung.com/java-lambda-exceptions)
+- How to Handle Checked Exceptions With Lambda Expression [DZone](https://dzone.com/articles/how-to-handle-checked-exception-in-lambda-expressi)
+- Missing Stack Traces for Repeated Exceptions [DZone](https://dzone.com/articles/missing-stack-traces-repeated)
 
 ### Memory Model
 - Understanding Just-In-Time (JIT) Compilation in Java [Medium](https://medium.com/@sakshee_agrawal/understanding-just-in-time-jit-compilation-in-java-ae2a6b9fa931)
@@ -178,6 +191,8 @@
   * Asynchronus programming
 * JDK 24 Makes Virtual Threads Even Better (No More Pinning!) [Exabyting](https://exabyting.com/blog/jdk-24-makes-virtual-threads-even-better-no-more-pinning/)
 * Fail-Fast vs Fail-Safe Iterators in Java: Understanding ConcurrentModificationException [Bazlur Rahman](https://www.linkedin.com/pulse/fail-fast-vs-fail-safe-iterators-java-understanding-bazlur-rahman-is9ic/)
+* Intrinsic Locks and Synchronization [Java Doc](https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html)
+* Threads and Locks [Oracle Blog](https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html)
 
 ### Exception Handling
 
@@ -275,13 +290,24 @@
 
 ### YouTube Channel
 - [Laur Spilca](https://www.youtube.com/c/LaurentiuSpilca/playlists)
-
+D
 ### Github repo
 - Awesome Java [Github](https://github.com/akullpp/awesome-java)
 
 ### Articles
 - LinkedIn’s journey to Java 11 [Linkedin Blog](https://www.linkedin.com/blog/engineering/infrastructure/linkedin-s-journey-to-java-11)
 - From Law Degree to Java Champion: Geertjan Wielenga on the Success of Java and Navigating the Software Industry [Foojay.io](https://foojay.io/today/from-law-degree-to-java-champion-geertjan-wielenga-on-the-success-of-java-and-navigating-the-software-industry/)
+- Java Best Practices and Tips by Toptal Developers [Toptal](https://www.toptal.com/java/tips-and-practices)
+- State of the Lambda: Libraries Edition [OpenJDK Doc](https://cr.openjdk.org/~briangoetz/lambda/lambda-libraries-final.html)
+- Java performance tutorial – How fast are the Java 8 streams? [Blog](https://devm.io/java/java-performance-tutorial-how-fast-are-the-java-8-streams-118830)
+- Life Beyond Java 8 [Trishagee](https://trishagee.github.io/presentation/beyond_java_8/)
+- The 25 greatest Java apps ever written [Oracle Blogs](https://blogs.oracle.com/javamagazine/post/the-top-25-greatest-java-apps-ever-written)
+- Pure Bliss With Pure Functions in Java [DZone](https://dzone.com/articles/pure-bliss-with-pure-functions-in-java)
+- Leveraging Lambda Expressions for Lazy Evaluation in Java [DZone](https://dzone.com/articles/leveraging-lambda-expressions-for-lazy-evaluation)
+- Nashorn JavaScript Engine [Tutorialspoint](https://www.tutorialspoint.com/java/java_nashorn_java_script.htm)
+- Introduction to Nashorn [Baeldung](https://www.baeldung.com/java-nashorn)
+- yak shaving : Java Glossary [Blog](https://www.mindprod.com/jgloss/yakshaving.html)
+- Yak Shaving is a Good Way to Improve an API [Jooq Blog](https://blog.jooq.org/yak-shaving-is-a-good-way-to-improve-an-api/)
 
 ### Tools
 - Java Faker [Github](https://github.com/DiUS/java-faker)

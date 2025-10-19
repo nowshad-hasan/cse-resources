@@ -233,6 +233,7 @@
 * How to Get Promoted from Senior to Staff Engineer – Tips from My Experience [Freecodecamp](https://www.freecodecamp.org/news/how-to-get-promoted-from-senior-to-staff-engineer-tips-from-my-experience/)
 * Right skills to get hired on amazing projects [A N M Bazlur Rahman](https://www.linkedin.com/pulse/right-skills-get-hired-amazing-projects-a-n-m-bazlur-rahman/)
 * How to Interview for a Software Development Job: Success in the Wild West [Freecodecamp](https://www.freecodecamp.org/news/how-to-interview-for-software-development-jobs/)
+* My net worth is $1M, can I quit my job and DoorDash? [Blog](https://www.teamblind.com/post/my-net-worth-is-1m-can-i-quit-my-job-and-doordash-eyhzg5p8)
 
 ### Articles and Videos
 
