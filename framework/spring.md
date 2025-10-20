@@ -50,8 +50,10 @@
 * Spring [GitHub Project](https://github.com/wuyouzhuguli/SpringAll)
 * 10+ Free Open Source Projects Using Spring Boot [Java Guides](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html?m=1)
 * Romanian Coder [YouTube Channel](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw/playlists)
+* Spring Tutorial - Spring Core Framework Tutorials [Digital Ocean](https://www.digitalocean.com/community/tutorials/spring-tutorial-spring-core-tutorial)
 
 ### Core Spring
+* Spring Framework Documentation [Spring Doc](https://docs.spring.io/spring-framework/reference/)
 * JPA Repositories [Spring Doc](https://docs.spring.io/spring-data/jpa/docs/1.5.0.RELEASE/reference/html/jpa.repositories.html)
 * PubSub Messaging with Spring Data Redis [Baeldung](https://www.baeldung.com/spring-data-redis-pub-sub)
 * Getting started with Spring Data JPA [Spring Blog](https://spring.io/blog/2011/02/10/getting-started-with-spring-data-jpa)
@@ -216,6 +218,7 @@
 - Overview of JPA/Hibernate Cascade Types [Baeldung](https://www.baeldung.com/jpa-cascade-types)
 - JPA CascadeType.REMOVE vs orphanRemoval [Baeldung](https://www.baeldung.com/jpa-cascade-remove-vs-orphanremoval)
 - A Guide to Querydsl with JPA [Baeldung](https://www.baeldung.com/querydsl-with-jpa-tutorial)
+- The JPA and Hibernate second-level cache [Vlad Mihalcea](https://vladmihalcea.com/jpa-hibernate-second-level-cache/)
 
 ### Github Repo
 - Securing Spring Applications With OAuth2 [Link](https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials)

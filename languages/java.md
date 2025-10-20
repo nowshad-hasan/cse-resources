@@ -30,6 +30,7 @@
 * Java and Spring Learning Materials [Github](https://github.com/simantaturja/Learn-Java-Spring)
 * aocj - Advent of Code in Java [Github](https://github.com/code-shoily/aocj)
 * Object Oriented Programming in Java [Udacity](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
+* Java Lessons [Codegym](https://codegym.cc/quests/lectures)
 
 ### Tools
 
@@ -40,7 +41,7 @@
 ### Conference Talks
 
 ### Blog
-* [Foojay](https://foojay.io/)
+* [Foojay.io](https://foojay.io/)
 * [Marcobehler](https://www.marcobehler.com/guides)
 * [Java Specialists](https://www.javaspecialists.eu/)
 * [JGuru](http://www.jguru.com/)
@@ -64,7 +65,9 @@
 * [Josh Long](https://joshlong.com/)
 * [Bazlur Rahman - DZone](https://dzone.com/authors/bazlur_rahman)
 * [Oracle Java](https://www.oracle.com/java/)
-* [Bazlur](https://bazlur.com/)
+* [Bazlur Rahman](https://bazlur.com/)
+* [Bazlur Rahman-Foojay](https://foojay.io/today/author/bazlur-rahman/)
+* [Java Challengers](https://javachallengers.com/#)
 
 ### OOP
 
@@ -179,6 +182,9 @@
 - Java Inner Class [DigitalOcean](https://www.digitalocean.com/community/tutorials/java-inner-class)
 - BigDecimal and BigInteger in Java [Baeldung](https://www.baeldung.com/java-bigdecimal-biginteger)
 - Marker Interfaces in Java [Baeldung](https://www.baeldung.com/java-marker-interfaces)
+- Java Inner Class [Digitalocean](https://www.digitalocean.com/community/tutorials/java-inner-class)
+- 9 Rules about Constructors in Java [Code Java](https://www.codejava.net/java-core/the-java-language/9-rules-about-constructors-in-java)
+- Type Conversion in Java with Examples [Geeksforgeeks](https://www.geeksforgeeks.org/java/type-conversion-java-examples/)
 
 ### Advanced Java
 
@@ -196,6 +202,7 @@
 - A Guide to the ResourceBundle [Baeldung](https://www.baeldung.com/java-resourcebundle)
 - A Beginner’s Guide to Internationalization in Java [Blog](https://phrase.com/blog/posts/a-beginners-guide-to-java-internationalization/)
 - Java Localization – Formatting Messages [Baeldung](https://www.baeldung.com/java-localization-messages-formatting)
+- Faster alternatives to Java's reflection [Stackoverflow](https://stackoverflow.com/questions/19557829/faster-alternatives-to-javas-reflection/19563000#19563000)
 
 ### Memory Model
 - Understanding Just-In-Time (JIT) Compilation in Java [Medium](https://medium.com/@sakshee_agrawal/understanding-just-in-time-jit-compilation-in-java-ae2a6b9fa931)
@@ -205,6 +212,8 @@
 - Exploring JVM Tuning Flags [Baeldung](https://www.baeldung.com/jvm-tuning-flags)
 - JVM Tutorial - Java Virtual Machine Architecture Explained for Beginners [Freecodecamp](https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/)
 - Creating and Analyzing Java Heap Dumps [Reflectoring.io](https://reflectoring.io/create-analyze-heapdump/)
+- Demystifying JVM Memory Management [Foojay.io.io](https://foojay.io/today/demystifying-jvm-memory-management/)
+- Java Bytecode Simplified: Journey to the Wonderland (Part 1) [Foojay.io.io](https://foojay.io/today/java-bytecode-simplified-journey-to-the-wonderland-part-1/)
 
 ### Collection Framework
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
@@ -261,6 +270,7 @@
 * Difference Between Thread and Virtual Thread in Java [Baeldung](https://www.baeldung.com/java-virtual-thread-vs-thread)
 * Why is Thread.stop deprecated? [Oracle Blog](https://docs.oracle.com/javase/8/docs/technotes/guides/concurrency/threadPrimitiveDeprecation.html)
 * Guide to java.util.concurrent.Locks [Baeldung](https://www.baeldung.com/java-concurrent-locks)
+* Java Thread Programming (Part 2) [Foojay.io](https://foojay.io/today/java-thread-programming-part-2/)
 
 ### Exception Handling
 
@@ -362,10 +372,12 @@
 D
 ### Github repo
 - Awesome Java [Github](https://github.com/akullpp/awesome-java)
+- [Baeldung Tutorials](https://github.com/eugenp/tutorials)
+- [Java-8 Tutorial](https://github.com/winterbe/java8-tutorial)
 
 ### Articles
 - LinkedIn’s journey to Java 11 [Linkedin Blog](https://www.linkedin.com/blog/engineering/infrastructure/linkedin-s-journey-to-java-11)
-- From Law Degree to Java Champion: Geertjan Wielenga on the Success of Java and Navigating the Software Industry [Foojay.io](https://foojay.io/today/from-law-degree-to-java-champion-geertjan-wielenga-on-the-success-of-java-and-navigating-the-software-industry/)
+- From Law Degree to Java Champion: Geertjan Wielenga on the Success of Java and Navigating the Software Industry [Foojay.io.io](https://foojay.io/today/from-law-degree-to-java-champion-geertjan-wielenga-on-the-success-of-java-and-navigating-the-software-industry/)
 - Java Best Practices and Tips by Toptal Developers [Toptal](https://www.toptal.com/java/tips-and-practices)
 - State of the Lambda: Libraries Edition [OpenJDK Doc](https://cr.openjdk.org/~briangoetz/lambda/lambda-libraries-final.html)
 - Java performance tutorial – How fast are the Java 8 streams? [Blog](https://devm.io/java/java-performance-tutorial-how-fast-are-the-java-8-streams-118830)
@@ -381,6 +393,8 @@ D
 - Experimental Garbage Collectors in the JVM [Baeldung](https://www.baeldung.com/jvm-experimental-garbage-collectors)
 - How I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit [Blog](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
 - 13 Java Developers to Follow [Blog](https://blog.codersrank.io/13-java-developers-to-follow/)
+- 10 Java Developer Skills that are in High Demand [Dev.to](https://dev.to/alexxjordan/10-java-developer-skills-that-are-in-high-demand-54mm)
+- Java Best Practices Quick Reference [DZone](https://dzone.com/articles/java-best-practices-quick-reference)
 
 ### Tools
 - Java Faker [Github](https://github.com/DiUS/java-faker)

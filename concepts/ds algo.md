@@ -54,6 +54,7 @@ F
 * Computational Complexity of Fibonacci Sequence [Baeldung](https://www.baeldung.com/cs/fibonacci-computational-complexity)
 * What is Pseudocode? How to Use Pseudocode to Solve Coding Problems [Freecodecamp](https://www.freecodecamp.org/news/what-is-pseudocode-in-programming)
 * Kadane's Algorithm [Neetcode.io](https://neetcode.io/courses/advanced-algorithms/0)
+* What are the time complexities of various data structures? [Stackoverflow](https://stackoverflow.com/questions/7294634/what-are-the-time-complexities-of-various-data-structures)
 
 ## Problem Collection
 
