@@ -206,11 +206,16 @@
 * Intro to Querydsl [Baeldung](https://www.baeldung.com/intro-to-querydsl)
 * 6 ways to create spring beans [Medium](https://medium.com/javarevisited/6-ways-to-create-spring-beans-8d1f6ada99bb)
 * Difference Between @NotNull, @NotEmpty, and @NotBlank Constraints in Bean Validation [Baeldung](https://www.baeldung.com/java-bean-validation-not-null-empty-blank)
+* Field injection is not recommended – Spring IOC [Blog](https://blog.marcnuri.com/field-injection-is-not-recommended)
+* Why You Should Use Constructor Injection in Spring [Reflectoring.io](https://reflectoring.io/constructor-injection/)
+* Using c3p0 with Hibernate [Baeldung](https://www.baeldung.com/hibernate-c3p0)
+* Jackson JSON Series [Baeldung](https://www.baeldung.com/jackson)
 
 ### Hibernate JPA
 - An Overview of Identifiers in Hibernate/JPA [Baeldung](https://www.baeldung.com/hibernate-identifiers)
 - Overview of JPA/Hibernate Cascade Types [Baeldung](https://www.baeldung.com/jpa-cascade-types)
 - JPA CascadeType.REMOVE vs orphanRemoval [Baeldung](https://www.baeldung.com/jpa-cascade-remove-vs-orphanremoval)
+- A Guide to Querydsl with JPA [Baeldung](https://www.baeldung.com/querydsl-with-jpa-tutorial)
 
 ### Github Repo
 - Securing Spring Applications With OAuth2 [Link](https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials)

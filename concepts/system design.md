@@ -85,6 +85,7 @@
 * Data Structures & Algorithms I Used Working at Tech Companies [Pragmatic Engineer](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 * Learn Key System Design Principles Behind High-Traffic Platforms Like Gaming and Job Discovery [Freecodecamp](https://www.freecodecamp.org/news/learn-key-system-design-principles-behind-high-traffic-platforms-like-gaming-and-job-discovery/)
 * Handling 500M clicks with a $4 VPS [Youtube](https://youtu.be/nk3Ti0tCGvA?si=HOFmVWwKvI1VEls_)
+* An Introduction to Caching: How and Why We Do It [DZone](https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo)
 
 ## Core
 * HTTP Caching [Roadmap](https://roadmap.sh/guides/http-caching)

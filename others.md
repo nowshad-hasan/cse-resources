@@ -466,6 +466,7 @@
 - Profiling Tools and IntelliJ IDEA Ultimate [IntelliJ IDEA-Youtube](https://youtu.be/OQcyAtukps4?si=gg-7YYhfFMdUq9eC)
 - Top 10 Plugins for IntelliJ IDEA You Don’t Want to Miss [Jetbrains Blog](https://blog.jetbrains.com/idea/2021/05/top-10-plugins-for-intellij-idea/)
 - IntelliJ IDEA. Everyday Refactorings [IntelliJ IDEA - Youtube](https://youtu.be/rPq7fBo5JVs?si=pDxxdCj6PAOrjkTQ)
+- Why I Love IntelliJ IDEA for Java Development [Okta Developer](https://developer.okta.com/blog/2020/10/26/java-intellij-idea)
 
 
 ### Youtube Channel

@@ -40,6 +40,9 @@
 * How I write 1000s tests with little effort [Link](https://craftbettersoftware.com/p/how-i-write-1000s-tests-with-little)
 * 5 tips to stay sane with automation testing [KAZ Software](https://kaz.com.bd/blog/2020/8/27/5-tips-to-stay-sane-with-automation-testing)
 * Usability testing: How not to strangle your customers [KAZ Software](https://kaz.com.bd/blog/2020/10/15/usability-testing-how-not-to-strangle-your-customers)
+* 7 Popular Unit Test Naming Conventions and Best Practices [DZone](https://dzone.com/articles/7-popular-unit-test-naming)
+* Unit Test Naming: The 3 Most Important Parts  [Quality Coding](https://qualitycoding.org/unit-test-naming/)
+* Are your unit tests still hard to read ? – Should Assertion Library [Blog](https://lostechies.com/erichexter/2013/01/13/shouldlibrary/)
 
 ### Blog
 * [Test Automation University](https://testautomationu.applitools.com/)

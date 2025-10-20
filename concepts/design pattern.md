@@ -40,6 +40,10 @@
 * Design Patterns That Every Software Developer Must Know [Medium](https://viveknaskar.medium.com/design-patterns-that-every-software-developer-must-know-ac71f575e68)
 * Single Responsibility Principle: A Recipe for Great Code [Toptal](https://www.toptal.com/software/single-responsibility-principle)
 * Strategy Design Pattern Made Easy! [Linkedin](https://www.linkedin.com/pulse/strategy-design-pattern-made-easy-mahmudul-hasan-rafi-7owgc/)
+* Tell Dont Ask [Martin Fowler](https://martinfowler.com/bliki/TellDontAsk.html)
+* Regular If-else vs. Strategy -a fun experiment [Bazlur Rahman](https://www.linkedin.com/pulse/regular-if-else-vs-strategy-a-fun-experiment-a-n-m-bazlur-rahman/)
+* Anti-patterns You Should Avoid in Your Code [Freecodecamp](https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/)
+* Difference Between Cohesion and Coupling [Stackoverflow](https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling)
 
 ### Collection
 

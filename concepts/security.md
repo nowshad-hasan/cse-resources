@@ -36,6 +36,7 @@
 - How SSH Authentication with GitHub Works Under the Hood [Github](https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/)
 - Why Cybersecurity Skills Are Important for Front-End Developers [Freecodecamp](https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/)
 - Why Public Wi-Fi Is Dangerous – And How to Protect Yourself [Freecodecamp](https://www.freecodecamp.org/news/why-public-wi-fi-is-dangerous-and-how-to-protect-yourself/)
+- How to find security vulnerabilities in source code [Blog](https://unloadbrain.com/tech/2020/08/19/how-to-find-security-vulnerabilities-in-source-code.html)
 
 ### Cases
 

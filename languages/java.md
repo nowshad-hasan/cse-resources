@@ -8,6 +8,7 @@
 - [Collection Framework](#collection-framework)
 - [Generics](#generics)
 - [Functional Programming](#functional-programming)
+- [NIO](#nio)
 - [Threading](#threading)
 - [Exception Handling](#exception-handling)
 - [Testing](#testing)
@@ -33,6 +34,8 @@
 ### Tools
 
 - Key Promoter [Jetbrains Plugin](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+- Visual VM [Link](https://visualvm.github.io/)
+- Universal GC Log Analyzer [Link](https://gceasy.io/)
 
 ### Conference Talks
 
@@ -60,6 +63,8 @@
 * [Java rants](https://javarants.com/)
 * [Josh Long](https://joshlong.com/)
 * [Bazlur Rahman - DZone](https://dzone.com/authors/bazlur_rahman)
+* [Oracle Java](https://www.oracle.com/java/)
+* [Bazlur](https://bazlur.com/)
 
 ### OOP
 
@@ -143,6 +148,54 @@
 - Exceptions in Java Lambda Expressions [Baeldung](https://www.baeldung.com/java-lambda-exceptions)
 - How to Handle Checked Exceptions With Lambda Expression [DZone](https://dzone.com/articles/how-to-handle-checked-exception-in-lambda-expressi)
 - Missing Stack Traces for Repeated Exceptions [DZone](https://dzone.com/articles/missing-stack-traces-repeated)
+- How to Use Java HashMap Effectively [DZone](https://dzone.com/articles/how-to-use-java-hashmap-effectively)
+- 26 Reasons Why Using Optional Correctly Is Not Optional [DZone](https://dzone.com/articles/using-optional-correctly-is-not-optional)
+- How HashMap works in Java? [Javarevisited](https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html)
+- Java 8 APIs: java.util.time - Instant, LocalDate, LocalTime, and LocalDateTime [DZone](https://dzone.com/articles/java-8-apis-javautiltime)
+- The transient Keyword in Java [Baeldung](https://www.baeldung.com/java-transient-keyword)
+- Discover the secrets of the Java Serialization API [Oracle](https://www.oracle.com/technical-resources/articles/java/serializationapi.html)
+- Introduction to Java Serialization [Baeldung](https://www.baeldung.com/java-serialization)
+- Everything You Need to Know About Java Serialization Explained [DZone](https://dzone.com/articles/what-is-serialization-everything-about-java-serial)
+- How to Customize Serialization in Java Using the Externalizable Interface [DZone](https://dzone.com/articles/how-to-customize-serialization-in-java-using-the-e)
+- Lightweight JVM Diagnostics Tools and Containers [DZone](https://dzone.com/articles/lightweight-jvm-diagnostics-tools-and-containers)
+- Microbenchmarking with Java [Baeldung](https://www.baeldung.com/java-microbenchmark-harness)
+- Variable Shadowing and Hiding in Java [DZone](https://dzone.com/articles/variable-shadowing-and-hiding-in-java)
+- A Guide to Java HashMap [Baeldung](https://www.baeldung.com/java-hashmap)
+- Static class in Java [Geeksforgeeks](https://www.geeksforgeeks.org/java/static-class-in-java/)
+- Controlling Access to Members of a Class [Oracle Blog](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+- Java - Inner classes [Tutorialspoint](https://www.tutorialspoint.com/java/java_innerclasses.htm)
+- Java AutoCloseable Interface Example [Java Code Geeks](https://examples.javacodegeeks.com/java-development/core-java/java-autocloseable-interface-example/)
+- Closeable Interface in Java [Geeksforgeeks](https://www.geeksforgeeks.org/java/closeable-interface-in-java/)
+- Java AutoCloseable Interface Example [Java Code Geeks](https://examples.javacodegeeks.com/java-development/core-java/java-autocloseable-interface-example/)
+- The AutoCloseable Interface [Medium](https://medium.com/@priya104/the-autocloseable-interface-404ce6edee85)
+- Bitwise Operators in Java [GeeksforGeeks](https://www.geeksforgeeks.org/java/bitwise-operators-in-java/)
+- A quick guide to bitwise operators in Java [Educative](https://www.educative.io/blog/bit-manipulation-in-java)
+- Introduction to the Java Date/Time API [Baeldung](https://www.baeldung.com/java-8-date-time-intro)
+- Java 8 Date - LocalDate, LocalDateTime, Instant [Digital Ocean](https://www.digitalocean.com/community/tutorials/java-8-date-localdate-localdatetime-instant)
+- Comparator and Comparable in Java [Baeldung](https://www.baeldung.com/java-comparator-comparable)
+- What are new methods have added to the Arrays class in Java 9? [Tutorials point](https://www.tutorialspoint.com/what-are-new-methods-have-added-to-the-arrays-class-in-java-9)
+- Inner Class in Java [Geeksforgeeks](https://www.geeksforgeeks.org/java/inner-class-java/)
+- Java Nested and Inner Class [Programiz](https://www.programiz.com/java-programming/nested-inner-class)
+- Java Inner Class [DigitalOcean](https://www.digitalocean.com/community/tutorials/java-inner-class)
+- BigDecimal and BigInteger in Java [Baeldung](https://www.baeldung.com/java-bigdecimal-biginteger)
+- Marker Interfaces in Java [Baeldung](https://www.baeldung.com/java-marker-interfaces)
+
+### Advanced Java
+
+- Annotations Tutorial [Oracle Doc](https://docs.oracle.com/javase/tutorial/java/annotations/index.html)
+- Java Annotations [Jenkov](https://jenkov.com/tutorials/java/annotations.html)
+- Creating a Custom Annotation in Java [Baeldung](https://www.baeldung.com/java-custom-annotation)
+- A Guide to Java Modularity [Baeldung](https://www.baeldung.com/java-modularity)
+- Java 9+ modularity: The theory and motivations behind modularity [IBM Developer](https://developer.ibm.com/tutorials/java-modularity-1/)
+- Java Modules [Jenkov](https://jenkov.com/tutorials/java/modules.html)
+- Learn Java 9 Modules in 15 Minutes [Blog](https://beginnersbook.com/2018/09/java-9-modules/)
+- Code-First Java Module System Tutorial [Blog](https://nipafx.dev/java-module-system-tutorial/)
+- Articles: Tuning Java I/O Performance [Oracle Blog](https://www.oracle.com/technical-resources/articles/javase/perftuning.html)
+- Internationalization and Localization in Java [Baeldung](https://www.baeldung.com/java-8-localization)
+- Internationalization & Localization Code Samples [Oracle Blog](https://www.oracle.com/java/technologies/internationalization-localization.html)
+- A Guide to the ResourceBundle [Baeldung](https://www.baeldung.com/java-resourcebundle)
+- A Beginner’s Guide to Internationalization in Java [Blog](https://phrase.com/blog/posts/a-beginners-guide-to-java-internationalization/)
+- Java Localization – Formatting Messages [Baeldung](https://www.baeldung.com/java-localization-messages-formatting)
 
 ### Memory Model
 - Understanding Just-In-Time (JIT) Compilation in Java [Medium](https://medium.com/@sakshee_agrawal/understanding-just-in-time-jit-compilation-in-java-ae2a6b9fa931)
@@ -150,6 +203,8 @@
 - An introduction to Java Agent and bytecode manipulation Permalink [Thomas Queste](https://www.tomsquest.com/blog/2014/01/intro-java-agent-and-bytecode-manipulation/)
 - A Guide to Java Bytecode Manipulation with ASM [Baeldung](https://www.baeldung.com/java-asm)
 - Exploring JVM Tuning Flags [Baeldung](https://www.baeldung.com/jvm-tuning-flags)
+- JVM Tutorial - Java Virtual Machine Architecture Explained for Beginners [Freecodecamp](https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/)
+- Creating and Analyzing Java Heap Dumps [Reflectoring.io](https://reflectoring.io/create-analyze-heapdump/)
 
 ### Collection Framework
 * Java Collections Framework [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
@@ -162,6 +217,7 @@
 - Java Collections Tutorial [Jenkov](http://tutorials.jenkov.com/java-collections/index.html)
 - Java HashSet Internal Working [Link](https://javaconceptoftheday.com/how-hashset-works-internally-in-java/)
 - Internal Working of HashMap in Java and Performance Improvement in Java 8 [Medium](https://medium.com/@yashodhara.chowkar/internal-working-of-hashmap-in-java-and-performance-improvement-in-java-8-a28ee1660cda)
+- Getting Started with the G1 Garbage Collector [Oracle Tutorial](https://www.oracle.com/technetwork/tutorials/tutorials-1876574.html)
 
 ### Generics
 * Type Erasure
@@ -179,6 +235,12 @@
 * Java 8 Lambda Limitations: Closures [DZone](https://dzone.com/articles/java-8-lambas-limitations-closures)
 
 
+### NIO
+
+* Java NIO Tutorial [Link](https://jenkov.com/tutorials/java-nio/index.html)
+* Java IO vs NIO [Baeldung](https://www.baeldung.com/java-io-vs-nio)
+* Java NIO Tutorial [Java Code Geeks](https://www.javacodegeeks.com/2018/07/java-nio-tutorial.html)
+
 ### Threading
 * Java Multithreading [Cave of Programming - YouTube Playlist](https://www.youtube.com/playlist?list=PLBB24CFB073F1048E)
 * How to create a ThreadPool from scratch [Bazlur - YouTube](https://youtu.be/iH-sCG_zrHw)
@@ -193,9 +255,16 @@
 * Fail-Fast vs Fail-Safe Iterators in Java: Understanding ConcurrentModificationException [Bazlur Rahman](https://www.linkedin.com/pulse/fail-fast-vs-fail-safe-iterators-java-understanding-bazlur-rahman-is9ic/)
 * Intrinsic Locks and Synchronization [Java Doc](https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html)
 * Threads and Locks [Oracle Blog](https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html)
+* Thread Signaling in Java [Jenkov](https://jenkov.com/tutorials/java-concurrency/thread-signaling.html)
+* Spurious wakeup [Wikipedia](https://en.wikipedia.org/wiki/Spurious_wakeup)
+* Java threads are cheap! Let’s create millions of them [Bazlur Rahman](https://www.linkedin.com/pulse/java-threads-cheap-lets-create-millions-them-a-n-m-bazlur-rahman/)
+* Difference Between Thread and Virtual Thread in Java [Baeldung](https://www.baeldung.com/java-virtual-thread-vs-thread)
+* Why is Thread.stop deprecated? [Oracle Blog](https://docs.oracle.com/javase/8/docs/technotes/guides/concurrency/threadPrimitiveDeprecation.html)
+* Guide to java.util.concurrent.Locks [Baeldung](https://www.baeldung.com/java-concurrent-locks)
 
 ### Exception Handling
 
+* 4 Ways to throw Checked Exceptions in Java Streams [Java Central](https://javadevcentral.com/throw-checked-exceptions-in-java-streams/)
 * Why you should ignore exceptions in Java and how to do it correctly [FreeCodeCamp](https://medium.com/free-code-camp/why-you-should-ignore-exceptions-in-java-and-how-to-do-it-correctly-8e95e5775e58)
 * Chained Exceptions
   * [Oracle](https://docs.oracle.com/javase/tutorial/essential/exceptions/chained.html)
@@ -308,6 +377,10 @@ D
 - Introduction to Nashorn [Baeldung](https://www.baeldung.com/java-nashorn)
 - yak shaving : Java Glossary [Blog](https://www.mindprod.com/jgloss/yakshaving.html)
 - Yak Shaving is a Good Way to Improve an API [Jooq Blog](https://blog.jooq.org/yak-shaving-is-a-good-way-to-improve-an-api/)
+- 10 Things Java Programmers Should Learn in 2025 [UPDATED] [Javarevisited](https://javarevisited.blogspot.com/2017/12/10-things-java-programmers-should-learn.html)
+- Experimental Garbage Collectors in the JVM [Baeldung](https://www.baeldung.com/jvm-experimental-garbage-collectors)
+- How I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit [Blog](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
+- 13 Java Developers to Follow [Blog](https://blog.codersrank.io/13-java-developers-to-follow/)
 
 ### Tools
 - Java Faker [Github](https://github.com/DiUS/java-faker)
