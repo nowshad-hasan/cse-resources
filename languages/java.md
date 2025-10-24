@@ -68,6 +68,7 @@
 * [Bazlur Rahman](https://bazlur.com/)
 * [Bazlur Rahman-Foojay](https://foojay.io/today/author/bazlur-rahman/)
 * [Java Challengers](https://javachallengers.com/#)
+* [How ToDo In Java](https://howtodoinjava.com/)
 
 ### OOP
 
@@ -185,6 +186,7 @@
 - Java Inner Class [Digitalocean](https://www.digitalocean.com/community/tutorials/java-inner-class)
 - 9 Rules about Constructors in Java [Code Java](https://www.codejava.net/java-core/the-java-language/9-rules-about-constructors-in-java)
 - Type Conversion in Java with Examples [Geeksforgeeks](https://www.geeksforgeeks.org/java/type-conversion-java-examples/)
+- Using Transactions [Oracle Doc](https://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html)
 
 ### Advanced Java
 
@@ -271,6 +273,7 @@
 * Why is Thread.stop deprecated? [Oracle Blog](https://docs.oracle.com/javase/8/docs/technotes/guides/concurrency/threadPrimitiveDeprecation.html)
 * Guide to java.util.concurrent.Locks [Baeldung](https://www.baeldung.com/java-concurrent-locks)
 * Java Thread Programming (Part 2) [Foojay.io](https://foojay.io/today/java-thread-programming-part-2/)
+* What Is Thread-Safety and How to Achieve It? [Baeldung](https://www.baeldung.com/java-thread-safety)
 
 ### Exception Handling
 

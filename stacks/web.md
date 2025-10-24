@@ -56,6 +56,10 @@
 * Emulate vision deficiencies [Chrome for Developers](https://developer.chrome.com/blog/new-in-devtools-83/#vision-deficiencies)
 - Complete Guide to CORS [KAZ Blog](https://kaz.com.bd/blog/2020/1/2/3-questions-to-define-a-software-product)
 - How browsers work [web.dev](https://web.dev/articles/howbrowserswork)
+- Preflight request [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request)
+- CORS: Cross-Origin Resource Sharing [Blog](https://wanago.io/2018/11/05/cors-cross-origin-resource-sharing/)
+- Access-Control-Allow-Origin header [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Access-Control-Allow-Origin)
+- Cross-Origin Resource Sharing (CORS) [Web.dev](https://web.dev/articles/cross-origin-resource-sharing)
 
 ### WebRTC
 

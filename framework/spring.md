@@ -4,15 +4,25 @@
   - [Courses and Tutorials](#courses-and-tutorials)
   - [Books](books)
   - [Core Spring](#core-spring)
-  - [Hibernate/Java](#hibernate-jpa)
+  - [Mapper](#mapper)
+  - [Validation](#validation)
+  - [Exception Handling](#exception-handling)
+  - [Logging](#logging)
+  - [Hibernate/JPA](#hibernate-jpa)
+  - [AOP](#aop)
+  - [Lombok](#lombok)
   - [Spring Security](#spring-security)
   - [Tools](#tools)
   - [Message Queue](#message-queue)
   - [Chat Application](#chat-application)
+  - [Testing](#testing)
 
 
 ### Courses and Tutorials
 
+* [Awesome Spring](https://github.com/ThomasVitale/awesome-spring)
+* [Java and Spring Learning Materials](https://github.com/simantaturja/Learn-Java-Spring)
+* [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/3.2.0.RELEASE/reference/htmlsingle/#preface)
 * [Learn Spring Boot](https://www.baeldung.com/spring-boot)
 * [Spring Boot Tutorials For Beginners - Articles and Videos](http://www.springboottutorial.com/tags/)
 * [Spring Boot by FreeCodeCamp](https://www.freecodecamp.org/news/tag/spring-boot/)
@@ -51,6 +61,11 @@
 * 10+ Free Open Source Projects Using Spring Boot [Java Guides](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html?m=1)
 * Romanian Coder [YouTube Channel](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw/playlists)
 * Spring Tutorial - Spring Core Framework Tutorials [Digital Ocean](https://www.digitalocean.com/community/tutorials/spring-tutorial-spring-core-tutorial)
+* Spring Boot Tutorials [Callicoder](https://www.callicoder.com/categories/spring-boot/)
+* Spring Boot Starter-kit [Github](https://github.com/khandelwal-arpit/springboot-starterkit)
+* Spring Boot CRUD Application with Thymeleaf [Baeldung](https://www.baeldung.com/spring-boot-crud-thymeleaf)
+* Building a Simple Spring-like Dependency Injection Framework in Java [Medium](https://medium.com/better-programming/building-a-simple-spring-like-dependency-injection-framework-in-java-5d91254d2dbf)
+* Selenium Express [Youtube Channel](https://www.youtube.com/c/SeleniumExpress/playlists)
 
 ### Core Spring
 * Spring Framework Documentation [Spring Doc](https://docs.spring.io/spring-framework/reference/)
@@ -212,6 +227,93 @@
 * Why You Should Use Constructor Injection in Spring [Reflectoring.io](https://reflectoring.io/constructor-injection/)
 * Using c3p0 with Hibernate [Baeldung](https://www.baeldung.com/hibernate-c3p0)
 * Jackson JSON Series [Baeldung](https://www.baeldung.com/jackson)
+- Mastering Spring Boot profiles in application.properties [Medium](https://medium.com/@patryk.sosinski/mastering-spring-boot-profiles-in-application-properties-c4e9ea46e994)
+- Profiles - [Spring Doc](https://docs.spring.io/spring-boot/docs/1.2.0.M1/reference/html/boot-features-profiles.html)
+- Spring Profiles [Baeldung](https://www.baeldung.com/spring-profiles)
+- The Spring @Qualifier Annotation [Baeldung](https://www.baeldung.com/spring-qualifier-annotation)
+- How to Define a Spring Boot Filter? [Baeldung](https://www.baeldung.com/spring-boot-add-filter)
+- Introduction to Intercepting Filter Pattern in Java [Baeldung](https://www.baeldung.com/intercepting-filter-pattern-in-java)
+- Java Servlet Filter Example Tutorial [Digital Ocean](https://www.digitalocean.com/community/tutorials/java-servlet-filter-example-tutorial)
+- Spring Boot - Interceptor [Tutorials Point](https://www.tutorialspoint.com/spring_boot/spring_boot_interceptor.htm)
+- Difference between Interceptor and Filter in Spring MVC [Stackoverflow](https://stackoverflow.com/questions/35856454/difference-between-interceptor-and-filter-in-spring-mvc)
+- Using Spring @ResponseStatus to Set HTTP Status Code [Baeldung](https://www.baeldung.com/spring-response-status)
+- Custom Error Message Handling for REST API [Baeldung](https://www.baeldung.com/global-error-handler-in-a-spring-rest-api)
+- Using Spring MVC HandlerInterceptor with Spring Boot - Hello World example [Javainuse](https://www.javainuse.com/spring/bootInterceptor)
+- Advanced JAX-RS 25 - Filters and Interceptors [Youtube-Java Brains](https://www.youtube.com/watch?v=WjzMZoBEvRY)
+- Difference between @Component, @Service, @Controller, and @Repository in Spring [Java revisited](https://javarevisited.blogspot.com/2017/11/difference-between-component-service.html)
+- Fixing 401s with CORS Preflights and Spring Security [Baeldung](https://www.baeldung.com/spring-security-cors-preflight)
+- Spring Boot CORS [Zetcode](https://zetcode.com/springboot/cors/)
+* One-Stop Guide to Profiles with Spring Boot [Reflectoring.io](https://reflectoring.io/spring-boot-profiles/)
+* Guide to UUID in Java [Baeldung](https://www.baeldung.com/java-uuid)
+* Why field injection is evil [Blog](https://odrotbohm.de/2013/11/why-field-injection-is-evil/)
+* Field Dependency Injection Considered Harmful [Blog](https://www.vojtechruzicka.com/field-dependency-injection-considered-harmful/)
+* How To Do @Async in Spring [Baeldung](https://www.baeldung.com/spring-async)
+* What is the use of the @Temporal annotation in Hibernate? [Stackoverflow](https://stackoverflow.com/questions/25333711/what-is-the-use-of-the-temporal-annotation-in-hibernate)
+* An Intro to Spring HATEOAS [Baeldung](https://www.baeldung.com/spring-hateoas-tutorial)
+* Spring Webflux and CORS [Baeldung](https://www.baeldung.com/spring-webflux-cors)
+* How Spring Boot’s Autoconfigurations Work [Marco Behler](https://www.marcobehler.com/guides/spring-boot-autoconfiguration)
+* Difference between @Autowired and @Inject annotation in Spring? [Java Revisited](https://javarevisited.blogspot.com/2017/04/difference-between-autowired-and-inject-annotation-in-spring-framework.html)
+* What is Spring MVC: @Controllers & @RestControllers [Marco Behler](https://www.marcobehler.com/guides/spring-mvc)
+* Spring Boot Transactions: Understanding Transaction Propagation [DZone](https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr)
+* Circular Dependencies in Spring [Baeldung](https://www.baeldung.com/circular-dependencies-in-spring)
+* Spring Circular Dependencies [OctoPerf](https://blog.octoperf.com/spring-circular-dependencies/)
+* Intro to Inversion of Control and Dependency Injection with Spring [Baeldung](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
+* Injecting Prototype Beans into a Singleton Instance in Spring [Baeldung](https://www.baeldung.com/spring-inject-prototype-bean-into-singleton)
+* Enabling Cross Origin Requests for a RESTful Web Service [Spring.io](https://spring.io/guides/gs/rest-service-cors)
+* CORS with Spring [Baeldung](https://www.baeldung.com/spring-cors)
+* The Spring @Controller and @RestController Annotations [Baeldung](https://www.baeldung.com/spring-controller-vs-restcontroller)
+* ‘Code First’ API Documentation with Springdoc and Spring Boot [Reflectoring.io](https://reflectoring.io/spring-boot-springdoc/)
+
+### HTTPS
+- HTTPS using Self-Signed Certificate in Spring Boot [Baeldung](https://www.baeldung.com/spring-boot-https-self-signed-certificate)
+
+### Threading
+- Multi-Threading in Spring Boot Using CompletableFuture [DZone](https://dzone.com/articles/multi-threading-in-spring-boot-using-completablefu)
+
+### Mapper
+- Quick Guide to MapStruct [Baeldung](https://www.baeldung.com/mapstruct)
+- mapstruct [Home](https://mapstruct.org/)
+* Entity To DTO Conversion for a Spring REST API [Baeldung](Entity To DTO Conversion for a Spring REST API)
+* Mapping Lists with ModelMapper [Baeldung](https://www.baeldung.com/java-modelmapper-lists)
+
+### Validation
+- Guide to Spring Boot REST API Error Handling [Toptal](https://www.toptal.com/java/spring-boot-rest-api-error-handling)
+- Spring REST Validation Example [Mkyong](https://mkyong.com/spring-boot/spring-rest-validation-example/)
+- Validation in Spring Boot [Baeldung](https://www.baeldung.com/spring-boot-bean-validation)
+- Implementing Validation for RESTful Services with Spring Boot [In28Minutes](https://www.springboottutorial.com/spring-boot-validation-for-rest-services)
+- Spring Validation Message Interpolation [Baeldung](https://www.baeldung.com/spring-validation-message-interpolation)
+- Validation with Spring Boot - the Complete Guide [Reflectoring.io](https://reflectoring.io/bean-validation-with-spring-boot/)
+- Validations for Enum Types [Baeldung](https://www.baeldung.com/javax-validations-enums)
+- Passing and validating RequestParam in spring-boot rest api [Java Query](https://www.javaquery.com/2018/02/passing-and-validating-requestparam-in.html)
+- Validating RequestParams and PathVariables in Spring [Baeldung](https://www.baeldung.com/spring-validate-requestparam-pathvariable)
+
+### Exception Handling
+
+- Complete Guide to Exception Handling in Spring Boot [Reflectoring.io](https://reflectoring.io/spring-boot-exception-handling/)
+
+### Messaging
+- Messaging with RabbitMQ [Spring.io](https://spring.io/guides/gs/messaging-rabbitmq)
+- Messaging with JMS [Spring.io](https://spring.io/guides/gs/messaging-jms)
+- Using WebSocket to build an interactive web application [Spring.io](https://spring.io/guides/gs/messaging-stomp-websocket)
+- Messaging [Spring Doc](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/boot-features-messaging.html)
+- Messaging with Spring AMQP [Baeldung](https://www.baeldung.com/spring-amqp)
+- Getting Started with Spring JMS [Baeldung](https://www.baeldung.com/spring-jms)
+
+### Logging
+- Spring Boot Logging Example [Mkyong](https://mkyong.com/spring-boot/spring-boot-logging-example/)
+- Logging in Spring Boot [Baeldung](https://www.baeldung.com/spring-boot-logging)
+- Logging [Spring Doc](https://docs.spring.io/spring-boot/how-to/logging.html)
+- Logging [Spring Doc](https://docs.spring.io/spring-boot/docs/2.1.13.RELEASE/reference/html/boot-features-logging.html)
+- Play all Java Logging Hell & How to stay out of it [Youtube playlist](https://youtube.com/playlist?list=PLz-qdc-PbYk7sHXsbdaCdRPRyJbrGPrJt&si=Nxjs6pru0skFOp1i)
+- Request and Response Logging Filter [Github Gist](https://gist.github.com/int128/e47217bebdb4c402b2ffa7cc199307ba)
+- A Guide to Rolling File Appenders [Baeldung](https://www.baeldung.com/java-logging-rolling-file-appenders)
+- Configuring Logback With Spring Boot [DZone](https://dzone.com/articles/configuring-logback-with-spring-boot)
+- Logback RollingFileAppender Example [Java Code Geeks](https://examples.javacodegeeks.com/java-development/enterprise-java/logback/logback-rollingfileappender-example/)
+- Logging [Spring Doc](https://docs.spring.io/spring-boot/reference/features/logging.html#features.logging)
+- Solving Your Logging Problems With Logback [Dzone](https://dzone.com/articles/solving-your-logging-problems-with-logback)
+- Log Request and Response with Spring RestTemplate [How To Do In Java](https://howtodoinjava.com/spring-boot2/resttemplate/clienthttprequestinterceptor/)
+- Logging Requests and Responses in Spring (including body) [Blog](https://frandorado.github.io/spring/2018/11/15/log-request-response-with-body-spring.html)
+- How To Do Logging In Java [Marco Behler](https://www.marcobehler.com/guides/java-logging)
 
 ### Hibernate JPA
 - An Overview of Identifiers in Hibernate/JPA [Baeldung](https://www.baeldung.com/hibernate-identifiers)
@@ -219,6 +321,36 @@
 - JPA CascadeType.REMOVE vs orphanRemoval [Baeldung](https://www.baeldung.com/jpa-cascade-remove-vs-orphanremoval)
 - A Guide to Querydsl with JPA [Baeldung](https://www.baeldung.com/querydsl-with-jpa-tutorial)
 - The JPA and Hibernate second-level cache [Vlad Mihalcea](https://vladmihalcea.com/jpa-hibernate-second-level-cache/)
+- The Best Way To Batch Inserts Via saveAll(Iterable<S> entities) [Blog](https://persistencelayer.wixsite.com/springboot-hibernate/post/the-best-way-to-batch-inserts-via-saveall-iterable-s-entities)
+- The best way to implement equals, hashCode, and toString with JPA and Hibernate [Vlad Mihalcea](https://vladmihalcea.com/the-best-way-to-implement-equals-hashcode-and-tostring-with-jpa-and-hibernate/)
+- Introduction to Project Lombok [Baeldung](https://www.baeldung.com/intro-to-project-lombok)
+- Apache Commons BeanUtils [Baeldung](https://www.baeldung.com/apache-commons-beanutils)
+- Hibernate Eager vs Lazy Fetch Type [Blog](https://www.coderscampus.com/hibernate-eager-vs-lazy-fetch-type/)
+- Difference between FetchType LAZY and EAGER in Java Persistence API? [Stackoverflow](https://stackoverflow.com/questions/2990799/difference-between-fetchtype-lazy-and-eager-in-java-persistence-api)
+- Eager/Lazy Loading in Hibernate [Baeldung](https://www.baeldung.com/hibernate-lazy-eager-loading)
+- Persisting JSONObject Using JPA [Blog](https://ilhicas.com/2019/04/26/Persisting-JSONObject-Using-JPA.html)
+- Persist a JSON Object Using Hibernate [Baeldung](https://www.baeldung.com/hibernate-persist-json-object)
+- Many-To-Many Relationship in JPA [Baeldung](https://www.baeldung.com/jpa-many-to-many)
+- JPA / Hibernate Many to Many Mapping Example with Spring Boot [Callicoder](https://www.callicoder.com/hibernate-spring-boot-jpa-many-to-many-mapping-example/)
+- JPA and Hibernate Many To Many Mapping without Joined Entity in Spring Boot [Hello Koding](https://hellokoding.com/jpa-many-to-many-relationship-mapping-example-with-spring-boot-maven-and-mysql/)
+- JPQL – How to Define Queries in JPA and Hibernate [Thorben Janssen](https://thorben-janssen.com/jpql/)
+- Introduction to Hibernate Search [Baeldung](https://www.baeldung.com/hibernate-search)
+- Hibernate – Mapping Date and Time [Baeldung](https://www.baeldung.com/hibernate-date-time)
+- How does Hibernate detect dirty state of an entity object? [Stackoverflow](https://stackoverflow.com/questions/5268466/how-does-hibernate-detect-dirty-state-of-an-entity-object)
+- Life Cycle of an entity object & Dirty Checking in Hibernate [Codementor.io](https://www.codementor.io/@narendrasharma95ns/life-cycle-of-an-entity-object-dirty-checking-in-hibernate-lvh1dh5jz)
+- What is Spring Framework? An Unorthodox Guide [Marco Behler](https://www.marcobehler.com/guides/spring-framework)
+- Optimistic Locking in JPA [Baeldung](https://www.baeldung.com/jpa-optimistic-locking)
+- Three steps to extend a Spring Data JPA repository with your own code [Dev.to](https://dev.to/brunodrugowick/four-steps-to-extend-a-spring-data-jpa-repository-with-your-own-code-53b0)
+
+### AOP
+- Logging aspect in RESTful web service – spring aop (log requests/responses) [Blog](https://makeinjava.com/logging-aspect-restful-web-service-spring-aop-request-response/)
+- Aspect Oriented Programming with Spring [Spring Doc](https://docs.spring.io/spring-framework/docs/2.5.5/reference/aop.html)
+
+### Lombok
+- Advantages and disadvantages of using Project Lombok [Nullbeans](https://nullbeans.com/2019/11/27/advantages-and-disadvantages-of-using-project-lombok/)
+- How to use the @Value annotation from Project Lombok [Nullbeans](https://nullbeans.com/2019/12/04/how-to-use-the-value-annotation-from-project-lombok/)
+- The Ultimate Lombok Annotations Guide [Nullbeans](https://nullbeans.com/2019/11/14/the-ultimate-lombok-annotations-guide/)
+- Why you should not use Lombok [Medium](https://ppbruna.medium.com/why-you-should-not-use-lombok-f7556662e8c3)
 
 ### Github Repo
 - Securing Spring Applications With OAuth2 [Link](https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials)
@@ -256,6 +388,30 @@
 - Testing Java Code Effectively [JUGBD-Youtube](https://www.youtube.com/live/74EqlMHVB3E?si=XYsNXVbPTuTAnq5-)
 - Spring Security Fundamentals 2020 by Laur Spilca [Youtube playlist](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz&si=VSzzPR3ya0Nt8f4T)
 - Spring Security Experimental Authorization Server by Laur Spilca [Youtube playlist](https://youtube.com/playlist?list=PLEocw3gLFc8WtQ1OD5TgkffxcXVafIFFP&si=1v2J9jeqjtDVfwJo)
+- Spring Boot Refresh Token with JWT example [Bezkoder](https://www.bezkoder.com/spring-boot-refresh-token-jwt/)
+- Implement JWT authentication in a Spring Boot 3 application [Medium](https://medium.com/@tericcabrel/implement-jwt-authentication-in-a-spring-boot-3-application-5839e4fd8fac)
+- Spring Boot and Spring Security with JWT including Access and Refresh Tokens [Amigoscode](https://www.youtube.com/watch?v=VVn9OG9nfH0)
+- Spring Security and Non-flat Roles Inheritance Architecture [Medium](https://medium.com/javarevisited/spring-security-and-non-flat-roles-inheritance-architecture-ad4c8fdae5dd)
+- Expression-Based Access Control [SPring Doc](https://docs.spring.io/spring-security/site/docs/3.1.x/reference/el-access.html)
+- Introduction to Spring Method Security [Baeldung](https://www.baeldung.com/spring-security-method-security)
+- Method Security [Spring Doc](https://docs.spring.io/spring-security/reference/servlet/authorization/method-security.html)
+- Authorization [Spring Doc](https://docs.spring.io/spring-security/site/docs/5.1.x/reference/html/authorization.html)
+- Spring Boot Token based Authentication with Spring Security & JWT [Bezkoder](https://www.bezkoder.com/spring-boot-jwt-authentication/)
+- Spring Security – Roles and Privileges [Baeldung](https://www.baeldung.com/role-and-privilege-for-spring-security-registration)
+- Spring Boot Security - JWT Refresh Token Explained In Details | JavaTechie [Youtube](https://www.youtube.com/watch?v=Wp4h_wYXqmU)
+- Spring Boot and Spring Security with JWT including Access and Refresh Tokens [Amigoscode](https://www.youtube.com/watch?v=VVn9OG9nfH0)
+- Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation [Amigoscode](https://www.youtube.com/watch?v=KxqlJblhzfI)
+- Implement Role-based Access Control in Spring Boot 3 [Blog](https://blog.tericcabrel.com/role-base-access-control-spring-boot/)
+- How to create typesafe user roles for Spring Security? [Stackoverflow](https://stackoverflow.com/questions/23630097/how-to-create-typesafe-user-roles-for-spring-security)
+- How to Internationalize a Spring Boot Application [Reflectoring.io](https://reflectoring.io/spring-boot-internationalization/)
+- Guide to Internationalization in Spring Boot [Baeldung](https://www.baeldung.com/spring-boot-internationalization)
+- Spring Boot internationalization i18n: Step-by-step with examples [Blog](https://lokalise.com/blog/spring-boot-internationalization/)
+- How to Send Emails in Spring Boot using SMTP or Email API [Mailtrap](https://mailtrap.io/blog/spring-send-email/)
+- Spring Boot Security Auto-Configuration [Baeldung](https://www.baeldung.com/spring-boot-security-autoconfiguration)
+- Security changes in Spring Boot 2.0 M4 [Spring Blog](https://spring.io/blog/2017/09/15/security-changes-in-spring-boot-2-0-m4)
+- Spring Security: Authentication and Authorization In-Depth [Marco Behler](https://www.marcobehler.com/guides/spring-security)
+- A Guide to CSRF Protection in Spring Security [Baeldung](https://www.baeldung.com/spring-security-csrf)
+- CSRF Protection with Spring MVC and Thymeleaf [Baeldung](https://www.baeldung.com/csrf-thymeleaf-with-spring-security)
 
 ### Tools
 - Liquibase Hibernate Integration [Github](https://github.com/liquibase/liquibase-hibernate)
@@ -327,6 +483,8 @@
 
 ### Microservices
 * Mastering the art of Microservices Architecture by Alpha Code [YouTube Playlist](https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
+* Zookeeper overview [Github](https://github.com/spring-cloud/spring-cloud-zookeeper)
+* Spring Cloud Config (Part 1) [DZone](https://dzone.com/articles/spring-cloud-config-series-part-1-introduction)
 
 
 ### Database Migration
@@ -350,7 +508,7 @@
 - Explain it to Me Like I’m 5: Oauth2 and OpenID [Spring Developer](https://youtu.be/5th6CSQTdpM?si=psEVa0rMjjiH_9mt)
 - Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course [Freecodecamp-Youtube](https://youtu.be/5PdEmeopJVQ?si=B6XUZqTPOhwqFSyz)
 - How exactly the Sessions and Cookies work? || Session Management || Spring MVC || @SessionAttributes [Selenium Express-Youtube](https://youtu.be/cpFfzE9eGT0?si=-4B357apHvRm6hmM)
-- Spring Boot Best Practices For Developers 👨‍💻 | Productivity | JavaTechie [Java Techie-Youtube](https://youtu.be/NaEk2zAmDE8?si=KPa6FTJlWh3uV9La)
+- Spring Boot Best Practices For Developers | Productivity | JavaTechie [Java Techie-Youtube](https://youtu.be/NaEk2zAmDE8?si=KPa6FTJlWh3uV9La)
 - Hello Spring Security 5.2 [Youtube](https://youtu.be/WbnuwpSBXPs?si=4_YqiAc7-ve6DZMo)
 - Spring Boot Microservices Project Example - Part 1 | Building Services [Programming Techie](https://youtu.be/lh1oQHXVSc0?si=Ns8qzX9OdcC9W5it)
 - JavaScript Cookies vs Local Storage vs Session Storage [Web Dev Simplified-Youtube](https://youtu.be/GihQAC1I39Q?si=o9gPMqLj0-IwV-a0)
@@ -385,3 +543,13 @@
 ### Blog Website
 
 - Spring Testing, Spring Boot, SSL Certificates [Link](https://abdelaziz321.github.io/blog/)
+
+### OAuth2
+
+- Proof-of-Concepts & Articles [Blog](https://ivangfr.github.io/)
+
+### Testing
+
+- @DataJpaTest example for Spring Data Repository Unit Test [BezKoder](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+- Unit and Integration Tests in Spring Boot [DZone](https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2)
+- Unit Test Naming Conventions [Medium](https://medium.com/@stefanovskyi/unit-test-naming-conventions-dd9208eadbea)

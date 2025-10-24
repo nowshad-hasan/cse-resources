@@ -19,6 +19,7 @@
 - Microservices antipatterns and pitfalls [OReilly](https://www.oreilly.com/content/microservices-antipatterns-and-pitfalls/)
 - TCO of Microservice Architecture: Part I [Link](https://www.linkedin.com/pulse/tco-microservice-architecture-part-i-mohammed-mehedi-hasan/)
 - Microservices in Publish-Subscribe Communication Using Apache Kafka [DZone](https://dzone.com/articles/microservices-in-publish-subscribe-communication-u)
+- Service Registration and Discovery [Spring.io](https://spring.io/guides/gs/service-registration-and-discovery)
 
 ### Videos - 
 - Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023 [NDC Conferences-Youtube](https://youtu.be/88_LUw1Wwe4?si=YgIR6qiqynaOUGef)

@@ -580,6 +580,7 @@
 - [Capital One Techblog](https://www.capitalone.com/tech/blog/)
 - [Disney Streaming](https://medium.com/disney-streaming)
 - [Zalando Engineering](https://engineering.zalando.com/)
+- [The Webscale Blog](https://www.webscale.com/blog/)
 
 ### Learning Website
 

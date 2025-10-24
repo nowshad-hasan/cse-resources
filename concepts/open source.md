@@ -60,6 +60,7 @@
 - [daily.dev](https://github.com/dailydotdev/daily)
 - [squish](https://github.com/addyosmani/squish)
 - [Blood Connect](https://github.com/CraftsmenLtd/BloodConnect)
+- [Jitsi](https://jitsi.org/jitsi-meet/)
 
 ### Javascript Projects
 

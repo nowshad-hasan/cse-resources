@@ -16,6 +16,7 @@
 ### Courses
 
 - Applied Cryptography [Udacity](https://www.udacity.com/course/applied-cryptography--cs387)
+- Web Application Security Testing with OWASP ZAP [Courseera](https://www.coursera.org/projects/web-application-security-testing-with-owsap-zap)
 
 ### Books
 - [The Code Book](https://simonsingh.net/books/the-code-book/) 
