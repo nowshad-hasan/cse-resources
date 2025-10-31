@@ -5,6 +5,17 @@
 - Everything you need to know about Design Systems [Medium](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 - 5 UX rule every software founder should know about [KAZ Software](https://kaz.com.bd/blog/2020/1/26/5-ux-wisdom-to-impress-anyone)
 
+### Books
+
+- Don’t Make Me Think - Revisited. *Amazon - 4.6 (4575), Goodreads - 4.2 (30,401)*
+- The Design of Everyday Things by Don Norman. *Amazon - 4.6 (8297), Goodreads - 4.15 (46725)*
+- Refactroing UI - Adam Wathan. *Goodreads - 4.65 (2123)*
+- 100 Things Every Designer Needs to Know about People. *Amazon - 4.7 (521), 4.1 (6196)*
+- Designing for Emotion. *Amazon - 4.2 (29), Goodreads - 4.0 (2668)*
+- Tragic Design: The Impact of Bad Product Design and How to Fix It. *Amazon - 4.6 (47), Goodreads - 4.0 (190)*
+- Articulating Design Decisions. *Amazon - 4.6 (335), Goodreads 4.1 (1773)*
+
+
 ### Videos - 
 - Become a UI/UX designer in 2024 - A step by step guide [Rachel How-Youtube](https://youtu.be/HmKwiEmJIdM?si=otGYxIpMgNdgdcFK)
 - Web / Desktop App UI Design in Figma - Full Course [Design code- Youtube](https://youtu.be/5IanQIwhA4E?si=K7hbB69lIF5hTR0r)
