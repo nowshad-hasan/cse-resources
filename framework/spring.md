@@ -12,6 +12,7 @@
   - [AOP](#aop)
   - [Lombok](#lombok)
   - [Spring Security](#spring-security)
+  - [OAuth2](#oauth2)
   - [Tools](#tools)
   - [Message Queue](#message-queue)
   - [Chat Application](#chat-application)
@@ -412,6 +413,7 @@
 - Spring Security: Authentication and Authorization In-Depth [Marco Behler](https://www.marcobehler.com/guides/spring-security)
 - A Guide to CSRF Protection in Spring Security [Baeldung](https://www.baeldung.com/spring-security-csrf)
 - CSRF Protection with Spring MVC and Thymeleaf [Baeldung](https://www.baeldung.com/csrf-thymeleaf-with-spring-security)
+- Spring Security Fundamentals - Lesson 20 - Securing Reactive Apps [Laur Spilca](https://www.youtube.com/watch?v=1Ljh0xaa5WY&list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP&index=23)
 
 ### Tools
 - Liquibase Hibernate Integration [Github](https://github.com/liquibase/liquibase-hibernate)
@@ -546,7 +548,24 @@
 
 ### OAuth2
 
+- Server Administration Guide [Keycloak Guides](https://www.keycloak.org/docs/latest/server_admin/index.html)
+- keycloak-user-storage-SPI [Github](https://github.com/keycloak-customization/keycloak-user-storage-SPI)
+- KEYCLOAK-USER-SPI [Github](https://github.com/abdulazezms/keycloak-user-spi)
+- User Storage SPI [Link](https://wjw465150.gitbooks.io/keycloak-documentation/content/server_development/topics/user-storage.html)
+- Keycloak [Github](https://github.com/kuldeepsingh99/keycloak)
+- Keycloak Database User Federation [Link](https://www.mastertheboss.com/keycloak/keycloak-database-user-federation/)
+- springboot-react-keycloak [Github](https://github.com/ivangfr/springboot-react-keycloak)
+- Keycloak OAuth 2 & OpenID with Spring Boot 3 and React Vite — Step-by-Step Guide [Medium](https://medium.com/@codeching/integrate-keycloak-oauth-2-0-449d5977ed99)
+- Keycloak User Management [Link](https://docs.virtimo.net/en/inubit/8.1/administration-guide/managing-users/administrating-keycloak-users.html)
+- Identity and user management in modern applications with Keycloak [Link](https://zenitech.co.uk/insights/articles/identity-and-user-management-in-modern-applications-with-keycloak/)
+- Managing user access in Keycloak [Link](https://pm4ml.github.io/documents/payment_manager_oss/latest/user_access_management/configuring_user_access.html)
+- Auth0 vs. Keycloak vs. Spring Authorization Server [Medium](https://medium.com/@ilya.kovalkov/auth0-vs-keycloak-vs-spring-authorization-server-ba3350fae8c9)
 - Proof-of-Concepts & Articles [Blog](https://ivangfr.github.io/)
+- Spring Security - Lesson 20 - Using Keycloak as an authorization server [Laur Spilca](https://www.youtube.com/live/Kubjsff24Ao?si=FbSSIdOI4OWU12QF)
+- Spring Boot 3 Keycloak OAuth 2 Tutorial with Spring Security [Programming Techie-Youtube](https://www.youtube.com/watch?v=_0oXZKr97ro)
+- Spring Security OAuth Authorization Server [Baeldung](https://www.baeldung.com/spring-security-oauth-auth-server)
+- A Quick Guide to OAuth 2.0 with Spring Security [Okta Developer](https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide)
+- KEYCLOAK Implementing Custom User Storage Provider [Niko Kobler-Youtube](https://www.youtube.com/watch?v=1UklqPPjcRY)
 
 ### Testing
 

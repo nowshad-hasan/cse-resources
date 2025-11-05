@@ -38,11 +38,19 @@
 
 ### Command line and Bash Scripting
 
-
+- Linux Bash Shell Scripting Tutorial [Link](https://bash.cyberciti.biz/guide/Main_Page)
 - Awesome Cheatsheets - https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
 - Rico's cheatsheets - https://devhints.io/bash
 - Hands-on Introduction to Linux Commands and Shell Scripting [Coursera](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
 - Bash Scripting [Youtube playlist-tutorialLinux](https://youtube.com/playlist?list=PLtK75qxsQaMIlFCcFZpTBLnaCJ0I0uiaY&si=3w-46XDLIdFWmTGl)
+- Learnshell [Link](https://www.learnshell.org/)
+- The Shell Scripting Tutorial [Link](https://www.shellscript.sh/)
+-  Bash Guide [Link](https://mywiki.wooledge.org/BashGuide)
+- Advanced Bash-Scripting Guide [Link](https://hangar118.sdf.org/p/bash-scripting-guide/index.html)
+- The Bash Guide [Bash Academy](https://guide.bash.academy/)
+- Bash Notes for Professionals Book [Link](https://books.goalkicker.com/BashBook)
+- Ngnix Example [Ngnix Repo](https://github.com/nginx/docker-nginx/tree/master/entrypoint)
+- How to Learn Linux Shell Scripting for DevOps? [Devopscube](https://devopscube.com/linux-shell-scripting-for-devops/)
 
 ### Vim
 - [Vim Adventures](https://vim-adventures.com/)

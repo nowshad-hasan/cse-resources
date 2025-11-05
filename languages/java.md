@@ -398,6 +398,8 @@ D
 - 13 Java Developers to Follow [Blog](https://blog.codersrank.io/13-java-developers-to-follow/)
 - 10 Java Developer Skills that are in High Demand [Dev.to](https://dev.to/alexxjordan/10-java-developer-skills-that-are-in-high-demand-54mm)
 - Java Best Practices Quick Reference [DZone](https://dzone.com/articles/java-best-practices-quick-reference)
+- Log4j vulnerability explained: Prevent Log4Shell RCE by updating to version 2.17.1 [Link](https://snyk.io/blog/log4j-rce-log4shell-vulnerability-cve-2021-44228/)
+- Understanding the Impact of Apache Log4j Vulnerability [Google Security Blog](https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html)
 
 ### Tools
 - Java Faker [Github](https://github.com/DiUS/java-faker)
